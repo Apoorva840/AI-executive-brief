@@ -1,10 +1,10 @@
 [
   {
-    "title": "Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design",
-    "url": "https://arxiv.org/abs/2605.15871",
+    "title": "DriveSafe: A Framework for Risk Detection and Safety Suggestions in Driving Scenarios",
+    "url": "https://arxiv.org/abs/2605.16892",
     "source": "Arxiv AI",
-    "score": 9,
-    "what_happened": "arXiv:2605.15871v1 Announce Type: new Abstract: Toward recursive self-improvement, we investigate LLM agents autonomously designing foundation models beyond standard Transformers. We introduce a dual-framework approach: AIRA-Compose for high-level architecture search, and AIRA-Design for low-level mechanistic implementation. AIRA-Compose uses 11 ag",
+    "score": 8,
+    "what_happened": "arXiv:2605.16892v1 Announce Type: cross Abstract: Comprehensive situational awareness is essential for autonomous vehicles operating in safety-critical environments, as it enables the identification and mitigation of potential risks. Although recent Multimodal Large Language Models (MLLMs) have shown promise on general vision-language tasks, our fi",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -15,60 +15,62 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "World Action Models give robots the ability to simulate consequences before they move",
-    "url": "https://the-decoder.com/world-action-models-give-robots-the-ability-to-simulate-consequences-before-they-move/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "World Action Models tackle a basic weakness of today's robotics AI: current models learn which movements match which camera images, but they don't understand how the world actually changes as a result. A new survey organizes about a hundred papers into two architectural lines and shows a key edge: these models can learn from everyday videos that co",
-    "technical_takeaway": null,
-    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
-    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
-    "who_should_care": [
-      "Mobile Engineers",
-      "Product Managers"
-    ],
-    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
-  },
-  {
-    "title": "Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases",
-    "url": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Mistral CEO Arthur Mensch warns of Europe's growing cybersecurity dependency: France's military code bases should not be scanned by US AI models. Modern AI can orchestrate attacks and suggest exploits, including Mistral's own models. Mensch rules out a sale and says Mistral is aiming for an IPO instead. The article Mistral CEO Arthur Mensch warns F",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "source": "Hugging Face Blog",
+    "score": 8,
+    "what_happened": "Hugging Face Blog announced 'PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
-      "AI Professionals"
+      "ML Engineers",
+      "Open-Source Contributors"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "Researchers train AI model that hits near-full performance with just 12.5 percent of its experts",
-    "url": "https://the-decoder.com/researchers-train-ai-model-that-hits-near-full-performance-with-just-12-5-percent-of-its-experts/",
-    "source": "The Decoder",
+    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "source": "Hugging Face Blog",
     "score": 7,
-    "what_happened": "Researchers at the Allen Institute for AI and UC Berkeley have built EMO, a mixture-of-experts model whose experts specialize in content domains instead of word types. That lets you strip out three-quarters of the experts while losing only about one percentage point of performance, a step that could make MoE models practical for memory-constrained",
+    "what_happened": "Hugging Face Blog announced 'Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
     "primary_risk": "Marginal performance gains may not justify integration effort.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
-      "AI Professionals"
+      "ML Engineers",
+      "Open-Source Contributors"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "Google says GEO and AEO are a myth and traditional SEO is all you need for AI search",
-    "url": "https://the-decoder.com/google-says-geo-and-aeo-are-a-myth-and-traditional-seo-is-all-you-need-for-ai-search/",
+    "title": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost",
+    "url": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Google says the SEO industry's favorite new buzzwords, \"generative engine optimization\" and \"answer engine optimization,\" are just regular SEO by another name. In new documentation, the company dismantles common tactics like LLMS.txt files and content chunking, making it clear that AI search runs on the same ranking systems as traditional search. T",
+    "what_happened": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price. The article Cursor&#039;s Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost appeared first on The Decoder.",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "MAGA-aligned groups want government oversight of frontier AI models",
+    "url": "https://the-decoder.com/maga-aligned-groups-want-government-oversight-of-frontier-ai-models/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "A coalition of conservative organizations led by Humans First has called on President Donald Trump in an open letter to issue an executive order requiring mandatory safety testing for frontier AI models before they ship. The article MAGA-aligned groups want government oversight of frontier AI models appeared first on The Decoder.",
+    "technical_takeaway": null,
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   }
 ]

@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 18, 2026",
+    "last_updated": "May 19, 2026",
     "tools": [
         {
             "Name": "CLI-Anything",
-            "Category": "AI Development",
-            "Description": "A tool that automates the creation of agent-native CLIs for any existing professional software.",
-            "Use_Case": "Turning legacy desktop applications like Blender or GIMP into tools that AI coding agents can interact with via command line.",
+            "Category": "Agent Development / Tooling",
+            "Description": "An automated pipeline that transforms any software with a codebase into an agent-native CLI tool.",
+            "Use_Case": "Making professional desktop software (Blender, LibreOffice, GIMP, etc.) controllable by AI agents.",
             "URL": "https://github.com/HKUDS/CLI-Anything"
         },
         {
-            "Name": "Shadowbroker",
-            "Category": "OSINT / Intelligence",
-            "Description": "A decentralized, self-hosted intelligence platform that visualizes real-time global telemetry.",
-            "Use_Case": "Aggregating multi-domain data (flight tracking, maritime, satellite imagery) into a map interface controllable by AI agents.",
-            "URL": "https://github.com/BigBodyCobain/Shadowbroker"
+            "Name": "Scientific Agent Skills",
+            "Category": "Research / Data Science",
+            "Description": "A collection of 138 ready-to-use research skills covering genomics, drug discovery, and scientific data processing.",
+            "Use_Case": "Transforming coding agents into specialized research assistants for scientific multi-step workflows.",
+            "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
         },
         {
-            "Name": "Scientific Agent Skills",
-            "Category": "Scientific Research",
-            "Description": "A collection of 135 ready-to-use skills for scientific workflows, including bioinformatics, chemistry, and research analysis.",
-            "Use_Case": "Equipping AI agents with specialized knowledge and tools to perform complex scientific data processing and literature research.",
-            "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
+            "Name": "CloakBrowser",
+            "Category": "Web Scraping / Automation",
+            "Description": "Stealth Chromium binary with source-level fingerprint patches that passes advanced bot detection.",
+            "Use_Case": "Automated web data collection and agent browsing without being blocked by services like Cloudflare Turnstile.",
+            "URL": "https://github.com/CloakHQ/CloakBrowser"
         }
     ]
 }

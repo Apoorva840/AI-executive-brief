@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 18, 2026",
+    "last_updated": "May 19, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "State-Constrained Dispatch",
-            "definition": "A control framework for multi-agent systems that treats AI execution as a formal state machine rather than a flexible graph. It enforces strict business logic 'guardrails' by ensuring an agent cannot transition to a new task until specific, predefined safety and process conditions are met.",
-            "analogy": "In a car, this is like an electronic gear-lock that physically prevents the transmission from shifting into 'Reverse' while the vehicle is moving forward at high speeds, regardless of what the driver (the AI) attempts to do.",
-            "business_value": "This eliminates 'process hallucinations' where AI agents might skip critical steps like budget approvals or compliance checks. For the CEO, this means AI can be integrated into high-stakes corporate workflows without the risk of the model bypassing established SOPs."
+            "term": "Speculative Execution for Web Agents",
+            "definition": "A framework where AI agents predict and pre-compute the likely outcomes of future web interactions or rendering tasks before they are finalized. By executing potential paths in parallel rather than sequentially, it bypasses the traditional bottlenecks of browser rendering and model planning latency.",
+            "analogy": "In a professional kitchen, this is a chef who begins boiling water and dicing aromatics for a signature dish the moment a regular customer walks through the door, rather than waiting for the formal order to be typed into the system.",
+            "business_value": "This technique drastically reduces the 'cost-to-serve' for autonomous agents by optimizing compute resources, enabling real-time, snappy user experiences that were previously too slow or expensive for enterprise-grade deployment."
         },
         {
-            "term": "Proof-Derived Authorization",
-            "definition": "A security paradigm for autonomous agents that replaces traditional identity-based credentials (API keys) with cryptographic proofs of intent. It requires the AI to provide a verifiable 'proof' that its proposed action is semantically safe and logically aligned with its assigned mission before the system grants permission to execute.",
-            "analogy": "Imagine a commercial kitchen where the walk-in freezer doesn't open just because it recognizes the Chef's face; instead, it only unlocks when the Chef presents a digital order slip proving they actually need to retrieve lobster for a confirmed customer table.",
-            "business_value": "This is the 'Zero Trust' model for the AI era. it protects the bottom line by ensuring that even if an agent is 'tricked' by a prompt injection attack, it cannot execute unauthorized financial transfers or delete data because it cannot generate a valid safety proof for those actions."
+            "term": "Runtime Safety Layer",
+            "definition": "A dynamic security architecture that sits between an autonomous AI agent and the system it controls, such as a shell or API. It monitors actions in real-time, cross-referencing intent and commands against a strict policy set to block harmful or unintended operations before they can execute.",
+            "analogy": "Think of this as a car's Automatic Emergency Braking (AEB) system; even if the driver (the AI) mistakenly presses the accelerator toward a pedestrian, the safety layer intercepts the signal and stops the vehicle to prevent a collision.",
+            "business_value": "As AI moves from passive text generation to active agency, runtime safety layers are the essential 'legal and security shield' that allows CEOs to deploy autonomous systems without risking catastrophic data breaches or system deletions."
         },
         {
-            "term": "Internalized Self-Critique (ICRL)",
-            "definition": "A reinforcement learning technique where a model is trained to incorporate the feedback from a 'critic' directly into its own underlying neural architecture. This moves the AI from a 'multi-step' process (generate then check) to a 'single-step' process where the model inherently avoids its previous mistakes without needing a separate oversight loop.",
-            "analogy": "It is the difference between a trainee cook who needs a Head Chef to taste every sauce and suggest more salt (External Critique), and a Master Chef who has 'internalized' those lessons and perfectly seasons the dish the first time (Internalized).",
-            "business_value": "ICRL significantly reduces 'Inference Latency' and compute costs. By training models to be right the first time, businesses can stop paying for the 'double-check' compute cycles, resulting in faster customer responses and lower cloud infrastructure bills."
+            "term": "Governed Symbolic Patch Learning",
+            "definition": "A process where AI agents identify systemic logic failures and generate human-readable, 'symbolic' updates to their internal rules and constraints. This allows the model to permanently repair its underlying knowledge base and operational schemas so that it does not repeat the same execution error twice.",
+            "analogy": "Imagine a car that, after hitting a specific pothole, doesn't just repair its tire but automatically updates its internal GPS map to warn all future drivers to steer three feet to the left at that exact coordinate.",
+            "business_value": "This shifts AI from 'probabilistic guessing' to 'deterministic reliability.' It creates self-healing workflows that reduce the need for expensive manual prompt engineering and ensures that enterprise processes become more robust with every iteration."
         }
     ]
 }

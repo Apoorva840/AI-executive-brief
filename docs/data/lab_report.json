@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-05-28",
+    "last_updated": "2024-05-24",
     "papers": [
         {
-            "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
-            "innovation": "SDOF introduces a novel framework that treats multi-agent execution as a constrained state machine, allowing for the enforcement of stage constraints that are critical in real business processes. This directly addresses limitations in existing orchestration frameworks (like LangChain, LangGraph, CrewAI) which often lack robust state management and constraint enforcement.",
-            "benchmarks": "The abstract implies addressing the 'alignment tax' in existing multi-agent frameworks that fail to enforce 'stage constraints' governing 'real business processes,' suggesting improved reliability and adherence to predefined workflows. Specific named benchmarks are not provided in the abstract.",
-            "use_case": "Building highly reliable, predictable, and compliant multi-agent systems for complex business process automation, ensuring that tasks are routed and executed according to strict operational constraints and state transitions. Ideal for enterprise applications requiring robust workflow orchestration.",
-            "url": "https://arxiv.org/abs/2605.15204"
+            "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+            "innovation": "Proposes 'AgentWall', a runtime safety layer specifically designed for autonomous AI agents capable of executing real-world actions (shell commands, file modifications, API calls, web browsing). This addresses the critical and escalating problem of ensuring safety and preventing adversarial manipulation in active AI agents.",
+            "benchmarks": "Abstract does not explicitly state specific benchmarks but implies evaluation against unsafe or adversarially manipulated agent behaviors in real-world execution scenarios.",
+            "use_case": "Essential for any AI engineer deploying autonomous agents in environments where safety, security, and preventing unintended or malicious actions are paramount. Directly applicable to hardening agents before real-world deployment.",
+            "url": "https://arxiv.org/abs/2605.16265"
         },
         {
-            "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
-            "innovation": "This paper presents the 'Agent Harness' paradigm to address practical reliability challenges in deploying LLMs for tasks like finite-element simulation. Key innovations include structured execution control, robust tool encapsulation, and fault recovery mechanisms, which are crucial for ensuring consistent outputs and preventing task failures in production environments.",
-            "benchmarks": "The abstract highlights the mitigation of 'inconsistent outputs' and 'task failures' commonly encountered when deploying LLMs for MAPDL finite-element simulation, indicating improved reliability and robustness. Specific benchmark names are not mentioned.",
-            "use_case": "Deploying robust and reliable LLM-based agents in critical engineering or scientific domains (e.g., simulations, industrial automation) where consistent outputs, fault tolerance, and precise tool interaction are paramount. It provides a blueprint for making agentic systems production-ready.",
-            "url": "https://arxiv.org/abs/2605.15218"
+            "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+            "innovation": "Introduces 'ANNEAL', a method for LLM agents to learn and apply 'symbolic patches' to repair their underlying process knowledge (operator schemas, preconditions, constraints) after repeated execution errors. This allows agents to adapt and prevent recurring failures, moving beyond individual error recovery to fundamental knowledge repair.",
+            "benchmarks": "Implied evaluation on agent task performance, error recovery rates, and robustness against repeated failures. No specific benchmarks mentioned in the abstract.",
+            "use_case": "Highly valuable for AI engineers building and maintaining complex LLM-based agents, particularly those required to operate reliably over extended periods or in novel scenarios where prompt-based updates are insufficient to fix persistent logic flaws.",
+            "url": "https://arxiv.org/abs/2605.16309"
         },
         {
-            "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
-            "innovation": "Introduces 'proof-derived authorization' for autonomous AI agents, fundamentally shifting from identity-centric authorization (which assumes valid credentials mean safe actions) to a model that verifies the semantic safety of agent actions. This is crucial for preventing agents from generating syntactically valid but semantically unsafe commands.",
-            "benchmarks": "The innovation directly addresses the challenge of autonomous AI agents generating 'semantically unsafe actions' despite 'valid credentials,' implying a significant improvement in security and control for high-stakes AI systems. Specific benchmarks for security or safety are not detailed in the abstract.",
-            "use_case": "Developing secure and trustworthy autonomous AI systems, particularly those operating in high-stakes environments with access to critical resources or capable of executing sensitive commands. Essential for ensuring governance, safety, and compliance of sovereign AI systems by preventing unauthorized or malicious actions.",
-            "url": "https://arxiv.org/abs/2605.15228"
+            "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
+            "innovation": "Presents 'Skim', a speculative execution framework tailored for web agents. It exploits the predictable structure of websites to preemptively perform actions, thereby significantly reducing the computational expense associated with frontier-model inference, browser rendering, and ReAct-style planning for web tasks.",
+            "benchmarks": "Aims to improve speed and efficiency of web agents, implying benchmarks related to task completion time, resource utilization, and cost savings compared to traditional sequential execution.",
+            "use_case": "Crucial for AI engineers developing web-based automation, scraping, or interaction agents where performance, latency, and operational cost are key concerns. Enables more efficient and scalable deployment of web agents.",
+            "url": "https://arxiv.org/abs/2605.16565"
         }
     ]
 }
