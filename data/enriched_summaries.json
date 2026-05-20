@@ -1,25 +1,25 @@
 [
   {
-    "title": "DriveSafe: A Framework for Risk Detection and Safety Suggestions in Driving Scenarios",
-    "url": "https://arxiv.org/abs/2605.16892",
+    "title": "DMN: A Compositional Framework for Jailbreaking Multimodal LLMs with Multi-Image Inputs",
+    "url": "https://arxiv.org/abs/2605.18915",
     "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "arXiv:2605.16892v1 Announce Type: cross Abstract: Comprehensive situational awareness is essential for autonomous vehicles operating in safety-critical environments, as it enables the identification and mitigation of potential risks. Although recent Multimodal Large Language Models (MLLMs) have shown promise on general vision-language tasks, our fi",
+    "what_happened": "arXiv:2605.18915v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) are vulnerable to jailbreak attacks, which can elicit harmful responses from MLLMs. Many MLLMs support multi-image inputs, inadvertently introducing new vulnerabilities due to less efforts on multi-image safety alignment. Previous MLLM jailbreak methods only",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
+      "Research Scientists",
+      "ML Engineers"
     ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "title": "OlmoEarth v1.1: A more efficient family of models",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
     "source": "Hugging Face Blog",
     "score": 8,
-    "what_happened": "Hugging Face Blog announced 'PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend', highlighting new developments relevant to AI researchers and practitioners.",
+    "what_happened": "Hugging Face Blog announced 'OlmoEarth v1.1: A more efficient family of models', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
@@ -30,26 +30,11 @@
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-    "source": "Hugging Face Blog",
-    "score": 7,
-    "what_happened": "Hugging Face Blog announced 'Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation', highlighting new developments relevant to AI researchers and practitioners.",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "ML Engineers",
-      "Open-Source Contributors"
-    ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
-  },
-  {
-    "title": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost",
-    "url": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
+    "title": "Google's I/O announcements: new models, a cloud agent that never sleeps, and a redesigned Gemini app",
+    "url": "https://the-decoder.com/googles-i-o-announcements-new-models-a-cloud-agent-that-never-sleeps-and-a-redesigned-gemini-app/",
     "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price. The article Cursor&#039;s Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost appeared first on The Decoder.",
+    "score": 8,
+    "what_happened": "Google used its I/O developer conference to unveil a wave of new AI products. The highlights: a new model called Gemini 3.5 Flash, a multimodal model called Gemini Omni, and a personal agent named Gemini Spark that runs around the clock in the cloud. The Gemini app also gets a major refresh. The article Google&#039;s I/O announcements: new models,",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -60,17 +45,33 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "MAGA-aligned groups want government oversight of frontier AI models",
-    "url": "https://the-decoder.com/maga-aligned-groups-want-government-oversight-of-frontier-ai-models/",
+    "title": "Google overhauls its AI subscriptions at I/O 2026 with three tiers starting at $10 a month",
+    "url": "https://the-decoder.com/google-overhauls-its-ai-subscriptions-at-i-o-2026-with-three-tiers-starting-at-10-a-month/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "A coalition of conservative organizations led by Humans First has called on President Donald Trump in an open letter to issue an executive order requiring mandatory safety testing for frontier AI models before they ship. The article MAGA-aligned groups want government oversight of frontier AI models appeared first on The Decoder.",
+    "what_happened": "Google is restructuring its AI subscriptions at I/O 2026: three tiers from $7.99 to $99.99 per month with staggered usage limits, new models like Gemini Omni, and the AI agent Gemini Spark. Instead of daily prompt limits, Google is moving to a consumption-based compute model, a trend that's gaining traction across the industry. The article Google o",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
     "who_should_care": [
-      "AI Professionals"
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
+  },
+  {
+    "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+    "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
+    "source": "Wired AI",
+    "score": 6,
+    "what_happened": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   }
 ]

@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 19, 2026",
+    "last_updated": "May 20, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Speculative Execution for Web Agents",
-            "definition": "A framework where AI agents predict and pre-compute the likely outcomes of future web interactions or rendering tasks before they are finalized. By executing potential paths in parallel rather than sequentially, it bypasses the traditional bottlenecks of browser rendering and model planning latency.",
-            "analogy": "In a professional kitchen, this is a chef who begins boiling water and dicing aromatics for a signature dish the moment a regular customer walks through the door, rather than waiting for the formal order to be typed into the system.",
-            "business_value": "This technique drastically reduces the 'cost-to-serve' for autonomous agents by optimizing compute resources, enabling real-time, snappy user experiences that were previously too slow or expensive for enterprise-grade deployment."
+            "term": "Agentic AI",
+            "definition": "Agentic AI refers to systems that transition from passive information retrieval to active goal execution by utilizing multi-step reasoning, tool-use, and autonomous decision-making. These models leverage 'loops' to plan, execute, and self-correct across external APIs and software environments to complete complex tasks without constant human prompting.",
+            "analogy": "In a kitchen, a standard LLM is a high-end food processor that chops what you put in it; Agentic AI is a sous-chef who reads the recipe, checks the pantry, goes to the store for missing ingredients, and prepares the dish while you attend to other matters.",
+            "business_value": "This shifts the paradigm from 'AI-assisted tasks' to 'AI-driven workflows,' allowing companies to scale operations without proportional headcount increases. It transforms AI from a search interface into a digital workforce capable of handling end-to-end administrative and operational cycles."
         },
         {
-            "term": "Runtime Safety Layer",
-            "definition": "A dynamic security architecture that sits between an autonomous AI agent and the system it controls, such as a shell or API. It monitors actions in real-time, cross-referencing intent and commands against a strict policy set to block harmful or unintended operations before they can execute.",
-            "analogy": "Think of this as a car's Automatic Emergency Braking (AEB) system; even if the driver (the AI) mistakenly presses the accelerator toward a pedestrian, the safety layer intercepts the signal and stops the vehicle to prevent a collision.",
-            "business_value": "As AI moves from passive text generation to active agency, runtime safety layers are the essential 'legal and security shield' that allows CEOs to deploy autonomous systems without risking catastrophic data breaches or system deletions."
+            "term": "Data Probes",
+            "definition": "Data Probes are specialized diagnostic tools or algorithmic frameworks used to analyze the specific influence of training data subsets on a Large Language Model's final performance and behavior. They allow researchers to map how specific inputs during the pre-training or alignment phases translate into specific capabilities, such as mathematical reasoning or factual accuracy.",
+            "analogy": "Think of Data Probes as a sophisticated fuel-injection diagnostic system in a car; instead of just knowing the car is fast, it tells you exactly which percentage of your performance is coming from the high-octane fuel versus the synthetic oil, allowing for precision tuning.",
+            "business_value": "Data is the most expensive line item in AI development; Probes allow CEOs to move away from 'brute force' data collection toward 'precision data engineering.' This optimizes R&D spend by identifying exactly which datasets provide the highest ROI for model accuracy and safety."
         },
         {
-            "term": "Governed Symbolic Patch Learning",
-            "definition": "A process where AI agents identify systemic logic failures and generate human-readable, 'symbolic' updates to their internal rules and constraints. This allows the model to permanently repair its underlying knowledge base and operational schemas so that it does not repeat the same execution error twice.",
-            "analogy": "Imagine a car that, after hitting a specific pothole, doesn't just repair its tire but automatically updates its internal GPS map to warn all future drivers to steer three feet to the left at that exact coordinate.",
-            "business_value": "This shifts AI from 'probabilistic guessing' to 'deterministic reliability.' It creates self-healing workflows that reduce the need for expensive manual prompt engineering and ensures that enterprise processes become more robust with every iteration."
+            "term": "LLM Microservice Pipelines",
+            "definition": "This architecture decouples the AI workflow into modular, independently scalable components\u2014such as OCR, embedding, and inference\u2014rather than running one monolithic application. By isolating these stages into microservices, organizations can optimize hardware usage for each specific task and swap individual models without rebuilding the entire system.",
+            "analogy": "Instead of a car where the engine, transmission, and wheels are all welded into a single block, this is a modular racing chassis where you can swap out the engine for a more efficient one or upgrade the tires in seconds without touching the rest of the vehicle.",
+            "business_value": "Operationalizing AI through microservices mitigates technical debt and prevents 'model lock-in.' It allows a business to remain agile, swapping in cheaper or more powerful models (like Gemini 3.0 Flash) as they hit the market, ensuring the infrastructure remains future-proof and cost-effective."
         }
     ]
 }

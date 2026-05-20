@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-05-24",
+    "last_updated": "Today's Date",
     "papers": [
         {
-            "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
-            "innovation": "Proposes 'AgentWall', a runtime safety layer specifically designed for autonomous AI agents capable of executing real-world actions (shell commands, file modifications, API calls, web browsing). This addresses the critical and escalating problem of ensuring safety and preventing adversarial manipulation in active AI agents.",
-            "benchmarks": "Abstract does not explicitly state specific benchmarks but implies evaluation against unsafe or adversarially manipulated agent behaviors in real-world execution scenarios.",
-            "use_case": "Essential for any AI engineer deploying autonomous agents in environments where safety, security, and preventing unintended or malicious actions are paramount. Directly applicable to hardening agents before real-world deployment.",
-            "url": "https://arxiv.org/abs/2605.16265"
+            "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+            "innovation": "This paper presents a microservice architecture tailored for deploying Document AI solutions at production scale. It addresses the crucial gap between academic model development and the practical challenges of operationalizing complex pipelines involving OCR and Large Language Models, focusing on scalability and robustness.",
+            "benchmarks": "While specific numerical benchmarks are not provided in the abstract, the innovation inherently targets improvements in operational metrics such as system reliability, scalability, throughput, and efficient resource utilization for production-grade Document AI systems.",
+            "use_case": "Building and managing highly scalable, reliable, and maintainable Document AI systems in production environments, such as automated document processing, information extraction, and intelligent automation workflows for enterprises.",
+            "url": "https://arxiv.org/abs/2605.18818"
         },
         {
-            "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
-            "innovation": "Introduces 'ANNEAL', a method for LLM agents to learn and apply 'symbolic patches' to repair their underlying process knowledge (operator schemas, preconditions, constraints) after repeated execution errors. This allows agents to adapt and prevent recurring failures, moving beyond individual error recovery to fundamental knowledge repair.",
-            "benchmarks": "Implied evaluation on agent task performance, error recovery rates, and robustness against repeated failures. No specific benchmarks mentioned in the abstract.",
-            "use_case": "Highly valuable for AI engineers building and maintaining complex LLM-based agents, particularly those required to operate reliably over extended periods or in novel scenarios where prompt-based updates are insufficient to fix persistent logic flaws.",
-            "url": "https://arxiv.org/abs/2605.16309"
+            "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
+            "innovation": "Introduces Learn-by-Wire Guard (LBW-Guard), an autonomous training-control governance layer designed to enhance the stability and efficiency of large language model training. It mitigates issues like instability, degraded runs, and wasted compute, especially under challenging conditions like aggressive learning rates or runtime stress.",
+            "benchmarks": "Aims to improve critical training performance indicators such as training stability, reduction in compute waste, prevention of degraded runs, and overall efficiency during the training of large models. This directly impacts the resource consumption and success rate of training jobs.",
+            "use_case": "Optimizing and stabilizing the training of large language models, particularly in data centers or cloud environments where compute resources are significant and training stability is paramount, to reduce operational costs and accelerate model development cycles.",
+            "url": "https://arxiv.org/abs/2605.19008"
         },
         {
-            "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
-            "innovation": "Presents 'Skim', a speculative execution framework tailored for web agents. It exploits the predictable structure of websites to preemptively perform actions, thereby significantly reducing the computational expense associated with frontier-model inference, browser rendering, and ReAct-style planning for web tasks.",
-            "benchmarks": "Aims to improve speed and efficiency of web agents, implying benchmarks related to task completion time, resource utilization, and cost savings compared to traditional sequential execution.",
-            "use_case": "Crucial for AI engineers developing web-based automation, scraping, or interaction agents where performance, latency, and operational cost are key concerns. Enables more efficient and scalable deployment of web agents.",
-            "url": "https://arxiv.org/abs/2605.16565"
+            "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
+            "innovation": "Proposes a novel methodology using Bayesian optimization with dynamic representations to systematically tune LLM system prompts. This is particularly innovative for scenarios where feedback is available only as aggregate metrics, providing a more scientific and efficient alternative to manual prompt engineering.",
+            "benchmarks": "Targets improvements in the performance and behavior of LLMs across various tasks, conversations, and user populations by optimizing system prompts. Success would be measured through aggregate metrics of task completion, user satisfaction, or desired output quality.",
+            "use_case": "Systematically optimizing and fine-tuning system prompts for large language models to achieve desired model behaviors, improve task-specific performance, and enhance user experience, especially in complex applications where direct per-example feedback is scarce.",
+            "url": "https://arxiv.org/abs/2605.19093"
         }
     ]
 }

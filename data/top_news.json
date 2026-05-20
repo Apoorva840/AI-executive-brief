@@ -1,42 +1,42 @@
 [
   {
-    "title": "DriveSafe: A Framework for Risk Detection and Safety Suggestions in Driving Scenarios",
-    "summary": "arXiv:2605.16892v1 Announce Type: cross Abstract: Comprehensive situational awareness is essential for autonomous vehicles operating in safety-critical environments, as it enables the identification and mitigation of potential risks. Although recent Multimodal Large Language Models (MLLMs) have shown promise on general vision-language tasks, our fi",
-    "url": "https://arxiv.org/abs/2605.16892",
+    "title": "DMN: A Compositional Framework for Jailbreaking Multimodal LLMs with Multi-Image Inputs",
+    "summary": "arXiv:2605.18915v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) are vulnerable to jailbreak attacks, which can elicit harmful responses from MLLMs. Many MLLMs support multi-image inputs, inadvertently introducing new vulnerabilities due to less efforts on multi-image safety alignment. Previous MLLM jailbreak methods only ",
+    "url": "https://arxiv.org/abs/2605.18915",
     "source": "Arxiv AI",
-    "published_at": "2026-05-19T04:00:00+00:00",
+    "published_at": "2026-05-20T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "title": "OlmoEarth v1.1: A more efficient family of models",
     "summary": "",
-    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
     "source": "Hugging Face Blog",
-    "published_at": "2026-05-18T15:12:46+00:00",
+    "published_at": "2026-05-19T18:38:09+00:00",
     "score": 8
   },
   {
-    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-    "summary": "",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-05-18T16:00:21+00:00",
+    "title": "Google's I/O announcements: new models, a cloud agent that never sleeps, and a redesigned Gemini app",
+    "summary": "Google used its I/O developer conference to unveil a wave of new AI products. The highlights: a new model called Gemini 3.5 Flash, a multimodal model called Gemini Omni, and a personal agent named Gemini Spark that runs around the clock in the cloud. The Gemini app also gets a major refresh. The article Google&#039;s I/O announcements: new models, ",
+    "url": "https://the-decoder.com/googles-i-o-announcements-new-models-a-cloud-agent-that-never-sleeps-and-a-redesigned-gemini-app/",
+    "source": "The Decoder",
+    "published_at": "2026-05-19T17:44:17+00:00",
+    "score": 8
+  },
+  {
+    "title": "Google overhauls its AI subscriptions at I/O 2026 with three tiers starting at $10 a month",
+    "summary": "Google is restructuring its AI subscriptions at I/O 2026: three tiers from $7.99 to $99.99 per month with staggered usage limits, new models like Gemini Omni, and the AI agent Gemini Spark. Instead of daily prompt limits, Google is moving to a consumption-based compute model, a trend that's gaining traction across the industry. The article Google o",
+    "url": "https://the-decoder.com/google-overhauls-its-ai-subscriptions-at-i-o-2026-with-three-tiers-starting-at-10-a-month/",
+    "source": "The Decoder",
+    "published_at": "2026-05-19T19:33:12+00:00",
     "score": 7
   },
   {
-    "title": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost",
-    "summary": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price. The article Cursor&#039;s Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost appeared first on The Decoder.",
-    "url": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
-    "source": "The Decoder",
-    "published_at": "2026-05-18T17:29:01+00:00",
-    "score": 7
-  },
-  {
-    "title": "MAGA-aligned groups want government oversight of frontier AI models",
-    "summary": "A coalition of conservative organizations led by Humans First has called on President Donald Trump in an open letter to issue an executive order requiring mandatory safety testing for frontier AI models before they ship. The article MAGA-aligned groups want government oversight of frontier AI models appeared first on The Decoder.",
-    "url": "https://the-decoder.com/maga-aligned-groups-want-government-oversight-of-frontier-ai-models/",
-    "source": "The Decoder",
-    "published_at": "2026-05-18T12:48:55+00:00",
-    "score": 7
+    "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+    "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
+    "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
+    "source": "Wired AI",
+    "published_at": "2026-05-19T20:00:48+00:00",
+    "score": 6
   }
 ]

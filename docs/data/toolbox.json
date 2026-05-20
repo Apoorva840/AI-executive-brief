@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 19, 2026",
+    "last_updated": "May 20, 2026",
     "tools": [
         {
             "Name": "CLI-Anything",
-            "Category": "Agent Development / Tooling",
-            "Description": "An automated pipeline that transforms any software with a codebase into an agent-native CLI tool.",
-            "Use_Case": "Making professional desktop software (Blender, LibreOffice, GIMP, etc.) controllable by AI agents.",
+            "Category": "AI Development",
+            "Description": "A framework that transforms any software with a codebase into an agent-native tool by automatically generating a structured CLI interface.",
+            "Use_Case": "Enabling AI agents to control professional software (e.g., GIMP, Blender, LibreOffice) via standard terminal commands instead of fragile GUI automation.",
             "URL": "https://github.com/HKUDS/CLI-Anything"
         },
         {
-            "Name": "Scientific Agent Skills",
-            "Category": "Research / Data Science",
-            "Description": "A collection of 138 ready-to-use research skills covering genomics, drug discovery, and scientific data processing.",
-            "Use_Case": "Transforming coding agents into specialized research assistants for scientific multi-step workflows.",
-            "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
+            "Name": "CloakBrowser",
+            "Category": "Web Automation & Security",
+            "Description": "A stealth Chromium binary that passes complex bot detection tests by applying patches at the C++ source level rather than using simple JavaScript injection.",
+            "Use_Case": "Bypassing sophisticated anti-bot systems like Cloudflare Turnstile or DataDome for web scraping and AI agent browsing tasks.",
+            "URL": "https://github.com/CloakHQ/CloakBrowser"
         },
         {
-            "Name": "CloakBrowser",
-            "Category": "Web Scraping / Automation",
-            "Description": "Stealth Chromium binary with source-level fingerprint patches that passes advanced bot detection.",
-            "Use_Case": "Automated web data collection and agent browsing without being blocked by services like Cloudflare Turnstile.",
-            "URL": "https://github.com/CloakHQ/CloakBrowser"
+            "Name": "Shadowbroker",
+            "Category": "OSINT / Intelligence",
+            "Description": "A decentralized geospatial intelligence platform that aggregates 60+ real-time telemetry feeds (flights, maritime, satellite, conflict, etc.) into a unified map.",
+            "Use_Case": "Real-time global monitoring and threat intelligence, with support for connecting AI agents to analyze data patterns and coordinate complex intelligence tasks.",
+            "URL": "https://github.com/BigBodyCobain/Shadowbroker"
         }
     ]
 }
