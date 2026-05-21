@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 20, 2026",
+    "last_updated": "May 21, 2026",
     "tools": [
         {
             "Name": "CLI-Anything",
-            "Category": "AI Development",
-            "Description": "A framework that transforms any software with a codebase into an agent-native tool by automatically generating a structured CLI interface.",
-            "Use_Case": "Enabling AI agents to control professional software (e.g., GIMP, Blender, LibreOffice) via standard terminal commands instead of fragile GUI automation.",
+            "Category": "Agentic Infrastructure",
+            "Description": "A framework that transforms any software with a codebase into an agent-native tool through automated CLI generation.",
+            "Use_Case": "Enabling AI agents to control complex desktop and server software like GIMP, Blender, or LibreOffice via structured command-line interfaces.",
             "URL": "https://github.com/HKUDS/CLI-Anything"
         },
         {
-            "Name": "CloakBrowser",
-            "Category": "Web Automation & Security",
-            "Description": "A stealth Chromium binary that passes complex bot detection tests by applying patches at the C++ source level rather than using simple JavaScript injection.",
-            "Use_Case": "Bypassing sophisticated anti-bot systems like Cloudflare Turnstile or DataDome for web scraping and AI agent browsing tasks.",
-            "URL": "https://github.com/CloakHQ/CloakBrowser"
+            "Name": "Academic Research Skills (ARS)",
+            "Category": "AI Research Assistant",
+            "Description": "A comprehensive suite of agents for Claude Code designed to manage the full academic research pipeline from planning to publication.",
+            "Use_Case": "Handling research grunt work like finding references, checking logical consistency, and peer-reviewing papers while keeping the human in the loop.",
+            "URL": "https://github.com/Imbad0202/academic-research-skills"
         },
         {
-            "Name": "Shadowbroker",
-            "Category": "OSINT / Intelligence",
-            "Description": "A decentralized geospatial intelligence platform that aggregates 60+ real-time telemetry feeds (flights, maritime, satellite, conflict, etc.) into a unified map.",
-            "Use_Case": "Real-time global monitoring and threat intelligence, with support for connecting AI agents to analyze data patterns and coordinate complex intelligence tasks.",
-            "URL": "https://github.com/BigBodyCobain/Shadowbroker"
+            "Name": "PPT Master",
+            "Category": "Productivity / Generative AI",
+            "Description": "Generates natively editable PowerPoint (.pptx) presentations from documents using real PowerPoint shapes and native animations.",
+            "Use_Case": "Creating professional, fully editable presentations from PDFs, Markdown, or web content without flattening content into images.",
+            "URL": "https://github.com/hugohe3/ppt-master"
         }
     ]
 }

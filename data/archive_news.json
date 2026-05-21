@@ -4,6 +4,141 @@
     "summary": "arXiv:2605.07721v2 Announce Type: replace-cross Abstract: Recurrent LLM architectures have emerged as a promising approach for improving reasoning, as they enable multi-step computation in the embedding space without generating intermediate tokens. Models such as Ouro perform reasoning by iteratively updating internal representations while retainin",
     "url": "https://arxiv.org/abs/2605.07721",
     "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+    "summary": "arXiv:2605.18818v1 Announce Type: new Abstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architecture that encapsulates pipelines of multiple models for classification, ",
+    "url": "https://arxiv.org/abs/2605.18818",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "Causal Evidence for Attention Head Imbalance in Modality Conflict Hallucination",
+    "summary": "arXiv:2605.19250v1 Announce Type: new Abstract: Modality-conflict hallucination occurs when multimodal large language models (MLLMs) prioritize erroneous textual premises over contradictory visual evidence. To understand why visual evidence fails to prevail during generation, we take a mechanistic perspective and examine which internal components d",
+    "url": "https://arxiv.org/abs/2605.19250",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "Towards Multi-Model LLM Schedulers: Empirical Insights into Offloading and Preemption",
+    "summary": "arXiv:2605.19593v1 Announce Type: new Abstract: Modern deployments of Large Language Models (LLMs) increasingly require serving multiple models with diverse architectures, sizes, and specialization on shared, heterogeneous hardware. This setting introduces new challenges for resource allocation, dispatching, and scheduling, particularly under GPU m",
+    "url": "https://arxiv.org/abs/2605.19593",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "EngiAI: A Multi-Agent Framework and Benchmark Suite for LLM-Driven Engineering Design",
+    "summary": "arXiv:2605.19743v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly applied to engineering design tasks, yet existing evaluation frameworks do not adequately address multi-agent systems that combine simulation, retrieval, and manufacturing preparation. We introduce a benchmark suite with three evaluation dimensions: (",
+    "url": "https://arxiv.org/abs/2605.19743",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "From Prompts to Pavement Through Time: Temporal Grounding in Agentic Scene-to-Plan Reasoning",
+    "summary": "arXiv:2605.19824v1 Announce Type: new Abstract: Recent attempts to support high-level scene interpretation and planning in Autonomous Vehicles (AVs) using ensembles of Large Language Models (LLMs) and Large Multimodal Models (LMMs) continue to treat time as a secondary property. This lack of temporal grounding leads to inconsistencies in reasoning ",
+    "url": "https://arxiv.org/abs/2605.19824",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents",
+    "summary": "arXiv:2605.20173v1 Announce Type: new Abstract: Production LLM agents combine stochastic model outputs with deterministic software systems, yet the boundary between the two is rarely treated as a first-class architectural object. This paper names that boundary the stochastic-deterministic boundary (SDB): a four-part contract among a proposer, verif",
+    "url": "https://arxiv.org/abs/2605.20173",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "Query-Conditioned Graph Retrieval for Contextualized LLM Reasoning in Personalized Wearable Data",
+    "summary": "arXiv:2605.18763v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly applied to analyzing wearable sensing data, which are long-term, multimodal, and highly personalized. A key challenge is context selection: providing insufficient context limits reasoning, while including all available data leads to inefficiency and degr",
+    "url": "https://arxiv.org/abs/2605.18763",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "Block-Based Double Decoders",
+    "summary": "arXiv:2605.18807v1 Announce Type: cross Abstract: Encoder-decoder models offer substantial inference-time savings over decoder-only models, but their pretraining objectives suffer from sparse supervision and dynamic sequence lengths, keeping them out of practice at scale. We propose block-based double decoders, a novel transformer architecture that",
+    "url": "https://arxiv.org/abs/2605.18807",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "Composition of Memory Experts for Diffusion World Models",
+    "summary": "arXiv:2605.18813v1 Announce Type: cross Abstract: World models aim to predict plausible futures consistent with past observations, a capability central to planning and decision-making in reinforcement learning. Yet, existing architectures face a fundamental memory trade-off: transformers preserve local detail but are bottlenecked by quadratic atten",
+    "url": "https://arxiv.org/abs/2605.18813",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "Robust Checkpoint Selection for Multimodal LLMs via Agentic Evaluation and Stability-Aware Ranking",
+    "summary": "arXiv:2605.18852v1 Announce Type: cross Abstract: Checkpoint selection for multimodal large language models (MLLMs) presents significant challenges when performance differentials are marginal and evaluation signals are prone to noise. Existing methodologies rely heavily on static benchmarks or pointwise scoring, which frequently misalign with in-th",
+    "url": "https://arxiv.org/abs/2605.18852",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "DarkLLM: Learning Language-Driven Adversarial Attacks with Large Language Models",
+    "summary": "arXiv:2605.18868v1 Announce Type: cross Abstract: While vision and multimodal foundation models underpin critical tasks from perception to complex reasoning, they remain highly vulnerable to adversarial attacks. However, traditional adversarial attacks are typically limited to single, predefined objectives, tightly coupling each attack to a specifi",
+    "url": "https://arxiv.org/abs/2605.18868",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "Stability and Discretization Error of State Space Model Neural Operators",
+    "summary": "arXiv:2605.18905v1 Announce Type: cross Abstract: Neural operators have emerged as a powerful, discretization-invariant framework for solving partial differential equations (PDEs). Although established approaches like the Deep Operator Network (DeepONet) have successfully achieved universal approximation for operators, and architectures such as Fou",
+    "url": "https://arxiv.org/abs/2605.18905",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "Surviving the Unseen: Predictive Defense for Novel Multi-Turn Multimodal Attacks",
+    "summary": "arXiv:2605.18988v1 Announce Type: cross Abstract: The expansion of Multimodal Large Language Models (MLLMs) and their integration into autonomous agentic workflows has introduced a non-stationary attack surface. Empirical observations indicate that adversaries employ progressive, cross-modal perturbations that evade turn-specific guardrails by dist",
+    "url": "https://arxiv.org/abs/2605.18988",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "Token by Token, Compromised: Backdoor Vulnerabilities in Unified Autoregressive Models",
+    "summary": "arXiv:2605.19227v1 Announce Type: cross Abstract: Unified autoregressive models (UAMs) are transformer models that generate text as well as image tokens within a single autoregressive pass. Shared parameters and a multimodal vocabulary simplify the training pipeline and facilitate flexible multimodal generation, yet might introduce new vulnerabilit",
+    "url": "https://arxiv.org/abs/2605.19227",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-21T04:58:57.499802+00:00"
+  },
+  {
+    "title": "Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models",
+    "summary": "arXiv:2605.07721v2 Announce Type: replace-cross Abstract: Recurrent LLM architectures have emerged as a promising approach for improving reasoning, as they enable multi-step computation in the embedding space without generating intermediate tokens. Models such as Ouro perform reasoning by iteratively updating internal representations while retainin",
+    "url": "https://arxiv.org/abs/2605.07721",
+    "source": "Arxiv AI",
     "published_at": "2026-05-20T04:00:00+00:00",
     "score": 8,
     "archived_at": "2026-05-20T04:49:51.342373+00:00"
@@ -2563,140 +2698,5 @@
     "published_at": "2026-04-26T09:18:16+00:00",
     "score": 7,
     "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
-    "summary": "arXiv:2604.21936v1 Announce Type: new Abstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applying analytical methods extends beyond model design to require dataset-aware workflow configuration and provenance tracking. Two requirements therefore be",
-    "url": "https://arxiv.org/abs/2604.21936",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
-    "summary": "arXiv:2604.22085v1 Announce Type: new Abstract: The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be a primary architectural bottleneck in the deployment of production grade agentic systems. Existing methodologies largely depend on hybrid semantic graph architectures, which ",
-    "url": "https://arxiv.org/abs/2604.22085",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
-    "summary": "arXiv:2604.22273v1 Announce Type: new Abstract: Iterative self-correction is widely used in agentic LLM systems, but when repeated refinement helps versus hurts remains unclear. We frame self-correction as a cybernetic feedback loop in which the same language model serves as both controller and plant, and use a two-state Markov model over {Correct,",
-    "url": "https://arxiv.org/abs/2604.22273",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
-    "summary": "arXiv:2604.22411v1 Announce Type: new Abstract: Even when decoding with temperature $T=0$, large language models (LLMs) can produce divergent outputs for identical inputs. Recent work by Thinking Machines Lab highlights implementation-level sources of nondeterminism, including batch-size variation, kernel non-invariance, and floating-point non-asso",
-    "url": "https://arxiv.org/abs/2604.22411",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "Anthropic says stronger AI models cut better deals, and the losers don't even notice",
-    "summary": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed. If AI models start handling real transactions for humans, these dynamics could deepen existing economic inequalities. The article Anthropic says stronger AI models",
-    "url": "https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/",
-    "source": "The Decoder",
-    "published_at": "2026-04-25T10:18:31+00:00",
-    "score": 7,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
-  },
-  {
-    "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
-    "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools. The article OpenAI unveils GPT-5.5, claims a &quot;new class of intelligence&quot; at double the API price appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
-    "source": "The Decoder",
-    "published_at": "2026-04-25T08:38:07+00:00",
-    "score": 7,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
-  },
-  {
-    "title": "US programmer job growth nearly halved since ChatGPT launched, Fed study finds",
-    "summary": "Programmers are among the professional groups whose everyday lives have changed the most as a result of generative AI. A new study by the Federal Reserve Board now provides evidence that this is also reflected in employment figures. The article US programmer job growth nearly halved since ChatGPT launched, Fed study finds appeared first on The Deco",
-    "url": "https://the-decoder.com/us-programmer-job-growth-nearly-halved-since-chatgpt-launched-fed-study-finds/",
-    "source": "The Decoder",
-    "published_at": "2026-04-25T12:44:29+00:00",
-    "score": 6,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
-  },
-  {
-    "title": "The UAE wants half its government run by autonomous AI agents within two years",
-    "summary": "The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years. The article The UAE wants half its government run by autonomous AI agents within two years appeared first on The Decoder.",
-    "url": "https://the-decoder.com/the-uae-wants-half-its-government-run-by-autonomous-ai-agents-within-two-years/",
-    "source": "The Decoder",
-    "published_at": "2026-04-25T09:08:57+00:00",
-    "score": 6,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
-  },
-  {
-    "title": "Google pours up to $40 billion into ChatGPT rival Anthropic",
-    "summary": "Google is investing up to 40 billion dollars in Anthropic. Together with Amazon's pledge of 25 billion dollars, up to 65 billion dollars will flow into the AI company behind Claude in just a few weeks. The article Google pours up to $40 billion into ChatGPT rival Anthropic appeared first on The Decoder.",
-    "url": "https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/",
-    "source": "The Decoder",
-    "published_at": "2026-04-25T08:26:11+00:00",
-    "score": 6,
-    "archived_at": "2026-04-26T04:05:50.881864+00:00"
-  },
-  {
-    "title": "Can MLLMs \"Read\" What is Missing?",
-    "summary": "arXiv:2604.21277v1 Announce Type: new Abstract: We introduce MMTR-Bench, a benchmark designed to evaluate the intrinsic ability of Multimodal Large Language Models (MLLMs) to reconstruct masked text directly from visual context. Unlike conventional question-answering tasks, MMTR-Bench eliminates explicit prompts, requiring models to recover masked ",
-    "url": "https://arxiv.org/abs/2604.21277",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-24T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-25T03:44:18.186210+00:00"
-  },
-  {
-    "title": "Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
-    "summary": "arXiv:2604.21284v1 Announce Type: new Abstract: MemPalace is an open-source AI memory system that applies the ancient method of loci (memory palace) spatial metaphor to organize long-term memory for large language models; launched in April 2026, it accumulated over 47,000 GitHub stars in its first two weeks and claims state-of-the-art retrieval per",
-    "url": "https://arxiv.org/abs/2604.21284",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-24T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-25T03:44:18.186210+00:00"
-  },
-  {
-    "title": "ReaGeo: Reasoning-Enhanced End-to-End Geocoding with LLMs",
-    "summary": "arXiv:2604.21357v1 Announce Type: new Abstract: This paper proposes ReaGeo, an end-to-end geocoding framework based on large language models, designed to overcome the limitations of traditional multi-stage approaches that rely on text or vector similarity retrieval over geographic databases, including workflow complexity, error propagation, and hea",
-    "url": "https://arxiv.org/abs/2604.21357",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-24T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-25T03:44:18.186210+00:00"
-  },
-  {
-    "title": "Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies",
-    "summary": "arXiv:2604.21571v1 Announce Type: new Abstract: Current model training approaches incorporate user information directly into shared weights, making individual data removal computationally infeasible without retraining. This paper presents a three-layer architecture that decouples personal data from shared weights by combining a static base model, c",
-    "url": "https://arxiv.org/abs/2604.21571",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-24T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-25T03:44:18.186210+00:00"
-  },
-  {
-    "title": "StyleVAR: Controllable Image Style Transfer via Visual Autoregressive Modeling",
-    "summary": "arXiv:2604.21052v1 Announce Type: cross Abstract: We build on the Visual Autoregressive Modeling (VAR) framework and formulate style transfer as conditional discrete sequence modeling in a learned latent space. Images are decomposed into multi-scale representations and tokenized into discrete codes by a VQ-VAE; a transformer then autoregressively m",
-    "url": "https://arxiv.org/abs/2604.21052",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-24T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-25T03:44:18.186210+00:00"
-  },
-  {
-    "title": "SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference",
-    "summary": "arXiv:2604.21231v1 Announce Type: cross Abstract: Efficient inference for on-device Large Language Models (LLMs) remains challenging due to limited hardware resources and the high cost of the prefill stage, which processes the full input context to construct Key-Value (KV) caches. We present SparKV, an adaptive KV loading framework that combines cl",
-    "url": "https://arxiv.org/abs/2604.21231",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-24T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-25T03:44:18.186210+00:00"
   }
 ]
