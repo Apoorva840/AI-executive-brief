@@ -1,5 +1,140 @@
 [
   {
+    "title": "JoyAI-Image: Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation",
+    "summary": "arXiv:2605.04128v2 Announce Type: replace-cross Abstract: We present JoyAI-Image, a unified multimodal foundation model for visual understanding, text-to-image generation, and instruction-guided image editing. JoyAI-Image couples a spatially enhanced Multimodal Large Language Model (MLLM) with a Multimodal Diffusion Transformer (MMDiT), allowing pe",
+    "url": "https://arxiv.org/abs/2605.04128",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "CP-MoE: Consistency-Preserving Mixture-of-Experts for Continual Learning",
+    "summary": "arXiv:2605.20247v1 Announce Type: cross Abstract: Catastrophic forgetting remains a major obstacle to continual learning in large language models (LLMs) and vision--language models (VLMs). Although Mixture-of-Experts (MoE) architectures offer an efficient path to scaling, existing LoRA-based MoE continual learning methods still face a fundamental t",
+    "url": "https://arxiv.org/abs/2605.20247",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "Modality-Decoupled Online Recursive Editing",
+    "summary": "arXiv:2605.20273v1 Announce Type: cross Abstract: Online model editing for multimodal large language models (MLLMs) requires assimilating a stream of corrections under tight compute and memory budgets. Yet editors developed for text-only LLMs often degrade on MLLMs: visually dominant activations skew the statistics that shape updates, causing cross",
+    "url": "https://arxiv.org/abs/2605.20273",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "Dynamic TMoE: A Drift-Aware Dynamic Mixture of Experts Framework for Non-Stationary Time Series Forecasting",
+    "summary": "arXiv:2605.20678v1 Announce Type: cross Abstract: Non-stationary time series forecasting is challenged by evolving distribution shifts that static models struggle to capture. While Mixture-of-Experts (MoE) architectures offer a promising paradigm for decoupling complex drift patterns, existing approaches are limited by fixed expert pools and memory",
+    "url": "https://arxiv.org/abs/2605.20678",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "DASH: Fast Differentiable Architecture Search for Hybrid Attention in Minutes on a Single GPU",
+    "summary": "arXiv:2605.20936v1 Announce Type: cross Abstract: Hybrid attention architectures are becoming an increasingly important paradigm for improving LLM inference efficiency while preserving model quality, making hybrid architecture design a central problem. Existing designs often rely on manual empirical rules or proxy-based selector signals for layer-w",
+    "url": "https://arxiv.org/abs/2605.20936",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "Mem-$\\pi$: Adaptive Memory through Learning When and What to Generate",
+    "summary": "arXiv:2605.21463v1 Announce Type: cross Abstract: We present Mem-$\\pi$, a framework for adaptive memory in large language model (LLM) agents, where useful guidance is generated on demand rather than retrieved from external memory stores. Existing memory-augmented agents typically rely on similarity-based retrieval from episodic memory banks or skil",
+    "url": "https://arxiv.org/abs/2605.21463",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "Enabling Regulatory Multi-Agent Collaboration: Architecture, Challenges, and Solutions",
+    "summary": "arXiv:2509.09215v2 Announce Type: replace Abstract: Large language models (LLMs)-empowered autonomous agents are transforming both digital and physical environments by enabling adaptive, multi-agent collaboration. While these agents offer significant opportunities across domains such as finance, healthcare, and smart manufacturing, their unpredicta",
+    "url": "https://arxiv.org/abs/2509.09215",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning",
+    "summary": "arXiv:2509.20912v4 Announce Type: replace Abstract: Recent advances in multimodal language models (MLLMs) have made thinking with images a dominant paradigm for multimodal reasoning. However, existing methods still fail to ensure evidence-answer consistency, where correct answers must be supported by correct visual evidence. To address this issue, ",
+    "url": "https://arxiv.org/abs/2509.20912",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction",
+    "summary": "arXiv:2305.09620v4 Announce Type: replace-cross Abstract: Nationally representative surveys track public opinion, yet they ask only a limited set of questions each year, limiting its potential to capture historical changes. To fill this gap, we develop a large language model (LLM)-based framework for predicting missing responses in repeated cross-s",
+    "url": "https://arxiv.org/abs/2305.09620",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "How Many Human Survey Respondents is a Large Language Model Worth? An Uncertainty Quantification Perspective",
+    "summary": "arXiv:2502.17773v5 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly used to simulate survey responses, but synthetic data can be misaligned with the human population, leading to unreliable inference. We develop a general framework that converts LLM-simulated responses into reliable confidence sets for population ",
+    "url": "https://arxiv.org/abs/2502.17773",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "Beyond Words: Multimodal LLM Knows When to Speak",
+    "summary": "arXiv:2505.14654v2 Announce Type: replace-cross Abstract: Chatbots via large language models (LLMs) generate fluent responses but often struggle with when to speak, especially for brief, timely listener reactions during ongoing dialogue. We present a multimodal strategy for LLMs, which leverages synchronized video, audio, and text cues to improve c",
+    "url": "https://arxiv.org/abs/2505.14654",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "MASFactory: A Graph-centric Framework for Orchestrating LLM-Based Multi-Agent Systems with Vibe Graphing",
+    "summary": "arXiv:2603.06007v2 Announce Type: replace-cross Abstract: Large language model-based (LLM-based) multi-agent systems (MAS) are increasingly used to extend agentic problem solving via role specialization and collaboration. MAS workflows can be naturally modeled as directed computation graphs, where nodes execute agents or sub-workflows and edges enc",
+    "url": "https://arxiv.org/abs/2603.06007",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models",
+    "summary": "arXiv:2605.12374v3 Announce Type: replace-cross Abstract: Visual latent reasoning lets a multimodal large language model (MLLM) create intermediate visual evidence as continuous tokens, avoiding external tools or image generators. However, existing methods usually follow an output-as-input latent paradigm and yield unstable gains. We identify evide",
+    "url": "https://arxiv.org/abs/2605.12374",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-22T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "US Cyber Command races to deploy AI on top-secret networks",
+    "summary": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks. The trigger: AI systems like Anthropic's Claude Mythos can find security vulnerabilities faster than the best human hackers - and according to Anthropic, comparable tools could be widely available within six ",
+    "url": "https://the-decoder.com/us-cyber-command-races-to-deploy-ai-on-top-secret-networks/",
+    "source": "The Decoder",
+    "published_at": "2026-05-21T15:20:44+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
+    "title": "Cohere open-sources its strongest model yet",
+    "summary": "The Canadian AI company Cohere is releasing its most powerful language model to date, Command A+, as open source under an Apache 2.0 license. The article Cohere open-sources its strongest model yet appeared first on The Decoder.",
+    "url": "https://the-decoder.com/cohere-open-sources-its-strongest-model-yet/",
+    "source": "The Decoder",
+    "published_at": "2026-05-21T15:17:35+00:00",
+    "score": 7,
+    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+  },
+  {
     "title": "Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models",
     "summary": "arXiv:2605.07721v2 Announce Type: replace-cross Abstract: Recurrent LLM architectures have emerged as a promising approach for improving reasoning, as they enable multi-step computation in the embedding space without generating intermediate tokens. Models such as Ouro perform reasoning by iteratively updating internal representations while retainin",
     "url": "https://arxiv.org/abs/2605.07721",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-04-28T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-04-28T04:17:20.131665+00:00"
-  },
-  {
-    "title": "SwarmDrive: Semantic V2V Coordination for Latency-Constrained Cooperative Autonomous Driving",
-    "summary": "arXiv:2604.22852v1 Announce Type: cross Abstract: Cloud-hosted LLM inference for autonomous driving adds round-trip delay and depends on stable connectivity, while purely local edge models struggle under occlusion. We present SwarmDrive, a semantic Vehicle-to-Vehicle (V2V) coordination framework in which nearby vehicles run local Small Language Mod",
-    "url": "https://arxiv.org/abs/2604.22852",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-28T04:17:20.131665+00:00"
-  },
-  {
-    "title": "MAE-Based Self-Supervised Pretraining for Data-Efficient Medical Image Segmentation Using nnFormer",
-    "summary": "arXiv:2604.22854v1 Announce Type: cross Abstract: Transformer architectures, including nnFormer,have demonstrated promising results in volumetric medical image segmentation by being able to capture long-range spatial interactions. Although they have high performance, these models need large quantities of labeled training data and are also likely to",
-    "url": "https://arxiv.org/abs/2604.22854",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-28T04:17:20.131665+00:00"
-  },
-  {
-    "title": "Can Multimodal Large Language Models Truly Understand Small Objects?",
-    "summary": "arXiv:2604.22884v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have shown promising potential in diverse understanding tasks, e.g., image and video analysis, math and physics olympiads. However, they remain blank and unexplored for Small Object Understanding (SOU) tasks. To fill this gap, we introduce SOUBench, the first",
-    "url": "https://arxiv.org/abs/2604.22884",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-28T04:17:20.131665+00:00"
-  },
-  {
-    "title": "Utility-Aware Data Pricing: Token-Level Quality and Empirical Training Gain for LLMs",
-    "summary": "arXiv:2604.22893v1 Announce Type: cross Abstract: Traditional data valuation methods based on ``row-count $\\times$ quality coefficient'' paradigms fail to capture the nuanced, nonlinear contributions that data makes to Large Language Model (LLM) capabilities. This paper presents a dynamic data valuation framework that transitions from static accoun",
-    "url": "https://arxiv.org/abs/2604.22893",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-28T04:17:20.131665+00:00"
-  },
-  {
-    "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
-    "summary": "arXiv:2604.22119v1 Announce Type: new Abstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own objectives, a class of risks we term Emergent Strategic Reasoning Risks (ESRRs). These include, but are not limited to, deception (intentionally mislead",
-    "url": "https://arxiv.org/abs/2604.22119",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "Rethinking Math Reasoning Evaluation: A Robust LLM-as-a-Judge Framework Beyond Symbolic Rigidity",
-    "summary": "arXiv:2604.22597v1 Announce Type: new Abstract: Recent advancements in large language models have led to significant improvements across various tasks, including mathematical reasoning, which is used to assess models' intelligence in logical reasoning and problem-solving. Models are evaluated on mathematical reasoning benchmarks by verifying the co",
-    "url": "https://arxiv.org/abs/2604.22597",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models",
-    "summary": "arXiv:2604.21952v1 Announce Type: cross Abstract: This work presents a multi-layered methodology for efficiently accelerating multimodal foundation models (MFMs). It combines hardware and software co-design of transformer blocks with an optimization pipeline that reduces computational and memory requirements. During model development, it employs pe",
-    "url": "https://arxiv.org/abs/2604.21952",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "CGC: Compositional Grounded Contrast for Fine-Grained Multi-Image Understanding",
-    "summary": "arXiv:2604.22498v1 Announce Type: cross Abstract: Although Multimodal Large Language Models (MLLMs) have advanced rapidly, they still face notable challenges in fine-grained multi-image understanding, often exhibiting spatial hallucination, attention leakage, and failures in object constancy. In addition, existing approaches typically rely on expen",
-    "url": "https://arxiv.org/abs/2604.22498",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "Controllable Spoken Dialogue Generation: An LLM-Driven Grading System for K-12 Non-Native English Learners",
-    "summary": "arXiv:2604.22542v1 Announce Type: cross Abstract: Large language models (LLMs) often fail to meet the pedagogical needs of K-12 English learners in non-native contexts due to a proficiency mismatch. To address this widespread challenge, we introduce a proficiency-aligned framework that adapts LLM outputs to learner abilities, using China's national",
-    "url": "https://arxiv.org/abs/2604.22542",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning",
-    "summary": "arXiv:2604.22558v1 Announce Type: cross Abstract: As Multimodal Large Language Models (MLLMs) mature, GUI agents are evolving from static interactions to complex navigation. While Reinforcement Learning (RL) has emerged as a promising paradigm for training MLLM agents on dynamic GUI tasks, its effective application faces a dilemma. Standard Offline",
-    "url": "https://arxiv.org/abs/2604.22558",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "Learning Evidence Highlighting for Frozen LLMs",
-    "summary": "arXiv:2604.22565v1 Announce Type: cross Abstract: Large Language Models (LLMs) can reason well, yet often miss decisive evidence when it is buried in long, noisy contexts. We introduce HiLight, an Evidence Emphasis framework that decouples evidence selection from reasoning for frozen LLM solvers. HiLight avoids compressing or rewriting the input, w",
-    "url": "https://arxiv.org/abs/2604.22565",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation",
-    "summary": "arXiv:2604.20133v2 Announce Type: replace Abstract: This paper proposes EvoAgent - an evolvable large language model (LLM) agent framework that integrates structured skill learning with a hierarchical sub-agent delegation mechanism. EvoAgent models skills as multi-file structured capability units equipped with triggering mechanisms and evolutionary",
-    "url": "https://arxiv.org/abs/2604.20133",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "Calibrating Behavioral Parameters with Large Language Models",
-    "summary": "arXiv:2602.01022v2 Announce Type: replace-cross Abstract: Behavioral parameters such as loss aversion, herding, and extrapolation are central to asset pricing models but remain difficult to measure reliably. We develop a framework that treats large language models (LLMs) as calibrated measurement instruments for behavioral parameters. Using four mo",
-    "url": "https://arxiv.org/abs/2602.01022",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "Unlocking the Edge deployment and ondevice acceleration of multi-LoRA enabled one-for-all foundational LLM",
-    "summary": "arXiv:2604.18655v2 Announce Type: replace-cross Abstract: Deploying large language models (LLMs) on smartphones poses significant engineering challenges due to stringent constraints on memory, latency, and runtime flexibility. In this work, we present a hardware-aware framework for efficient on-device inference of a LLaMA-based multilingual foundat",
-    "url": "https://arxiv.org/abs/2604.18655",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
-  },
-  {
-    "title": "500 investment bankers review AI outputs and find none ready for client delivery",
-    "summary": "A new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment bankers handle every day. Not a single AI output was rated ready to send to a client; the results are too imprecise or flat-out wrong. Still, more than half of the bankers said they'd use the output as a starting point. The article 500 i",
-    "url": "https://the-decoder.com/500-investment-bankers-review-ai-outputs-and-find-none-ready-for-client-delivery/",
-    "source": "The Decoder",
-    "published_at": "2026-04-26T09:18:16+00:00",
-    "score": 7,
-    "archived_at": "2026-04-27T04:11:03.439985+00:00"
   }
 ]

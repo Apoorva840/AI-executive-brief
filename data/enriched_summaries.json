@@ -1,39 +1,54 @@
 [
   {
-    "title": "DMN: A Compositional Framework for Jailbreaking Multimodal LLMs with Multi-Image Inputs",
-    "url": "https://arxiv.org/abs/2605.18915",
+    "title": "TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training",
+    "url": "https://arxiv.org/abs/2604.10784",
     "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "arXiv:2605.18915v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) are vulnerable to jailbreak attacks, which can elicit harmful responses from MLLMs. Many MLLMs support multi-image inputs, inadvertently introducing new vulnerabilities due to less efforts on multi-image safety alignment. Previous MLLM jailbreak methods only",
+    "what_happened": "arXiv:2604.10784v2 Announce Type: replace Abstract: Recent advances in unified multimodal models (UMMs) have led to a proliferation of architectures capable of understanding, generating, and editing across visual and textual modalities. However, developing a unified framework for UMMs remains challenging due to the diversity of model architectures",
     "technical_takeaway": null,
     "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "Research Scientists",
       "ML Engineers"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "Stability AI launches Stable Audio 3.0 with up to six-minute tracks and open weights",
-    "url": "https://the-decoder.com/stability-ai-launches-stable-audio-3-0-with-up-to-six-minute-tracks-and-open-weights/",
+    "title": "Google checks websites for llms.txt in new agentic browsing audit",
+    "url": "https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/",
     "source": "The Decoder",
-    "score": 8,
-    "what_happened": "Stability AI has unveiled Stable Audio 3.0, a new generation of audio models - three of which ship with open weights. The models generate music tracks up to six minutes long and were trained entirely on licensed data, according to the company. The article Stability AI launches Stable Audio 3.0 with up to six-minute tracks and open weights appeared",
+    "score": 7,
+    "what_happened": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article Google checks websites for llms.txt in new agentic browsing audit appeared first on The Decoder.",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "The first AI proof worthy of math's top journal landed and it won't be the last",
+    "url": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from algebraic number theory that experts never expected in this context. Fields Medalist Tim Gowers calls the result \"a milestone in AI mathematics\" and warns: \"We have still probably entered an er",
     "technical_takeaway": null,
     "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
       "AI Professionals"
     ],
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "Google pairs its Genie world model with Street View to create explorable AI worlds based on real places",
-    "url": "https://the-decoder.com/google-pairs-its-genie-world-model-with-street-view-to-create-explorable-ai-worlds-based-on-real-places/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Google Deepmind connects its Genie 3 world model to Street View imagery: users drop a pin on a map and get a walkable, AI-generated world based on a real place. Google's Street View data, collected over many years, becomes a strategic training resource for creative demos, but above all for AI agents and robots. The article Google pairs its Genie wo",
+    "title": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+    "url": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "source": "Microsoft Research",
+    "score": 6,
+    "what_happened": "MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks. The post MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models appeared first on Mi",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -44,33 +59,17 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "I Gave My OpenClaw Agent a Physical Body",
-    "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
-    "source": "Wired AI",
-    "score": 6,
-    "what_happened": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+    "title": "Roundtables: Can AI Learn to Understand the World?",
+    "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "source": "MIT Technology Review AI",
+    "score": 5,
+    "what_happened": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter&#8230;",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
+      "AI Professionals"
     ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-    "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-    "source": "AI News",
-    "score": 6,
-    "what_happened": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export controls. The Zhenwu M890, developed by Alibaba&#8217;s semiconductor subsi",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   }
 ]

@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 20, 2026",
+    "last_updated": "May 22, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Agentic AI",
-            "definition": "Agentic AI refers to systems that transition from passive information retrieval to active goal execution by utilizing multi-step reasoning, tool-use, and autonomous decision-making. These models leverage 'loops' to plan, execute, and self-correct across external APIs and software environments to complete complex tasks without constant human prompting.",
-            "analogy": "In a kitchen, a standard LLM is a high-end food processor that chops what you put in it; Agentic AI is a sous-chef who reads the recipe, checks the pantry, goes to the store for missing ingredients, and prepares the dish while you attend to other matters.",
-            "business_value": "This shifts the paradigm from 'AI-assisted tasks' to 'AI-driven workflows,' allowing companies to scale operations without proportional headcount increases. It transforms AI from a search interface into a digital workforce capable of handling end-to-end administrative and operational cycles."
+            "term": "World Models",
+            "definition": "World models are internal neural representations that allow an AI to simulate the physical and logical laws of an environment. Unlike Large Language Models that predict the next token in a sequence, world models learn to predict the future state of an environment based on current actions, enabling the system to 'hallucinate' consequences and plan accordingly before executing a task.",
+            "analogy": "In a kitchen, a standard AI is a recipe book that knows which words come next; a World Model is an experienced chef who can visualize exactly how a souffle will collapse if the oven door is opened too early. It understands the 'physics' of the kitchen, not just the text of the recipe.",
+            "business_value": "World models transition AI from digital assistants to physical-world operators. For CEOs, this means moving beyond chatbots toward autonomous systems that can manage logistics, robotics, and complex supply chains with a 'common sense' understanding of cause and effect, drastically reducing the risk of catastrophic edge-case failures."
         },
         {
-            "term": "Data Probes",
-            "definition": "Data Probes are specialized diagnostic tools or algorithmic frameworks used to analyze the specific influence of training data subsets on a Large Language Model's final performance and behavior. They allow researchers to map how specific inputs during the pre-training or alignment phases translate into specific capabilities, such as mathematical reasoning or factual accuracy.",
-            "analogy": "Think of Data Probes as a sophisticated fuel-injection diagnostic system in a car; instead of just knowing the car is fast, it tells you exactly which percentage of your performance is coming from the high-octane fuel versus the synthetic oil, allowing for precision tuning.",
-            "business_value": "Data is the most expensive line item in AI development; Probes allow CEOs to move away from 'brute force' data collection toward 'precision data engineering.' This optimizes R&D spend by identifying exactly which datasets provide the highest ROI for model accuracy and safety."
+            "term": "High-Order Theory of Mind (ToM)",
+            "definition": "Theory of Mind in AI refers to the ability to attribute mental states\u2014such as beliefs, intents, and knowledge\u2014to others. 'High-Order' ToM specifically involves recursive reasoning, where the AI models what Person A thinks Person B believes about Person C, allowing it to navigate complex social hierarchies and information asymmetries.",
+            "analogy": "Imagine a car\u2019s autonomous driving system that doesn't just see a pedestrian, but realizes the pedestrian hasn't seen the car because they are looking at their phone. The car isn't just tracking a physical object; it is modeling the pedestrian's lack of awareness to preemptively brake.",
+            "business_value": "This is the 'EQ' of the AI world. For the bottom line, High-Order ToM is critical for automated negotiation, strategic sales forecasting, and HR conflict resolution, where the AI must understand hidden agendas and the 'human element' to reach an optimal commercial outcome."
         },
         {
-            "term": "LLM Microservice Pipelines",
-            "definition": "This architecture decouples the AI workflow into modular, independently scalable components\u2014such as OCR, embedding, and inference\u2014rather than running one monolithic application. By isolating these stages into microservices, organizations can optimize hardware usage for each specific task and swap individual models without rebuilding the entire system.",
-            "analogy": "Instead of a car where the engine, transmission, and wheels are all welded into a single block, this is a modular racing chassis where you can swap out the engine for a more efficient one or upgrade the tires in seconds without touching the rest of the vehicle.",
-            "business_value": "Operationalizing AI through microservices mitigates technical debt and prevents 'model lock-in.' It allows a business to remain agile, swapping in cheaper or more powerful models (like Gemini 3.0 Flash) as they hit the market, ensuring the infrastructure remains future-proof and cost-effective."
+            "term": "Uncertainty-Augmented (UA) Systems",
+            "definition": "UA systems are architectures that output both a prediction and a mathematically rigorous confidence score regarding that prediction's accuracy. By quantifying 'predictive uncertainty,' these systems can trigger a 'fail-safe' or human intervention when the AI identifies that the current data is outside its reliable training parameters.",
+            "analogy": "Think of it as a high-end car's 'limp mode' or traction control. When the sensors detect black ice, the car doesn't just keep driving normally; it informs the driver of the loss of grip and adjusts its performance envelope to prevent a crash.",
+            "business_value": "Reliability is the greatest barrier to AI adoption in high-stakes industries like finance and healthcare. UA systems mitigate liability by allowing companies to implement 'Human-in-the-Loop' protocols only when the AI flags itself as 'unsure,' maximizing automation efficiency while maintaining a hard safety ceiling."
         }
     ]
 }

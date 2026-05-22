@@ -2,25 +2,24 @@
     "last_updated": "2024-05-27",
     "papers": [
         {
-            "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
-            "innovation": "Presents a concrete microservice architecture for production-scale Document AI pipelines, addressing the gap between academic model definition and practical, scalable deployment of multi-model pipelines (e.g., OCR, classification, LLM-based understanding).",
-            "benchmarks": "Focuses on bridging the gap for running models at production scale, implying architectural robustness, scalability, and reliability for real-world deployment rather than specific model performance metrics. It's about operational efficiency and integration.",
-            "use_case": "Designing, building, and deploying robust, scalable, and modular Document AI solutions in a production environment, effectively integrating various AI models like OCR and LLMs into a cohesive system.",
-            "url": "https://arxiv.org/abs/2605.18818"
+            "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+            "innovation": "Introduces a self-optimizing, open-ended autonomous agent design to overcome traditional LLM challenges like concept drift and expensive gradient-based adaptation in dynamic environments. It promotes lifelong learning and continual adaptation.",
+            "benchmarks": "Acknowledges limitations of traditional fine-tuning for non-stationary data; aims to provide a robust solution where existing methods struggle.",
+            "use_case": "Deploying and maintaining large language models (LLMs) and other AI systems in evolving, dynamic, and non-stationary real-world environments, ensuring sustained performance and relevance without constant retraining.",
+            "url": "https://arxiv.org/abs/2605.20189"
         },
         {
-            "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
-            "innovation": "Introduces Learn-by-Wire Guard (LBW-Guard), a novel bounded autonomous training-control governance layer designed to mitigate instability, degraded runs, and wasted compute during large language model training, especially under aggressive learning rates and scale.",
-            "benchmarks": "Aims to improve training stability and efficiency, reducing wasted compute and preventing degraded runs under challenging conditions. The innovation's success is benchmarked by more reliable and resource-efficient LLM training outcomes.",
-            "use_case": "Enhancing the reliability and efficiency of large-scale LLM training processes, preventing costly training failures and optimizing resource utilization in high-stress or aggressive training configurations.",
-            "url": "https://arxiv.org/abs/2605.19008"
+            "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
+            "innovation": "Proposes `AgentAtlas`, a novel methodology for the comprehensive evaluation of LLM agents, moving beyond fragmented outcome-based leaderboards. It considers multiple performance units such as final task success, tool-call validity, repeated-pass consistency, and trajectory analysis.",
+            "benchmarks": "Addresses the fragmentation and limitations of existing benchmarks for LLM agents, suggesting a more holistic approach to assessment across various operational aspects.",
+            "use_case": "Developing, debugging, and thoroughly evaluating large language model agents that interact with complex environments (e.g., codebases, browsers, operating systems, tool ecosystems) to ensure robustness and reliability.",
+            "url": "https://arxiv.org/abs/2605.20530"
         },
         {
-            "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
-            "innovation": "Proposes a new method for Bayesian optimization of system prompts that uses 'embedding by elicitation' to create dynamic representations. This allows for effective prompt tuning even when feedback is only available as aggregate metrics, a common and challenging scenario in real-world LLM deployment.",
-            "benchmarks": "Addresses the difficult problem of prompt optimization where only aggregate metrics (not per-example labels or critiques) are available. The innovation's performance is benchmarked by its ability to effectively tune prompts and improve system behavior under these constrained feedback conditions.",
-            "use_case": "Automating and optimizing the tuning of system prompts for LLMs and other AI systems, particularly valuable for AI engineers working with limited or aggregate feedback to improve model behavior and performance.",
-            "url": "https://arxiv.org/abs/2605.19093"
+            "title": "$ECUAS_n$: A family of metrics for principled evaluation of uncertainty-augmented systems",
+            "innovation": "Introduces $ECUAS_n$, a family of principled metrics designed for the robust evaluation of uncertainty-augmented (UA) systems. These systems provide both predictions and their associated predictive uncertainty, which is critical for high-stakes decision-making.",
+            "benchmarks": "Provides new, foundational metrics for evaluating the quality and utility of uncertainty estimates generated by AI systems, which existing evaluation methods may not fully capture.",
+            "use_case": "Building and validating trustworthy and reliable AI systems in high-stakes domains (e.g., healthcare, finance, autonomous driving) where quantifying and communicating predictive uncertainty is essential for user trust, safety, and informed decision-making."
         }
     ]
 }
