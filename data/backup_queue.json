@@ -1,137 +1,92 @@
 [
   {
-    "title": "JoyAI-Image: Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation",
-    "summary": "arXiv:2605.04128v2 Announce Type: replace-cross Abstract: We present JoyAI-Image, a unified multimodal foundation model for visual understanding, text-to-image generation, and instruction-guided image editing. JoyAI-Image couples a spatially enhanced Multimodal Large Language Model (MLLM) with a Multimodal Diffusion Transformer (MMDiT), allowing pe",
-    "url": "https://arxiv.org/abs/2605.04128",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "CP-MoE: Consistency-Preserving Mixture-of-Experts for Continual Learning",
-    "summary": "arXiv:2605.20247v1 Announce Type: cross Abstract: Catastrophic forgetting remains a major obstacle to continual learning in large language models (LLMs) and vision--language models (VLMs). Although Mixture-of-Experts (MoE) architectures offer an efficient path to scaling, existing LoRA-based MoE continual learning methods still face a fundamental t",
-    "url": "https://arxiv.org/abs/2605.20247",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "Modality-Decoupled Online Recursive Editing",
-    "summary": "arXiv:2605.20273v1 Announce Type: cross Abstract: Online model editing for multimodal large language models (MLLMs) requires assimilating a stream of corrections under tight compute and memory budgets. Yet editors developed for text-only LLMs often degrade on MLLMs: visually dominant activations skew the statistics that shape updates, causing cross",
-    "url": "https://arxiv.org/abs/2605.20273",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "Dynamic TMoE: A Drift-Aware Dynamic Mixture of Experts Framework for Non-Stationary Time Series Forecasting",
-    "summary": "arXiv:2605.20678v1 Announce Type: cross Abstract: Non-stationary time series forecasting is challenged by evolving distribution shifts that static models struggle to capture. While Mixture-of-Experts (MoE) architectures offer a promising paradigm for decoupling complex drift patterns, existing approaches are limited by fixed expert pools and memory",
-    "url": "https://arxiv.org/abs/2605.20678",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "DASH: Fast Differentiable Architecture Search for Hybrid Attention in Minutes on a Single GPU",
-    "summary": "arXiv:2605.20936v1 Announce Type: cross Abstract: Hybrid attention architectures are becoming an increasingly important paradigm for improving LLM inference efficiency while preserving model quality, making hybrid architecture design a central problem. Existing designs often rely on manual empirical rules or proxy-based selector signals for layer-w",
-    "url": "https://arxiv.org/abs/2605.20936",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "Mem-$\\pi$: Adaptive Memory through Learning When and What to Generate",
-    "summary": "arXiv:2605.21463v1 Announce Type: cross Abstract: We present Mem-$\\pi$, a framework for adaptive memory in large language model (LLM) agents, where useful guidance is generated on demand rather than retrieved from external memory stores. Existing memory-augmented agents typically rely on similarity-based retrieval from episodic memory banks or skil",
-    "url": "https://arxiv.org/abs/2605.21463",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "Enabling Regulatory Multi-Agent Collaboration: Architecture, Challenges, and Solutions",
-    "summary": "arXiv:2509.09215v2 Announce Type: replace Abstract: Large language models (LLMs)-empowered autonomous agents are transforming both digital and physical environments by enabling adaptive, multi-agent collaboration. While these agents offer significant opportunities across domains such as finance, healthcare, and smart manufacturing, their unpredicta",
-    "url": "https://arxiv.org/abs/2509.09215",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning",
-    "summary": "arXiv:2509.20912v4 Announce Type: replace Abstract: Recent advances in multimodal language models (MLLMs) have made thinking with images a dominant paradigm for multimodal reasoning. However, existing methods still fail to ensure evidence-answer consistency, where correct answers must be supported by correct visual evidence. To address this issue, ",
-    "url": "https://arxiv.org/abs/2509.20912",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction",
-    "summary": "arXiv:2305.09620v4 Announce Type: replace-cross Abstract: Nationally representative surveys track public opinion, yet they ask only a limited set of questions each year, limiting its potential to capture historical changes. To fill this gap, we develop a large language model (LLM)-based framework for predicting missing responses in repeated cross-s",
-    "url": "https://arxiv.org/abs/2305.09620",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "How Many Human Survey Respondents is a Large Language Model Worth? An Uncertainty Quantification Perspective",
-    "summary": "arXiv:2502.17773v5 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly used to simulate survey responses, but synthetic data can be misaligned with the human population, leading to unreliable inference. We develop a general framework that converts LLM-simulated responses into reliable confidence sets for population ",
-    "url": "https://arxiv.org/abs/2502.17773",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "Beyond Words: Multimodal LLM Knows When to Speak",
-    "summary": "arXiv:2505.14654v2 Announce Type: replace-cross Abstract: Chatbots via large language models (LLMs) generate fluent responses but often struggle with when to speak, especially for brief, timely listener reactions during ongoing dialogue. We present a multimodal strategy for LLMs, which leverages synchronized video, audio, and text cues to improve c",
-    "url": "https://arxiv.org/abs/2505.14654",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "MASFactory: A Graph-centric Framework for Orchestrating LLM-Based Multi-Agent Systems with Vibe Graphing",
-    "summary": "arXiv:2603.06007v2 Announce Type: replace-cross Abstract: Large language model-based (LLM-based) multi-agent systems (MAS) are increasingly used to extend agentic problem solving via role specialization and collaboration. MAS workflows can be naturally modeled as directed computation graphs, where nodes execute agents or sub-workflows and edges enc",
-    "url": "https://arxiv.org/abs/2603.06007",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models",
-    "summary": "arXiv:2605.12374v3 Announce Type: replace-cross Abstract: Visual latent reasoning lets a multimodal large language model (MLLM) create intermediate visual evidence as continuous tokens, avoiding external tools or image generators. However, existing methods usually follow an output-as-input latent paradigm and yield unstable gains. We identify evide",
-    "url": "https://arxiv.org/abs/2605.12374",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-22T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
-  },
-  {
-    "title": "US Cyber Command races to deploy AI on top-secret networks",
-    "summary": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks. The trigger: AI systems like Anthropic's Claude Mythos can find security vulnerabilities faster than the best human hackers - and according to Anthropic, comparable tools could be widely available within six ",
-    "url": "https://the-decoder.com/us-cyber-command-races-to-deploy-ai-on-top-secret-networks/",
+    "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content",
+    "summary": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in is available worldwide across all tiers. OpenAI recommends saving important decks before using it. The article OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally dele",
+    "url": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/",
     "source": "The Decoder",
-    "published_at": "2026-05-21T15:20:44+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+    "published_at": "2026-05-22T17:51:50+00:00",
+    "score": 6,
+    "archived_at": "2026-05-23T04:19:17.045193+00:00"
   },
   {
-    "title": "Cohere open-sources its strongest model yet",
-    "summary": "The Canadian AI company Cohere is releasing its most powerful language model to date, Command A+, as open source under an Apache 2.0 license. The article Cohere open-sources its strongest model yet appeared first on The Decoder.",
-    "url": "https://the-decoder.com/cohere-open-sources-its-strongest-model-yet/",
+    "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding",
+    "summary": "Deepseek is about to raise around $10 billion, which would value the Chinese AI startup at roughly $45 billion. Founder Liang Wenfeng is telling investors he's putting AGI research ahead of short-term profits. The article Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding appeared first on The Decoder.",
+    "url": "https://the-decoder.com/deepseek-reportedly-prioritizes-agi-research-over-quick-profits-despite-billions-in-funding/",
     "source": "The Decoder",
-    "published_at": "2026-05-21T15:17:35+00:00",
-    "score": 7,
-    "archived_at": "2026-05-22T04:48:22.725135+00:00"
+    "published_at": "2026-05-22T17:18:58+00:00",
+    "score": 6,
+    "archived_at": "2026-05-23T04:19:17.045193+00:00"
+  },
+  {
+    "title": "OpenAI Appshots turn any Mac window into context for Codex",
+    "summary": "With the new Codex feature Appshots, Mac users can send the contents of any app window to OpenAI's coding assistant Codex at the press of a button, giving it the context it needs for a task. The article OpenAI Appshots turn any Mac window into context for Codex appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/",
+    "source": "The Decoder",
+    "published_at": "2026-05-22T16:56:20+00:00",
+    "score": 6,
+    "archived_at": "2026-05-23T04:19:17.045193+00:00"
+  },
+  {
+    "title": "OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation",
+    "summary": "OpenAI pulled in about $5.7 billion in Q1 2026 revenue but still lost $1.22 for every dollar earned, putting its adjusted operating margin at minus 122 percent. The article OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation appeared first on The Decoder.",
+    "url": "https://the-decoder.com/openai-burned-through-1-22-per-dollar-earned-even-after-stripping-out-stock-based-compensation/",
+    "source": "The Decoder",
+    "published_at": "2026-05-22T14:18:32+00:00",
+    "score": 6,
+    "archived_at": "2026-05-23T04:19:17.045193+00:00"
+  },
+  {
+    "title": "California governor signs first US executive order to protect workers from AI job loss",
+    "summary": "California's governor just signed the first executive order by a US governor aimed at protecting workers from AI-driven job loss. The article California governor signs first US executive order to protect workers from AI job loss appeared first on The Decoder.",
+    "url": "https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/",
+    "source": "The Decoder",
+    "published_at": "2026-05-22T13:36:27+00:00",
+    "score": 6,
+    "archived_at": "2026-05-23T04:19:17.045193+00:00"
+  },
+  {
+    "title": "Even If You Hate AI, You Will Use Google AI Search",
+    "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
+    "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+    "source": "Wired AI",
+    "published_at": "2026-05-22T15:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-23T04:19:17.045193+00:00"
+  },
+  {
+    "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
+    "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
+    "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
+    "source": "Wired AI",
+    "published_at": "2026-05-22T09:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-23T04:19:17.045193+00:00"
+  },
+  {
+    "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+    "summary": "The ceremony was scheduled. The CEOs were on the guest list. And then it wasn&#8217;t happening. On Thursday, US President Donald Trump scrapped a planned AI executive order, which had already been delayed multiple times, citing concerns that it might erode America&#8217;s competitive edge over China. &#8220;We&#8217;re leading China, we&#8217;re l",
+    "url": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
+    "source": "AI News",
+    "published_at": "2026-05-22T09:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-23T04:19:17.045193+00:00"
+  },
+  {
+    "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
+    "summary": "Every major economy is staring at the same problem right now. Artificial intelligence is consuming electricity at a pace that grids were never designed to handle. In the US, capacity market prices in PJM, the country&#8217;s largest grid operator, have risen more than tenfold in two years, with data-centre growth identified as a primary driver. [&#",
+    "url": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
+    "source": "AI News",
+    "published_at": "2026-05-22T10:00:00+00:00",
+    "score": 4,
+    "archived_at": "2026-05-23T04:19:17.045193+00:00"
+  },
+  {
+    "title": "Google I/O showed how the path for AI-driven science is shifting",
+    "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I liste",
+    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-22T10:00:00+00:00",
+    "score": 3,
+    "archived_at": "2026-05-23T04:19:17.045193+00:00"
   }
 ]

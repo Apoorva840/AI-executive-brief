@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 22, 2026",
+    "last_updated": "May 23, 2026",
     "tools": [
         {
-            "Name": "CLI-Anything",
-            "Category": "Developer Tool / Agent Infrastructure",
-            "Description": "A tool that automatically generates command-line interface harnesses for any software codebase, allowing AI agents to interact with software via structured commands instead of brittle GUI automation.",
-            "Use_Case": "Enabling AI agents to programmatically control complex software like Blender, GIMP, LibreOffice, and Godot.",
-            "URL": "https://github.com/HKUDS/CLI-Anything"
+            "Name": "SAM 3",
+            "Category": "Computer Vision",
+            "Description": "A unified foundation model for promptable segmentation in images and videos, capable of segmenting open-vocabulary concepts using text or visual prompts.",
+            "Use_Case": "Automated object detection, tracking, and instance segmentation in images and video streams.",
+            "URL": "https://github.com/facebookresearch/sam3"
         },
         {
-            "Name": "MarkItDown",
-            "Category": "Data Conversion / NLP Utility",
-            "Description": "A lightweight Python utility designed to convert various file formats (PDF, Word, Excel, Images, etc.) into Markdown specifically for use with LLMs.",
-            "Use_Case": "Preparing diverse document types as input for LLM analysis or RAG pipelines.",
-            "URL": "https://github.com/microsoft/markitdown"
+            "Name": "Scrapling",
+            "Category": "Web Scraping",
+            "Description": "An adaptive, high-performance web scraping framework that uses AI to maintain element selection even when website structures change.",
+            "Use_Case": "Building robust, anti-bot resistant web crawlers and scraping pipelines that survive UI changes.",
+            "URL": "https://github.com/D4Vinci/Scrapling"
         },
         {
-            "Name": "Hermes Agent",
-            "Category": "AI Agent Framework",
-            "Description": "A self-improving AI agent framework featuring a closed-loop learning system, scheduled automations, and support for multiple messaging platforms and LLM backends.",
-            "Use_Case": "Building autonomous assistants that can learn from past interactions, manage long-term memory, and execute scheduled tasks across various messaging platforms.",
-            "URL": "https://github.com/NousResearch/hermes-agent"
+            "Name": "Fooocus",
+            "Category": "Image Generation",
+            "Description": "An offline, open-source image generation tool based on Stable Diffusion XL that emphasizes user prompt-centric generation over complex parameter tuning.",
+            "Use_Case": "Generating high-quality images locally without needing deep expertise in prompt engineering or technical model settings.",
+            "URL": "https://github.com/lllyasviel/Fooocus"
         }
     ]
 }
