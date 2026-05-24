@@ -1,5 +1,32 @@
 [
   {
+    "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
+    "summary": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling up faster than anyone can patch them. Anthropic warns this creates a high-risk transition period and says no company, itself included, has built safe",
+    "url": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
+    "source": "The Decoder",
+    "published_at": "2026-05-23T07:42:10+00:00",
+    "score": 7,
+    "archived_at": "2026-05-24T04:53:10.132033+00:00"
+  },
+  {
+    "title": "One of the world's top law schools draws a hard line against AI in legal education",
+    "summary": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed. The school’s rationale: future lawyers must first learn to think for themselves before they can use AI meaningfully. The article One of the world&#039;s top law schools draws a hard line ag",
+    "url": "https://the-decoder.com/one-of-the-worlds-top-law-schools-draws-a-hard-line-against-ai-in-legal-education/",
+    "source": "The Decoder",
+    "published_at": "2026-05-23T10:55:03+00:00",
+    "score": 6,
+    "archived_at": "2026-05-24T04:53:10.132033+00:00"
+  },
+  {
+    "title": "Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product",
+    "summary": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep users inside the Google ecosystem, and the company is shifting from traffic distributor to AI publisher whose source selection is becoming a question of editorial power. The article Google CE",
+    "url": "https://the-decoder.com/google-ceo-pichai-now-calls-links-a-part-of-search-redefining-the-webs-role-in-its-own-product/",
+    "source": "The Decoder",
+    "published_at": "2026-05-23T09:16:10+00:00",
+    "score": 6,
+    "archived_at": "2026-05-24T04:53:10.132033+00:00"
+  },
+  {
     "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content",
     "summary": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in is available worldwide across all tiers. OpenAI recommends saving important decks before using it. The article OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally dele",
     "url": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/",
@@ -2671,32 +2698,5 @@
     "published_at": "2026-04-29T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-04-29T04:13:31.787857+00:00"
-  },
-  {
-    "title": "Can Multimodal Large Language Models Truly Understand Small Objects?",
-    "summary": "arXiv:2604.22884v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have shown promising potential in diverse understanding tasks, e.g., image and video analysis, math and physics olympiads. However, they remain blank and unexplored for Small Object Understanding (SOU) tasks. To fill this gap, we introduce SOUBench, the first",
-    "url": "https://arxiv.org/abs/2604.22884",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-29T04:13:31.787857+00:00"
-  },
-  {
-    "title": "Utility-Aware Data Pricing: Token-Level Quality and Empirical Training Gain for LLMs",
-    "summary": "arXiv:2604.22893v1 Announce Type: cross Abstract: Traditional data valuation methods based on ``row-count $\\times$ quality coefficient'' paradigms fail to capture the nuanced, nonlinear contributions that data makes to Large Language Model (LLM) capabilities. This paper presents a dynamic data valuation framework that transitions from static accoun",
-    "url": "https://arxiv.org/abs/2604.22893",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-04-29T04:13:31.787857+00:00"
-  },
-  {
-    "title": "Council Mode: A Heterogeneous Multi-Agent Consensus Framework for Reducing LLM Hallucination and Bias",
-    "summary": "arXiv:2604.02923v3 Announce Type: replace-cross Abstract: Large Language Models (LLMs) have demonstrated advanced capabilities but often suffer from factual inaccuracies (hallucinations) and systematic biases. These issues, sometimes amplified in specific architectures like Mixture-of-Experts (MoE) which motivate our work, pose risks for reliable d",
-    "url": "https://arxiv.org/abs/2604.02923",
-    "source": "Arxiv AI",
-    "published_at": "2026-04-28T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-04-28T04:17:20.131665+00:00"
   }
 ]

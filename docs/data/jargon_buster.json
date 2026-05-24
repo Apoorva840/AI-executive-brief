@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 23, 2026",
+    "last_updated": "May 24, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Diffusion Language Models",
-            "definition": "Unlike standard autoregressive models that predict text one word at a time, Diffusion Language Models generate text by starting with a 'cloud' of random noise and iteratively refining it into a coherent message. This allows for parallel processing of data, which can significantly increase generation speed and allow for more flexible editing of existing text.",
-            "analogy": "In a kitchen, traditional AI is like a chef carefully stacking a layer cake one tier at a time from bottom to top. A Diffusion Model is like a master baker using a mold: they pour the batter in all at once and use heat to make the entire structure solidify into the final shape simultaneously.",
-            "business_value": "For the C-Suite, this means 'Speed-of-Light' generation that drastically reduces latency in customer-facing applications and cuts the massive compute costs associated with sequential processing, directly improving margins."
+            "term": "Agentic Systems",
+            "definition": "Agentic systems are AI frameworks designed to operate with high degrees of autonomy by breaking down complex, multi-step goals into sub-tasks without constant human intervention. These systems employ iterative reasoning loops, allowing the AI to use external tools, browse the web, or manipulate codebases to achieve a final objective independently.",
+            "analogy": "In a kitchen, a standard AI is a blender that performs one task when you press a button; an Agentic System is a professional Sous Chef who takes the instruction 'make dinner,' finds the ingredients, manages the stovetop, and adjusts the seasoning until the meal is complete.",
+            "business_value": "This shifts AI from a 'passive consultant' to an 'active employee,' enabling companies to automate end-to-end workflows in R&D and operations, drastically reducing the headcount required for repetitive digital labor."
         },
         {
-            "term": "Artificial General Intelligence (AGI)",
-            "definition": "AGI is the theoretical threshold where an AI system can understand, learn, and perform any intellectual task that a human being can do across any domain. It represents a shift from 'Narrow AI'\u2014which is programmed for specific tasks like coding or translation\u2014to an autonomous system capable of cross-disciplinary reasoning and self-evolution.",
-            "analogy": "Think of a car. Current AI is like a high-end Cruise Control or Lane Assist\u2014it is very good at one specific part of the journey. AGI is a vehicle that not only drives itself anywhere in the world but can also diagnose its own mechanical failures and negotiate its own insurance policy without human input.",
-            "business_value": "Investing in AGI-focused firms like Deepseek or DeepMind is a bet on 'The Singularity.' If achieved, it moves the company from selling software 'tools' to deploying autonomous 'digital employees' that can replace entire complex business processes, creating a massive first-mover advantage."
+            "term": "Token Economics (Price Arbitrage)",
+            "definition": "This refers to the shifting cost structure of Large Language Model (LLM) usage, where 'tokens' represent the basic units of text processed or generated. DeepSeek\u2019s drastic price reduction illustrates a race to the bottom in inference costs, making the processing of massive datasets economically viable for the first time.",
+            "analogy": "Imagine if a gallon of gasoline suddenly dropped from $4.00 to $0.12 overnight; the mechanics of your car haven't changed, but the cost of every delivery and commute in your business fleet has been effectively eliminated.",
+            "business_value": "Massive price drops enable 'token-hungry' applications\u2014like real-time legal auditing or 24/7 autonomous coding\u2014to move from expensive experiments to high-margin, scalable production environments."
         },
         {
-            "term": "Specialization vs. Scale",
-            "definition": "This strategic trend argues that fine-tuning smaller AI models on high-quality, niche proprietary data (Specialization) often yields better performance than simply increasing the number of parameters in a massive general model (Scale). It focuses on 'Vertical AI' that understands the specific jargon, logic, and regulatory constraints of a particular industry.",
-            "analogy": "In a professional kitchen, 'Scale' is a massive 500-item international buffet that is decent at everything but master of nothing. 'Specialization' is a Michelin-starred Sushi Chef who only does one thing, but does it with a level of precision and efficiency that the buffet could never hope to match.",
-            "business_value": "Procuring specialized models reduces 'hallucinations' and security risks. For the bottom line, smaller specialized models are cheaper to run, easier to audit for compliance, and provide a higher ROI than paying for the massive overhead of a 'one-size-fits-all' general model."
+            "term": "Automated Vulnerability Discovery (AVD)",
+            "definition": "AVD involves using specialized AI models to conduct deep semantic analysis of software code to identify security flaws or 'zero-day' exploits. Unlike legacy signature-based scanners, these models can understand complex logic and find critical bugs at a volume and speed that currently outpaces the human capacity to write and deploy patches.",
+            "analogy": "It is like having a car inspection sensor so sensitive it can detect a microscopic fracture inside a piston while the engine is running at 70 mph, but finding so many 'potential' failures that the mechanic cannot possibly fix them all before the next trip.",
+            "business_value": "While AVD hardens infrastructure, it creates a 'patching debt' crisis; executives must now pivot from 'finding bugs' to 'automated remediation' to prevent attackers from using the same AI tools to exploit newly discovered weaknesses."
         }
     ]
 }

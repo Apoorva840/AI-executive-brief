@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 23, 2026",
+    "last_updated": "May 24, 2026",
     "tools": [
         {
-            "Name": "SAM 3",
-            "Category": "Computer Vision",
-            "Description": "A unified foundation model for promptable segmentation in images and videos, capable of segmenting open-vocabulary concepts using text or visual prompts.",
-            "Use_Case": "Automated object detection, tracking, and instance segmentation in images and video streams.",
-            "URL": "https://github.com/facebookresearch/sam3"
+            "Name": "yt-dlp",
+            "Category": "Utilities",
+            "Description": "A feature-rich command-line audio/video downloader with support for thousands of sites, derived from youtube-dl.",
+            "Use_Case": "Downloading and archiving media content from a vast array of web platforms.",
+            "URL": "https://github.com/yt-dlp/yt-dlp"
         },
         {
-            "Name": "Scrapling",
-            "Category": "Web Scraping",
-            "Description": "An adaptive, high-performance web scraping framework that uses AI to maintain element selection even when website structures change.",
-            "Use_Case": "Building robust, anti-bot resistant web crawlers and scraping pipelines that survive UI changes.",
-            "URL": "https://github.com/D4Vinci/Scrapling"
+            "Name": "CrewAI",
+            "Category": "AI Agents",
+            "Description": "A framework for orchestrating role-playing, autonomous AI agents to work together on complex tasks.",
+            "Use_Case": "Building collaborative multi-agent systems for complex workflows and automation.",
+            "URL": "https://github.com/crewAIInc/crewAI"
         },
         {
-            "Name": "Fooocus",
-            "Category": "Image Generation",
-            "Description": "An offline, open-source image generation tool based on Stable Diffusion XL that emphasizes user prompt-centric generation over complex parameter tuning.",
-            "Use_Case": "Generating high-quality images locally without needing deep expertise in prompt engineering or technical model settings.",
-            "URL": "https://github.com/lllyasviel/Fooocus"
+            "Name": "Pydantic AI",
+            "Category": "AI Frameworks",
+            "Description": "A Python agent framework built on Pydantic, designed for building production-grade Generative AI applications.",
+            "Use_Case": "Developing type-safe, production-ready AI agents and workflows with seamless observability.",
+            "URL": "https://github.com/pydantic/pydantic-ai"
         }
     ]
 }

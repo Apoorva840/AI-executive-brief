@@ -1,74 +1,76 @@
 [
   {
-    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-    "source": "Hugging Face Blog",
-    "score": 8,
-    "what_happened": "Hugging Face Blog announced 'Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models', highlighting new developments relevant to AI researchers and practitioners.",
+    "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
+    "url": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 and over 34 times cheaper on output. For token-hungry agentic systems, this kind of pricing could squeeze Western providers hard. The article Deepseek makes its 75 percent discount permanent",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "ML Engineers",
-      "Open-Source Contributors"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-    "source": "Hugging Face Blog",
+    "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
+    "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
+    "source": "The Decoder",
     "score": 7,
-    "what_happened": "Hugging Face Blog announced 'Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook', highlighting new developments relevant to AI researchers and practitioners.",
+    "what_happened": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats Chinese rivals like DeepSeek V4 Pro and Kimi K2.6. The team also demos the model steering a four-legged robot. The article Alibaba&#039;s latest AI model ran autonomously for 35 hours to opt",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content",
+    "url": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/",
+    "source": "The Decoder",
+    "score": 6,
+    "what_happened": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in is available worldwide across all tiers. OpenAI recommends saving important decks before using it. The article OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally dele",
+    "technical_takeaway": null,
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+    "who_should_care": [
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
+    ],
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
+  },
+  {
+    "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding",
+    "url": "https://the-decoder.com/deepseek-reportedly-prioritizes-agi-research-over-quick-profits-despite-billions-in-funding/",
+    "source": "The Decoder",
+    "score": 6,
+    "what_happened": "Deepseek is about to raise around $10 billion, which would value the Chinese AI startup at roughly $45 billion. Founder Liang Wenfeng is telling investors he's putting AGI research ahead of short-term profits. The article Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding appeared first on The Decoder.",
     "technical_takeaway": null,
     "primary_risk": "Marginal performance gains may not justify integration effort.",
     "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
-      "ML Engineers",
-      "Open-Source Contributors"
+      "AI Professionals"
     ],
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks",
-    "url": "https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Trump killed an executive order on AI safety at the last minute after calls from Elon Musk, Mark Zuckerberg, and former advisor David Sacks. The order would have created a voluntary review system for frontier models with a 90-day window before release. The article Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks",
-    "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
-  },
-  {
-    "title": "Cloudflare CEO Prince says builders and sellers are safe but AI is coming for the measurers",
-    "url": "https://the-decoder.com/cloudflare-ceo-prince-says-builders-and-sellers-are-safe-but-ai-is-coming-for-the-measurers/",
+    "title": "OpenAI Appshots turn any Mac window into context for Codex",
+    "url": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/",
     "source": "The Decoder",
     "score": 6,
-    "what_happened": "Cloudflare CEO Matthew Prince laid off more than 20 percent of the workforce despite record revenue, claiming AI is replacing middle management and compliance roles. But the company offers no hard evidence for that. Falling margins and a headcount that surged 40 percent in two years point to a classic efficiency program wrapped in AI branding. The",
+    "what_happened": "With the new Codex feature Appshots, Mac users can send the contents of any app window to OpenAI's coding assistant Codex at the press of a button, giving it the context it needs for a task. The article OpenAI Appshots turn any Mac window into context for Codex appeared first on The Decoder.",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "AI Professionals"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
-  },
-  {
-    "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
-    "url": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
-    "source": "AI News",
-    "score": 6,
-    "what_happened": "OpenAI will open its first Applied AI Lab outside the US in Singapore. The lab is part of a new partnership with the Ministry of Digital Development and Information. The initiative, called OpenAI for Singapore, was announced at the ATx Summit and is backed by a commitment of more than S$300 million. The lab will [&#8230;] The post OpenAI opens Sing",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   }
 ]

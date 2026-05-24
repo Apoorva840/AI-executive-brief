@@ -1,107 +1,37 @@
 [
   {
-    "title": "Google I/O showed how the path for AI-driven science is shifting",
-    "summary": "During Tuesday\u2019s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently \u201cstanding in the foothills of the singularity.\u201d It was a striking statement\u2014the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I liste",
-    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-22T10:00:00+00:00"
-  },
-  {
-    "title": "Even If You Hate AI, You Will Use Google AI Search",
-    "summary": "The search giant\u2019s AI-crafted answers are so convenient, you\u2019ll be sucked in\u2014to the detriment of the web and the artists and thinkers behind it.",
-    "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-    "source": "Wired AI",
-    "published_at": "2026-05-22T15:00:00+00:00"
-  },
-  {
-    "title": "The Gulf\u2019s AI Boom Has an Undersea Cable Problem",
-    "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
-    "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
-    "source": "Wired AI",
-    "published_at": "2026-05-22T09:00:00+00:00"
-  },
-  {
-    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-    "summary": "",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-05-23T00:02:03+00:00"
-  },
-  {
-    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-    "summary": "",
-    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-05-22T15:25:59+00:00"
-  },
-  {
-    "title": "Cloudflare CEO Prince says builders and sellers are safe but AI is coming for the measurers",
-    "summary": "Cloudflare CEO Matthew Prince laid off more than 20 percent of the workforce despite record revenue, claiming AI is replacing middle management and compliance roles. But the company offers no hard evidence for that. Falling margins and a headcount that surged 40 percent in two years point to a classic efficiency program wrapped in AI branding. The ",
-    "url": "https://the-decoder.com/cloudflare-ceo-prince-says-builders-and-sellers-are-safe-but-ai-is-coming-for-the-measurers/",
+    "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
+    "summary": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 and over 34 times cheaper on output. For token-hungry agentic systems, this kind of pricing could squeeze Western providers hard. The article Deepseek makes its 75 percent discount permanent",
+    "url": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
     "source": "The Decoder",
-    "published_at": "2026-05-22T19:07:55+00:00"
+    "published_at": "2026-05-23T17:10:59+00:00"
   },
   {
-    "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content",
-    "summary": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in is available worldwide across all tiers. OpenAI recommends saving important decks before using it. The article OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally dele",
-    "url": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/",
+    "title": "One of the world's top law schools draws a hard line against AI in legal education",
+    "summary": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed. The school\u2019s rationale: future lawyers must first learn to think for themselves before they can use AI meaningfully. The article One of the world&#039;s top law schools draws a hard line ag",
+    "url": "https://the-decoder.com/one-of-the-worlds-top-law-schools-draws-a-hard-line-against-ai-in-legal-education/",
     "source": "The Decoder",
-    "published_at": "2026-05-22T17:51:50+00:00"
+    "published_at": "2026-05-23T10:55:03+00:00"
   },
   {
-    "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding",
-    "summary": "Deepseek is about to raise around $10 billion, which would value the Chinese AI startup at roughly $45 billion. Founder Liang Wenfeng is telling investors he's putting AGI research ahead of short-term profits. The article Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding appeared first on The Decoder.",
-    "url": "https://the-decoder.com/deepseek-reportedly-prioritizes-agi-research-over-quick-profits-despite-billions-in-funding/",
+    "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
+    "summary": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats Chinese rivals like DeepSeek V4 Pro and Kimi K2.6. The team also demos the model steering a four-legged robot. The article Alibaba&#039;s latest AI model ran autonomously for 35 hours to opt",
+    "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
     "source": "The Decoder",
-    "published_at": "2026-05-22T17:18:58+00:00"
+    "published_at": "2026-05-23T10:17:48+00:00"
   },
   {
-    "title": "OpenAI Appshots turn any Mac window into context for Codex",
-    "summary": "With the new Codex feature Appshots, Mac users can send the contents of any app window to OpenAI's coding assistant Codex at the press of a button, giving it the context it needs for a task. The article OpenAI Appshots turn any Mac window into context for Codex appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/",
+    "title": "Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product",
+    "summary": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep users inside the Google ecosystem, and the company is shifting from traffic distributor to AI publisher whose source selection is becoming a question of editorial power. The article Google CE",
+    "url": "https://the-decoder.com/google-ceo-pichai-now-calls-links-a-part-of-search-redefining-the-webs-role-in-its-own-product/",
     "source": "The Decoder",
-    "published_at": "2026-05-22T16:56:20+00:00"
+    "published_at": "2026-05-23T09:16:10+00:00"
   },
   {
-    "title": "OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation",
-    "summary": "OpenAI pulled in about $5.7 billion in Q1 2026 revenue but still lost $1.22 for every dollar earned, putting its adjusted operating margin at minus 122 percent. The article OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-burned-through-1-22-per-dollar-earned-even-after-stripping-out-stock-based-compensation/",
+    "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
+    "summary": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling up faster than anyone can patch them. Anthropic warns this creates a high-risk transition period and says no company, itself included, has built safe",
+    "url": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
     "source": "The Decoder",
-    "published_at": "2026-05-22T14:18:32+00:00"
-  },
-  {
-    "title": "California governor signs first US executive order to protect workers from AI job loss",
-    "summary": "California's governor just signed the first executive order by a US governor aimed at protecting workers from AI-driven job loss. The article California governor signs first US executive order to protect workers from AI job loss appeared first on The Decoder.",
-    "url": "https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/",
-    "source": "The Decoder",
-    "published_at": "2026-05-22T13:36:27+00:00"
-  },
-  {
-    "title": "Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks",
-    "summary": "Trump killed an executive order on AI safety at the last minute after calls from Elon Musk, Mark Zuckerberg, and former advisor David Sacks. The order would have created a voluntary review system for frontier models with a 90-day window before release. The article Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks ",
-    "url": "https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/",
-    "source": "The Decoder",
-    "published_at": "2026-05-22T11:26:47+00:00"
-  },
-  {
-    "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
-    "summary": "OpenAI will open its first Applied AI Lab outside the US in Singapore. The lab is part of a new partnership with the Ministry of Digital Development and Information. The initiative, called OpenAI for Singapore, was announced at the ATx Summit and is backed by a commitment of more than S$300 million. The lab will [&#8230;] The post OpenAI opens Sing",
-    "url": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
-    "source": "AI News",
-    "published_at": "2026-05-22T10:00:00+00:00"
-  },
-  {
-    "title": "China\u2019s AI just mapped its entire renewable energy grid. Here\u2019s why the rest of the world should pay attention",
-    "summary": "Every major economy is staring at the same problem right now. Artificial intelligence is consuming electricity at a pace that grids were never designed to handle. In the US, capacity market prices in PJM, the country&#8217;s largest grid operator, have risen more than tenfold in two years, with data-centre growth identified as a primary driver. [&#",
-    "url": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
-    "source": "AI News",
-    "published_at": "2026-05-22T10:00:00+00:00"
-  },
-  {
-    "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
-    "summary": "The ceremony was scheduled. The CEOs were on the guest list. And then it wasn&#8217;t happening. On Thursday, US President Donald Trump scrapped a planned AI executive order, which had already been delayed multiple times, citing concerns that it might erode America&#8217;s competitive edge over China. &#8220;We&#8217;re leading China, we&#8217;re l",
-    "url": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
-    "source": "AI News",
-    "published_at": "2026-05-22T09:00:00+00:00"
+    "published_at": "2026-05-23T07:42:10+00:00"
   }
 ]
