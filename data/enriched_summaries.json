@@ -1,76 +1,74 @@
 [
   {
-    "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
-    "url": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
+    "title": "PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs",
+    "url": "https://arxiv.org/abs/2605.23883",
+    "source": "Arxiv AI",
+    "score": 8,
+    "what_happened": "arXiv:2605.23883v1 Announce Type: cross Abstract: Despite remarkable progress in Multimodal Large Language Models (MLLMs), these models still struggle with fine-grained understanding tasks. In this work, we propose Procedurally Generated Tasks (PGT), a simple data-driven framework that serves a dual purpose: inducing fine-grained visual understandi",
+    "technical_takeaway": null,
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "who_should_care": [
+      "Research Scientists",
+      "ML Engineers"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training",
+    "url": "https://the-decoder.com/bytedance-study-finds-that-asking-lmms-questions-beats-making-it-transcribe-text-for-long-document-training/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 and over 34 times cheaper on output. For token-hungry agentic systems, this kind of pricing could squeeze Western providers hard. The article Deepseek makes its 75 percent discount permanent",
+    "what_happened": "ByteDance Seed shows that a 7B model can answer questions on long, image-heavy documents more reliably than much larger models, even when documents are four times longer than anything it saw during training. Instead of transcribing pages, the model learns by answering questions and finding the right passages on its own. The article ByteDance study",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
-    "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats Chinese rivals like DeepSeek V4 Pro and Kimi K2.6. The team also demos the model steering a four-legged robot. The article Alibaba&#039;s latest AI model ran autonomously for 35 hours to opt",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content",
-    "url": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/",
-    "source": "The Decoder",
-    "score": 6,
-    "what_happened": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in is available worldwide across all tiers. OpenAI recommends saving important decks before using it. The article OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally dele",
-    "technical_takeaway": null,
-    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
-    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
-    "who_should_care": [
-      "AI Infrastructure Engineers",
-      "Sustainability Leaders"
-    ],
-    "technical_angle": "Hardware and energy constraints now shape model design decisions."
-  },
-  {
-    "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding",
-    "url": "https://the-decoder.com/deepseek-reportedly-prioritizes-agi-research-over-quick-profits-despite-billions-in-funding/",
-    "source": "The Decoder",
-    "score": 6,
-    "what_happened": "Deepseek is about to raise around $10 billion, which would value the Chinese AI startup at roughly $45 billion. Founder Liang Wenfeng is telling investors he's putting AGI research ahead of short-term profits. The article Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding appeared first on The Decoder.",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools",
+    "url": "https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "When analyzing data, Microsoft Copilot invents country differences where none exist. Mathematician Adam Kucharski fed the tool identical datasets with different country labels, and Copilot delivered detailed stereotypes instead of accurate results. Thinking models catch the trick, but only if users know when to reach for them. The article Why you s",
+    "technical_takeaway": null,
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "AI Professionals"
     ],
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "OpenAI Appshots turn any Mac window into context for Codex",
-    "url": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/",
-    "source": "The Decoder",
-    "score": 6,
-    "what_happened": "With the new Codex feature Appshots, Mac users can send the contents of any app window to OpenAI's coding assistant Codex at the press of a button, giving it the context it needs for a task. The article OpenAI Appshots turn any Mac window into context for Codex appeared first on The Decoder.",
+    "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+    "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
+      "Policy Leaders",
+      "Tech Strategists"
     ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
+    "url": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling up faster than anyone can patch them. Anthropic warns this creates a high-risk transition period and says no company, itself included, has built safe",
+    "technical_takeaway": null,
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   }
 ]

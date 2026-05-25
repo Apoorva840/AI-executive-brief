@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 24, 2026",
+    "last_updated": "May 25, 2026",
     "tools": [
         {
-            "Name": "yt-dlp",
-            "Category": "Utilities",
-            "Description": "A feature-rich command-line audio/video downloader with support for thousands of sites, derived from youtube-dl.",
-            "Use_Case": "Downloading and archiving media content from a vast array of web platforms.",
-            "URL": "https://github.com/yt-dlp/yt-dlp"
+            "Name": "Scrapling",
+            "Category": "Web Scraping & Data Extraction",
+            "Description": "An adaptive Web Scraping framework that features element tracking and automatic relocation, capable of handling everything from single requests to full-scale concurrent crawls.",
+            "Use_Case": "Large-scale data collection, bypassing anti-bot systems like Cloudflare, and maintaining data extraction pipelines despite website design changes.",
+            "URL": "https://github.com/D4Vinci/Scrapling"
         },
         {
-            "Name": "CrewAI",
-            "Category": "AI Agents",
-            "Description": "A framework for orchestrating role-playing, autonomous AI agents to work together on complex tasks.",
-            "Use_Case": "Building collaborative multi-agent systems for complex workflows and automation.",
-            "URL": "https://github.com/crewAIInc/crewAI"
+            "Name": "Honcho",
+            "Category": "AI Agent Memory",
+            "Description": "Memory infrastructure for building stateful agents that track changes in people, agents, groups, and projects over time using reasoning-first storage.",
+            "Use_Case": "Enabling persistent, stateful memory for AI agents (Claude Code, OpenCode, OpenClaw) to build 'data moats' and improve agentic performance.",
+            "URL": "https://github.com/plastic-labs/honcho"
         },
         {
-            "Name": "Pydantic AI",
-            "Category": "AI Frameworks",
-            "Description": "A Python agent framework built on Pydantic, designed for building production-grade Generative AI applications.",
-            "Use_Case": "Developing type-safe, production-ready AI agents and workflows with seamless observability.",
-            "URL": "https://github.com/pydantic/pydantic-ai"
+            "Name": "TimesFM",
+            "Category": "Time-Series Foundation Model",
+            "Description": "A pretrained, decoder-only foundation model developed by Google Research specifically for time-series forecasting, supporting long context lengths and continuous quantile forecasting.",
+            "Use_Case": "Financial market forecasting, supply chain predictive analysis, and general time-series forecasting tasks that require large-scale data handling.",
+            "URL": "https://github.com/google-research/timesfm"
         }
     ]
 }

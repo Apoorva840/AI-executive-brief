@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 24, 2026",
+    "last_updated": "May 25, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Agentic Systems",
-            "definition": "Agentic systems are AI frameworks designed to operate with high degrees of autonomy by breaking down complex, multi-step goals into sub-tasks without constant human intervention. These systems employ iterative reasoning loops, allowing the AI to use external tools, browse the web, or manipulate codebases to achieve a final objective independently.",
-            "analogy": "In a kitchen, a standard AI is a blender that performs one task when you press a button; an Agentic System is a professional Sous Chef who takes the instruction 'make dinner,' finds the ingredients, manages the stovetop, and adjusts the seasoning until the meal is complete.",
-            "business_value": "This shifts AI from a 'passive consultant' to an 'active employee,' enabling companies to automate end-to-end workflows in R&D and operations, drastically reducing the headcount required for repetitive digital labor."
+            "term": "Hierarchical Attribution (for Compound AI)",
+            "definition": "A methodology used to quantify the specific contribution of individual sub-components within a multi-layered AI system to its final output. It utilizes mathematical frameworks like Shapley values to decompose the performance of a complex 'chain' of agents, identifying which specific module drove a success or triggered a failure.",
+            "analogy": "In a professional kitchen, if a signature dish is perfect, hierarchical attribution tells the Head Chef exactly whether the credit goes to the prep cook's ingredient selection, the saucier's seasoning, or the line cook's temperature control, rather than just praising the kitchen as a whole.",
+            "business_value": "This enables 'Precision ROI.' By identifying exactly which part of a complex AI workflow adds the most value, executives can strategically allocate R&D budgets to high-performing modules and eliminate 'ghost costs' from underperforming sub-agents."
         },
         {
-            "term": "Token Economics (Price Arbitrage)",
-            "definition": "This refers to the shifting cost structure of Large Language Model (LLM) usage, where 'tokens' represent the basic units of text processed or generated. DeepSeek\u2019s drastic price reduction illustrates a race to the bottom in inference costs, making the processing of massive datasets economically viable for the first time.",
-            "analogy": "Imagine if a gallon of gasoline suddenly dropped from $4.00 to $0.12 overnight; the mechanics of your car haven't changed, but the cost of every delivery and commute in your business fleet has been effectively eliminated.",
-            "business_value": "Massive price drops enable 'token-hungry' applications\u2014like real-time legal auditing or 24/7 autonomous coding\u2014to move from expensive experiments to high-margin, scalable production environments."
+            "term": "Goal-Level Energy Accounting",
+            "definition": "A sustainability metric that shifts the focus from 'energy per query' to the total energy consumed to successfully complete a multi-step, agentic task. It accounts for the cumulative power used across tool calls, reasoning loops, retries, and error corrections required to reach a specific business objective.",
+            "analogy": "Traditional AI metrics are like measuring how much gas you burn while idling in the driveway; Goal-Level Energy Accounting is measuring the total fuel consumed to drive from San Francisco to Los Angeles, including detours, traffic, and stops for fuel.",
+            "business_value": "As AI shifts from simple chatbots to autonomous agents, 'Cost per Token' is no longer a viable KPI. CEOs need 'Cost per Successful Outcome' to ensure the energy bill for automation doesn't exceed the human labor costs it was intended to replace."
         },
         {
-            "term": "Automated Vulnerability Discovery (AVD)",
-            "definition": "AVD involves using specialized AI models to conduct deep semantic analysis of software code to identify security flaws or 'zero-day' exploits. Unlike legacy signature-based scanners, these models can understand complex logic and find critical bugs at a volume and speed that currently outpaces the human capacity to write and deploy patches.",
-            "analogy": "It is like having a car inspection sensor so sensitive it can detect a microscopic fracture inside a piston while the engine is running at 70 mph, but finding so many 'potential' failures that the mechanic cannot possibly fix them all before the next trip.",
-            "business_value": "While AVD hardens infrastructure, it creates a 'patching debt' crisis; executives must now pivot from 'finding bugs' to 'automated remediation' to prevent attackers from using the same AI tools to exploit newly discovered weaknesses."
+            "term": "Neurosymbolic Synthesis",
+            "definition": "A hybrid framework that integrates the pattern-recognition capabilities of neural networks (LLMs) with the rigid, rule-based logic of symbolic systems. This allows AI to generate creative solutions that are simultaneously checked against formal mathematical proofs to ensure they are 100% accurate and verifiable.",
+            "analogy": "Think of it as a high-performance car where the neural network is the intuitive driver choosing the route, but the symbolic system is the car\u2019s hard-coded Electronic Stability Control that physically prevents the vehicle from breaking the laws of physics or veering off the road.",
+            "business_value": "This eliminates the 'Hallucination Liability.' For industries like finance, aerospace, and healthcare, neurosymbolic systems provide the formal guarantees and audit trails necessary to move AI from 'experimental assistant' to 'autonomous mission-critical operator.'"
         }
     ]
 }
