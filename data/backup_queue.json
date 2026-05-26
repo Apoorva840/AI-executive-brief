@@ -1,137 +1,137 @@
 [
   {
-    "title": "Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment",
-    "summary": "arXiv:2605.23780v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) need efficient mechanisms to update knowledge without degrading existing capabilities. While intrinsic multimodal knowledge editing achieves strong reliability and locality, it often exhibits limited generality, failing to propagate edits across semantically eq",
-    "url": "https://arxiv.org/abs/2605.23780",
+    "title": "QUIVER: A Formal Framework for Quantifying Perturbation Propagation and Bifurcation in Compound AI Systems",
+    "summary": "arXiv:2605.23956v1 Announce Type: new Abstract: Compound AI systems that chain multiple LLM calls into directed computation graphs are now the dominant architecture for production AI. Although these architectures leverage heterogeneous nodes with mixed-mode outputs, no existing framework quantifies how perturbations propagate through such pipelines",
+    "url": "https://arxiv.org/abs/2605.23956",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "LFRAG: Layout-oriented Fine-grained Retrieval-Augmented Generation on Multimodal Document Understanding",
-    "summary": "arXiv:2605.22829v1 Announce Type: cross Abstract: Multimodal Retrieval-Augmented Generation (RAG) has emerged as an effective paradigm for enhancing Large Language Models (LLMs) with external knowledge. However, existing multimodal RAG systems predominantly rely on coarse-grained page-level retrieval, which fails to capture fine-grained semantic an",
-    "url": "https://arxiv.org/abs/2605.22829",
+    "title": "EvoSci: A Bio-Inspired Multi-Agent Framework for the Evolution of Scientific Discovery",
+    "summary": "arXiv:2605.24018v1 Announce Type: new Abstract: Large language models (LLMs), have shown strong potential in scientific discovery, yet existing methods still face substantial challenges in the design of research workflows and multi-role collaboration mechanisms. To mitigate these issues, we propose EvoSci, a multi-agent scientific collaboration fra",
+    "url": "https://arxiv.org/abs/2605.24018",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "MadEvolve: Evolutionary Optimization of Trading Systems with Large Language Models",
-    "summary": "arXiv:2605.23007v1 Announce Type: cross Abstract: We explore the application of LLM-driven algorithm optimization to several common tasks in quantitative finance. MadEvolve, a general-purpose algorithm optimization framework inspired by DeepMind's Alpha-Evolve, was recently developed to optimize algorithms in computational cosmology. Here we demons",
-    "url": "https://arxiv.org/abs/2605.23007",
+    "title": "Agent-as-Peer-Debriefer: A Multi-Agent Framework with Perspective-Based Refinement for Qualitative Analysis",
+    "summary": "arXiv:2605.24600v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for qualitative data analysis (QDA), yet their outputs often miss the depth and nuance of human analysis. We argue this gap reflects a missing credibility practice from human QDA: peer debriefing, in which an analyst seeks feedback from a disintereste",
+    "url": "https://arxiv.org/abs/2605.24600",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception",
-    "summary": "arXiv:2605.23655v1 Announce Type: cross Abstract: High-resolution (HR) image perception presents a key bottleneck for multimodal large language models (MLLMs). While visual search offers a promising solution, existing methods struggle with the trade-off between coverage and efficiency. Visual expert-assisted search is efficient but prone to blind s",
-    "url": "https://arxiv.org/abs/2605.23655",
+    "title": "Lattice theory and algebraic models for deep convolutional learning based on mathematical morphology",
+    "summary": "arXiv:2605.24608v1 Announce Type: new Abstract: We develop a rigorous algebraic framework for deep convolutional architectures, CNNs, ResNets, and encoder--decoder networks such as UNet, grounded in lattice theory and mathematical morphology. The central tool is the Matheron--Maragos--Banon--Barrera (MMBB) universal representation theory for transl",
+    "url": "https://arxiv.org/abs/2605.24608",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "FATHOMS-RAG: A Framework for the Assessment of Thinking and Observation in Multimodal Systems that use Retrieval Augmented Generation",
-    "summary": "arXiv:2510.08945v3 Announce Type: replace Abstract: Retrieval-augmented generation (RAG) has emerged as a promising paradigm for improving factual accuracy in large language models (LLMs). We introduce a benchmark designed to evaluate RAG pipelines as a whole, evaluating a pipeline's ability to ingest, retrieve, and reason about several modalities ",
-    "url": "https://arxiv.org/abs/2510.08945",
+    "title": "Beyond Inference-Only Deployment: Comparing Weight-Based Consolidation Against Cascading Compaction",
+    "summary": "arXiv:2605.24657v1 Announce Type: new Abstract: Major LLM platforms deploy models in an inference-only configuration: the model serves requests but never updates per-user weights. Users must repeatedly re-teach preferences, corrections, and project context, and context-based workarounds consume context-window space and degrade under cascading compa",
+    "url": "https://arxiv.org/abs/2605.24657",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning",
-    "summary": "arXiv:2601.21692v2 Announce Type: replace Abstract: Fine-Tuning-as-a-Service (FTaaS) facilitates the customization of Multimodal Large Language Models (MLLMs) but introduces critical backdoor risks via poisoned data. Existing defenses either rely on supervised signals or fail to generalize across diverse trigger types and modalities. In this work, ",
-    "url": "https://arxiv.org/abs/2601.21692",
+    "title": "SpecAlign: A Semantic Alignment Framework for SystemVerilog Assertion Generation",
+    "summary": "arXiv:2605.25181v1 Announce Type: new Abstract: Existing Large Language Model (LLM) approaches to SystemVerilog Assertion (SVA) generation primarily focus on syntactic validity and formal verification outcomes, while semantic alignment between generated assertions and natural language specifications remains difficult to quantify. As a result, hallu",
+    "url": "https://arxiv.org/abs/2605.25181",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "Scaling-Aware Adapter for Structure-Grounded LLM Reasoning",
-    "summary": "arXiv:2602.02780v3 Announce Type: replace Abstract: Large language models (LLMs) are enabling reasoning over 2D and 3D structures, yet existing methods remain modality-specific and typically compress structural inputs through sequence-based tokenization or fixed-length query connectors. Such architectures either omit the geometric grounding requisi",
-    "url": "https://arxiv.org/abs/2602.02780",
+    "title": "Towards end-to-end LLM-based censoring-aware survival analysis",
+    "summary": "arXiv:2605.25399v1 Announce Type: new Abstract: Objective: Survival analysis is central to medical prediction, yet large language models (LLMs) are rarely used as end-to-end survival models because censoring prevents straightforward supervised fine-tuning. Here we present LLMSurvival, a framework that enables censoring-aware survival analysis with ",
+    "url": "https://arxiv.org/abs/2605.25399",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "Disentangling Interaction and Bias Effects in Opinion Dynamics of Large Language Models",
-    "summary": "arXiv:2509.06858v2 Announce Type: replace-cross Abstract: Large Language Models are increasingly used to simulate human opinion dynamics, yet the effect of genuine interaction is often obscured by systematic biases. We develop a Bayesian framework to disentangle and quantify three such biases: (i) A topic bias toward the LLM's default stance; (ii) ",
-    "url": "https://arxiv.org/abs/2509.06858",
+    "title": "Security of OpenClaw Agents: Fundamentals, Attacks, and Countermeasures",
+    "summary": "arXiv:2605.25435v1 Announce Type: new Abstract: The rapid evolution of large language model (LLM)-driven autonomous agents has given rise to OpenClaw, a new class of open-source agent frameworks that operate as continuously running, skill-augmented systems with persistent memory, multi-channel interaction, and high degrees of autonomy. Such capabil",
+    "url": "https://arxiv.org/abs/2605.25435",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "CoFrGeNet: Continued Fraction Architectures for Language Generation",
-    "summary": "arXiv:2601.21766v4 Announce Type: replace-cross Abstract: Transformers are arguably the preferred architecture for language generation. In this paper, inspired by continued fractions, we introduce a new function class for generative modeling. The architecture family implementing this function class is named CoFrGeNets - Continued Fraction Generativ",
-    "url": "https://arxiv.org/abs/2601.21766",
+    "title": "StructBreak: Structural Cognitive Overload-Induced Safety Failures in MLLMs",
+    "summary": "arXiv:2605.25534v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) excel at structural reasoning yet suffer from a sharp logical brittleness in structural consistency. We term this phenomenon Structural Cognitive Overload (SCO), a byproduct of the contention between deep reasoning and safety alignment. However, prior work has ",
+    "url": "https://arxiv.org/abs/2605.25534",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling",
-    "summary": "arXiv:2602.20210v2 Announce Type: replace-cross Abstract: Crystal modeling spans a family of conditional and unconditional generation tasks, including crystal structure prediction (CSP) and de novo generation (DNG). While recent deep generative models have shown promising performance, they remain largely task-specific, lacking a unified framework t",
-    "url": "https://arxiv.org/abs/2602.20210",
+    "title": "AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions",
+    "summary": "arXiv:2605.25707v1 Announce Type: new Abstract: Autonomous computer use agents that powered by multimodal large language models (MLLMs) are emerging as capable assistants for completing complex digital workflows. However, real-world execution environments are far from ideal: pop-ups, resolution changes, and competing applications frequently interfe",
+    "url": "https://arxiv.org/abs/2605.25707",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "Content-Aware Attack Detection in LLM Agent Tool-Call Traffic: An Empirical Study of Features, Architectures, and Evaluation Protocols",
-    "summary": "arXiv:2605.11053v3 Announce Type: replace-cross Abstract: The Model Context Protocol (MCP) has become a widely adopted interface for LLM agents to invoke external tools, yet learned monitoring of MCP tool-call traffic remains underexplored. In this article, the proposed detector is presented as an attack detection framework for MCP tool-call traffi",
-    "url": "https://arxiv.org/abs/2605.11053",
+    "title": "Check Your LLM's Secret Dictionary! Five Lines of Code Reveal What Your LLM Learned (Including What It Shouldn't Have)",
+    "summary": "arXiv:2605.22005v1 Announce Type: cross Abstract: We show that singular value decomposition of the lm_head} weight matrix of a transformer-based large language model -- requiring only five lines of PyTorch and no model inference -- reveals interpretable semantic subspaces directly from the model weights. Each left singular vector identifies the voc",
+    "url": "https://arxiv.org/abs/2605.22005",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "ReCoVer: Resilient LLM Pre-Training System via Fault-Tolerant Collective and Versatile Workload",
-    "summary": "arXiv:2605.11215v2 Announce Type: replace-cross Abstract: Pre-training large language models on massive GPU clusters has made hardware faults routine rather than rare, driving the need for resilient training systems. Yet existing frameworks either focus on specific parallelism schemes or risk drifting away from a failure-free training trajectory. W",
-    "url": "https://arxiv.org/abs/2605.11215",
+    "title": "SODE: Analyzing Social Dynamics in LLM Agents",
+    "summary": "arXiv:2605.23949v1 Announce Type: cross Abstract: As Large Language Models (LLMs) evolve into interactive agents, understanding their behavioral alignment within human social dynamics becomes essential. While behavioral game theory offers a framework to study these interactions, previous work has predominantly relied on outcome-based metrics such a",
+    "url": "https://arxiv.org/abs/2605.23949",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon",
-    "summary": "Anthropic will likely keep supplying AI models to the NSA despite being labeled a \"supply chain risk.\" Intelligence agencies lack Nvidia's latest Grace Blackwell chips, and Anthropic's \"Mythos\" model reportedly runs on older hardware too. The controversial \"any lawful use\" clause that derailed earlier talks is not part of the deal. The article Anth",
-    "url": "https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/",
-    "source": "The Decoder",
-    "published_at": "2026-05-24T08:51:02+00:00",
+    "title": "TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling",
+    "summary": "arXiv:2605.23966v1 Announce Type: cross Abstract: Optimization modeling serves as the pivotal bridge between natural-language problem descriptions and optimization solvers, and remains a cornerstone for bringing operations research (OR) into real-world decision making. Recent advances in large language models (LLMs) have driven significant progress",
+    "url": "https://arxiv.org/abs/2605.23966",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models",
-    "summary": "arXiv:2605.23238v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as economic agents in marketplaces, auctions, and bidding settings. Anticipating their behavior in any specific deployment is hard. Existing strategic-reasoning benchmarks evaluate models on fixed canonical games. These benchmarks may saturate as ",
-    "url": "https://arxiv.org/abs/2605.23238",
+    "title": "TRACER: A Semantic-Aware Framework for Fine-Grained Contamination Detection in Code LLMs",
+    "summary": "arXiv:2605.24079v1 Announce Type: cross Abstract: Data contamination is a known threat to the reliability of model evaluation. However, it remains underexplored in code large language models (LLMs), where contamination often goes beyond exact duplication. We present TRACER, a semantic-aware framework for fine-grained code contamination detection. T",
+    "url": "https://arxiv.org/abs/2605.24079",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "published_at": "2026-05-26T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   },
   {
-    "title": "Parallel Context Compaction for Long-Horizon LLM Agent Serving",
-    "summary": "arXiv:2605.23296v1 Announce Type: new Abstract: Long-horizon LLM agents accumulate growing conversation histories that eventually exceed the model's context window. Context compaction via LLM-based summarization keeps the conversation bounded, but summarization is inherently lossy and the blocking call stalls agent inference for tens of seconds. Mo",
-    "url": "https://arxiv.org/abs/2605.23296",
+    "title": "PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection",
+    "summary": "arXiv:2605.24171v1 Announce Type: cross Abstract: Large language models are increasingly used for vulnerability detection, yet their reliability under different prompt formulations remains uncharacterized. We present PromptAudit, a controlled evaluation framework that isolates prompt effects by fixing the dataset, decoding, and parsing while varyin",
+    "url": "https://arxiv.org/abs/2605.24171",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
+    "published_at": "2026-05-26T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   }
 ]

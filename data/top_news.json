@@ -1,43 +1,43 @@
 [
   {
-    "title": "PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs",
-    "summary": "arXiv:2605.23883v1 Announce Type: cross Abstract: Despite remarkable progress in Multimodal Large Language Models (MLLMs), these models still struggle with fine-grained understanding tasks. In this work, we propose Procedurally Generated Tasks (PGT), a simple data-driven framework that serves a dual purpose: inducing fine-grained visual understandi",
-    "url": "https://arxiv.org/abs/2605.23883",
+    "title": "ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference",
+    "summary": "arXiv:2510.02361v2 Announce Type: replace-cross Abstract: Transformer-based large models excel in natural language processing and computer vision, but face severe computational inefficiencies due to the self-attention's quadratic complexity with input tokens. Recently, researchers have proposed a series of methods based on block selection and compr",
+    "url": "https://arxiv.org/abs/2510.02361",
     "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
+    "published_at": "2026-05-26T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training",
-    "summary": "ByteDance Seed shows that a 7B model can answer questions on long, image-heavy documents more reliably than much larger models, even when documents are four times longer than anything it saw during training. Instead of transcribing pages, the model learns by answering questions and finding the right passages on its own. The article ByteDance study ",
-    "url": "https://the-decoder.com/bytedance-study-finds-that-asking-lmms-questions-beats-making-it-transcribe-text-for-long-document-training/",
+    "title": "At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection",
+    "summary": "Anthropic co-founder Christopher Olah was invited to speak at the launch of Pope Leo XIV's encyclical \"Magnifica Humanitas\" and used the stage to claim AI models show evidence of introspection and emotion-like states. The Pope's own document struck a different tone: \"These systems merely imitate certain functions of human intelligence.\" The article",
+    "url": "https://the-decoder.com/at-the-launch-of-pope-leo-xivs-encyclical-anthropic-co-founder-says-ai-models-show-signs-of-introspection/",
     "source": "The Decoder",
-    "published_at": "2026-05-24T13:28:45+00:00",
+    "published_at": "2026-05-25T13:40:07+00:00",
     "score": 7
   },
   {
-    "title": "Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools",
-    "summary": "When analyzing data, Microsoft Copilot invents country differences where none exist. Mathematician Adam Kucharski fed the tool identical datasets with different country labels, and Copilot delivered detailed stereotypes instead of accurate results. Thinking models catch the trick, but only if users know when to reach for them. The article Why you s",
-    "url": "https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/",
+    "title": "George Hotz says coding agents will be \"one of the most costly mistakes\" in software development",
+    "summary": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs deliver fast prototypes but fall apart on the details, producing bugs that keep getting harder to spot. His stance is one example of how deeply split the AI community is over the role of LLMs. The",
+    "url": "https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/",
     "source": "The Decoder",
-    "published_at": "2026-05-24T10:17:46+00:00",
+    "published_at": "2026-05-25T09:05:34+00:00",
     "score": 7
   },
   {
-    "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
-    "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
-    "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+    "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+    "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+    "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
     "source": "Wired AI",
-    "published_at": "2026-05-24T10:30:00+00:00",
+    "published_at": "2026-05-25T10:30:00+00:00",
     "score": 5
   },
   {
-    "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
-    "summary": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling up faster than anyone can patch them. Anthropic warns this creates a high-risk transition period and says no company, itself included, has built safe",
-    "url": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
-    "source": "The Decoder",
-    "published_at": "2026-05-23T07:42:10+00:00",
+    "title": "Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment",
+    "summary": "arXiv:2605.23780v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) need efficient mechanisms to update knowledge without degrading existing capabilities. While intrinsic multimodal knowledge editing achieves strong reliability and locality, it often exhibits limited generality, failing to propagate edits across semantically eq",
+    "url": "https://arxiv.org/abs/2605.23780",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-25T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-24T04:53:10.132033+00:00"
+    "archived_at": "2026-05-25T05:06:19.862321+00:00"
   }
 ]

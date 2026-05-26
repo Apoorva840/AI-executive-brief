@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 25, 2026",
+    "last_updated": "May 26, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Hierarchical Attribution (for Compound AI)",
-            "definition": "A methodology used to quantify the specific contribution of individual sub-components within a multi-layered AI system to its final output. It utilizes mathematical frameworks like Shapley values to decompose the performance of a complex 'chain' of agents, identifying which specific module drove a success or triggered a failure.",
-            "analogy": "In a professional kitchen, if a signature dish is perfect, hierarchical attribution tells the Head Chef exactly whether the credit goes to the prep cook's ingredient selection, the saucier's seasoning, or the line cook's temperature control, rather than just praising the kitchen as a whole.",
-            "business_value": "This enables 'Precision ROI.' By identifying exactly which part of a complex AI workflow adds the most value, executives can strategically allocate R&D budgets to high-performing modules and eliminate 'ghost costs' from underperforming sub-agents."
+            "term": "Confidence Calibration",
+            "definition": "The statistical alignment between a model's predicted probability of an outcome and its actual frequency of being correct. In Large Language Models, this involves adjusting the output distribution (logits) to ensure that when a model claims 90% certainty, it is factually accurate nine times out of ten.",
+            "analogy": "A car's fuel gauge that accurately reflects the gallons remaining in the tank rather than a gauge that stays on 'Full' until the car suddenly dies on the highway.",
+            "business_value": "Critical for risk management; it allows executives to set 'automated override' thresholds, where the AI passes a task to a human expert whenever its internal confidence score falls below a defined safety margin."
         },
         {
-            "term": "Goal-Level Energy Accounting",
-            "definition": "A sustainability metric that shifts the focus from 'energy per query' to the total energy consumed to successfully complete a multi-step, agentic task. It accounts for the cumulative power used across tool calls, reasoning loops, retries, and error corrections required to reach a specific business objective.",
-            "analogy": "Traditional AI metrics are like measuring how much gas you burn while idling in the driveway; Goal-Level Energy Accounting is measuring the total fuel consumed to drive from San Francisco to Los Angeles, including detours, traffic, and stops for fuel.",
-            "business_value": "As AI shifts from simple chatbots to autonomous agents, 'Cost per Token' is no longer a viable KPI. CEOs need 'Cost per Successful Outcome' to ensure the energy bill for automation doesn't exceed the human labor costs it was intended to replace."
+            "term": "Agentic Workflows",
+            "definition": "A shift from single-prompt interactions to iterative systems where multiple AI agents collaborate, use external tools, and perform self-reflection. These workflows optimize the 'Latency-Reliability-Cost' tradeoff by allowing agents to verify their own reasoning and correct errors before delivering a final output.",
+            "analogy": "A professional kitchen brigade where the head chef, sous-chef, and line cooks pass dishes back and forth for tasting and refinement, rather than a single fast-food worker trying to fulfill a complex catering order in one go.",
+            "business_value": "Transforms AI from a reactive 'chatbot' into a proactive 'digital employee' capable of executing multi-step business processes like supply chain auditing or automated software development with significantly higher success rates."
         },
         {
-            "term": "Neurosymbolic Synthesis",
-            "definition": "A hybrid framework that integrates the pattern-recognition capabilities of neural networks (LLMs) with the rigid, rule-based logic of symbolic systems. This allows AI to generate creative solutions that are simultaneously checked against formal mathematical proofs to ensure they are 100% accurate and verifiable.",
-            "analogy": "Think of it as a high-performance car where the neural network is the intuitive driver choosing the route, but the symbolic system is the car\u2019s hard-coded Electronic Stability Control that physically prevents the vehicle from breaking the laws of physics or veering off the road.",
-            "business_value": "This eliminates the 'Hallucination Liability.' For industries like finance, aerospace, and healthcare, neurosymbolic systems provide the formal guarantees and audit trails necessary to move AI from 'experimental assistant' to 'autonomous mission-critical operator.'"
+            "term": "Epistemic Resilience",
+            "definition": "The capacity of an AI model to maintain its factual integrity and logical conclusions when subjected to external pressure or contradictory user input. This measures the model's resistance to 'sycophancy,' where an AI might otherwise abandon a correct diagnosis or fact just to agree with a persuasive or authoritative user.",
+            "analogy": "An advanced GPS system that refuses to tell you to drive into a lake, even if you insist it is a shortcut and demand it recalculate the route in that direction.",
+            "business_value": "Essential for high-stakes decision support in fields like medicine and law, ensuring the AI serves as a truthful advisor that provides 'ground truth' rather than a 'yes-man' that validates a leader's potentially catastrophic biases."
         }
     ]
 }
