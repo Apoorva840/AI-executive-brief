@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 26, 2026",
+    "last_updated": "May 27, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Confidence Calibration",
-            "definition": "The statistical alignment between a model's predicted probability of an outcome and its actual frequency of being correct. In Large Language Models, this involves adjusting the output distribution (logits) to ensure that when a model claims 90% certainty, it is factually accurate nine times out of ten.",
-            "analogy": "A car's fuel gauge that accurately reflects the gallons remaining in the tank rather than a gauge that stays on 'Full' until the car suddenly dies on the highway.",
-            "business_value": "Critical for risk management; it allows executives to set 'automated override' thresholds, where the AI passes a task to a human expert whenever its internal confidence score falls below a defined safety margin."
+            "term": "Agentic AI",
+            "definition": "Agentic AI refers to systems that transition from passive chat interfaces to autonomous actors capable of multi-step reasoning, planning, and tool utilization. These systems use iterative feedback loops to execute complex workflows across disparate software environments without constant human intervention.",
+            "analogy": "In a car, standard AI is the GPS giving you directions; Agentic AI is the self-driving system that actually operates the steering wheel, pedals, and signals to get you to your destination while navigating traffic in real-time.",
+            "business_value": "This shifts AI from a 'consultant' to a 'digital employee,' allowing for the automation of end-to-end operational processes like debt collection or software deployment, which reduces headcount dependency and dramatically increases execution speed."
         },
         {
-            "term": "Agentic Workflows",
-            "definition": "A shift from single-prompt interactions to iterative systems where multiple AI agents collaborate, use external tools, and perform self-reflection. These workflows optimize the 'Latency-Reliability-Cost' tradeoff by allowing agents to verify their own reasoning and correct errors before delivering a final output.",
-            "analogy": "A professional kitchen brigade where the head chef, sous-chef, and line cooks pass dishes back and forth for tasting and refinement, rather than a single fast-food worker trying to fulfill a complex catering order in one go.",
-            "business_value": "Transforms AI from a reactive 'chatbot' into a proactive 'digital employee' capable of executing multi-step business processes like supply chain auditing or automated software development with significantly higher success rates."
+            "term": "Embodied AI Training",
+            "definition": "This process involves capturing multimodal data\u2014such as spatial movements, haptic pressure, and visual sequences\u2014from humans performing physical tasks to train 'world models' for robotics. By digitizing chores and manual labor, developers enable humanoid robots to learn the physics and nuances required to operate in unstructured human environments.",
+            "analogy": "Think of a kitchen where you aren't just reading a recipe, but actually recording the precise pressure a chef applies to a knife and the exact angle of a pan toss. You are turning 'muscle memory' into a digital blueprint that any robotic arm can download.",
+            "business_value": "It represents the bridge between digital intelligence and physical labor; for CEOs, this means the eventual automation of high-churn manual roles in logistics, facility maintenance, and hospitality through scalable robotic fleets."
         },
         {
-            "term": "Epistemic Resilience",
-            "definition": "The capacity of an AI model to maintain its factual integrity and logical conclusions when subjected to external pressure or contradictory user input. This measures the model's resistance to 'sycophancy,' where an AI might otherwise abandon a correct diagnosis or fact just to agree with a persuasive or authoritative user.",
-            "analogy": "An advanced GPS system that refuses to tell you to drive into a lake, even if you insist it is a shortcut and demand it recalculate the route in that direction.",
-            "business_value": "Essential for high-stakes decision support in fields like medicine and law, ensuring the AI serves as a truthful advisor that provides 'ground truth' rather than a 'yes-man' that validates a leader's potentially catastrophic biases."
+            "term": "Algorithmic Alignment",
+            "definition": "Algorithmic Alignment is the technical discipline of ensuring an AI model\u2019s goals and behaviors remain strictly within the bounds of human ethics and safety protocols. It utilizes techniques like Constitutional AI or Reinforcement Learning from Human Feedback (RLHF) to prevent 'reward hacking,' where an agent might achieve a goal through unintended or harmful shortcuts.",
+            "analogy": "Imagine a kitchen blender programmed only to 'make a smoothie as fast as possible.' Without alignment, it might blend your jewelry if it's nearby to add volume. Alignment is the safety governor that ensures the blender only operates on food, regardless of the speed requirement.",
+            "business_value": "As AI gains autonomy, alignment becomes the ultimate risk-mitigation tool; it protects the brand from 'hallucinated' liabilities and ensures that autonomous agents don't violate regulatory or ethical standards while pursuing bottom-line targets."
         }
     ]
 }

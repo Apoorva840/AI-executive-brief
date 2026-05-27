@@ -1,5 +1,140 @@
 [
   {
+    "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
+    "summary": "arXiv:2605.26256v1 Announce Type: new Abstract: Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, personalized assistance requires more than following generic instruction or recognizing object categories. In real-world scenarios, the intended target ",
+    "url": "https://arxiv.org/abs/2605.26256",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "Furina: Fragmented Uncertainty-Driven Refusal Instability Attack",
+    "summary": "arXiv:2605.26158v1 Announce Type: cross Abstract: Safety alignment in large language models (LLMs) and multimodal large language models (MLLMs) is commonly assumed to operate as a near-binary threshold mechanism. We challenge this assumption by revealing that safety behavior is governed by an instability region where small perturbations induce stoc",
+    "url": "https://arxiv.org/abs/2605.26158",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "VisualNeedle: Benchmarking Active Visual Search in Information-Dense Scenes",
+    "summary": "arXiv:2605.26380v1 Announce Type: cross Abstract: Frontier multimodal large language models (MLLMs) have been reported to achieve over 90% accuracy on fine-grained perception benchmarks. However, such scores do not necessarily imply faithful use of visual evidence. Prior studies have identified three shortcuts that inflate benchmark performance. Fi",
+    "url": "https://arxiv.org/abs/2605.26380",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "The Rescue Effect: Spatio-Semantic Early Exit Bypasses Quantization Collapse in CLIP",
+    "summary": "arXiv:2605.26415v1 Announce Type: cross Abstract: Deploying Vision-Language Models on resource-constrained hardware typically requires INT8 quantization, but in joint-embedding architectures such as CLIP this introduces a failure mode distinct from quantized CNN classifiers: activation noise accumulated across transformer blocks perturbs the direct",
+    "url": "https://arxiv.org/abs/2605.26415",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "Diffuse to Detect: Generative Diffusion Models for Unsupervised IC Anomaly Detection",
+    "summary": "arXiv:2605.26468v1 Announce Type: cross Abstract: Latent defect screening is challenged by extremely low failure rates, high-dimensional test data, and absence of labeled anomalies. We propose the first unsupervised anomaly detection framework incorporating a Diffusion Transformer. Raw test measurements are first compressed by an autoencoder, then ",
+    "url": "https://arxiv.org/abs/2605.26468",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "Dense2MoE: Pushing the Pareto Frontier of On-Device LLMs via Unified Pruning and Upcycling",
+    "summary": "arXiv:2605.26496v1 Announce Type: cross Abstract: The Mixture of Experts MoE architecture is highly promising for resource constrained on device deployments yet training these models from scratch incurs prohibitive costs Current methods attempt to alleviate this by upcycling dense models into MoEs however they often introduce parameter redundancy t",
+    "url": "https://arxiv.org/abs/2605.26496",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search",
+    "summary": "arXiv:2605.26636v1 Announce Type: cross Abstract: We introduce JetViT, a novel family of hybrid-architecture Vision Transformer (ViT) models that match the accuracy of state-of-the-art full-attention vision foundation models while achieving substantially higher inference efficiency on high-resolution images. At the core of our approach is Post-Trai",
+    "url": "https://arxiv.org/abs/2605.26636",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "More Expressive Feedforward Layers: Part I. Token-Adaptive Mixing of Activations",
+    "summary": "arXiv:2605.26647v1 Announce Type: cross Abstract: Feedforward network (FFN) layers account for a large fraction of parameters and nonlinear expressivity in Transformer-based large language models (LLMs). Despite the evolution from ReLU and GELU to gated variants such as SwiGLU, most FFN designs still use a single fixed activation function, applying",
+    "url": "https://arxiv.org/abs/2605.26647",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "DynFrame: Adaptive Reasoning-Driven Multimodal Framework with Dynamic Frame Augmentation for Complex Video Understanding",
+    "summary": "arXiv:2605.26680v1 Announce Type: cross Abstract: Recent video multimodal large language models (MLLMs) increasingly couple step-by-step reasoning with on-demand visual evidence retrieval, allowing models to revisit relevant video segments during inference. However, two structural gaps remain in existing thinking-with-video systems. (i) Sampling de",
+    "url": "https://arxiv.org/abs/2605.26680",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "SeDT: Sentence-Transformer Decision-Transformer Conditioning for Multi-Turn Conversation Reliability",
+    "summary": "arXiv:2605.26788v1 Announce Type: cross Abstract: Large language models (LLMs) achieve impressive performance when a task is fully specified in a single turn, yet the same models lose up to 39% of that performance when the identical task is revealed incrementally across multiple turns, a phenomenon documented at scale as Lost in Conversation. Cruci",
+    "url": "https://arxiv.org/abs/2605.26788",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "Innovation: An Almost Characterization of Hallucination",
+    "summary": "arXiv:2605.26808v1 Announce Type: cross Abstract: Hallucination is a central limitation of large language models (LLMs), and substantial effort has been devoted to understanding and mitigating it. Towards this, Kalai and Vempala (STOC 2024) introduced a probabilistic framework formalizing calibration and hallucination, and showed that, with high pr",
+    "url": "https://arxiv.org/abs/2605.26808",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "Tracing Computation Density in LLMs",
+    "summary": "arXiv:2605.27033v1 Announce Type: cross Abstract: Transformer-based large language models (LLMs) are comprised of billions of parameters arranged in deep and wide computational graphs, but it is not clear that they exploit their full capacity for all inputs. We introduce the s-Trace method to efficiently estimate the subgraph of size s that best ap",
+    "url": "https://arxiv.org/abs/2605.27033",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents",
+    "summary": "arXiv:2605.27068v1 Announce Type: cross Abstract: Social deduction games have become a popular testbed for probing reasoning, deception, coordination, and belief modeling in Large Language Model (LLM) agents. However, most environments are scored only by game outcomes such as win rates and largely remain to text-only interaction, making it difficul",
+    "url": "https://arxiv.org/abs/2605.27068",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "DEI: Diversity in Evolutionary Inference for Quality-Diversity Search",
+    "summary": "arXiv:2605.27130v1 Announce Type: cross Abstract: We present DEI: Diversity in Evolutionary Inference, a distributed Quality-Diversity (QD) search framework that assigns heterogeneous large language models (LLMs) as mutation operators across peer nodes communicating with non-blocking collective operations. Unlike homogeneous parallel search, which ",
+    "url": "https://arxiv.org/abs/2605.27130",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
+    "title": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
+    "summary": "arXiv:2605.27354v1 Announce Type: cross Abstract: Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich intrinsic signals lying in model internals. We propose SAERL, a data engineering framework for LLM r",
+    "url": "https://arxiv.org/abs/2605.27354",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-27T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-27T04:59:30.603010+00:00"
+  },
+  {
     "title": "QUIVER: A Formal Framework for Quantifying Perturbation Propagation and Bifurcation in Compound AI Systems",
     "summary": "arXiv:2605.23956v1 Announce Type: new Abstract: Compound AI systems that chain multiple LLM calls into directed computation graphs are now the dominant architecture for production AI. Although these architectures leverage heterogeneous nodes with mixed-mode outputs, no existing framework quantifies how perturbations propagate through such pipelines",
     "url": "https://arxiv.org/abs/2605.23956",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-05-01T15:54:01+00:00",
     "score": 3,
     "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Operationalizing AI for Scale and Sovereignty",
-    "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and",
-    "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-01T15:31:09+00:00",
-    "score": 3,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "A new US phone network for Christians aims to block porn and gender-related content",
-    "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;",
-    "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-01T09:00:00+00:00",
-    "score": 3,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
-    "summary": "arXiv:2604.27082v1 Announce Type: new Abstract: We present a framework for migrating production Large Language Model (LLM) based systems when the underlying model reaches end-of-life or requires replacement. The key contribution is a Bayesian statistical approach that calibrates automated evaluation metrics against human judgments, enabling confide",
-    "url": "https://arxiv.org/abs/2604.27082",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "Toward Personalized Digital Twins for Cognitive Decline Assessment: A Multimodal, Uncertainty-Aware Framework",
-    "summary": "arXiv:2604.27217v1 Announce Type: new Abstract: Cognitive decline is highly heterogeneous across individuals, which complicates prognosis, trial design, and treatment planning. We present the Personalized Cognitive Decline Assessment Digital Twin (PCD-DT), a multimodal and uncertainty-aware framework for modeling patient-specific disease trajectori",
-    "url": "https://arxiv.org/abs/2604.27217",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling",
-    "summary": "arXiv:2604.27253v1 Announce Type: new Abstract: Recent advances in multimodal large language models (LLMs) have revolutionized web agents that can automate complex tasks on websites. However, their accuracy remains limited by the scarcity of high-quality web trajectory training data. Existing automatic trajectory generation methods suffer from inco",
-    "url": "https://arxiv.org/abs/2604.27253",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?",
-    "summary": "arXiv:2604.27419v1 Announce Type: new Abstract: With the advancement of multimodal large language models (MLLMs) and coding agents, the website development has shifted from manual programming to agent-based project-level code synthesis. Existing benchmarks rely on idealized assumptions, especially for well-structured, information-rich inputs and st",
-    "url": "https://arxiv.org/abs/2604.27419",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "Optimization before Evaluation: Evaluation with Unoptimised Prompts Can be Misleading",
-    "summary": "arXiv:2604.27637v1 Announce Type: new Abstract: Current Large Language Model (LLM) evaluation frameworks utilize the same static prompt template across all models under evaluation. This differs from the common industry practice of using prompt optimization (PO) techniques to optimize the prompt for each model to maximize application performance. In",
-    "url": "https://arxiv.org/abs/2604.27637",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks",
-    "summary": "arXiv:2604.27891v1 Announce Type: new Abstract: Agent orchestration frameworks -- LangGraph, CrewAI, Google ADK, OpenAI Agents SDK, and others -- place an external orchestrator above the LLM, tracking state and injecting routing instructions at every turn. We present a controlled comparison showing that for procedural tasks, this architecture is do",
-    "url": "https://arxiv.org/abs/2604.27891",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "Simulating clinical interventions with a generative multimodal model of human physiology",
-    "summary": "arXiv:2604.27899v1 Announce Type: new Abstract: Understanding how human health changes over time, and why responses to interventions vary between individuals, remains a central challenge in medicine. Here we present HealthFormer, a decoder-only transformer that models the human physiological trajectory generatively, by training on data from the Hum",
-    "url": "https://arxiv.org/abs/2604.27899",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "A Pattern Language for Resilient Visual Agents",
-    "summary": "arXiv:2604.28001v1 Announce Type: new Abstract: Integrating multimodal foundation models into enterprise ecosystems presents a fundamental software architecture challenge. Architects must balance competing quality attributes: the high latency and non-determinism of vision language action (VLA) models versus the strict determinism and real-time perf",
-    "url": "https://arxiv.org/abs/2604.28001",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "SpecVQA: A Benchmark for Spectral Understanding and Visual Question Answering in Scientific Images",
-    "summary": "arXiv:2604.28039v1 Announce Type: new Abstract: Spectra are a prevalent yet highly information-dense form of scientific imagery, presenting substantial challenges to multimodal large language models (MLLMs) due to their unstructured and domain-specific characteristics. Here we introduce SpecVQA, a professional scientific-image benchmark for evaluat",
-    "url": "https://arxiv.org/abs/2604.28039",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "Simulating Validity: Modal Decoupling in MLLM Generated Feedback on Science Drawings",
-    "summary": "arXiv:2604.26957v1 Announce Type: cross Abstract: In science education, students frequently construct hand-drawn visual models of scientific phenomena. These drawings rely on a visual structure where information is encoded through visual objects, their attributes, and relationships. Multimodal large language models (MLLMs) are increasingly used to ",
-    "url": "https://arxiv.org/abs/2604.26957",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "COHERENCE: Benchmarking Fine-Grained Image-Text Alignment in Interleaved Multimodal Contexts",
-    "summary": "arXiv:2604.27389v1 Announce Type: cross Abstract: In recent years, Multimodal Large Language Models (MLLMs) have achieved remarkable progress on a wide range of multimodal benchmarks. Despite these advances, most existing benchmarks mainly focus on single-image or multi-image comprehension. In real-world scenarios such as document reading, informat",
-    "url": "https://arxiv.org/abs/2604.27389",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "From Mirage to Grounding: Towards Reliable Multimodal Circuit-to-Verilog Code Generation",
-    "summary": "arXiv:2604.27969v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) are increasingly used to translate visual artifacts into code, from UI mockups into HTML to scientific plots into Python scripts. A circuit diagram can be viewed as a visual domain-specific language for hardware: it encodes timing, topology, and bit level sem",
-    "url": "https://arxiv.org/abs/2604.27969",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
-  },
-  {
-    "title": "ITS-Mina: A Harris Hawks Optimization-Based All-MLP Framework with Iterative Refinement and External Attention for Multivariate Time Series Forecasting",
-    "summary": "arXiv:2604.27981v1 Announce Type: cross Abstract: Multivariate time series forecasting plays a pivotal role in numerous real-world applications, including financial analysis, energy management, and traffic planning. While Transformer-based architectures have gained popularity for this task, recent studies reveal that simpler MLP-based models can ac",
-    "url": "https://arxiv.org/abs/2604.27981",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-01T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-01T04:39:54.564897+00:00"
   }
 ]

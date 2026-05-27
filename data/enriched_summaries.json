@@ -1,39 +1,10 @@
 [
   {
-    "title": "ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference",
-    "url": "https://arxiv.org/abs/2510.02361",
+    "title": "Experiments in Agentic AI for Science",
+    "url": "https://arxiv.org/abs/2605.26305",
     "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "arXiv:2510.02361v2 Announce Type: replace-cross Abstract: Transformer-based large models excel in natural language processing and computer vision, but face severe computational inefficiencies due to the self-attention's quadratic complexity with input tokens. Recently, researchers have proposed a series of methods based on block selection and compr",
-    "technical_takeaway": null,
-    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
-    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
-    "who_should_care": [
-      "AI Infrastructure Engineers",
-      "Sustainability Leaders"
-    ],
-    "technical_angle": "Hardware and energy constraints now shape model design decisions."
-  },
-  {
-    "title": "At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection",
-    "url": "https://the-decoder.com/at-the-launch-of-pope-leo-xivs-encyclical-anthropic-co-founder-says-ai-models-show-signs-of-introspection/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Anthropic co-founder Christopher Olah was invited to speak at the launch of Pope Leo XIV's encyclical \"Magnifica Humanitas\" and used the stage to claim AI models show evidence of introspection and emotion-like states. The Pope's own document struck a different tone: \"These systems merely imitate certain functions of human intelligence.\" The article",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "George Hotz says coding agents will be \"one of the most costly mistakes\" in software development",
-    "url": "https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs deliver fast prototypes but fall apart on the details, producing bugs that keep getting harder to spot. His stance is one example of how deeply split the AI community is over the role of LLMs. The",
+    "what_happened": "arXiv:2605.26305v1 Announce Type: new Abstract: This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remote Brain architecture via Google Colab, utilizing Python-based local orchestrators to invoke large language model (LLM) cloud backends. The first agent,",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -44,33 +15,61 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "The AI Era Is Creating a Bug Hunting Arms Race",
-    "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+    "title": "AI-hallucinated citations are creeping into papers that shape clinical guidelines, researchers warn",
+    "url": "https://the-decoder.com/ai-hallucinated-citations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "An audit of 2.5 million biomedical papers by Columbia University and other institutions shows that the rate of fabricated references has increased more than twelvefold since 2023. The researchers suspect a link to the widespread use of language models - the fake references match their paper's topic, follow correct formatting, and are nearly impossi",
+    "technical_takeaway": null,
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "Autonomous AI systems test governance in physical environments",
+    "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+    "source": "AI News",
+    "score": 7,
+    "what_happened": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments. Most existing AI governance frameworks have focused on online harms and model outputs, including bia",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\"",
+    "url": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/",
+    "source": "The Decoder",
+    "score": 6,
+    "what_happened": "Shortly after OpenAI disproved Erdős' unit-distance conjecture, Anthropic shows Claude Mythos can solve the problem too - \"over the weekend.\" Engineer Sholto Douglas says Mythos cracked the 1946 conjecture with a \"cute, simple proof,\" a sign of \"serious overhang\" in AI-driven math discoveries. The article Claude Mythos reportedly solves OpenAI&#039",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+  },
+  {
+    "title": "Pope Leo Schooled the Tech Bros on Tolkien",
+    "url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
     "source": "Wired AI",
     "score": 5,
-    "what_happened": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+    "what_happened": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "Policy Leaders",
       "Tech Strategists"
     ],
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment",
-    "url": "https://arxiv.org/abs/2605.23780",
-    "source": "Arxiv AI",
-    "score": 7,
-    "what_happened": "arXiv:2605.23780v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) need efficient mechanisms to update knowledge without degrading existing capabilities. While intrinsic multimodal knowledge editing achieves strong reliability and locality, it often exhibits limited generality, failing to propagate edits across semantically eq",
-    "technical_takeaway": null,
-    "primary_risk": "Fragmentation across hardware-specific inference stacks.",
-    "primary_opportunity": "Low-latency, privacy-preserving user experiences.",
-    "who_should_care": [
-      "Mobile Engineers",
-      "Product Managers"
-    ],
-    "technical_angle": "Hybrid local-cloud inference is becoming the dominant deployment model."
   }
 ]
