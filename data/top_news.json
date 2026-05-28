@@ -1,42 +1,42 @@
 [
   {
-    "title": "Experiments in Agentic AI for Science",
-    "summary": "arXiv:2605.26305v1 Announce Type: new Abstract: This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remote Brain architecture via Google Colab, utilizing Python-based local orchestrators to invoke large language model (LLM) cloud backends. The first agent,",
-    "url": "https://arxiv.org/abs/2605.26305",
+    "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
+    "summary": "arXiv:2605.27373v1 Announce Type: new Abstract: As intelligent systems become more autonomous, the scientific community focuses on creating decision-making mechanisms that include ethical and moral considerations, unlike traditional utility-maximisation models. To achieve this, a key aspect is assessing how well these decisions align with human val",
+    "url": "https://arxiv.org/abs/2605.27373",
     "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "AI-hallucinated citations are creeping into papers that shape clinical guidelines, researchers warn",
-    "summary": "An audit of 2.5 million biomedical papers by Columbia University and other institutions shows that the rate of fabricated references has increased more than twelvefold since 2023. The researchers suspect a link to the widespread use of language models - the fake references match their paper's topic, follow correct formatting, and are nearly impossi",
-    "url": "https://the-decoder.com/ai-hallucinated-citations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/",
-    "source": "The Decoder",
-    "published_at": "2026-05-26T12:36:11+00:00",
+    "published_at": "2026-05-28T04:00:00+00:00",
     "score": 7
   },
   {
-    "title": "Autonomous AI systems test governance in physical environments",
-    "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments. Most existing AI governance frameworks have focused on online harms and model outputs, including bia",
-    "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-05-27T17:20:29+00:00",
+    "score": 7
+  },
+  {
+    "title": "Microsoft's MAI-Image-2.5 pulls even with Google's Nano Banana 2 on benchmarks",
+    "summary": "Microsoft's MAI-Image-2.5 ranks third on Arena's text-to-image leaderboard, on par with Google's Nano Banana 2 but still behind OpenAI's Image-2. The model shows clear gains over its predecessor, especially in rendering text inside images and commercial visuals. The article Microsoft&#039;s MAI-Image-2.5 pulls even with Google&#039;s Nano Banana 2 ",
+    "url": "https://the-decoder.com/microsofts-mai-image-2-5-pulls-even-with-googles-nano-banana-2-on-benchmarks/",
+    "source": "The Decoder",
+    "published_at": "2026-05-27T18:31:10+00:00",
+    "score": 7
+  },
+  {
+    "title": "China turns its aging camera network into an AI-powered mass surveillance apparatus",
+    "summary": "China's police are upgrading millions of old surveillance cameras with AI. Manufacturers like Hikvision and Huawei now ship cameras with built-in computer vision and language models that automatically detect crowds, suspicious behavior, or unauthorized access. Instead of reviewing footage manually, officers just type a text query. Human Rights Watc",
+    "url": "https://the-decoder.com/china-turns-its-aging-camera-network-into-an-ai-powered-mass-surveillance-apparatus/",
+    "source": "The Decoder",
+    "published_at": "2026-05-27T13:02:22+00:00",
+    "score": 7
+  },
+  {
+    "title": "Google folds Display Ads into AI-first Demand Gen platform",
+    "summary": "Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open internet for almost twenty years. Marketers previously relied on its predictable framework to target placements, bid on audiences, and A/B test static cre",
+    "url": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
     "source": "AI News",
-    "published_at": "2026-05-26T10:00:00+00:00",
+    "published_at": "2026-05-27T13:12:06+00:00",
     "score": 7
-  },
-  {
-    "title": "Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\"",
-    "summary": "Shortly after OpenAI disproved Erdős' unit-distance conjecture, Anthropic shows Claude Mythos can solve the problem too - \"over the weekend.\" Engineer Sholto Douglas says Mythos cracked the 1946 conjecture with a \"cute, simple proof,\" a sign of \"serious overhang\" in AI-driven math discoveries. The article Claude Mythos reportedly solves OpenAI&#039",
-    "url": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/",
-    "source": "The Decoder",
-    "published_at": "2026-05-26T18:31:07+00:00",
-    "score": 6
-  },
-  {
-    "title": "Pope Leo Schooled the Tech Bros on Tolkien",
-    "summary": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
-    "url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
-    "source": "Wired AI",
-    "published_at": "2026-05-26T23:19:03+00:00",
-    "score": 5
   }
 ]

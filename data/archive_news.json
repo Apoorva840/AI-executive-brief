@@ -1,5 +1,140 @@
 [
   {
+    "title": "A Unified Framework for the Evaluation of LLM Agentic Capabilities",
+    "summary": "arXiv:2605.27898v1 Announce Type: new Abstract: As LLMs are increasingly deployed as agents, reliable assessment of their agentic capabilities has become essential. However, reported benchmark scores often jointly reflect model capability and the implementation choices each benchmark is packaged with, making cross-benchmark results difficult to int",
+    "url": "https://arxiv.org/abs/2605.27898",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "PetroBench: A Benchmark for Large Language Models in Petroleum Engineering",
+    "summary": "arXiv:2605.28032v1 Announce Type: new Abstract: Large Language Models are increasingly applied in the petroleum industry, highlighting the need for a domain-specific evaluation framework. This study develops a benchmark for LLMs in petroleum engineering, including a three-stage process of data preprocessing, quality filtering, and multi-model valid",
+    "url": "https://arxiv.org/abs/2605.28032",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "MACReD: A Multi-Agent Collaborative Reasoning Framework for Reaction Diagram Parsing",
+    "summary": "arXiv:2605.28077v1 Announce Type: new Abstract: Parsing chemical reaction diagrams from scientific literature is challenging due to heterogeneous layouts, intertwined visual elements, and the difficulty of integrating recognition and reasoning. Existing vision-language models advance multimodal understanding but still fail on complex diagrams, stru",
+    "url": "https://arxiv.org/abs/2605.28077",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "Let Relations Speak: An End-to-End LLM-GNN Soft Prompt Framework for Fraud Detection",
+    "summary": "arXiv:2605.28524v1 Announce Type: new Abstract: In recent years, Large Language Models (LLMs) have shown great capability in processing graph tasks such as fraud detection. However, most existing methods rely heavily on rich text attributes, which poses difficulties for this domain due to the lack of textual data. Although some pioneering methods a",
+    "url": "https://arxiv.org/abs/2605.28524",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "Tree of Thoughts as a Classical Heuristic Search Problem: Formal Foundations and Design Patterns",
+    "summary": "arXiv:2605.28566v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated remarkable reasoning capabilities, yet their standard generation process -- auto-regressive token prediction -- is inherently myopic and prone to cascading errors. To address this, the Tree-of-Thoughts (ToT) framework creates a search space over intermedi",
+    "url": "https://arxiv.org/abs/2605.28566",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "Adaptive Multimodal Agents-Based Framework for Automatic Workflow Execution",
+    "summary": "arXiv:2605.28607v1 Announce Type: new Abstract: Modern information systems require autonomous agents capable of navigating complex workflows, yet current methodologies often struggle with the transition from structured metadata parsing to general environmental perception. While the integration of MLLMs has enabled agents to interact directly with G",
+    "url": "https://arxiv.org/abs/2605.28607",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "Bandwidth-Efficient and Privacy-Preserving Edge-Cloud Many-to-Many Speech Translation",
+    "summary": "arXiv:2605.28642v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have demonstrated significant potential for speech-to-text translation (S2TT). However, existing deployment paradigms face critical challenges: pure on-device models suffer from resource constraints, while centralized cloud systems incur severe privacy risks an",
+    "url": "https://arxiv.org/abs/2605.28642",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "StoryMI: Steerable Multi-Agent Therapeutic Dialogue Generation",
+    "summary": "arXiv:2605.27393v1 Announce Type: cross Abstract: Large language models (LLMs) can generate fluent dialogue, but prior works lack situational grounding, dynamic strategy control, and evaluation aligned with clinical standards in motivational interviewing (MI). We introduce StoryMI, a multi-LLM agent framework for controllable MI dialogue generation",
+    "url": "https://arxiv.org/abs/2605.27393",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "RAGe: A Retrieval-Augmented Generation Evaluation Framework",
+    "summary": "arXiv:2605.27445v1 Announce Type: cross Abstract: Deploying Large Language Model (LLM) applications, particularly those relying on Retrieval-Augmented Generation (RAG), remains challenging due to high computational demands, outdated knowledge bases, and the need to manually select optimal pipeline components. In this work, we propose a modular fram",
+    "url": "https://arxiv.org/abs/2605.27445",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving",
+    "summary": "arXiv:2605.27480v1 Announce Type: cross Abstract: Large language model (LLM) serving creates environmental impacts beyond carbon and water, including ecosystem damage through biodiversity-related pathways. We present BIRDS, a framework for Biodiversity Impact of Request-Driven LLM Serving. BIRDS defines request-level functional units, quantifies op",
+    "url": "https://arxiv.org/abs/2605.27480",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "Hallucination Behavior in Multimodal LLMs Across Agricultural Image Interpretation and Generation Tasks",
+    "summary": "arXiv:2605.27595v1 Announce Type: cross Abstract: Large Language Models (LLMs) are being rapidly adopted in agricultural imaging applications, ranging from crop interpretation to synthetic field image generation. However, these models frequently exhibit hallucinations outputs that appear confident yet deviate from biological or environmental realit",
+    "url": "https://arxiv.org/abs/2605.27595",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "CiteCheck: Retrieval-Grounded Detection of LLM Citation Hallucinations in Scientific Text",
+    "summary": "arXiv:2605.27700v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to generate scientific reports, but they can produce references that appear plausible while containing corrupted metadata or pointing to papers that do not exist. We introduce CiteCheck, a hybrid framework for citation hallucination detection that v",
+    "url": "https://arxiv.org/abs/2605.27700",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "Locality-Aware Redundancy Pruning for LLM Depth Compression",
+    "summary": "arXiv:2605.27786v1 Announce Type: cross Abstract: Large language models are known to contain representational redundancy across network depth, making depth pruning an effective approach for improving inference efficiency. Existing one-shot pruning methods rely on local layer importance or fixed redundancy assumptions across architectures. We propos",
+    "url": "https://arxiv.org/abs/2605.27786",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "ROVER: Routing Object-Centric Visual Evidence for Grounded Multi-Image Reasoning",
+    "summary": "arXiv:2605.27959v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have increasingly localized and interleaved visual evidence for deliberative reasoning. Grounding-based approaches typically focus on regions of interest (RoIs) by injecting cropped image patches or RoI-specific features into the reasoning context. However, s",
+    "url": "https://arxiv.org/abs/2605.27959",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
+    "title": "PromptEmbedder:: Efficient and Transferable Text Embedding via Dual-LLM Soft Prompting",
+    "summary": "arXiv:2605.28066v1 Announce Type: cross Abstract: Large Language Models (LLMs) have demonstrated remarkable efficacy in text embedding, yet current adaptation methods like LoRA face significant bottlenecks in computational efficiency and cross-architecture transferability. Whenever a new backbone emerges, existing approaches require costly retraini",
+    "url": "https://arxiv.org/abs/2605.28066",
+    "source": "Arxiv AI",
+    "published_at": "2026-05-28T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-05-28T04:53:58.865115+00:00"
+  },
+  {
     "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
     "summary": "arXiv:2605.26256v1 Announce Type: new Abstract: Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, personalized assistance requires more than following generic instruction or recognizing object categories. In real-world scenarios, the intended target ",
     "url": "https://arxiv.org/abs/2605.26256",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-05-03T07:00:50+00:00",
     "score": 7,
     "archived_at": "2026-05-04T04:31:23.299743+00:00"
-  },
-  {
-    "title": "Microsoft caught sneaking \"Co-Authored-by Copilot\" into VS Code commits - even with AI off",
-    "summary": "Microsoft quietly slipped a \"Co-Authored-by Copilot\" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely. The article Microsoft caught sneaking &quot;Co-Authored-by Copilot&quot; into VS Code commits - even with AI off appeared first on The Decoder.",
-    "url": "https://the-decoder.com/co-pilot-becomes-a-co-author-in-vs-code-without-being-asked/",
-    "source": "The Decoder",
-    "published_at": "2026-05-03T09:31:15+00:00",
-    "score": 6,
-    "archived_at": "2026-05-04T04:31:23.299743+00:00"
-  },
-  {
-    "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
-    "summary": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator. The article xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects appeared first on T",
-    "url": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
-    "source": "The Decoder",
-    "published_at": "2026-05-02T07:35:24+00:00",
-    "score": 7,
-    "archived_at": "2026-05-03T04:31:28.319295+00:00"
-  },
-  {
-    "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
-    "summary": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs. The article xAI&#039;s new Custom Voices feature turns a minute of speech into a usable voice clone appeared first on The Decoder.",
-    "url": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/",
-    "source": "The Decoder",
-    "published_at": "2026-05-02T12:14:46+00:00",
-    "score": 6,
-    "archived_at": "2026-05-03T04:31:28.319295+00:00"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
-    "summary": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society. The article Nvidia CEO Jensen Huang calls out tech leaders&#039; &quot;god complex&quot; over reckless AI job loss predictions appeared first on The Decoder.",
-    "url": "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/",
-    "source": "The Decoder",
-    "published_at": "2026-05-02T10:32:09+00:00",
-    "score": 6,
-    "archived_at": "2026-05-03T04:31:28.319295+00:00"
-  },
-  {
-    "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue",
-    "summary": "OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can disable it in your account settings. The article ChatGPT now tracks users for ads by default as OpenAI looks for new revenue appeared first on The Dec",
-    "url": "https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/",
-    "source": "The Decoder",
-    "published_at": "2026-05-02T08:30:15+00:00",
-    "score": 6,
-    "archived_at": "2026-05-03T04:31:28.319295+00:00"
-  },
-  {
-    "title": "Meta acquires Assured Robot Intelligence to accelerate humanoid robot push",
-    "summary": "Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones. The article Meta acquires Assured Robot Intelligence to accelerate humanoid robot push appeared first on The Decoder.",
-    "url": "https://the-decoder.com/meta-acquires-assured-robot-intelligence-to-accelerate-humanoid-robot-push/",
-    "source": "The Decoder",
-    "published_at": "2026-05-02T08:02:06+00:00",
-    "score": 6,
-    "archived_at": "2026-05-03T04:31:28.319295+00:00"
-  },
-  {
-    "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
-    "summary": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group. GPT-5.5, meanwhile, is already shipping in ChatGPT and through the API. The article GPT-",
-    "url": "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/",
-    "source": "The Decoder",
-    "published_at": "2026-05-01T10:25:37+00:00",
-    "score": 7,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model",
-    "summary": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode. The article Mistral&#039;s new flagship Medium 3.5 folds chat, reasoning, and code into one m",
-    "url": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/",
-    "source": "The Decoder",
-    "published_at": "2026-05-01T08:21:14+00:00",
-    "score": 7,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Eight tech giants sign Pentagon deals to build an \"AI-first fighting force\" across classified networks",
-    "summary": "Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an \"AI-first fighting force.\" Anthropic is notably absent from the list after the company rejected a usage clause and got flagged as a security risk. The article Eight tech giants sign Pentagon deals to build an &quot;AI-first fighting fo",
-    "url": "https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/",
-    "source": "The Decoder",
-    "published_at": "2026-05-01T16:30:38+00:00",
-    "score": 6,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "First Chinese AI startups are reportedly ditching offshore structures to register directly in China",
-    "summary": "After Beijing blocked Meta's takeover of Manus, China's securities regulator signaled that companies hoping to go public should be registered at home. Now AI startups like Moonshot AI and StepFun are considering dissolving their foreign holding structures and registering directly in China as part of Beijing's broader push to keep its AI industry un",
-    "url": "https://the-decoder.com/first-chinese-ai-startups-are-reportedly-ditching-offshore-structures-to-register-directly-in-china/",
-    "source": "The Decoder",
-    "published_at": "2026-05-01T16:06:04+00:00",
-    "score": 6,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Big tech's AI spending balloons to $725 billion this year",
-    "summary": "Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around $725 billion for next year. The article Big tech&#039;s AI spending balloons to $725 billion this year appeared first on The Decoder.",
-    "url": "https://the-decoder.com/big-techs-ai-spending-balloons-to-725-billion-this-year/",
-    "source": "The Decoder",
-    "published_at": "2026-05-01T14:41:45+00:00",
-    "score": 6,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Microsoft puts an AI legal agent inside Word for contract review",
-    "summary": "Microsoft is bringing an AI agent for lawyers straight into Word. The \"Legal Agent\" reviews contracts, suggests edits, and checks clauses against internal guidelines. The article Microsoft puts an AI legal agent inside Word for contract review appeared first on The Decoder.",
-    "url": "https://the-decoder.com/microsoft-puts-an-ai-legal-agent-inside-word-for-contract-review/",
-    "source": "The Decoder",
-    "published_at": "2026-05-01T13:11:36+00:00",
-    "score": 6,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians",
-    "summary": "Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also shows why ChatGPT's voice mode isn't ready for serious tasks, let alone medical consultations. The article Google Deepmind&#039;s &quot;AI co-clinicia",
-    "url": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/",
-    "source": "The Decoder",
-    "published_at": "2026-05-01T09:21:32+00:00",
-    "score": 5,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-    "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
-    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-01T22:08:19+00:00",
-    "score": 3,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
-  },
-  {
-    "title": "Cyber-Insecurity in the AI Era",
-    "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230",
-    "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-01T15:54:01+00:00",
-    "score": 3,
-    "archived_at": "2026-05-02T04:03:36.528644+00:00"
   }
 ]

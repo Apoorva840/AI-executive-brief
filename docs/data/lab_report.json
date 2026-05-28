@@ -2,25 +2,25 @@
     "last_updated": "2024-05-27",
     "papers": [
         {
-            "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
-            "innovation": "Introduces the crucial concept of 'agent lifespan engineering,' shifting evaluation focus from initial performance to long-term reliability and degradation in deployed AI agent systems. This addresses a critical, often-overlooked challenge in maintaining operational AI agents.",
-            "benchmarks": "Critiques current day-one benchmarks as insufficient for assessing the long-term reliability and efficacy of deployed agents, implicitly calling for new longitudinal evaluation methodologies to track performance degradation and robustness over time.",
-            "use_case": "Essential for AI engineers responsible for deploying, monitoring, and maintaining long-lived AI agents in production environments. It provides a framework for anticipating and mitigating performance degradation, ensuring continuous reliability and trustworthiness of operational AI systems.",
-            "url": "https://arxiv.org/abs/2605.26302"
+            "title": "Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access",
+            "innovation": "Agyn is an open-source platform addressing critical production deployment challenges for AI agents, focusing on scalable on-demand execution, defining agents as code, and zero-trust access. It provides the necessary infrastructure for operating AI agents at scale with proper governance and security.",
+            "benchmarks": "The platform's design targets operational benchmarks such as scalability, reliability, security (zero-trust access), and ease of management for agent workflows in production environments. Performance metrics would involve throughput, latency, and resource utilization for agent execution at scale.",
+            "use_case": "Deploying, managing, and securing AI agents in production environments; building scalable agent-based systems; implementing MLOps principles for AI agents within enterprises.",
+            "url": "https://arxiv.org/abs/2605.27575"
         },
         {
-            "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
-            "innovation": "Proposes a fundamental rethinking of agent memory, moving beyond simple storage to a holistic data foundation. It emphasizes establishing correctness not just at individual records or embeddings, but across the entire memory system, crucial for persistent, reliable agents.",
-            "benchmarks": "Highlights the inadequacy of current paradigms in evaluating the holistic correctness and integrity of long-term agent memory, suggesting a need for benchmarks that assess how well memory supports learning across sessions, reduces context injection, and enables auditing.",
-            "use_case": "Critical for AI engineers designing the architectural backbone of long-running AI agents. This paper guides the development of robust, scalable, and auditable memory systems that enable agents to learn persistently, maintain context, and ensure decision-making integrity over extended periods.",
-            "url": "https://arxiv.org/abs/2605.26252"
+            "title": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
+            "innovation": "Introduces LaneRoPE, a novel positional encoding method designed for collaborative parallel generation in LLM inference. Unlike traditional methods where parallel sequences are generated independently, LaneRoPE enables collaboration within a batch (e.g., best-of-N decoding) to enhance accuracy and computational efficiency.",
+            "benchmarks": "Aims to boost accuracy and computational efficiency for parallel LLM generation. Performance would be measured against standard LLM generation tasks (e.g., summarization, text completion) using metrics like BLEU, ROUGE, or human evaluation, alongside throughput and latency improvements in batch inference scenarios.",
+            "use_case": "Optimizing LLM inference performance and cost, particularly for applications utilizing parallel decoding strategies (like best-of-N or self-consistency) to improve output quality or generate multiple diverse responses efficiently.",
+            "url": "https://arxiv.org/abs/2605.27570"
         },
         {
-            "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
-            "innovation": "Addresses the significant challenge of personalizing MLLM-based embodied agents. It moves beyond generic instruction following to enable agents to adapt to individual user preferences and specific real-world contexts over long-term interactions, which is key for practical utility.",
-            "benchmarks": "Implicitly argues for the need for benchmarks that can rigorously evaluate an agent's ability to personalize its interactions, understand nuanced user intent, and adapt to specific targets and evolving user needs through extended engagements in complex environments.",
-            "use_case": "Highly relevant for AI engineers developing user-facing embodied AI assistants, robots, or virtual agents. This work provides insights into building agents that can offer truly personalized and context-aware assistance, enhancing user experience and agent effectiveness in real-world, long-term deployments.",
-            "url": "https://arxiv.org/abs/2605.26256"
+            "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
+            "innovation": "Proposes DynaSchedBench, a calibrated benchmark generator to overcome limitations of static benchmarks (overfitting) and uncalibrated generators (stochastic noise) in neural combinatorial optimization, specifically for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) and LLM-based scheduling agents.",
+            "benchmarks": "DynaSchedBench serves as a benchmark generator itself. It allows for calibrated evaluation of LLM-based scheduling agents and neural combinatorial optimization algorithms, providing a robust and reliable methodology to assess algorithmic capabilities for complex dynamic scheduling problems.",
+            "use_case": "Developing, evaluating, and comparing LLM-based agents and other neural combinatorial optimization solutions for dynamic scheduling problems in industries like manufacturing, logistics, and resource allocation, ensuring rigorous and unbiased performance assessment.",
+            "url": "https://arxiv.org/abs/2605.27566"
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 25, 2026",
+    "last_updated": "May 28, 2026",
     "tools": [
         {
-            "Name": "Scrapling",
-            "Category": "Web Scraping & Data Extraction",
-            "Description": "An adaptive Web Scraping framework that features element tracking and automatic relocation, capable of handling everything from single requests to full-scale concurrent crawls.",
-            "Use_Case": "Large-scale data collection, bypassing anti-bot systems like Cloudflare, and maintaining data extraction pipelines despite website design changes.",
-            "URL": "https://github.com/D4Vinci/Scrapling"
+            "Name": "Crawl4AI",
+            "Category": "Web Scraping & Crawling",
+            "Description": "An open-source, high-performance web crawler and scraper designed to transform web pages into clean, LLM-ready Markdown.",
+            "Use_Case": "Automated data extraction for RAG pipelines, AI agents, and custom data analytics.",
+            "URL": "https://github.com/unclecode/crawl4ai"
         },
         {
-            "Name": "Honcho",
-            "Category": "AI Agent Memory",
-            "Description": "Memory infrastructure for building stateful agents that track changes in people, agents, groups, and projects over time using reasoning-first storage.",
-            "Use_Case": "Enabling persistent, stateful memory for AI agents (Claude Code, OpenCode, OpenClaw) to build 'data moats' and improve agentic performance.",
-            "URL": "https://github.com/plastic-labs/honcho"
+            "Name": "vLLM",
+            "Category": "LLM Inference & Serving",
+            "Description": "A high-throughput and memory-efficient engine for serving large language models, featuring PagedAttention and support for numerous model architectures.",
+            "Use_Case": "Production-grade serving of LLMs with high throughput and low latency for diverse infrastructure.",
+            "URL": "https://github.com/vllm-project/vllm"
         },
         {
-            "Name": "TimesFM",
-            "Category": "Time-Series Foundation Model",
-            "Description": "A pretrained, decoder-only foundation model developed by Google Research specifically for time-series forecasting, supporting long context lengths and continuous quantile forecasting.",
-            "Use_Case": "Financial market forecasting, supply chain predictive analysis, and general time-series forecasting tasks that require large-scale data handling.",
-            "URL": "https://github.com/google-research/timesfm"
+            "Name": "Agent Governance Toolkit",
+            "Category": "AI Governance & Security",
+            "Description": "A toolkit for enforcing policies, managing identities, and monitoring autonomous AI agents to ensure safety and reliability in production.",
+            "Use_Case": "Implementing guardrails and compliance checks for AI agents to prevent unauthorized actions and tool abuse.",
+            "URL": "https://github.com/microsoft/agent-governance-toolkit"
         }
     ]
 }

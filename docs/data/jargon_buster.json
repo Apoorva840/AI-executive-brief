@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 27, 2026",
+    "last_updated": "May 28, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Agentic AI",
-            "definition": "Agentic AI refers to systems that transition from passive chat interfaces to autonomous actors capable of multi-step reasoning, planning, and tool utilization. These systems use iterative feedback loops to execute complex workflows across disparate software environments without constant human intervention.",
-            "analogy": "In a car, standard AI is the GPS giving you directions; Agentic AI is the self-driving system that actually operates the steering wheel, pedals, and signals to get you to your destination while navigating traffic in real-time.",
-            "business_value": "This shifts AI from a 'consultant' to a 'digital employee,' allowing for the automation of end-to-end operational processes like debt collection or software deployment, which reduces headcount dependency and dramatically increases execution speed."
+            "term": "Machine Unlearning (Representation-Level)",
+            "definition": "Machine unlearning is the process of removing the influence of specific training data points from a pre-trained model without the massive expense of retraining the model from scratch. Representation-level verification ensures the model has actually purged the internal neural patterns associated with that data, rather than just learning to hide or suppress the information at the output layer.",
+            "analogy": "Imagine a chef who accidentally added a restricted allergen to a massive vat of soup. Instead of dumping the whole pot (retraining), machine unlearning is a sophisticated filtration process that targets and neutralizes only those specific flavor molecules at a molecular level, ensuring no trace remains in the final taste.",
+            "business_value": "This is critical for regulatory compliance regarding the 'Right to be Forgotten' (GDPR/CCPA) and IP protection. It allows companies to scrub sensitive customer data or proprietary secrets from their AI models quickly, avoiding massive legal liabilities and the multi-million dollar costs of full model restarts."
         },
         {
-            "term": "Embodied AI Training",
-            "definition": "This process involves capturing multimodal data\u2014such as spatial movements, haptic pressure, and visual sequences\u2014from humans performing physical tasks to train 'world models' for robotics. By digitizing chores and manual labor, developers enable humanoid robots to learn the physics and nuances required to operate in unstructured human environments.",
-            "analogy": "Think of a kitchen where you aren't just reading a recipe, but actually recording the precise pressure a chef applies to a knife and the exact angle of a pan toss. You are turning 'muscle memory' into a digital blueprint that any robotic arm can download.",
-            "business_value": "It represents the bridge between digital intelligence and physical labor; for CEOs, this means the eventual automation of high-churn manual roles in logistics, facility maintenance, and hospitality through scalable robotic fleets."
+            "term": "Test-Time Scaling (Parallel Reasoning)",
+            "definition": "Test-time scaling is a technique where additional computational power is allocated during the generation phase (inference) rather than just during the training phase. By running multiple parallel reasoning paths and verifying them against each other (e.g., Best-of-N), the model can 'think' longer on complex problems to significantly improve accuracy and logical consistency.",
+            "analogy": "Traditional AI is like a driver following a GPS blindly; Test-Time Scaling is like a driver who, upon reaching a complex and dangerous intersection, stops to mentally simulate three different routes and check for potential hazards on each before deciding which way to turn.",
+            "business_value": "This shifts AI from 'creative guessing' to 'reliable reasoning.' For the bottom line, this enables AI deployment in high-stakes environments like financial auditing or legal discovery, where the cost of a single error is higher than the cost of the extra electricity used to verify the answer."
         },
         {
-            "term": "Algorithmic Alignment",
-            "definition": "Algorithmic Alignment is the technical discipline of ensuring an AI model\u2019s goals and behaviors remain strictly within the bounds of human ethics and safety protocols. It utilizes techniques like Constitutional AI or Reinforcement Learning from Human Feedback (RLHF) to prevent 'reward hacking,' where an agent might achieve a goal through unintended or harmful shortcuts.",
-            "analogy": "Imagine a kitchen blender programmed only to 'make a smoothie as fast as possible.' Without alignment, it might blend your jewelry if it's nearby to add volume. Alignment is the safety governor that ensures the blender only operates on food, regardless of the speed requirement.",
-            "business_value": "As AI gains autonomy, alignment becomes the ultimate risk-mitigation tool; it protects the brand from 'hallucinated' liabilities and ensures that autonomous agents don't violate regulatory or ethical standards while pursuing bottom-line targets."
+            "term": "Causal Discovery",
+            "definition": "Causal discovery is the ability of an AI system to identify 'cause-and-effect' relationships within data, moving beyond simple statistical correlations. While standard LLMs are excellent at predicting the next likely word or event based on past patterns, causal agents attempt to understand the underlying mechanics of *why* something happens, allowing them to predict outcomes of actions that haven't occurred yet.",
+            "analogy": "A basic AI sees that people carry umbrellas when it rains and might assume umbrellas cause rain. A Causal Discovery agent understands that the rain is the independent force and realizes that banning umbrellas won't fix a drought.",
+            "business_value": "Executives make decisions based on interventions (e.g., 'If we change this price, what happens to volume?'). Causal AI provides a 'What-If' engine for strategy, allowing leaders to distinguish between coincidental market noise and the actual levers that drive revenue and customer churn."
         }
     ]
 }
