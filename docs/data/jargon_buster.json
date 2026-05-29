@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 28, 2026",
+    "last_updated": "May 29, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Machine Unlearning (Representation-Level)",
-            "definition": "Machine unlearning is the process of removing the influence of specific training data points from a pre-trained model without the massive expense of retraining the model from scratch. Representation-level verification ensures the model has actually purged the internal neural patterns associated with that data, rather than just learning to hide or suppress the information at the output layer.",
-            "analogy": "Imagine a chef who accidentally added a restricted allergen to a massive vat of soup. Instead of dumping the whole pot (retraining), machine unlearning is a sophisticated filtration process that targets and neutralizes only those specific flavor molecules at a molecular level, ensuring no trace remains in the final taste.",
-            "business_value": "This is critical for regulatory compliance regarding the 'Right to be Forgotten' (GDPR/CCPA) and IP protection. It allows companies to scrub sensitive customer data or proprietary secrets from their AI models quickly, avoiding massive legal liabilities and the multi-million dollar costs of full model restarts."
+            "term": "Mirror-Prox Temporal-Difference (TD) Learning",
+            "definition": "A reinforcement learning technique that stabilizes off-policy prediction by using a 'Mirror-Prox' algorithm to manage the geometry of the learning space. It employs dual-variable updates and feature covariance metrics to ensure that a model learning from historical data (not its own current actions) converges reliably without the mathematical 'explosions' common in standard gradient methods.",
+            "analogy": "Imagine a professional driver learning to race a Ferrari by studying old telemetry data from a delivery van; Mirror-Prox is the suspension system that stabilizes the differences in physics, ensuring the driver doesn't crash while applying those 'off-policy' lessons to a much faster vehicle.",
+            "business_value": "This allows enterprises to unlock the value of 'stale' or legacy data. By accurately predicting outcomes from data not specifically collected for the current AI agent, companies can train high-performance models without the risk and expense of high-stakes, real-time experimentation."
         },
         {
-            "term": "Test-Time Scaling (Parallel Reasoning)",
-            "definition": "Test-time scaling is a technique where additional computational power is allocated during the generation phase (inference) rather than just during the training phase. By running multiple parallel reasoning paths and verifying them against each other (e.g., Best-of-N), the model can 'think' longer on complex problems to significantly improve accuracy and logical consistency.",
-            "analogy": "Traditional AI is like a driver following a GPS blindly; Test-Time Scaling is like a driver who, upon reaching a complex and dangerous intersection, stops to mentally simulate three different routes and check for potential hazards on each before deciding which way to turn.",
-            "business_value": "This shifts AI from 'creative guessing' to 'reliable reasoning.' For the bottom line, this enables AI deployment in high-stakes environments like financial auditing or legal discovery, where the cost of a single error is higher than the cost of the extra electricity used to verify the answer."
+            "term": "Category-Theoretic Inductive Biases",
+            "definition": "An architectural approach that embeds high-level mathematical structures (Category Theory) into Large Language Models to guide how they process information. Instead of relying solely on raw statistics, these biases force the model to recognize underlying logical hierarchies and relationships, mimicking human-like cognitive mapping within the transformer backbone.",
+            "analogy": "Think of a chef who doesn't just memorize recipes but understands the fundamental 'categories' of food science\u2014like how acids balance fats. Because of this 'inductive bias,' the chef can flawlessly prepare a dish they've never seen before, rather than just guessing which ingredient comes next based on a cookbook.",
+            "business_value": "It solves the 'reasoning gap' in current AI. By using these mathematical shortcuts, models can achieve superior logic and reliability with fewer parameters (e.g., 306M vs 175B), drastically reducing the compute costs and energy footprint of enterprise-grade AI."
         },
         {
-            "term": "Causal Discovery",
-            "definition": "Causal discovery is the ability of an AI system to identify 'cause-and-effect' relationships within data, moving beyond simple statistical correlations. While standard LLMs are excellent at predicting the next likely word or event based on past patterns, causal agents attempt to understand the underlying mechanics of *why* something happens, allowing them to predict outcomes of actions that haven't occurred yet.",
-            "analogy": "A basic AI sees that people carry umbrellas when it rains and might assume umbrellas cause rain. A Causal Discovery agent understands that the rain is the independent force and realizes that banning umbrellas won't fix a drought.",
-            "business_value": "Executives make decisions based on interventions (e.g., 'If we change this price, what happens to volume?'). Causal AI provides a 'What-If' engine for strategy, allowing leaders to distinguish between coincidental market noise and the actual levers that drive revenue and customer churn."
+            "term": "Orthogonal Concept Erasure",
+            "definition": "A targeted surgical method for removing specific, undesired concepts or copyrighted styles from generative diffusion models without retraining the entire system. It identifies the unique mathematical 'direction' or subspace of a concept (like an artist's signature style) and neutralizes it while ensuring all other capabilities remain 'orthogonal' and unaffected.",
+            "analogy": "In a commercial kitchen, if a massive vat of soup is accidentally contaminated with a specific allergen, Orthogonal Concept Erasure is like a magic filter that extracts only the peanut molecules while leaving the flavor, texture, and nutrition of the remaining soup perfectly intact.",
+            "business_value": "This is a critical tool for IP protection and regulatory compliance. It allows companies to 'scrub' their generative models of liability-inducing content (like a competitor\u2019s logo or sensitive data) in minutes, avoiding the multi-million dollar costs and weeks of downtime required for a full model retrain."
         }
     ]
 }

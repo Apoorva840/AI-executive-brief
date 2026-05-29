@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-05-27",
+    "last_updated": "2024-05-28",
     "papers": [
         {
-            "title": "Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access",
-            "innovation": "Agyn is an open-source platform addressing critical production deployment challenges for AI agents, focusing on scalable on-demand execution, defining agents as code, and zero-trust access. It provides the necessary infrastructure for operating AI agents at scale with proper governance and security.",
-            "benchmarks": "The platform's design targets operational benchmarks such as scalability, reliability, security (zero-trust access), and ease of management for agent workflows in production environments. Performance metrics would involve throughput, latency, and resource utilization for agent execution at scale.",
-            "use_case": "Deploying, managing, and securing AI agents in production environments; building scalable agent-based systems; implementing MLOps principles for AI agents within enterprises.",
-            "url": "https://arxiv.org/abs/2605.27575"
+            "title": "VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis",
+            "innovation": "Proposes VFEAgent, a multimodal agent framework that automates the entire complex workflow of Finite Element Analysis (FEA). It addresses limitations of prior LLM integrations by handling multimodal information and providing end-to-end automation, significantly reducing the reliance on specialized domain expertise.",
+            "benchmarks": "Evaluates performance on automating the FEA workflow, processing multimodal inputs, and comparison against existing LLM integrations for FEA tasks.",
+            "use_case": "Automating complex engineering design processes, streamlining specialized simulation workflows, and integrating AI into professional engineering software to enhance efficiency and accessibility.",
+            "url": "https://arxiv.org/abs/2605.28978"
         },
         {
-            "title": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
-            "innovation": "Introduces LaneRoPE, a novel positional encoding method designed for collaborative parallel generation in LLM inference. Unlike traditional methods where parallel sequences are generated independently, LaneRoPE enables collaboration within a batch (e.g., best-of-N decoding) to enhance accuracy and computational efficiency.",
-            "benchmarks": "Aims to boost accuracy and computational efficiency for parallel LLM generation. Performance would be measured against standard LLM generation tasks (e.g., summarization, text completion) using metrics like BLEU, ROUGE, or human evaluation, alongside throughput and latency improvements in batch inference scenarios.",
-            "use_case": "Optimizing LLM inference performance and cost, particularly for applications utilizing parallel decoding strategies (like best-of-N or self-consistency) to improve output quality or generate multiple diverse responses efficiently.",
-            "url": "https://arxiv.org/abs/2605.27570"
+            "title": "Orthogonal Concept Erasure for Diffusion Models",
+            "innovation": "Introduces a novel and more efficient editing-based method for concept erasure in diffusion models. It aims to mitigate undesired or unsafe content while being computationally less intensive than training-based methods and more effective than previous editing-based approaches, addressing key scalability and efficacy limitations.",
+            "benchmarks": "Compares its effectiveness and computational cost against existing training-based and editing-based concept erasure methods for diffusion models.",
+            "use_case": "Ensuring safety, controlling content generation, and mitigating bias or undesired attributes in generative AI models (specifically diffusion models) during deployment, offering a practical solution for responsible AI engineering.",
+            "url": "https://arxiv.org/abs/2605.28902"
         },
         {
-            "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
-            "innovation": "Proposes DynaSchedBench, a calibrated benchmark generator to overcome limitations of static benchmarks (overfitting) and uncalibrated generators (stochastic noise) in neural combinatorial optimization, specifically for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) and LLM-based scheduling agents.",
-            "benchmarks": "DynaSchedBench serves as a benchmark generator itself. It allows for calibrated evaluation of LLM-based scheduling agents and neural combinatorial optimization algorithms, providing a robust and reliable methodology to assess algorithmic capabilities for complex dynamic scheduling problems.",
-            "use_case": "Developing, evaluating, and comparing LLM-based agents and other neural combinatorial optimization solutions for dynamic scheduling problems in industries like manufacturing, logistics, and resource allocation, ensuring rigorous and unbiased performance assessment.",
-            "url": "https://arxiv.org/abs/2605.27566"
+            "title": "BEAMS: Benchmarking and Evaluating AI for Modeling and Simulation",
+            "innovation": "Proposes the BEAMS Initiative, a framework aimed at guiding the development of AI tools for building, interpreting, and evaluating simulation models. It emphasizes complementary human expertise, interpretability, and robust benchmarking practices for AI in scientific and engineering applications.",
+            "benchmarks": "This paper establishes principles and guidelines for future benchmarks. It doesn't present new benchmark results but defines the critical aspects (e.g., interpretability, reliability, human-AI collaboration) against which AI models for modeling and simulation should be evaluated.",
+            "use_case": "Guiding the responsible and trustworthy development of AI tools for scientific and engineering modeling and simulation, ensuring that AI recommendations are interpretable and reliable, and establishing best practices for evaluation and validation in critical domains.",
+            "url": "https://arxiv.org/abs/2605.28994"
         }
     ]
 }

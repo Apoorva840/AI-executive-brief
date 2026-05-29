@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 28, 2026",
+    "last_updated": "May 29, 2026",
     "tools": [
         {
             "Name": "Crawl4AI",
-            "Category": "Web Scraping & Crawling",
-            "Description": "An open-source, high-performance web crawler and scraper designed to transform web pages into clean, LLM-ready Markdown.",
-            "Use_Case": "Automated data extraction for RAG pipelines, AI agents, and custom data analytics.",
+            "Category": "Data Scraping/Extraction",
+            "Description": "An open-source, LLM-friendly web crawler and scraper that converts web content into structured Markdown.",
+            "Use_Case": "Preparing web data for RAG (Retrieval-Augmented Generation), building AI agents, and creating data pipelines.",
             "URL": "https://github.com/unclecode/crawl4ai"
         },
         {
-            "Name": "vLLM",
-            "Category": "LLM Inference & Serving",
-            "Description": "A high-throughput and memory-efficient engine for serving large language models, featuring PagedAttention and support for numerous model architectures.",
-            "Use_Case": "Production-grade serving of LLMs with high throughput and low latency for diverse infrastructure.",
-            "URL": "https://github.com/vllm-project/vllm"
+            "Name": "MarkItDown",
+            "Category": "Document Parsing",
+            "Description": "A lightweight Python utility by Microsoft for converting various files (PDF, PPT, Word, Excel, etc.) to Markdown.",
+            "Use_Case": "Converting complex office documents and multimedia into a text-based format suitable for LLM analysis.",
+            "URL": "https://github.com/microsoft/markitdown"
         },
         {
-            "Name": "Agent Governance Toolkit",
-            "Category": "AI Governance & Security",
-            "Description": "A toolkit for enforcing policies, managing identities, and monitoring autonomous AI agents to ensure safety and reliability in production.",
-            "Use_Case": "Implementing guardrails and compliance checks for AI agents to prevent unauthorized actions and tool abuse.",
-            "URL": "https://github.com/microsoft/agent-governance-toolkit"
+            "Name": "MoneyPrinterTurbo",
+            "Category": "AI Video Generation",
+            "Description": "A tool that generates high-quality short videos automatically using AI LLMs.",
+            "Use_Case": "Automated creation of short-form video content from themes or keywords, including script, assets, and subtitles.",
+            "URL": "https://github.com/harry0703/MoneyPrinterTurbo"
         }
     ]
 }
