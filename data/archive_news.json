@@ -1,5 +1,77 @@
 [
   {
+    "title": "OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic",
+    "summary": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Early partners include Lawrence Livermore National Laboratory, Johns Hopkins, and vaccine initiative CEPI. Applications are open worldwide. The article OpenAI is giving away its life sciences A",
+    "url": "https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/",
+    "source": "The Decoder",
+    "published_at": "2026-05-29T16:51:30+00:00",
+    "score": 7,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+  },
+  {
+    "title": "New review paper argues code is how AI agents think and act, not just what they produce",
+    "summary": "A new review paper argues that the real bottleneck for autonomous AI agents isn't the language model itself but the software layer wrapped around it. Tools, memory, testing, and permission boundaries turn a stateless model into a working agent. Deepseek is already building a dedicated \"Harness\" team in Beijing with a core formula that confirms the ",
+    "url": "https://the-decoder.com/new-review-paper-argues-code-is-how-ai-agents-think-and-act-not-just-what-they-produce/",
+    "source": "The Decoder",
+    "published_at": "2026-05-29T13:10:59+00:00",
+    "score": 7,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+  },
+  {
+    "title": "Google fixes several bugs in Gemini usage limits that burned through quotas too fast",
+    "summary": "A bug in Google's Gemini app caused just one or two Omni videos to eat up the entire usage quota. Google has fixed the bug, Ultra members now get twice as many video generations, and failed requests are no longer charged. Google also plans to add more transparency around other usage. The article Google fixes several bugs in Gemini usage limits that",
+    "url": "https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/",
+    "source": "The Decoder",
+    "published_at": "2026-05-29T17:51:46+00:00",
+    "score": 6,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+  },
+  {
+    "title": "Amazon kills internal AI leaderboard after employees gamed it with pointless tasks",
+    "summary": "Amazon is pulling an internal AI ranking system, the Financial Times reports, after employees inflated their scores through meaningless AI usage and driving up the company's cloud costs in the process. The article Amazon kills internal AI leaderboard after employees gamed it with pointless tasks appeared first on The Decoder.",
+    "url": "https://the-decoder.com/amazon-kills-internal-ai-leaderboard-after-employees-gamed-it-with-pointless-tasks/",
+    "source": "The Decoder",
+    "published_at": "2026-05-29T09:45:29+00:00",
+    "score": 6,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+  },
+  {
+    "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
+    "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
+    "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
+    "source": "Wired AI",
+    "published_at": "2026-05-29T16:30:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+  },
+  {
+    "title": "The Vatican’s Man Inside Anthropic",
+    "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
+    "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+    "source": "Wired AI",
+    "published_at": "2026-05-29T15:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+  },
+  {
+    "title": "Anthropic releases Claude Opus 4.8",
+    "summary": "Anthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work. The platform can be used through claude.ai, Claude Code and the Claude API, with the API name claude-opus-4-8. The company has also altered some of the details of [&#8230;] The po",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+    "source": "AI News",
+    "published_at": "2026-05-29T10:44:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+  },
+  {
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial i",
+    "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-29T10:00:00+00:00",
+    "score": 3,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+  },
+  {
     "title": "Empathic Prompting: Non-Verbal Context Integration for Multimodal LLM Conversations",
     "summary": "arXiv:2510.20743v2 Announce Type: replace-cross Abstract: We present Empathic Prompting, a novel framework for multimodal human-AI interaction that enriches Large Language Model (LLM) conversations with implicit non-verbal context. The system integrates a commercial facial expression recognition service to capture users' emotional cues and embeds t",
     "url": "https://arxiv.org/abs/2510.20743",
@@ -2626,77 +2698,5 @@
     "published_at": "2026-05-07T04:00:00+00:00",
     "score": 6,
     "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?",
-    "summary": "arXiv:2605.03195v1 Announce Type: new Abstract: Modern coding agents increasingly delegate specialized subtasks to subagents, which are smaller, focused agentic loops that handle narrow responsibilities like search, debugging or terminal execution. This architectural pattern keeps the main agent's context window clean by isolating verbose outputs (",
-    "url": "https://arxiv.org/abs/2605.03195",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "ADAPTS: Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms",
-    "summary": "arXiv:2605.03212v2 Announce Type: new Abstract: Modeling latent clinical constructs from unconstrained clinical interactions is a unique challenge in affective computing. We present ADAPTS (Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms), a framework for automated rating of depression and anxiety severity using a mixture",
-    "url": "https://arxiv.org/abs/2605.03212",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "Adversarial Flow Matching for Imperceptible Attacks on End-to-End Autonomous Driving",
-    "summary": "arXiv:2605.00880v1 Announce Type: cross Abstract: Autonomous driving (AD) is evolving towards end-to-end (E2E) frameworks through two primary paradigms: monolithic models exemplified by Vision-Language-Action (VLA), and specialized modular architectures. Despite their divergent designs, both paradigms increasingly rely on Transformer backbones for ",
-    "url": "https://arxiv.org/abs/2605.00880",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
-  },
-  {
-    "title": "IPS: In-Prompt Process Supervision for Short Video Content Moderation",
-    "summary": "arXiv:2412.15251v3 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) are effective at capturing the semantics of short video content; however, they often fail to attend to the policy-specific details required for reliable content moderation. To address this limitation, we introduce IPS, a novel framework that integrate",
-    "url": "https://arxiv.org/abs/2412.15251",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
-  },
-  {
-    "title": "Efficient Reasoning with Hidden Thinking",
-    "summary": "arXiv:2501.19201v2 Announce Type: replace-cross Abstract: Chain-of-Thought (CoT) reasoning has become a powerful framework for improving complex problem-solving capabilities in Multimodal Large Language Models (MLLMs). However, the verbose nature of textual reasoning introduces significant inefficiencies. In this work, we propose Heima (as hidden l",
-    "url": "https://arxiv.org/abs/2501.19201",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
-  },
-  {
-    "title": "Valley3: Scaling Omni Foundation Models for E-commerce",
-    "summary": "arXiv:2605.01278v1 Announce Type: new Abstract: In this work, we present Valley3, an omni multimodal large language model (MLLM) developed for diverse global e-commerce tasks, with unified understanding and reasoning capabilities across text, images, video, and audio. A key feature of Valley3 is its native multilingual audio capability for e-commer",
-    "url": "https://arxiv.org/abs/2605.01278",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
-  },
-  {
-    "title": "GRAIL: A Deep-Granularity Hybrid Resonance Framework for Real-Time Agent Discovery via SLM-Enhanced Indexing",
-    "summary": "arXiv:2605.02489v1 Announce Type: new Abstract: As the ecosystem of Large Language Model (LLM)-based agents expands rapidly, efficient and accurate Agent Discovery becomes a critical bottleneck for large-scale multi-agent collaboration. Existing approaches typically face a dichotomy: either relying on heavy-weight LLMs for intent parsing, leading t",
-    "url": "https://arxiv.org/abs/2605.02489",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
-  },
-  {
-    "title": "Strategy-Aware Optimization Modeling with Reasoning LLMs",
-    "summary": "arXiv:2605.02545v1 Announce Type: new Abstract: Large language models (LLMs) can generate syntactically valid optimization programs, yet often struggle to reliably choose an effective modeling strategy, leading to incorrect formulations and inefficient solver behavior. We propose SAGE, a strategy-aware framework that makes Modeling Strategy explici",
-    "url": "https://arxiv.org/abs/2605.02545",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-06T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-06T04:17:05.770495+00:00"
   }
 ]

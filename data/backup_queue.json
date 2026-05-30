@@ -1,137 +1,74 @@
 [
   {
-    "title": "Empathic Prompting: Non-Verbal Context Integration for Multimodal LLM Conversations",
-    "summary": "arXiv:2510.20743v2 Announce Type: replace-cross Abstract: We present Empathic Prompting, a novel framework for multimodal human-AI interaction that enriches Large Language Model (LLM) conversations with implicit non-verbal context. The system integrates a commercial facial expression recognition service to capture users' emotional cues and embeds t",
-    "url": "https://arxiv.org/abs/2510.20743",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
+    "title": "OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic",
+    "summary": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Early partners include Lawrence Livermore National Laboratory, Johns Hopkins, and vaccine initiative CEPI. Applications are open worldwide. The article OpenAI is giving away its life sciences A",
+    "url": "https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/",
+    "source": "The Decoder",
+    "published_at": "2026-05-29T16:51:30+00:00",
+    "score": 7,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
   },
   {
-    "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
-    "summary": "arXiv:2605.28864v1 Announce Type: new Abstract: The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and several inspirations from cognitive science. Under a matched-step protocol (215,000 optimizer steps, matche",
-    "url": "https://arxiv.org/abs/2605.28864",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
+    "title": "New review paper argues code is how AI agents think and act, not just what they produce",
+    "summary": "A new review paper argues that the real bottleneck for autonomous AI agents isn't the language model itself but the software layer wrapped around it. Tools, memory, testing, and permission boundaries turn a stateless model into a working agent. Deepseek is already building a dedicated \"Harness\" team in Beijing with a core formula that confirms the ",
+    "url": "https://the-decoder.com/new-review-paper-argues-code-is-how-ai-agents-think-and-act-not-just-what-they-produce/",
+    "source": "The Decoder",
+    "published_at": "2026-05-29T13:10:59+00:00",
     "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
   },
   {
-    "title": "EvoMD-LLM: Learning the Language of Species Evolution in Reactive Molecular Dynamics",
-    "summary": "arXiv:2605.29394v1 Announce Type: new Abstract: While large language models (LLMs) excel at static scientific reasoning, they struggle to model the temporal structure of dynamic physical processes. We present EvoMD-LLM (Evolutionary Molecular Dynamics Large Language Model), a framework that reformulates species-level molecular dynamics as a symboli",
-    "url": "https://arxiv.org/abs/2605.29394",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
+    "title": "Google fixes several bugs in Gemini usage limits that burned through quotas too fast",
+    "summary": "A bug in Google's Gemini app caused just one or two Omni videos to eat up the entire usage quota. Google has fixed the bug, Ultra members now get twice as many video generations, and failed requests are no longer charged. Google also plans to add more transparency around other usage. The article Google fixes several bugs in Gemini usage limits that",
+    "url": "https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/",
+    "source": "The Decoder",
+    "published_at": "2026-05-29T17:51:46+00:00",
+    "score": 6,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
   },
   {
-    "title": "VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing",
-    "summary": "arXiv:2605.30117v1 Announce Type: new Abstract: Understanding how Vision-Language-Action (VLA) models transform multimodal knowledge into embodied control remains an open challenge. We present VLA-Trace, a progressive diagnostic framework that analyzes VLA models through a unified evidence chain from representation dynamics to causal control attrib",
-    "url": "https://arxiv.org/abs/2605.30117",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
+    "title": "Amazon kills internal AI leaderboard after employees gamed it with pointless tasks",
+    "summary": "Amazon is pulling an internal AI ranking system, the Financial Times reports, after employees inflated their scores through meaningless AI usage and driving up the company's cloud costs in the process. The article Amazon kills internal AI leaderboard after employees gamed it with pointless tasks appeared first on The Decoder.",
+    "url": "https://the-decoder.com/amazon-kills-internal-ai-leaderboard-after-employees-gamed-it-with-pointless-tasks/",
+    "source": "The Decoder",
+    "published_at": "2026-05-29T09:45:29+00:00",
+    "score": 6,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
   },
   {
-    "title": "Benchmarking Open-Source Safety Guard Models: A Comprehensive Evaluation",
-    "summary": "arXiv:2605.28830v1 Announce Type: cross Abstract: As Large Language Models (LLMs) are increasingly deployed in safety-critical applications, robust content moderation becomes essential. We present a comprehensive evaluation of 14 open-source safety guard models on a curated benchmark of 79,331 samples spanning 8 NIST AI Risk Framework safety catego",
-    "url": "https://arxiv.org/abs/2605.28830",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
+    "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
+    "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
+    "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
+    "source": "Wired AI",
+    "published_at": "2026-05-29T16:30:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
   },
   {
-    "title": "SafeRx-Agent: A Knowledge-Grounded Multi-Agent Framework for Safe and Explainable Medication Recommendation",
-    "summary": "arXiv:2605.29146v1 Announce Type: cross Abstract: Medication recommendation predicts medications for patient visits, but existing methods still face two key challenges. At the model level, traditional drug recommendation methods only predict structured drug codes with limited evidence grounding, while LLM agents can use richer clinical context but ",
-    "url": "https://arxiv.org/abs/2605.29146",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
+    "title": "The Vatican’s Man Inside Anthropic",
+    "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
+    "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+    "source": "Wired AI",
+    "published_at": "2026-05-29T15:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
   },
   {
-    "title": "TRACER: Persistent Regularization for Robust Multimodal Finetuning",
-    "summary": "arXiv:2605.29380v1 Announce Type: cross Abstract: Mainstream strategies for finetuning pretrained multimodal models often degrade out-of-distribution (OOD) robustness, a phenomenon known as catastrophic forgetting. In this paper, we develop a theoretical framework for multimodal contrastive finetuning, yielding closed-form solutions and a geometric",
-    "url": "https://arxiv.org/abs/2605.29380",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
+    "title": "Anthropic releases Claude Opus 4.8",
+    "summary": "Anthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work. The platform can be used through claude.ai, Claude Code and the Claude API, with the API name claude-opus-4-8. The company has also altered some of the details of [&#8230;] The po",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+    "source": "AI News",
+    "published_at": "2026-05-29T10:44:00+00:00",
+    "score": 5,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
   },
   {
-    "title": "Semantic and Visual Evidence for Efficient Long-Video Reasoning: A Solution for the HD-EPIC VQA Challenge",
-    "summary": "arXiv:2605.29402v1 Announce Type: cross Abstract: Understanding long-form egocentric videos remains challenging for multimodal large language models (MLLMs) due to limited context length and insufficient grounding of fine-grained visual details. The recently proposed HD-EPIC benchmark highlights these limitations: even strong long-context models ac",
-    "url": "https://arxiv.org/abs/2605.29402",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
-  },
-  {
-    "title": "Towards Localized and Disentangled Knowledge Editing for Multimodal Large Language Models",
-    "summary": "arXiv:2605.29826v1 Announce Type: cross Abstract: Existing methods in Multimodal Knowledge Editing (MKE) have advanced the ability to correct outdated or inaccurate knowledge in Multimodal Large Language Models (MLLMs). However, they exhibit a critical limitation: while effectively modifying target factual pairs, they fail to generalize edits to lo",
-    "url": "https://arxiv.org/abs/2605.29826",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
-  },
-  {
-    "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation",
-    "summary": "arXiv:2605.29861v1 Announce Type: cross Abstract: Large Language Models (LLMs) have advanced autonomous agents from deep search, which retrieves concise factual answers, to deep research, which synthesizes scattered evidence into long-form reports. However, verifiable multimodal deep research remains challenging due to open-ended synthesis without ",
-    "url": "https://arxiv.org/abs/2605.29861",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
-  },
-  {
-    "title": "PuzzleClone: A DSL-Powered Framework for Synthesizing Verifiable Data",
-    "summary": "arXiv:2508.15180v3 Announce Type: replace Abstract: High-quality mathematical and logical datasets with verifiable answers are essential for strengthening the reasoning capabilities of large language models (LLMs). While recent data augmentation techniques have facilitated the creation of large-scale benchmarks, existing LLM-generated datasets ofte",
-    "url": "https://arxiv.org/abs/2508.15180",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
-  },
-  {
-    "title": "SVSR: A Self-Verification and Self-Rectification Paradigm for Multimodal Reasoning",
-    "summary": "arXiv:2604.10228v2 Announce Type: replace Abstract: Current multimodal models often suffer from shallow reasoning, leading to errors caused by incomplete or inconsistent thought processes. To address this limitation, we propose Self-Verification and Self-Rectification (SVSR), a unified framework that explicitly integrates self-verification and self",
-    "url": "https://arxiv.org/abs/2604.10228",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
-  },
-  {
-    "title": "Thinking Before Constraining: A Unified Decoding Framework for Large Language Models",
-    "summary": "arXiv:2601.07525v2 Announce Type: replace-cross Abstract: Natural generation allows Large Language Models (LLMs) to produce free-form responses with rich reasoning, yet the lack of structure makes outputs difficult to verify. Conversely, constrained decoding ensures standardized formats but can inadvertently restrict reasoning capabilities by impos",
-    "url": "https://arxiv.org/abs/2601.07525",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
-  },
-  {
-    "title": "Bridge-RAG: An Abstract Bridge Tree Based Retrieval Augmented Generation Algorithm",
-    "summary": "arXiv:2603.26668v2 Announce Type: replace-cross Abstract: As an important paradigm for enhancing the generation quality of Large Language Models (LLMs), retrieval-augmented generation (RAG) faces the two challenges regarding retrieval accuracy and computational efficiency. This paper presents a novel RAG framework called Bridge-RAG. To overcome the",
-    "url": "https://arxiv.org/abs/2603.26668",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
-  },
-  {
-    "title": "Tiny Brains, Giant Impact: Uncovering the Keystone Neurons of LLM with Just a Few Prompts",
-    "summary": "arXiv:2605.24846v2 Announce Type: replace-cross Abstract: Large language models (LLMs) display strong comprehensive abilities, yet the internal mechanisms that support these behaviors remain insufficiently understood. In this work, we show that across a wide range of open-weight Transformers, a subset of neurons remains consistently highly activate",
-    "url": "https://arxiv.org/abs/2605.24846",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-29T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-29T04:56:43.623538+00:00"
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial i",
+    "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-05-29T10:00:00+00:00",
+    "score": 3,
+    "archived_at": "2026-05-30T04:37:58.840833+00:00"
   }
 ]

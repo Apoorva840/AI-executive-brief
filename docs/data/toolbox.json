@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 29, 2026",
+    "last_updated": "May 30, 2026",
     "tools": [
-        {
-            "Name": "Crawl4AI",
-            "Category": "Data Scraping/Extraction",
-            "Description": "An open-source, LLM-friendly web crawler and scraper that converts web content into structured Markdown.",
-            "Use_Case": "Preparing web data for RAG (Retrieval-Augmented Generation), building AI agents, and creating data pipelines.",
-            "URL": "https://github.com/unclecode/crawl4ai"
-        },
-        {
-            "Name": "MarkItDown",
-            "Category": "Document Parsing",
-            "Description": "A lightweight Python utility by Microsoft for converting various files (PDF, PPT, Word, Excel, etc.) to Markdown.",
-            "Use_Case": "Converting complex office documents and multimedia into a text-based format suitable for LLM analysis.",
-            "URL": "https://github.com/microsoft/markitdown"
-        },
         {
             "Name": "MoneyPrinterTurbo",
             "Category": "AI Video Generation",
-            "Description": "A tool that generates high-quality short videos automatically using AI LLMs.",
-            "Use_Case": "Automated creation of short-form video content from themes or keywords, including script, assets, and subtitles.",
+            "Description": "An AI-powered tool that automatically generates high-definition short videos from a single theme or keyword.",
+            "Use_Case": "Automated content creation for social media platforms, including script, assets, subtitles, and background music.",
             "URL": "https://github.com/harry0703/MoneyPrinterTurbo"
+        },
+        {
+            "Name": "MarkItDown",
+            "Category": "Data Processing",
+            "Description": "A lightweight Python utility for converting a wide variety of file formats (PDF, Word, Excel, Images, etc.) into Markdown.",
+            "Use_Case": "Preparing diverse documents for LLM ingestion and text analysis pipelines.",
+            "URL": "https://github.com/microsoft/markitdown"
+        },
+        {
+            "Name": "Claude Code",
+            "Category": "AI Developer Tool",
+            "Description": "An agentic coding tool that resides in the terminal, capable of understanding entire codebases and executing complex tasks.",
+            "Use_Case": "Speeding up coding workflows, automating routine tasks, explaining complex code, and managing git workflows via natural language.",
+            "URL": "https://github.com/anthropics/claude-code"
         }
     ]
 }
