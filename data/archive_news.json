@@ -1,5 +1,50 @@
 [
   {
+    "title": "Terence Tao argues AI could bring division of labor to math for the first time in history",
+    "summary": "Mathematician Terence Tao describes how AI could reshape math research by enabling division of labor for the first time. Until now, researchers had to master every step themselves, from framing problems to verifying results. Tao sees \"industrial mathematics\" emerging: large AI-supported teams instead of lone geniuses, with humans staying indispensa",
+    "url": "https://the-decoder.com/terence-tao-argues-ai-could-bring-division-of-labor-to-math-for-the-first-time-in-history/",
+    "source": "The Decoder",
+    "published_at": "2026-05-30T12:04:25+00:00",
+    "score": 6,
+    "archived_at": "2026-05-31T05:03:23.428761+00:00"
+  },
+  {
+    "title": "Attackers abuse shared ChatGPT and Claude chats to spread malware",
+    "summary": "Attackers are exploiting the chat-sharing features in ChatGPT and Claude to spread malware through shared conversations. The chats mimic error messages or install guides and slip past security tools undetected because they're hosted on trusted domains. The article Attackers abuse shared ChatGPT and Claude chats to spread malware appeared first on T",
+    "url": "https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware/",
+    "source": "The Decoder",
+    "published_at": "2026-05-30T10:32:22+00:00",
+    "score": 6,
+    "archived_at": "2026-05-31T05:03:23.428761+00:00"
+  },
+  {
+    "title": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own",
+    "summary": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC, the ChatGPT mobile app lets users start and monitor tasks remotely from their phone. The article OpenAI&#039;s Codex can now operate your Windows PC autonomously, hunting bugs and testing a",
+    "url": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/",
+    "source": "The Decoder",
+    "published_at": "2026-05-30T10:16:39+00:00",
+    "score": 6,
+    "archived_at": "2026-05-31T05:03:23.428761+00:00"
+  },
+  {
+    "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents",
+    "summary": "Salesforce says it moved its entire dev org to Anthropic's Claude Code with no token limits and reports massive productivity gains for April 2026: 79 percent more pull requests per developer, five percent fewer incidents. The numbers can't be independently verified. The case shows just how divided the coding world is over the agentic shift: real re",
+    "url": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/",
+    "source": "The Decoder",
+    "published_at": "2026-05-30T09:32:57+00:00",
+    "score": 6,
+    "archived_at": "2026-05-31T05:03:23.428761+00:00"
+  },
+  {
+    "title": "Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy",
+    "summary": "Meta has poured billions into AI with little commercial payoff so far. Its open-source strategy hasn't panned out, and research breakthroughs haven't turned into shipping products. Now the company is betting on AI hardware. The article Meta&#039;s leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy appeared first",
+    "url": "https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy/",
+    "source": "The Decoder",
+    "published_at": "2026-05-30T08:37:42+00:00",
+    "score": 6,
+    "archived_at": "2026-05-31T05:03:23.428761+00:00"
+  },
+  {
     "title": "OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic",
     "summary": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Early partners include Lawrence Livermore National Laboratory, Johns Hopkins, and vaccine initiative CEPI. Applications are open worldwide. The article OpenAI is giving away its life sciences A",
     "url": "https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/",
@@ -2652,51 +2697,6 @@
     "source": "Arxiv AI",
     "published_at": "2026-05-07T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "TCM-Serve: Modality-aware Scheduling for Multimodal Large Language Model Inference",
-    "summary": "arXiv:2603.26498v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) power platforms like ChatGPT, Gemini, and Copilot, enabling richer interactions with text, images, and videos. These heterogeneous workloads introduce additional inference stages, such as vision preprocessing and encoding, that inflate latency and mem",
-    "url": "https://arxiv.org/abs/2603.26498",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference",
-    "summary": "arXiv:2604.21231v2 Announce Type: replace-cross Abstract: Efficient inference for on-device Large Language Models (LLMs) remains challenging due to limited hardware resources and the high cost of the prefill stage, which processes the full input context to construct Key-Value (KV) caches. We present SparKV, an adaptive KV loading framework that com",
-    "url": "https://arxiv.org/abs/2604.21231",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "From Mirage to Grounding: Towards Reliable Multimodal Circuit-to-Verilog Code Generation",
-    "summary": "arXiv:2604.27969v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) are increasingly used to translate visual artifacts into code, from UI mockups into HTML to scientific plots into Python scripts. A circuit diagram can be viewed as a visual domain-specific language for hardware: it encodes timing, topology, and bit l",
-    "url": "https://arxiv.org/abs/2604.27969",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
-    "summary": "arXiv:2605.03034v1 Announce Type: new Abstract: Agentic systems involved in high-stake decision-making under adversarial pressure need formal guarantees not offered by existing approaches. Motivated by the operational needs of security operations centers (SOCs) that must configure endpoint detection and response (EDR) policies under adversarial pre",
-    "url": "https://arxiv.org/abs/2605.03034",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "Are you with me? A Framework for Detecting Mental Model Discrepancies in Task-Based Team Dialogues",
-    "summary": "arXiv:2605.03149v1 Announce Type: new Abstract: Humans typically use natural language to update teammates on task states. Since not all updates are communicated, discrepancies arise between the team members' mental models that negatively affect overall team performance. How can we categorize such discrepancies? Do misalignments detected in team dia",
-    "url": "https://arxiv.org/abs/2605.03149",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 6,
     "archived_at": "2026-05-07T04:15:47.802067+00:00"
   }
 ]

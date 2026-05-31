@@ -1,74 +1,47 @@
 [
   {
-    "title": "OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic",
-    "summary": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Early partners include Lawrence Livermore National Laboratory, Johns Hopkins, and vaccine initiative CEPI. Applications are open worldwide. The article OpenAI is giving away its life sciences A",
-    "url": "https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/",
+    "title": "Terence Tao argues AI could bring division of labor to math for the first time in history",
+    "summary": "Mathematician Terence Tao describes how AI could reshape math research by enabling division of labor for the first time. Until now, researchers had to master every step themselves, from framing problems to verifying results. Tao sees \"industrial mathematics\" emerging: large AI-supported teams instead of lone geniuses, with humans staying indispensa",
+    "url": "https://the-decoder.com/terence-tao-argues-ai-could-bring-division-of-labor-to-math-for-the-first-time-in-history/",
     "source": "The Decoder",
-    "published_at": "2026-05-29T16:51:30+00:00",
-    "score": 7,
-    "archived_at": "2026-05-30T04:37:58.840833+00:00"
-  },
-  {
-    "title": "New review paper argues code is how AI agents think and act, not just what they produce",
-    "summary": "A new review paper argues that the real bottleneck for autonomous AI agents isn't the language model itself but the software layer wrapped around it. Tools, memory, testing, and permission boundaries turn a stateless model into a working agent. Deepseek is already building a dedicated \"Harness\" team in Beijing with a core formula that confirms the ",
-    "url": "https://the-decoder.com/new-review-paper-argues-code-is-how-ai-agents-think-and-act-not-just-what-they-produce/",
-    "source": "The Decoder",
-    "published_at": "2026-05-29T13:10:59+00:00",
-    "score": 7,
-    "archived_at": "2026-05-30T04:37:58.840833+00:00"
-  },
-  {
-    "title": "Google fixes several bugs in Gemini usage limits that burned through quotas too fast",
-    "summary": "A bug in Google's Gemini app caused just one or two Omni videos to eat up the entire usage quota. Google has fixed the bug, Ultra members now get twice as many video generations, and failed requests are no longer charged. Google also plans to add more transparency around other usage. The article Google fixes several bugs in Gemini usage limits that",
-    "url": "https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/",
-    "source": "The Decoder",
-    "published_at": "2026-05-29T17:51:46+00:00",
+    "published_at": "2026-05-30T12:04:25+00:00",
     "score": 6,
-    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+    "archived_at": "2026-05-31T05:03:23.428761+00:00"
   },
   {
-    "title": "Amazon kills internal AI leaderboard after employees gamed it with pointless tasks",
-    "summary": "Amazon is pulling an internal AI ranking system, the Financial Times reports, after employees inflated their scores through meaningless AI usage and driving up the company's cloud costs in the process. The article Amazon kills internal AI leaderboard after employees gamed it with pointless tasks appeared first on The Decoder.",
-    "url": "https://the-decoder.com/amazon-kills-internal-ai-leaderboard-after-employees-gamed-it-with-pointless-tasks/",
+    "title": "Attackers abuse shared ChatGPT and Claude chats to spread malware",
+    "summary": "Attackers are exploiting the chat-sharing features in ChatGPT and Claude to spread malware through shared conversations. The chats mimic error messages or install guides and slip past security tools undetected because they're hosted on trusted domains. The article Attackers abuse shared ChatGPT and Claude chats to spread malware appeared first on T",
+    "url": "https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware/",
     "source": "The Decoder",
-    "published_at": "2026-05-29T09:45:29+00:00",
+    "published_at": "2026-05-30T10:32:22+00:00",
     "score": 6,
-    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+    "archived_at": "2026-05-31T05:03:23.428761+00:00"
   },
   {
-    "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
-    "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
-    "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
-    "source": "Wired AI",
-    "published_at": "2026-05-29T16:30:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+    "title": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own",
+    "summary": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC, the ChatGPT mobile app lets users start and monitor tasks remotely from their phone. The article OpenAI&#039;s Codex can now operate your Windows PC autonomously, hunting bugs and testing a",
+    "url": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/",
+    "source": "The Decoder",
+    "published_at": "2026-05-30T10:16:39+00:00",
+    "score": 6,
+    "archived_at": "2026-05-31T05:03:23.428761+00:00"
   },
   {
-    "title": "The Vatican’s Man Inside Anthropic",
-    "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
-    "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
-    "source": "Wired AI",
-    "published_at": "2026-05-29T15:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+    "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents",
+    "summary": "Salesforce says it moved its entire dev org to Anthropic's Claude Code with no token limits and reports massive productivity gains for April 2026: 79 percent more pull requests per developer, five percent fewer incidents. The numbers can't be independently verified. The case shows just how divided the coding world is over the agentic shift: real re",
+    "url": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/",
+    "source": "The Decoder",
+    "published_at": "2026-05-30T09:32:57+00:00",
+    "score": 6,
+    "archived_at": "2026-05-31T05:03:23.428761+00:00"
   },
   {
-    "title": "Anthropic releases Claude Opus 4.8",
-    "summary": "Anthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work. The platform can be used through claude.ai, Claude Code and the Claude API, with the API name claude-opus-4-8. The company has also altered some of the details of [&#8230;] The po",
-    "url": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
-    "source": "AI News",
-    "published_at": "2026-05-29T10:44:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-30T04:37:58.840833+00:00"
-  },
-  {
-    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-    "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial i",
-    "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-29T10:00:00+00:00",
-    "score": 3,
-    "archived_at": "2026-05-30T04:37:58.840833+00:00"
+    "title": "Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy",
+    "summary": "Meta has poured billions into AI with little commercial payoff so far. Its open-source strategy hasn't panned out, and research breakthroughs haven't turned into shipping products. Now the company is betting on AI hardware. The article Meta&#039;s leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy appeared first",
+    "url": "https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy/",
+    "source": "The Decoder",
+    "published_at": "2026-05-30T08:37:42+00:00",
+    "score": 6,
+    "archived_at": "2026-05-31T05:03:23.428761+00:00"
   }
 ]

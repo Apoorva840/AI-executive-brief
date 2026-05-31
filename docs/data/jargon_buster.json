@@ -1,24 +1,24 @@
 {
-    "last_updated": "May 30, 2026",
+    "last_updated": "May 31, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Autonomous Agent Orchestration (The 'Harness')",
-            "definition": "Moving beyond simple chatbots, this architecture wraps a stateless Large Language Model (LLM) in a software 'harness' that manages memory, grants permission to use external tools, and allows the AI to execute its own code. This layer acts as the cognitive framework, transforming a model from a text generator into a functional agent capable of navigating complex workflows like calendar management or software engineering.",
-            "analogy": "The LLM is a world-class chef who has no hands; the 'harness' is the kitchen staff, the utensils, and the pantry that allow the chef's recipes to actually become a physical meal.",
-            "business_value": "The real bottleneck for ROI isn't the model's intelligence, but the software layer around it. Without a robust harness, agents suffer from 'state' failures\u2014like forgetting a CEO's partner in a calendar invite\u2014leading to operational errors that undermine the promise of autonomous productivity."
+            "term": "Agentic 'Computer Use' Capabilities",
+            "definition": "This refers to an AI's ability to perceive and interact with a computer's graphical user interface (GUI) by interpreting screen pixels and executing mouse movements or keystrokes. Instead of relying on specific API integrations, the model 'sees' the OS as a human does, allowing it to navigate legacy software and move data between disparate applications autonomously.",
+            "analogy": "Imagine a kitchen with a robotic chef that doesn't need a special smart-oven to work; instead, it has mechanical hands and eyes that allow it to use your existing 20-year-old stove, manual can opener, and regular knives just like you would.",
+            "business_value": "This eliminates the 'Integration Tax' for enterprises. You no longer need to spend millions building custom software connectors (APIs) for your legacy systems; the AI can simply 'sit' at the virtual workstation and perform back-office tasks across any existing software stack."
         },
         {
-            "term": "AI FinOps and Consumption Guardrails",
-            "definition": "This trend involves implementing programmatic limits and governance frameworks to manage the variable costs associated with high-frequency LLM usage. It includes setting 'circuit breakers' for recursive API calls and monitoring for 'leaderboard gaming,' where employees drive up cloud costs by performing meaningless tasks to meet internal AI adoption targets.",
-            "analogy": "Imagine a high-performance car with an unlimited fuel card but no speedometer or gas gauge; FinOps is the dashboard and governor that ensures you don't accidentally drive 200mph into a financial wall or run out of budget mid-journey.",
-            "business_value": "As evidenced by a $500 million monthly bill for Claude usage, unmanaged AI is a massive balance-sheet risk. CEOs must treat AI tokens as a precious utility, implementing strict observability to ensure that 'scaling' doesn't become synonymous with 'runaway spending.'"
+            "term": "On-Device Local Inference",
+            "definition": "This is the architectural shift where AI models run directly on a user's hardware (utilizing NPUs or specialized AI chips) rather than in a centralized cloud data center. This allows for real-time processing of data without the latency or privacy risks associated with transmitting sensitive information over the internet.",
+            "analogy": "It is like having a high-end, built-in water filtration system in your kitchen rather than buying bottled water. You get the same quality result instantly and privately without being dependent on a third-party delivery truck or a public utility line.",
+            "business_value": "Local inference drastically reduces recurring operational costs (Opex) by offloading compute power to the end-user's device. More importantly, it provides a 'Zero-Trust' security posture, as sensitive corporate IP never leaves the employee's laptop."
         },
         {
-            "term": "Domain-Specific Frontier Models",
-            "definition": "These are high-capability AI models, like GPT-Rosalind, that are specifically fine-tuned on hyper-niche, expert datasets such as life sciences, biodefense, or complex legal structures. Unlike general-purpose models, these are architected to prioritize precision and safety in high-stakes environments where 'hallucinations' or generic responses could have catastrophic real-world consequences.",
-            "analogy": "If a general LLM is a Swiss Army knife\u2014handy for everything but master of nothing\u2014a domain-specific frontier model is a laser-calibrated surgical scalpel designed for one exact, high-stakes procedure.",
-            "business_value": "The next wave of competitive advantage won't come from general AI, but from 'Vertical AI' that understands the specific physics, chemistry, or legalities of your industry. Accessing these models early allows firms to lead in R&D while maintaining the 'Magnifica Humanitas' ethos of safe, expert-led innovation."
+            "term": "The Agentic Shift (Cognitive Division of Labor)",
+            "definition": "This trend marks the evolution from AI as a 'copilot' (assisting a human) to AI as an 'agent' (executing multi-step workflows independently). It enables a structural division of labor where humans define high-level strategic goals and verify final outputs, while a swarm of AI agents handles the granular execution, error-checking, and sub-task management.",
+            "analogy": "In a car factory, this is the move from a single mechanic using a power drill to an automated assembly line where one supervisor manages a fleet of robots that each handle specific parts of the engine build simultaneously.",
+            "business_value": "This represents a fundamental leap in operational velocity. As seen in recent benchmarks, agentic workflows can compress year-long technical migrations into weeks, effectively decoupling company growth from linear headcount increases."
         }
     ]
 }
