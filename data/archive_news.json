@@ -1,5 +1,140 @@
 [
   {
+    "title": "LLM-FACETS: A Privacy-Preserving Framework for Evaluating LLM Transparency and Accountability",
+    "summary": "arXiv:2605.31167v1 Announce Type: new Abstract: Assessing whether Large Language Models outputs are factually grounded, epistemically calibrated, and methodologically reproducible is a prerequisite for responsible AI deployment. Yet auditing LLMs remains inaccessible to non-technical practitioners: existing tools require programming expertise and n",
+    "url": "https://arxiv.org/abs/2605.31167",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration",
+    "summary": "arXiv:2605.31365v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models (MLLMs) have led to promising progress in web agents. However, existing web agents often rely on handcrafted execution pipelines or expensive expert trajectories, limiting their adaptability to complex, dynamic environments. To address these challeng",
+    "url": "https://arxiv.org/abs/2605.31365",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "LLMs Without Deep Neural Networks: New Architecture, Benefits and Case Study",
+    "summary": "arXiv:2605.30385v1 Announce Type: cross Abstract: The purpose of this article is to provide validation to my deep neural network alternative in the context of LLMs. Very recently, there has been a significant interest by Chinese researchers in a model called RBF network, as a substitute to standard DNNs, with increased explainability and higher acc",
+    "url": "https://arxiv.org/abs/2605.30385",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "An Organization-Scoped LLM Agent Runtime Architecture for Regulated Cybersecurity Operations",
+    "summary": "arXiv:2605.30604v1 Announce Type: cross Abstract: Regulated cybersecurity workflows lack a runtime substrate that enforces organization-level scope across retrieval, tool calls, memory, findings, reports, and audit while remaining model-agnostic and locally deployable. Recent large language model (LLM) agent systems report strong results on isolate",
+    "url": "https://arxiv.org/abs/2605.30604",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "GSAM: A Generalizable and Safe Robotic Framework for Articulated Object Manipulation",
+    "summary": "arXiv:2605.30740v1 Announce Type: cross Abstract: Articulated object manipulation is a unique challenge for service robots. Existing methods employ end-to-end policy learning, visionmotion planning, and large-language/visual-language model (LLM/VLM), but often overlook the diversity of articulated objects and the complexity of interactions between ",
+    "url": "https://arxiv.org/abs/2605.30740",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding",
+    "summary": "arXiv:2605.30794v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated significant achievements in general visual question answering (VQA) tasks. However, they remain brittle on mechanical engineering drawings, where high annotation density and weak domain knowledge, compounded by unreliable spatial relation re",
+    "url": "https://arxiv.org/abs/2605.30794",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences",
+    "summary": "arXiv:2605.30873v1 Announce Type: cross Abstract: Federated Learning (FL) offers a privacy-preserving pathway for aligning Large Language Models (LLMs); however, existing frameworks typically enforce a monolithic reward model, inevitably averaging out inherently conflicting user preferences (e.g., helpfulness vs. harmlessness). While Variational Pr",
+    "url": "https://arxiv.org/abs/2605.30873",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "A Unified and Reproducible Experimentation Framework for Speech Understanding",
+    "summary": "arXiv:2605.30899v1 Announce Type: cross Abstract: Speech foundation models and Speech LLMs have advanced speech understanding, yet deployment-oriented model selection is hindered by non-comparable evaluations caused by mismatched post-processing, and by training results that are hard to reproduce across data scales and pipelines. We present SURE, a",
+    "url": "https://arxiv.org/abs/2605.30899",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "Does Visual Information Play a Decisive Role in Vision-Language-Action Model Driving Behavior?",
+    "summary": "arXiv:2605.31041v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models have demonstrated promising capability in autonomous driving, highlighting the potential of unified multimodal architectures for jointly modeling perception and planning. However, how current VLA-based driving behavior is grounded in visual information remains poo",
+    "url": "https://arxiv.org/abs/2605.31041",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "PithTrain: A Compact and Agent-Native MoE Training System",
+    "summary": "arXiv:2605.31463v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) has become the dominant architecture for frontier language models. To meet this demand, production frameworks have built optimized MoE training stacks over years of engineering effort. Yet evolving these stacks for new architectures and system optimizations remains expensive",
+    "url": "https://arxiv.org/abs/2605.31463",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "ConSensus: Multi-Agent Collaboration for Multimodal Sensing",
+    "summary": "arXiv:2601.06453v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly grounded in sensor data to perceive and reason about human physiology and the physical world. However, accurately interpreting heterogeneous multimodal sensor data remains a fundamental challenge. We show that a single monolithic LLM often fails to rea",
+    "url": "https://arxiv.org/abs/2601.06453",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "Discovering Differences in Strategic Behavior Between Humans and LLMs",
+    "summary": "arXiv:2602.10324v2 Announce Type: replace Abstract: As Large Language Models (LLMs) are increasingly deployed in social and strategic scenarios, it becomes critical to understand where and why their behavior diverges from that of humans. While behavioral game theory (BGT) provides a framework for analyzing behavior, existing models do not fully cap",
+    "url": "https://arxiv.org/abs/2602.10324",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection",
+    "summary": "arXiv:2502.12119v4 Announce Type: replace-cross Abstract: Visual instruction tuning adapts pre-trained Multimodal Large Language Models (MLLMs) to follow human instructions for real-world applications. However, the rapid growth of these datasets introduces significant redundancy, leading to increased computational costs. Existing methods for select",
+    "url": "https://arxiv.org/abs/2502.12119",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "SpectralTrain: A Universal Framework for Hyperspectral Image Classification",
+    "summary": "arXiv:2511.16084v3 Announce Type: replace-cross Abstract: Hyperspectral image (HSI) classification typically involves large-scale data and computationally intensive training, which limits the practical deployment of deep learning models in real-world remote sensing tasks. This study introduces SpectralTrain, a universal, architecture-agnostic train",
+    "url": "https://arxiv.org/abs/2511.16084",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
+    "title": "Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies",
+    "summary": "arXiv:2512.19673v3 Announce Type: replace-cross Abstract: Existing reinforcement learning (RL) approaches treat large language models (LLMs) as a unified policy, overlooking their internal mechanisms. In this paper, we decompose the LLM-based policy into Internal Layer Policies and Internal Modular Policies via the Transformer's residual stream. Ou",
+    "url": "https://arxiv.org/abs/2512.19673",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-01T05:28:51.150233+00:00"
+  },
+  {
     "title": "Terence Tao argues AI could bring division of labor to math for the first time in history",
     "summary": "Mathematician Terence Tao describes how AI could reshape math research by enabling division of labor for the first time. Until now, researchers had to master every step themselves, from framing problems to verifying results. Tao sees \"industrial mathematics\" emerging: large AI-supported teams instead of lone geniuses, with humans staying indispensa",
     "url": "https://the-decoder.com/terence-tao-argues-ai-could-bring-division-of-labor-to-math-for-the-first-time-in-history/",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-05-07T14:45:19+00:00",
     "score": 6,
     "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "How Anthropic's 80x growth blew past its own infrastructure and straight into Musk's data center",
-    "summary": "Anthropic is set to tap into Elon Musk's Colossus 1 supercomputer. Behind the surprise deal lie a compute crunch, a looming IPO, and a remarkable about-face by Musk. The article How Anthropic&#039;s 80x growth blew past its own infrastructure and straight into Musk&#039;s data center appeared first on The Decoder.",
-    "url": "https://the-decoder.com/how-anthropics-80x-growth-blew-past-its-own-infrastructure-and-straight-into-musks-data-center/",
-    "source": "The Decoder",
-    "published_at": "2026-05-07T14:09:49+00:00",
-    "score": 6,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "The US and China are considering formal talks on AI",
-    "summary": "The US and China are exploring official talks on artificial intelligence, the Wall Street Journal reports. The article The US and China are considering formal talks on AI appeared first on The Decoder.",
-    "url": "https://the-decoder.com/the-us-and-china-are-considering-formal-talks-on-ai/",
-    "source": "The Decoder",
-    "published_at": "2026-05-07T11:13:12+00:00",
-    "score": 6,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "Claude's new \"Dreaming\" feature is designed to let AI agents learn from their mistakes",
-    "summary": "Anthropic is adding \"Dreaming\" to Claude Managed Agents, an asynchronous process that reviews past agent sessions, cleans up duplicate or outdated memory entries, and distills new insights. Along with Outcomes and Multiagent Orchestration, now both in public beta, the updates are designed to help AI agents learn and improve across sessions. The art",
-    "url": "https://the-decoder.com/claudes-new-dreaming-feature-is-designed-to-let-ai-agents-learn-from-their-mistakes/",
-    "source": "The Decoder",
-    "published_at": "2026-05-07T10:59:37+00:00",
-    "score": 6,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-    "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-    "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-    "source": "Wired AI",
-    "published_at": "2026-05-08T01:42:14+00:00",
-    "score": 5,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
-    "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
-    "url": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
-    "source": "Wired AI",
-    "published_at": "2026-05-07T16:25:48+00:00",
-    "score": 5,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
-    "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
-    "url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
-    "source": "Wired AI",
-    "published_at": "2026-05-07T11:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
-    "summary": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
-    "url": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
-    "source": "Wired AI",
-    "published_at": "2026-05-07T11:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "Where Paths Split: Localized, Calibrated Control of Moral Reasoning in Large Language Models",
-    "summary": "arXiv:2605.03609v1 Announce Type: new Abstract: Large language models often display heterogeneous moral preferences across settings. We study inference-time steering toward a desired ethical framework while preserving general competence. We present Convergent-Divergent Routing, which traces and edits minimal branch points inside transformer blocks ",
-    "url": "https://arxiv.org/abs/2605.03609",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting",
-    "summary": "arXiv:2605.03804v1 Announce Type: new Abstract: Long-term personalized memory for LLM agents is challenging on resource-limited edge devices due to high storage costs and multimodal complexity. To address this, we propose ScrapMem, a framework that integrates multimodal data into \"Scrapbook Page.\" ScrapMem introduces Optical Forgetting, an optical ",
-    "url": "https://arxiv.org/abs/2605.03804",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "PAMNet: Cycle-aware Phase-Amplitude Modulation Network for Multivariate Time Series Forecasting",
-    "summary": "arXiv:2605.02938v1 Announce Type: cross Abstract: Reliable periodic patterns serve as a fundamental basis for accurate multivariate time series forecasting. However, existing methods either implicitly extract periodicity through complex model architectures (e.g., Transformers) with high computational overhead or overlook the intrinsic phase-amplitu",
-    "url": "https://arxiv.org/abs/2605.02938",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "RouteHijack: Routing-Aware Attack on Mixture-of-Experts LLMs",
-    "summary": "arXiv:2605.02946v1 Announce Type: cross Abstract: Safety alignment is critical for the responsible deployment of large language models (LLMs). As Mixture-of-Experts (MoE) architectures are increasingly adopted to scale model capacity, understanding their safety robustness becomes essential. Existing adversarial attacks, however, have notable limita",
-    "url": "https://arxiv.org/abs/2605.02946",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "AutoRAGTuner: A Declarative Framework for Automatic Optimization of RAG Pipelines",
-    "summary": "arXiv:2605.02967v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) enhances LLMs, but performance is highly sensitive to complex architecture designs and hyper-parameter configurations, which currently rely on inefficient manual tuning. We present AutoRAGTuner, a declarative, configuration-driven framework that automates the RAG",
-    "url": "https://arxiv.org/abs/2605.02967",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology",
-    "summary": "arXiv:2605.03352v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated robust capabilities in recognizing everyday human activities, yet their potential for analyzing clinically significant involuntary movements in neurological disorders remains largely unexplored. This pilot study evaluates the capability of M",
-    "url": "https://arxiv.org/abs/2605.03352",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "Steer Like the LLM: Activation Steering that Mimics Prompting",
-    "summary": "arXiv:2605.03907v1 Announce Type: cross Abstract: Large language models can be steered at inference time through prompting or activation interventions, but activation steering methods often underperform compared to prompt-based approaches. We propose a framework that formulates prompt steering as a form of activation steering and investigates wheth",
-    "url": "https://arxiv.org/abs/2605.03907",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
-  },
-  {
-    "title": "Agentic publications: redesigning scientific publishing in the age of thinking large language models",
-    "summary": "arXiv:2505.13246v2 Announce Type: replace Abstract: Purpose: This paper introduces the concept of \"Agentic Publication,\" a novel LLM-driven framework designed to complement traditional scientific publishing by transforming papers into interactive knowledge systems that address challenges created by exponential growth in scientific literature. Desig",
-    "url": "https://arxiv.org/abs/2505.13246",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-07T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-07T04:15:47.802067+00:00"
   }
 ]

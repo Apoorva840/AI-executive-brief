@@ -1,44 +1,42 @@
 [
   {
-    "title": "Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot",
-    "summary": "Nvidia is pushing into the PC market with its own chips as the main processor. The first Windows computers from Dell and Microsoft's Surface line are set to be unveiled next week at Computex and Build. Microsoft is also planning new software likely based on the OpenClaw framework that lets AI agents handle tasks locally on Windows PCs, a second sho",
-    "url": "https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot/",
-    "source": "The Decoder",
-    "published_at": "2026-05-30T16:18:56+00:00",
+    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "summary": "",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-06-01T04:44:55+00:00",
+    "score": 8
+  },
+  {
+    "title": "BilliardPhys-Bench: Benchmarking Physical Reasoning and Visual Dynamics of Multimodal LLMs",
+    "summary": "arXiv:2605.30900v1 Announce Type: new Abstract: Current multimodal models handle static image recognition well, but intuitive physical reasoning remains a weakness. Predicting how objects will move and interact from a single image is still difficult for these systems. We present BilliardPhys-Bench, a benchmark for physical reasoning in synthetic bi",
+    "url": "https://arxiv.org/abs/2605.30900",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-01T04:00:00+00:00",
     "score": 7
   },
   {
-    "title": "Making AI chatbots helpful weakens their ability to simulate human behavior, large-scale study finds",
-    "summary": "A large-scale study covering 208,000 participants and 26 million responses shows that the very training that turns language models into helpful chatbots weakens their ability to replicate human behavior. The effect gets worse with each new model generation. Even the popular persona trick, feeding models demographic profiles, brings practically no b",
-    "url": "https://the-decoder.com/making-ai-chatbots-helpful-weakens-their-ability-to-simulate-human-behavior-large-scale-study-finds/",
+    "title": "Ask AI what goes with chicken and the answer depends on whether it learned from recipes or molecules",
+    "summary": "With \"Epicure,\" London-based startup Kaikaku.AI presents three AI models that are the first to clearly separate whether an ingredient fits a recipe or is chemically related. Trained on 4.14 million recipes in seven languages and the FlavorDB flavor database, each variant returns different recommendations. The purely chemistry-based model even class",
+    "url": "https://the-decoder.com/ask-ai-what-goes-with-chicken-and-the-answer-depends-on-whether-it-learned-from-recipes-or-molecules/",
     "source": "The Decoder",
-    "published_at": "2026-05-30T12:44:12+00:00",
+    "published_at": "2026-05-31T11:37:20+00:00",
     "score": 7
   },
   {
-    "title": "Do You Actually Need to Pay for Transcription Software?",
-    "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
-    "url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
+    "title": "Anthropic bans AI tools during job interviews to see how candidates actually think",
+    "summary": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, and some applicants pay $4,600 for prep coaching run anonymously by current AI company employees. The article Anthropic bans AI tools during job interviews to see how candidates actually thi",
+    "url": "https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think/",
+    "source": "The Decoder",
+    "published_at": "2026-05-31T10:10:14+00:00",
+    "score": 6
+  },
+  {
+    "title": "How Turkey Hacked the Hair Transplant Industry",
+    "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
+    "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
     "source": "Wired AI",
-    "published_at": "2026-05-30T09:30:00+00:00",
+    "published_at": "2026-05-31T09:00:00+00:00",
     "score": 5
-  },
-  {
-    "title": "OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic",
-    "summary": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Early partners include Lawrence Livermore National Laboratory, Johns Hopkins, and vaccine initiative CEPI. Applications are open worldwide. The article OpenAI is giving away its life sciences A",
-    "url": "https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/",
-    "source": "The Decoder",
-    "published_at": "2026-05-29T16:51:30+00:00",
-    "score": 7,
-    "archived_at": "2026-05-30T04:37:58.840833+00:00"
-  },
-  {
-    "title": "New review paper argues code is how AI agents think and act, not just what they produce",
-    "summary": "A new review paper argues that the real bottleneck for autonomous AI agents isn't the language model itself but the software layer wrapped around it. Tools, memory, testing, and permission boundaries turn a stateless model into a working agent. Deepseek is already building a dedicated \"Harness\" team in Beijing with a core formula that confirms the ",
-    "url": "https://the-decoder.com/new-review-paper-argues-code-is-how-ai-agents-think-and-act-not-just-what-they-produce/",
-    "source": "The Decoder",
-    "published_at": "2026-05-29T13:10:59+00:00",
-    "score": 7,
-    "archived_at": "2026-05-30T04:37:58.840833+00:00"
   }
 ]

@@ -1,26 +1,26 @@
 {
-    "last_updated": "May 31, 2026",
+    "last_updated": "June 01, 2026",
     "tools": [
         {
-            "Name": "Claude Code",
-            "Category": "Agentic Coding Tool",
-            "Description": "An agentic coding tool that resides in the terminal, capable of understanding the codebase to assist with coding tasks, git workflows, and code explanation.",
-            "Use_Case": "Accelerating software development cycles through natural language commands and automated routine tasks.",
-            "URL": "https://github.com/anthropics/claude-code"
+            "Name": "MoneyPrinterTurbo",
+            "Category": "Video Generation",
+            "Description": "An AI-powered tool for generating high-definition short videos from a single theme or keyword, supporting full automation of scripts, visual materials, subtitles, and music.",
+            "Use_Case": "Automated creation of high-quality short-form video content.",
+            "URL": "https://github.com/harry0703/MoneyPrinterTurbo"
         },
         {
             "Name": "MarkItDown",
-            "Category": "Data Conversion",
-            "Description": "A Python-based utility that converts a wide array of file formats (PDF, Office, Images, Audio, etc.) into Markdown specifically for use in LLM pipelines.",
-            "Use_Case": "Pre-processing and formatting unstructured document data for ingestion into AI models.",
+            "Category": "Data Processing",
+            "Description": "A lightweight Python utility by Microsoft for converting various file types (PDF, Office, Images, Audio, HTML) into Markdown, optimized for LLM consumption.",
+            "Use_Case": "Preparing documents, presentations, and multimedia transcripts for AI text analysis and retrieval-augmented generation pipelines.",
             "URL": "https://github.com/microsoft/markitdown"
         },
         {
-            "Name": "CodeBoarding",
-            "Category": "Developer Productivity / Architecture",
-            "Description": "A tool that generates interactive architecture diagrams and component-level documentation for codebases by combining static analysis with LLM reasoning.",
-            "Use_Case": "Visualizing complex codebases and maintaining architecture documentation while agents perform work.",
-            "URL": "https://github.com/CodeBoarding/CodeBoarding"
+            "Name": "Scrapling",
+            "Category": "Web Scraping",
+            "Description": "An adaptive Web Scraping framework designed for modern web environments, featuring intelligent element tracking, anti-bot bypass, and a full crawling framework.",
+            "Use_Case": "Scalable, resilient web data extraction that automatically adapts to website layout changes.",
+            "URL": "https://github.com/D4Vinci/Scrapling"
         }
     ]
 }
