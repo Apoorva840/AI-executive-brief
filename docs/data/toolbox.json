@@ -1,26 +1,26 @@
 {
-    "last_updated": "June 01, 2026",
+    "last_updated": "June 02, 2026",
     "tools": [
         {
-            "Name": "MoneyPrinterTurbo",
-            "Category": "Video Generation",
-            "Description": "An AI-powered tool for generating high-definition short videos from a single theme or keyword, supporting full automation of scripts, visual materials, subtitles, and music.",
-            "Use_Case": "Automated creation of high-quality short-form video content.",
-            "URL": "https://github.com/harry0703/MoneyPrinterTurbo"
-        },
-        {
             "Name": "MarkItDown",
-            "Category": "Data Processing",
-            "Description": "A lightweight Python utility by Microsoft for converting various file types (PDF, Office, Images, Audio, HTML) into Markdown, optimized for LLM consumption.",
-            "Use_Case": "Preparing documents, presentations, and multimedia transcripts for AI text analysis and retrieval-augmented generation pipelines.",
+            "Category": "Data Preparation",
+            "Description": "A lightweight Python utility for converting various file formats (PDF, Word, Excel, etc.) into Markdown.",
+            "Use_Case": "Preparing diverse documents as token-efficient input for LLMs and text analysis pipelines.",
             "URL": "https://github.com/microsoft/markitdown"
         },
         {
             "Name": "Scrapling",
             "Category": "Web Scraping",
-            "Description": "An adaptive Web Scraping framework designed for modern web environments, featuring intelligent element tracking, anti-bot bypass, and a full crawling framework.",
-            "Use_Case": "Scalable, resilient web data extraction that automatically adapts to website layout changes.",
+            "Description": "An adaptive scraping framework featuring automatic element relocation and stealthy fetchers.",
+            "Use_Case": "Scaling reliable data extraction from modern, anti-bot protected websites for AI applications.",
             "URL": "https://github.com/D4Vinci/Scrapling"
+        },
+        {
+            "Name": "Claude Code",
+            "Category": "Developer Tooling",
+            "Description": "An agentic coding tool that resides in the terminal to assist with git workflows, code explanation, and routine coding tasks.",
+            "Use_Case": "Accelerating development by executing complex coding tasks via natural language commands within a local environment.",
+            "URL": "https://github.com/anthropics/claude-code"
         }
     ]
 }

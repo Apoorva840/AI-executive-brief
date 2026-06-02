@@ -1,5 +1,140 @@
 [
   {
+    "title": "Experiments in Agentic AI for Science",
+    "summary": "arXiv:2605.26305v2 Announce Type: replace Abstract: This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remote Brain architecture via Google Colab, utilizing Python-based local orchestrators to invoke large language model (LLM) cloud backends. The first ag",
+    "url": "https://arxiv.org/abs/2605.26305",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "Evaluating Interactive Reasoning in Large Language Models: A Hierarchical Benchmark with Executable Games",
+    "summary": "arXiv:2606.00103v1 Announce Type: new Abstract: We introduce a multi-turn interactive framework for reasoning evaluation that treats reasoning as active evidence acquisition and belief updating. Wherein, LLMs receive only the task rules, must issue targeted queries to a hidden environment, integrate partial observations over time, and decide when t",
+    "url": "https://arxiv.org/abs/2606.00103",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition",
+    "summary": "arXiv:2606.00959v1 Announce Type: new Abstract: Understanding modality interaction in multimodal large language models (MLLMs) is central to reliable deployment. We introduce Partial Information Decomposition (PID) as a decision-level framework that separates unique, redundant, and synergistic contributions of sensory and linguistic inputs, beyond ",
+    "url": "https://arxiv.org/abs/2606.00959",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "TravelEval: A Comprehensive Benchmarking Framework for Evaluating LLM-Powered Travel Planning Agents",
+    "summary": "arXiv:2606.01046v1 Announce Type: new Abstract: The development of Large Language Models (LLMs) has significantly improved travel planning applications, yet evaluating such models is limited by existing benchmarks' limitations: 1) overemphasis on constraint compliance, neglecting multi-dimensional qualities like spatio-temporal cost; 2) datasets la",
+    "url": "https://arxiv.org/abs/2606.01046",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems",
+    "summary": "arXiv:2606.01351v1 Announce Type: new Abstract: The transition from single-turn models to Multi-Agent Systems (MAS) promises enhanced problem-solving capabilities, yet the centralized orchestration topology remains a critical point of fragility. To analyze this, we propose a Mean-Field Entropy Dynamics framework, modeling the orchestration process ",
+    "url": "https://arxiv.org/abs/2606.01351",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "TrafficRAG: A Multimodal RAG Framework for Traffic Accident Liability Determination",
+    "summary": "arXiv:2606.01737v1 Announce Type: new Abstract: Traffic accident liability analysis is a critical yet challenging task in intelligent transportation and legal assistance. Existing methods often suffer from low efficiency, subjective judgment, and inconsistent analysis results. Meanwhile, large language models are constrained by noisy video inputs a",
+    "url": "https://arxiv.org/abs/2606.01737",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "BenHalluEval: A Multi-Task Hallucination Evaluation Framework for Large Language Models on Bengali",
+    "summary": "arXiv:2605.31483v1 Announce Type: cross Abstract: Despite Bengali being the sixth most spoken language in the world, no prior work has systematically evaluated hallucination in large language models (LLMs) for Bengali. We introduce BenHalluEval, a fine-grained hallucination evaluation framework for Bengali covering four tasks: Generative Question A",
+    "url": "https://arxiv.org/abs/2605.31483",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "BitsMoE: Efficient Spectral Energy-Guided Bit Allocation for MoE LLM Quantization",
+    "summary": "arXiv:2606.00079v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) large language models reduce per-token computation through sparse expert activation, but their deployment remains memory-intensive because all expert weights must be kept resident in memory. Existing MoE compression methods struggle in the ultra-low-bit regime: pruning irrev",
+    "url": "https://arxiv.org/abs/2606.00079",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "DLLM-JEPA: Joint Embedding Predictive Architectures for Masked Diffusion Language Models",
+    "summary": "arXiv:2606.00091v1 Announce Type: cross Abstract: Joint Embedding Predictive Architectures (JEPAs) have reshaped self-supervised representation learning in vision. The recent LLM-JEPA ported JEPA to autoregressive language models but inherited two steep costs from the causal-attention substrate: it demands explicit multi-view data (e.g., text-code ",
+    "url": "https://arxiv.org/abs/2606.00091",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "Visual-Noise Guided In-Context Distillation for Multimodal Large Language Model Unlearning",
+    "summary": "arXiv:2606.00105v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have achieved remarkable progress on vision-language tasks, but they may also memorize and expose sensitive or restricted knowledge, raising concerns about privacy and broader safety risks. Machine Unlearning (MU) provides a promising way to remove targeted u",
+    "url": "https://arxiv.org/abs/2606.00105",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "SpikeWFM: Spiking-Aided Wireless Foundation Model for Robust Channel Prediction",
+    "summary": "arXiv:2606.00120v1 Announce Type: cross Abstract: This paper proposes SpikeWFM, a novel hybrid architecture that integrates spiking neural networks (SNNs) with conventional artificial neural network (ANN)-based transformers for wireless foundation models (WFMs). Inspired by the noise-robust and energy-efficient information processing in the human b",
+    "url": "https://arxiv.org/abs/2606.00120",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "CardioLens: Revealing the Clinical Reality Gap of MLLMs via Multi-Sequence Cardiac MRI Evaluations",
+    "summary": "arXiv:2606.00123v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have shown strong performance on public medical benchmarks, yet existing evaluations often remain weak proxies for clinical use, relying on isolated inputs and simplified recognition-style tasks. We introduce CardioLens, a leakage-resistant evaluation testbed",
+    "url": "https://arxiv.org/abs/2606.00123",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "StemBind: When MLLMs Get Lost Between Rules and Instances in Abstract Visual Reasoning",
+    "summary": "arXiv:2606.00148v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) often know the rule but pick the wrong answer: on abstract visual reasoning (AVR) tasks, a model can describe what it sees and name the underlying pattern, yet still fail to choose the matching candidate. Existing AVR benchmarks cannot detect this because the",
+    "url": "https://arxiv.org/abs/2606.00148",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "Benchmarking Multimodal LLMs on Code Generation for Complex Interactive Webpages",
+    "summary": "arXiv:2606.00154v1 Announce Type: cross Abstract: Recent advancements in multimodal large language models (MLLMs) have achieved remarkable progress in multimodal reasoning and code generation, catalyzing a new paradigm for front-end development. In particular, these models can directly transform visual designs into executable code, significantly im",
+    "url": "https://arxiv.org/abs/2606.00154",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
+    "title": "Hyperbolic and Evidence-Prioritized Experts for Large Vision-Language Models",
+    "summary": "arXiv:2606.00275v1 Announce Type: cross Abstract: Large Vision-Language Models (LVLMs) have demonstrated impressive performance on multimodal tasks through scaled architectures and extensive training. Recent studies introduce Mixture of Experts (MoE) into LVLMs for improved computational efficiency. However, existing MoE approaches treat visual and",
+    "url": "https://arxiv.org/abs/2606.00275",
+    "source": "Arxiv AI",
+    "published_at": "2026-06-02T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-06-02T05:14:40.264406+00:00"
+  },
+  {
     "title": "LLM-FACETS: A Privacy-Preserving Framework for Evaluating LLM Transparency and Accountability",
     "summary": "arXiv:2605.31167v1 Announce Type: new Abstract: Assessing whether Large Language Models outputs are factually grounded, epistemically calibrated, and methodologically reproducible is a prerequisite for responsible AI deployment. Yet auditing LLMs remains inaccessible to non-technical practitioners: existing tools require programming expertise and n",
     "url": "https://arxiv.org/abs/2605.31167",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-05-11T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-05-11T04:47:20.471779+00:00"
-  },
-  {
-    "title": "Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding",
-    "summary": "arXiv:2605.07141v1 Announce Type: cross Abstract: Open-world referring segmentation requires grounding unconstrained language expressions to precise pixel-level regions. Existing multimodal large language models (MLLMs) exhibit strong open-world visual grounding, but their outputs remain limited to sparse bounding-box coordinates and are insufficie",
-    "url": "https://arxiv.org/abs/2605.07141",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-11T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-11T04:47:20.471779+00:00"
-  },
-  {
-    "title": "Reformulating KV Cache Eviction Problem for Long-Context LLM Inference",
-    "summary": "arXiv:2605.07234v1 Announce Type: cross Abstract: Large language models (LLMs) support long-context inference but suffer from substantial memory and runtime overhead due to Key-Value (KV) Cache growth. Existing KV Cache eviction methods primarily rely on local attention weights, neglecting the influence of value representations, output projection, ",
-    "url": "https://arxiv.org/abs/2605.07234",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-11T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-11T04:47:20.471779+00:00"
-  },
-  {
-    "title": "Google's \"Preferred Sources\" feature is a free pass for more garbage in search",
-    "summary": "Google frames \"Preferred Sources\" as a way to bring more quality journalism into search. In practice, it shifts responsibility to a manual setting almost no one will use. That gives Google a user-choice argument for users and regulators while it keeps sidelining the open web in favor of its own AI interfaces. The article Google&#039;s &quot;Preferr",
-    "url": "https://the-decoder.com/googles-preferred-sources-feature-is-a-free-pass-for-more-garbage-in-search/",
-    "source": "The Decoder",
-    "published_at": "2026-05-09T10:29:00+00:00",
-    "score": 6,
-    "archived_at": "2026-05-10T04:35:25.343500+00:00"
-  },
-  {
-    "title": "Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows",
-    "summary": "Software that claims to read human emotions using AI is quietly becoming a fixture of everyday work life, Ellen Cushing reports in a feature for The Atlantic. The article Pseudoscientific emotion AI is invading the workplace, an Atlantic report shows appeared first on The Decoder.",
-    "url": "https://the-decoder.com/pseudoscientific-emotion-ai-is-invading-the-workplace-an-atlantic-report-shows/",
-    "source": "The Decoder",
-    "published_at": "2026-05-09T07:20:09+00:00",
-    "score": 6,
-    "archived_at": "2026-05-10T04:35:25.343500+00:00"
-  },
-  {
-    "title": "AI money keeps flowing as Deepseek plans record raise and Core Automation quadruples valuation in weeks",
-    "summary": "Deepseek is planning a funding round of up to $7.35 billion, the largest ever for a Chinese AI company. Deepseek V4.1 is set to launch in June. Meanwhile, Core Automation, founded by ex-OpenAI researcher Jerry Tworek just six weeks ago, is already targeting a $4 billion valuation. The article AI money keeps flowing as Deepseek plans record raise an",
-    "url": "https://the-decoder.com/ai-money-keeps-flowing-as-deepseek-plans-record-raise-and-core-automation-quadruples-valuation-in-weeks/",
-    "source": "The Decoder",
-    "published_at": "2026-05-08T17:50:53+00:00",
-    "score": 6,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "Anthropic approaches $1 trillion valuation as revenue grows fivefold",
-    "summary": "According to the Financial Times, Anthropic's planned funding round is taking shape. The round aims to raise up to $50 billion, which would value the company at roughly $900 billion. The article Anthropic approaches $1 trillion valuation as revenue grows fivefold appeared first on The Decoder.",
-    "url": "https://the-decoder.com/anthropic-approaches-1-trillion-valuation-as-revenue-grows-fivefold/",
-    "source": "The Decoder",
-    "published_at": "2026-05-08T14:49:24+00:00",
-    "score": 6,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities",
-    "summary": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds and runs its own test cases to filter out false positives. Going forward, every new piece of code is to be automatically checked before commit. The a",
-    "url": "https://the-decoder.com/mozillas-agentic-ai-pipeline-turns-claude-mythos-preview-loose-and-finds-271-unknown-firefox-vulnerabilities/",
-    "source": "The Decoder",
-    "published_at": "2026-05-08T09:23:28+00:00",
-    "score": 6,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-    "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-    "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "source": "Wired AI",
-    "published_at": "2026-05-08T15:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "The New Wild West of AI Kids’ Toys",
-    "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
-    "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
-    "source": "Wired AI",
-    "published_at": "2026-05-08T10:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
-    "summary": "Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level power grid behavior is essential for modern power systems research. Analyses of congestion, transmission expansion, demand growth, and system resilience al",
-    "url": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
-    "source": "Microsoft Research",
-    "published_at": "2026-05-08T19:53:56+00:00",
-    "score": 5,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations",
-    "summary": "SoftBank has reduced a loan secured by OpenAI shares from 10 to around 6 billion dollars. Lenders are apparently reluctant to reliably assess the value of an unlisted company like OpenAI. The article SoftBank reportedly slashes OpenAI-backed loan from $10 billion to $6 billion as lenders balk at private AI valuations appeared first on The Decoder.",
-    "url": "https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/",
-    "source": "The Decoder",
-    "published_at": "2026-05-08T16:26:58+00:00",
-    "score": 5,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-    "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain&#8230;",
-    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-05-08T23:59:19+00:00",
-    "score": 3,
-    "archived_at": "2026-05-09T04:07:07.463005+00:00"
-  },
-  {
-    "title": "Google Deepmind takes a stake in EVE Online studio to test AI models",
-    "summary": "Google Deepmind is acquiring a minority stake in the studio behind the space MMO EVE Online and will use the game as a testing ground for AI models. The article Google Deepmind takes a stake in EVE Online studio to test AI models appeared first on The Decoder.",
-    "url": "https://the-decoder.com/google-deepmind-takes-a-stake-in-eve-online-studio-to-test-ai-models/",
-    "source": "The Decoder",
-    "published_at": "2026-05-07T11:15:37+00:00",
-    "score": 7,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "Europe's answer to AI regulation complexity is to just delay most of it",
-    "summary": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudification\" apps are now explicitly banned. The labeling requirement for deepfakes and AI-generated text still takes effect in August 2026. The article Eur",
-    "url": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/",
-    "source": "The Decoder",
-    "published_at": "2026-05-07T17:36:39+00:00",
-    "score": 6,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
-  },
-  {
-    "title": "AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization",
-    "summary": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees. The article AI translation company DeepL cuts around 250 jobs to rebuild as an &quot;AI-native&quot; organization appeared first on The Decoder.",
-    "url": "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/",
-    "source": "The Decoder",
-    "published_at": "2026-05-07T14:45:19+00:00",
-    "score": 6,
-    "archived_at": "2026-05-08T04:03:16.090792+00:00"
   }
 ]

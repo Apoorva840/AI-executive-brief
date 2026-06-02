@@ -1,28 +1,13 @@
 [
   {
-    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-    "source": "Hugging Face Blog",
-    "score": 8,
-    "what_happened": "Hugging Face Blog announced 'Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action', highlighting new developments relevant to AI researchers and practitioners.",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
-    "who_should_care": [
-      "ML Engineers",
-      "Open-Source Contributors"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "BilliardPhys-Bench: Benchmarking Physical Reasoning and Visual Dynamics of Multimodal LLMs",
-    "url": "https://arxiv.org/abs/2605.30900",
+    "title": "MLLM-Microscope: Unlocking Hidden Structure Within Multimodal Large Language Models",
+    "url": "https://arxiv.org/abs/2606.00909",
     "source": "Arxiv AI",
-    "score": 7,
-    "what_happened": "arXiv:2605.30900v1 Announce Type: new Abstract: Current multimodal models handle static image recognition well, but intuitive physical reasoning remains a weakness. Predicting how objects will move and interact from a single image is still difficult for these systems. We present BilliardPhys-Bench, a benchmark for physical reasoning in synthetic bi",
+    "score": 8,
+    "what_happened": "arXiv:2606.00909v1 Announce Type: cross Abstract: This work presents MLLM-Microscope, a novel system designed for analyzing the hidden representations within Multimodal Large Language Models (MLLMs). Our system evaluates the linearity, intrinsic dimension, and anisotropy of multimodal token embeddings across transformer layers. Utilizing the Scienc",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "Research Scientists",
       "ML Engineers"
@@ -30,46 +15,62 @@
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "Ask AI what goes with chicken and the answer depends on whether it learned from recipes or molecules",
-    "url": "https://the-decoder.com/ask-ai-what-goes-with-chicken-and-the-answer-depends-on-whether-it-learned-from-recipes-or-molecules/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "With \"Epicure,\" London-based startup Kaikaku.AI presents three AI models that are the first to clearly separate whether an ingredient fits a recipe or is chemically related. Trained on 4.14 million recipes in seven languages and the FlavorDB flavor database, each variant returns different recommendations. The purely chemistry-based model even class",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "source": "Hugging Face Blog",
+    "score": 8,
+    "what_happened": "Hugging Face Blog announced 'Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
-  },
-  {
-    "title": "Anthropic bans AI tools during job interviews to see how candidates actually think",
-    "url": "https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think/",
-    "source": "The Decoder",
-    "score": 6,
-    "what_happened": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, and some applicants pay $4,600 for prep coaching run anonymously by current AI company employees. The article Anthropic bans AI tools during job interviews to see how candidates actually thi",
-    "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "AI Professionals"
+      "ML Engineers",
+      "Open-Source Contributors"
     ],
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "How Turkey Hacked the Hair Transplant Industry",
-    "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "source": "Hugging Face Blog",
+    "score": 8,
+    "what_happened": "Hugging Face Blog announced 'Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "MiniMax M3: Open-weight model with a million-token context challenges proprietary leaders",
+    "url": "https://the-decoder.com/minimax-m3-open-weight-model-with-a-million-token-context-challenges-proprietary-leaders/",
+    "source": "The Decoder",
+    "score": 8,
+    "what_happened": "Chinese AI company MiniMax has released its new model M3. It's billed as the first open-weight model to combine top-tier coding performance, a one-million-token context window, and native multimodality. The article MiniMax M3: Open-weight model with a million-token context challenges proprietary leaders appeared first on The Decoder.",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "Nvidia's Nemotron 3 Ultra becomes the smartest open US model, but China still leads",
+    "url": "https://the-decoder.com/nvidias-nemotron-3-ultra-becomes-the-smartest-open-us-model-but-china-still-leads/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "According to benchmark platform Artificial Analysis, Nvidia's new Nemotron 3 Ultra is the most capable open AI model from the US to date. The article Nvidia&#039;s Nemotron 3 Ultra becomes the smartest open US model, but China still leads appeared first on The Decoder.",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   }
 ]
