@@ -1,42 +1,42 @@
 [
   {
-    "title": "MLLM-Microscope: Unlocking Hidden Structure Within Multimodal Large Language Models",
-    "summary": "arXiv:2606.00909v1 Announce Type: cross Abstract: This work presents MLLM-Microscope, a novel system designed for analyzing the hidden representations within Multimodal Large Language Models (MLLMs). Our system evaluates the linearity, intrinsic dimension, and anisotropy of multimodal token embeddings across transformer layers. Utilizing the Scienc",
-    "url": "https://arxiv.org/abs/2606.00909",
+    "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
+    "summary": "arXiv:2606.04484v1 Announce Type: new Abstract: We present AgentJet, a distributed swarm training framework for large language model (LLM) agent reinforcement learning. Unlike centralized frameworks that tightly couple agent rollouts with model optimization, AgentJet adopts a decoupled multi-node architecture in which swarm server nodes host traina",
+    "url": "https://arxiv.org/abs/2606.04484",
     "source": "Arxiv AI",
-    "published_at": "2026-06-02T04:00:00+00:00",
+    "published_at": "2026-06-04T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-    "summary": "",
-    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-06-01T15:45:17+00:00",
-    "score": 8
-  },
-  {
-    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-06-01T13:51:18+00:00",
-    "score": 8
-  },
-  {
-    "title": "MiniMax M3: Open-weight model with a million-token context challenges proprietary leaders",
-    "summary": "Chinese AI company MiniMax has released its new model M3. It's billed as the first open-weight model to combine top-tier coding performance, a one-million-token context window, and native multimodality. The article MiniMax M3: Open-weight model with a million-token context challenges proprietary leaders appeared first on The Decoder.",
-    "url": "https://the-decoder.com/minimax-m3-open-weight-model-with-a-million-token-context-challenges-proprietary-leaders/",
+    "title": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM",
+    "summary": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matches the twice-as-large 26B model in benchmarks and ships under an Apache 2.0 license for commercial use. The article Google Deepmind&#039;s Gemma 4 12B squeezes multimodal AI onto a laptop w",
+    "url": "https://the-decoder.com/google-deepminds-gemma-4-12b-squeezes-multimodal-ai-onto-a-laptop-with-just-16-gb-of-ram/",
     "source": "The Decoder",
-    "published_at": "2026-06-01T13:38:52+00:00",
+    "published_at": "2026-06-03T19:54:13+00:00",
     "score": 8
   },
   {
-    "title": "Nvidia's Nemotron 3 Ultra becomes the smartest open US model, but China still leads",
-    "summary": "According to benchmark platform Artificial Analysis, Nvidia's new Nemotron 3 Ultra is the most capable open AI model from the US to date. The article Nvidia&#039;s Nemotron 3 Ultra becomes the smartest open US model, but China still leads appeared first on The Decoder.",
-    "url": "https://the-decoder.com/nvidias-nemotron-3-ultra-becomes-the-smartest-open-us-model-but-china-still-leads/",
-    "source": "The Decoder",
-    "published_at": "2026-06-01T13:32:51+00:00",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "summary": "",
+    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "source": "Hugging Face Blog",
+    "published_at": "2026-06-03T12:55:11+00:00",
     "score": 7
+  },
+  {
+    "title": "Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering",
+    "summary": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering. On the DesignArena leaderboard, it ranks first among all open models; only closed systems from OpenAI and Google score higher. Commercial use requires a paid license. The article Ideogram 4.0",
+    "url": "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/",
+    "source": "The Decoder",
+    "published_at": "2026-06-03T18:34:36+00:00",
+    "score": 7
+  },
+  {
+    "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+    "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+    "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+    "source": "Wired AI",
+    "published_at": "2026-06-04T01:01:00+00:00",
+    "score": 5
   }
 ]
