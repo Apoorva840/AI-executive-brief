@@ -1,137 +1,137 @@
 [
   {
-    "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
-    "summary": "arXiv:2606.04246v1 Announce Type: new Abstract: Automatic generation of RTL code for digital hardware designs remains challenging due to long-horizon reasoning, multi-step dependencies, and strict correctness constraints in Verilog and VHDL. We present StepPRM-RTL, a novel framework that combines stepwise trajectory modeling, process-reward modelin",
-    "url": "https://arxiv.org/abs/2606.04246",
+    "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
+    "summary": "arXiv:2608.20549v1 Announce Type: new Abstract: Advances in multimodal large language models (MLLMs) are extending radiological artificial intelligence (AI) beyond task-specific image analysis toward multimodal understanding and reasoning. Volumetric radiology, however, presents a fundamental representational mismatch: clinical interpretation often",
+    "url": "https://arxiv.org/abs/2608.20549",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
+    "published_at": "2026-08-24T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "Parthenon Law: A Self-Evolving Legal-Agent Framework",
-    "summary": "arXiv:2606.04602v1 Announce Type: new Abstract: As agents grow more capable, legal-domain LLM agents promise to turn document-heavy matters into reviewable work products -- yet reliable deployment faces three obstacles: no large-scale evidence on how today's strongest model-and-harness combinations behave on end-to-end legal matters; no agent archi",
-    "url": "https://arxiv.org/abs/2606.04602",
+    "title": "Auditable by Construction: An Ontology-Driven Framework for Trustworthy LLM Analytics in Enterprise Finance",
+    "summary": "arXiv:2608.20661v1 Announce Type: new Abstract: Enterprise adoption of large language models in finance is constrained less by fluency than by trust: in Financial Planning and Analysis (FP&amp;A) and other regulated workflows, an answer is usable only if it is traceable to authoritative sources and auditable after the fact. This paper argues that r",
+    "url": "https://arxiv.org/abs/2608.20661",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
+    "published_at": "2026-08-24T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "FALSIFYBENCH: Evaluating Inductive Reasoning in LLMs with Rule Discovery Games",
-    "summary": "arXiv:2606.04751v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous agents in scientific tasks. Yet whether these systems can effectively engage in forms of inductive reasoning relevant to scientific discovery remains an open question. In this work, we introduce FALSIFYBENCH, an evaluation framework ",
-    "url": "https://arxiv.org/abs/2606.04751",
+    "title": "ReFrame: Evidence-Guided Test-Time Safety Alignment in Multimodal Large Language Models",
+    "summary": "arXiv:2608.21100v1 Announce Type: new Abstract: While multimodal large language models (MLLMs) extend model capabilities beyond text, they also make safety alignment increasingly challenging. Multimodal safety alignment methods must address cross-modal jailbreaks, safety-awareness failures, and over-sensitive refusals. However, existing methods oft",
+    "url": "https://arxiv.org/abs/2608.21100",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
+    "published_at": "2026-08-24T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "Gravity-Aware Hierarchical Routing for Lightweight SensorLLM on Human Activity Recognition",
-    "summary": "arXiv:2606.04019v1 Announce Type: cross Abstract: Recent studies on sensor-language alignment have shown that two-stage frameworks can improve the semantic modeling ability of wearable-sensor human activity recognition (HAR), where SensorLLM-style methods first perform motion-to-language alignment and then fine-tune the model for downstream tasks. ",
-    "url": "https://arxiv.org/abs/2606.04019",
+    "title": "Hadith computational science in the age of large language models: a critical narrative review",
+    "summary": "arXiv:2608.20364v1 Announce Type: cross Abstract: We examine how hadith computational science is being reshaped by transformer models, retrieval-grounded pipelines, and large language models (LLMs). Recent reviews document growth in the literature, but they do not yet provide a critical account of which advances are methodologically robust, which r",
+    "url": "https://arxiv.org/abs/2608.20364",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
+    "published_at": "2026-08-24T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "CodegenBench: Can LLMs Write Efficient Code Across Architectures?",
-    "summary": "arXiv:2606.04023v1 Announce Type: cross Abstract: While large language models (LLMs) have been extensively evaluated on code generation tasks for general-purpose programming and GPU-accelerated environments (e.g., PyTorch, CUDA), their capabilities in CPU-oriented high-performance computing (HPC) across diverse architectures remain underexplored. T",
-    "url": "https://arxiv.org/abs/2606.04023",
+    "title": "Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation",
+    "summary": "arXiv:2608.20756v1 Announce Type: cross Abstract: While multimodal retrieval-augmented generation (RAG) systems increasingly rely on images as external knowledge sources, the introduction of poisoned visual evidence can severely compromise multimodal large language model (MLLM) generation. Unlike prior attacks that rely on altering textual metadata",
+    "url": "https://arxiv.org/abs/2608.20756",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
+    "published_at": "2026-08-24T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection",
-    "summary": "arXiv:2606.04050v1 Announce Type: cross Abstract: Existing quantization methods are fundamentally limited by rigid, integer-based bit-widths (e.g., 2, 3-bit), resulting in a ``deployment gap\" where Large Language Models cannot be optimally fitted to specific memory budgets. To bridge this gap, we introduce LiftQuant, a novel framework that enables ",
-    "url": "https://arxiv.org/abs/2606.04050",
+    "title": "AgentOCR: Reimagining Agent History via Optical Self-Compression",
+    "summary": "arXiv:2601.04786v3 Announce Type: replace-cross Abstract: Recent advances in large language models (LLMs) enable agentic systems trained with reinforcement learning (RL) over multi-turn interaction, but practical deployment is bottlenecked by rapidly growing textual histories that inflate token and memory costs. We introduce AgentOCR, a framework t",
+    "url": "https://arxiv.org/abs/2601.04786",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
+    "published_at": "2026-08-24T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "HYolo: An Intelligent IoT-Based Object Detection System Using Hypergraph Learning",
-    "summary": "arXiv:2606.04345v1 Announce Type: cross Abstract: This paper presents HYolo, an intelligent IoT-based object detection framework that integrates hypergraph learning into the YOLO architecture. Traditional YOLO-based object detection models primarily capture pairwise feature interactions and may fail to model complex high-order relationships among o",
-    "url": "https://arxiv.org/abs/2606.04345",
+    "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+    "summary": "arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's terminal-based coding agent -- pre-loaded with relevant ",
+    "url": "https://arxiv.org/abs/2608.20342",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "published_at": "2026-08-24T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "MorphoQuant: Modality-Aware Quantization for Omni-modal Large Language Models",
-    "summary": "arXiv:2606.04349v1 Announce Type: cross Abstract: Conventional Post-Training Quantization (PTQ) methods struggle with 4-bit Omni-modal Large Language Models (OLLMs) due to the extreme distribution heterogeneity and disparate outlier patterns across modalities. To address this, we propose MorphoQuant, a modality-aware PTQ framework engineered to pre",
-    "url": "https://arxiv.org/abs/2606.04349",
+    "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+    "summary": "arXiv:2608.20378v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This study demonstrates that this architectural disconnec",
+    "url": "https://arxiv.org/abs/2608.20378",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "published_at": "2026-08-24T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "Low-Rank Decay for Grokking in Scale-Invariant Transformers: A Spectral-Geometric View",
-    "summary": "arXiv:2606.04405v1 Announce Type: cross Abstract: Modern Transformer architectures frequently employ normalization mechanisms such as RMSNorm and Query-Key Normalization, making parts of the model approximately scale-invariant with respect to weight magnitudes. In this regime, standard Frobenius-norm weight decay acts purely along the radial direct",
-    "url": "https://arxiv.org/abs/2606.04405",
+    "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+    "summary": "arXiv:2608.20384v1 Announce Type: new Abstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-understandable explanations of the cues driving their decisions -- a dual objective that current high-capacity models, notably Transfor",
+    "url": "https://arxiv.org/abs/2608.20384",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "published_at": "2026-08-24T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "Multi-SPIN: Multi-Access Speculative Inference for Cooperative Token Generation at the Edge",
-    "summary": "arXiv:2606.04581v1 Announce Type: cross Abstract: Speculative inference (SPIN) was originally developed as an efficient architecture to accelerate Large Language Models (LLMs). In this work, we propose its distributed deployment to enable cooperative token generation in a multiuser edge system; its advantage is to effectively balance computational ",
-    "url": "https://arxiv.org/abs/2606.04581",
+    "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+    "summary": "arXiv:2608.20389v1 Announce Type: new Abstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in context: the LLM planner chooses among skill representations exposed in its system prompt, without an explicit embedding-based retri",
+    "url": "https://arxiv.org/abs/2608.20389",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "published_at": "2026-08-24T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "Learning While Acting: A Skill-Enhanced Test-Time Co-Evolution Framework for Online Lifelong Learning Agents",
-    "summary": "arXiv:2606.04815v1 Announce Type: cross Abstract: Lifelong learning is essential for Large Language Model (LLM) agents operating in dynamic, interactive environments. However, existing lifelong learning agents for long-horizon tasks typically depend on discrete skill or past experiences retrieval with static parameters during inference, which preve",
-    "url": "https://arxiv.org/abs/2606.04815",
+    "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
+    "summary": "arXiv:2608.20414v1 Announce Type: new Abstract: Vision-language models are increasingly used for multimodal question answering, yet their ability to reconstruct latent spatial structure from a single image remains difficult to isolate. Broad benchmarks often combine perception, optical character recognition, domain knowledge, linguistic priors, and",
+    "url": "https://arxiv.org/abs/2608.20414",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "published_at": "2026-08-24T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "Signed Dual Attention: Capturing Signed Dependencies in Time Series Forecasting",
-    "summary": "arXiv:2606.04833v1 Announce Type: cross Abstract: Initially developed for natural language processing, Transformer architectures and attention mechanisms are now central to a wide range of deep learning models, including applications in time series forecasting. A standard attention mechanism, however, implicitly assumes homophilic interactions, lim",
-    "url": "https://arxiv.org/abs/2606.04833",
+    "title": "Dual-Cache Latent Space Communication between Heterogeneous Language Models",
+    "summary": "arXiv:2608.20617v1 Announce Type: new Abstract: Multi-agent LLM systems split work across models, so answering often requires knowledge that sits in another agent's context: a Sharer has encoded information that a Receiver needs to complete its task. They usually communicate by exchanging text, which puts autoregressive decoding on the critical pat",
+    "url": "https://arxiv.org/abs/2608.20617",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "published_at": "2026-08-24T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "LEAP: Supercharging LLMs for Formal Mathematics with Agentic Frameworks",
-    "summary": "arXiv:2606.03303v2 Announce Type: replace Abstract: Large Language Models (LLMs) exhibit strong informal mathematical reasoning but struggle to generate mechanically verifiable proofs in formal languages like Lean. We present LEAP, an agentic framework that enables general-purpose foundation models to achieve state-of-the-art performance on automat",
-    "url": "https://arxiv.org/abs/2606.03303",
+    "title": "Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents",
+    "summary": "arXiv:2608.20631v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated the ability to solve multi-step tasks requiring planning, tool use, and external information access, yet growing execution histories increase inference cost and expose reasoning to outdated, irrelevant, or misleading information, potentially degradin",
+    "url": "https://arxiv.org/abs/2608.20631",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "published_at": "2026-08-24T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "Transformer-Based Autonomous Driving Models and Deployment-Oriented Compression: A Survey",
-    "summary": "arXiv:2304.10891v3 Announce Type: replace-cross Abstract: Transformer-based models are becoming a central paradigm in autonomous driving because they can capture long-range spatial dependencies, multi-agent interactions, and multimodal context across perception, prediction, and planning. At the same time, their deployment in real vehicles remains d",
-    "url": "https://arxiv.org/abs/2304.10891",
+    "title": "Calibrating Criterion Revision in LLM Agents: Failure Modes and a Trace-Anchored Protocol",
+    "summary": "arXiv:2608.20729v1 Announce Type: new Abstract: Language-model agents can improve after failure or carry text across episodes without revising what counts as success. We study the narrower attribution problem of criterion revision: when criterion K0 accepts an outcome violating a broader commitment B, what observations justify saying that the syste",
+    "url": "https://arxiv.org/abs/2608.20729",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "published_at": "2026-08-24T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   },
   {
-    "title": "ChatSOP: An SOP-Guided MCTS Planning Framework for Controllable LLM Dialogue Agents",
-    "summary": "arXiv:2407.03884v4 Announce Type: replace-cross Abstract: Dialogue agents powered by Large Language Models (LLMs) show superior performance in various tasks. Despite the better user understanding and human-like responses, their **lack of controllability** remains a key challenge, often leading to unfocused conversations or task failure. To address ",
-    "url": "https://arxiv.org/abs/2407.03884",
+    "title": "Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence",
+    "summary": "arXiv:2608.20820v1 Announce Type: new Abstract: Large language models (LLMs) are vulnerable to multi-turn jailbreak attacks that progressively manipulate conversation context. Existing certified robustness methods are limited to single-turn inputs; naive multi-turn composition yields bounds that degrade exponentially in the number of turns. We intr",
+    "url": "https://arxiv.org/abs/2608.20820",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
+    "published_at": "2026-08-24T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-08-24T10:02:13.055557+00:00"
   }
 ]

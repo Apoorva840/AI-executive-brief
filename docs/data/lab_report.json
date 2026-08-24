@@ -1,26 +1,5 @@
 {
-    "last_updated": "2024-07-27",
-    "papers": [
-        {
-            "title": "Can Generalist Agents Automate Data Curation?",
-            "innovation": "Investigates the automation of the entire data-curation loop using generalist coding agents. This represents a novel application of agentic AI to a core MLOps challenge, addressing a highly labor-intensive and consequential part of modern AI development.",
-            "benchmarks": "The paper focuses on the process of agents iteratively proposing, implementing, evaluating, and revising data policies against noisy benchmark feedback. The 'benchmarks' are the effectiveness and efficiency of the curated data, and the ability of agents to improve data policies, rather than specific named datasets in the abstract.",
-            "use_case": "Automating and streamlining the data curation process, significantly reducing manual effort and accelerating the development lifecycle for AI practitioners, data scientists, and MLOps teams. Improves the quality and efficiency of training data generation.",
-            "url": "https://arxiv.org/abs/2606.04261"
-        },
-        {
-            "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
-            "innovation": "Introduces StepPRM-RTL, a novel framework that combines stepwise trajectory modeling and process-reward modeling for fine-tuning Large Language Models (LLMs) to enhance the automatic generation of RTL (Register-Transfer Level) code for digital hardware designs, tackling long-horizon reasoning and strict correctness constraints.",
-            "benchmarks": "The abstract implies improved performance on RTL synthesis tasks, particularly in adhering to strict correctness constraints in languages like Verilog and VHDL. The 'benchmark' is the quality and correctness of the generated RTL code for complex digital hardware designs.",
-            "use_case": "Automating the generation of RTL code for digital hardware, accelerating the design process in electronic design automation (EDA), and enabling LLMs to perform complex, multi-step code generation in highly specialized engineering domains.",
-            "url": "https://arxiv.org/abs/2606.04246"
-        },
-        {
-            "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-            "innovation": "Proposes a new methodology for pre-deployment verification of enterprise artificial intelligence (AI) agents using ontology-grounded simulation and trust certification. This fills a critical gap between LLM capability benchmarking and the requirements for safe and reliable production deployment.",
-            "benchmarks": "The framework itself serves as a methodology for assurance, aiming to provide 'trust certification.' While not a specific named dataset, it implicitly benchmarks an agent's compliance, safety, and operational readiness through rigorous simulation before deployment.",
-            "use_case": "Ensuring the safety, reliability, ethical compliance, and overall trustworthiness of enterprise AI agents prior to their production deployment. Essential for risk mitigation, regulatory compliance, and building confidence in AI systems in business-critical applications.",
-            "url": "https://arxiv.org/abs/2606.04037"
-        }
-    ]
+    "last_updated": "2026-08-24",
+    "papers": [],
+    "status": "AI service temporarily unavailable"
 }

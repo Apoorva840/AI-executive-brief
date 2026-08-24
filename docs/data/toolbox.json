@@ -1,26 +1,26 @@
 {
-    "last_updated": "June 02, 2026",
+    "last_updated": "August 24, 2026",
     "tools": [
         {
-            "Name": "MarkItDown",
-            "Category": "Data Preparation",
-            "Description": "A lightweight Python utility for converting various file formats (PDF, Word, Excel, etc.) into Markdown.",
-            "Use_Case": "Preparing diverse documents as token-efficient input for LLMs and text analysis pipelines.",
-            "URL": "https://github.com/microsoft/markitdown"
-        },
-        {
-            "Name": "Scrapling",
+            "Name": "Crawl4AI",
             "Category": "Web Scraping",
-            "Description": "An adaptive scraping framework featuring automatic element relocation and stealthy fetchers.",
-            "Use_Case": "Scaling reliable data extraction from modern, anti-bot protected websites for AI applications.",
-            "URL": "https://github.com/D4Vinci/Scrapling"
+            "Description": "An open-source, LLM-friendly web crawler and scraper that converts web content into structured Markdown.",
+            "Use_Case": "Generating clean, LLM-ready data for RAG applications, agents, and automated data pipelines.",
+            "URL": "https://github.com/unclecode/crawl4ai"
         },
         {
             "Name": "Claude Code",
-            "Category": "Developer Tooling",
-            "Description": "An agentic coding tool that resides in the terminal to assist with git workflows, code explanation, and routine coding tasks.",
-            "Use_Case": "Accelerating development by executing complex coding tasks via natural language commands within a local environment.",
+            "Category": "AI Coding Agent",
+            "Description": "An agentic terminal-based tool that understands codebases and executes routine coding tasks via natural language.",
+            "Use_Case": "Speeding up development by automating git workflows, code explanation, and routine coding tasks.",
             "URL": "https://github.com/anthropics/claude-code"
+        },
+        {
+            "Name": "Book-to-Skill",
+            "Category": "Productivity / Knowledge Management",
+            "Description": "A tool that distills technical books or documents into structured agent skills for use with AI coding agents.",
+            "Use_Case": "Providing LLMs with accurate, context-aware information from large technical documents without hallucination.",
+            "URL": "https://github.com/virgiliojr94/book-to-skill"
         }
     ]
 }

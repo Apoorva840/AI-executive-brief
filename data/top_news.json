@@ -1,42 +1,42 @@
 [
   {
-    "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
-    "summary": "arXiv:2606.04484v1 Announce Type: new Abstract: We present AgentJet, a distributed swarm training framework for large language model (LLM) agent reinforcement learning. Unlike centralized frameworks that tightly couple agent rollouts with model optimization, AgentJet adopts a decoupled multi-node architecture in which swarm server nodes host traina",
-    "url": "https://arxiv.org/abs/2606.04484",
+    "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+    "summary": "arXiv:2608.20379v1 Announce Type: new Abstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbones. With the advent of large multimodal models (LMM",
+    "url": "https://arxiv.org/abs/2608.20379",
     "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
+    "published_at": "2026-08-24T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM",
-    "summary": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matches the twice-as-large 26B model in benchmarks and ships under an Apache 2.0 license for commercial use. The article Google Deepmind&#039;s Gemma 4 12B squeezes multimodal AI onto a laptop w",
-    "url": "https://the-decoder.com/google-deepminds-gemma-4-12b-squeezes-multimodal-ai-onto-a-laptop-with-just-16-gb-of-ram/",
+    "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
+    "summary": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consistently, while weaker ones hesitated. When it came to hiring, nearly all models were uncritical. The ar",
+    "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
     "source": "The Decoder",
-    "published_at": "2026-06-03T19:54:13+00:00",
-    "score": 8
-  },
-  {
-    "title": "Direct Preference Optimization Beyond Chatbots",
-    "summary": "",
-    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-06-03T12:55:11+00:00",
+    "published_at": "2026-08-23T12:31:59+00:00",
     "score": 7
   },
   {
-    "title": "Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering",
-    "summary": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering. On the DesignArena leaderboard, it ranks first among all open models; only closed systems from OpenAI and Google score higher. Commercial use requires a paid license. The article Ideogram 4.0",
-    "url": "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/",
+    "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
+    "summary": "Nvidia is negotiating an investment in Perplexity at a valuation above $30 billion, more than 50 percent higher than its last funding round, The Information reports. Perplexity's annualized revenue has tripled to over $750 million. Much of Nvidia's investment money tends to flow back as revenue when portfolio companies buy its chips. The article Nv",
+    "url": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
     "source": "The Decoder",
-    "published_at": "2026-06-03T18:34:36+00:00",
-    "score": 7
+    "published_at": "2026-08-24T08:44:48+00:00",
+    "score": 6
   },
   {
-    "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-    "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
-    "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+    "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
+    "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
     "source": "Wired AI",
-    "published_at": "2026-06-04T01:01:00+00:00",
+    "published_at": "2026-08-24T09:30:00+00:00",
     "score": 5
+  },
+  {
+    "title": "Kids outlearn AI—and we still don’t know why",
+    "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
+    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-08-24T09:00:00+00:00",
+    "score": 3
   }
 ]

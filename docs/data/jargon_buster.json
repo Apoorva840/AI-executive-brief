@@ -1,24 +1,24 @@
 {
-    "last_updated": "June 04, 2026",
+    "last_updated": "August 24, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Ontology-Grounded Simulation",
-            "definition": "This is a pre-deployment verification method where AI agents are tested within a virtual environment governed by a formal 'ontology'\u2014a rigorous map of all concepts and rules specific to a business domain. This allows developers to simulate millions of edge cases to ensure the agent's logic remains consistent with enterprise constraints before it touches live data.",
-            "analogy": "Imagine a professional kitchen 'dry run' where every ingredient and tool is digitally tagged with strict rules. Before the chef touches real food, they must prove in a simulator that they won't try to use a whisk for steak or put metal in the microwave, ensuring the physical kitchen remains safe and efficient.",
-            "business_value": "It solves the 'Trust Gap' in enterprise AI. By mathematically proving an agent adheres to company policy before launch, CEOs can reduce liability and the risk of costly 'hallucinations' in customer-facing or high-stakes operational roles."
+            "term": "Spec-Driven Agentic Development (SDAD)",
+            "definition": "SDAD is a paradigm shift in the software development lifecycle where AI agents, rather than human developers, serve as the primary builders by ingesting massive Functional Requirement Documents. It leverages frontier models with multi-million token context windows to maintain a holistic understanding of an entire codebase, allowing for the autonomous translation of high-level business specs into integrated production code.",
+            "analogy": "Imagine a Master Chef who doesn't touch a knife but instead reads a 50-page banquet specification and directs a team of automated sous-chefs to execute every course simultaneously, ensuring the flavor profile of the appetizer perfectly complements the dessert without manual intervention.",
+            "business_value": "This eliminates the 'translation tax' between business stakeholders and engineers. For the C-suite, this means a drastic reduction in R&D overhead and the ability to pivot product features in days rather than months by treating natural language requirements as the source of truth."
         },
         {
-            "term": "Reasoning-Trace Disagreement",
-            "definition": "Rather than forcing multiple AI models to reach a single consensus, this technique analyzes the divergent logical paths\u2014the 'traces'\u2014each model took to reach a conclusion. Disagreement is treated as a data signal that identifies hidden complexities or normative uncertainties in a task, rather than a simple error to be averaged out.",
-            "analogy": "Think of a car\u2019s safety system with three different sensors. If one sensor sees a pedestrian and two see a shadow, instead of just 'voting' to keep driving, the car analyzes the 'reasoning' of the outlier; if that logic is sound, the car brakes because the disagreement signals a high-risk situation.",
-            "business_value": "This turns AI friction into strategic insight. For executive decision-making, knowing *why* different models disagree allows leadership to identify 'blind spots' in their strategy or data, preventing the dangerous 'groupthink' that often occurs in simpler AI aggregations."
+            "term": "Latent Intent Verification",
+            "definition": "This safety technique moves beyond surface-level 'refusal' filters by probing the internal, hidden layers of a neural network to identify harmful underlying logic before it reaches the output stage. It specifically targets 'semantic camouflage,' where a model might be tricked into providing dangerous information by wrapping it in a benign-sounding context.",
+            "analogy": "It is like a high-tech airport security scanner that looks past a passenger's polite smile and professional suit to detect a concealed weapon in their luggage before they even reach the boarding gate.",
+            "business_value": "As enterprises face increasing pressure regarding AI ethics and security, this technology provides a robust 'immune system' for corporate LLMs. It protects brand reputation by preventing sophisticated jailbreaks that traditional, easily bypassed safety filters would miss."
         },
         {
-            "term": "Semiotic Scaffolding",
-            "definition": "This is a cognitive framework designed to maintain 'epistemic accountability' when humans use LLMs for research. It uses protocols (like PEEL) to combine deterministic data tools with AI interpretation, ensuring that the human researcher remains intellectually engaged and doesn't blindly outsource their critical thinking to the model.",
-            "analogy": "It is like a high-end GPS system for a new delivery driver. The 'scaffolding' doesn't just tell them where to turn; it requires them to verify street signs and landmarks at every junction, ensuring they actually learn the city layout instead of becoming a mindless follower of the voice prompt.",
-            "business_value": "It prevents the 'hollowing out' of corporate expertise. By implementing scaffolding, firms ensure their subject matter experts remain true experts who can defend and explain their conclusions, protecting the company from 'intellectual debt' caused by over-reliance on black-box AI outputs."
+            "term": "Depth-Adaptive KV-Cache Splicing",
+            "definition": "This is a performance optimization for agentic LLMs that decouples the heavy computational cost of loading tool schemas from the active reasoning process. By 'splicing' pre-computed segments of memory (the Key-Value Cache), the system can instantly swap between thousands of external tools and APIs without the latency typically caused by re-processing long system prompts.",
+            "analogy": "Think of it as a Formula 1 pit crew using pre-mounted tires and pre-measured fuel pods that can be 'spliced' onto the car in seconds, rather than having to manufacture a new set of wheels every time the car enters the pit lane.",
+            "business_value": "This technology solves the 'Time-to-First-Token' (TTFT) bottleneck, which is the primary killer of user experience in AI agents. For the bottom line, this enables hyper-responsive, complex AI workflows that feel instantaneous to the end-user, even when the AI is navigating vast libraries of enterprise software tools."
         }
     ]
 }
