@@ -43,31 +43,24 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # --- SYNC & ARCHIVE LOGIC ---
           FILE_DATE=$(TZ='Asia/Kolkata' date +'%Y-%m-%d')
-          
-          # Ensure archive directory exists
           mkdir -p docs/data/archive
           
           if [ -f "docs/data/daily_brief.json" ]; then
-            # Copy output to the archive
             cp docs/data/daily_brief.json "docs/data/archive/brief_$FILE_DATE.json"
             echo "✅ Synced daily_brief.json to archive."
           else
-            echo "❌ Error: docs/data/daily_brief.json not found! Check run_pipeline.py logs."
+            echo "❌ Error: docs/data/daily_brief.json not found!"
             exit 1
           fi
           
-          # Generate manifest for the frontend history dropdown
           ls docs/data/archive | sed 's/brief_//;s/.json//' | jq -R . | jq -s . > docs/data/manifest.json
 
-          # --- SAFE PUSH LOGIC ---
           git add .
           
           if ! git diff --cached --quiet; then
-            git commit -m "🤖 Auto-update: Data for $FILE_DATE [skip ci]"
-            
-            # Use rebase to stay in sync with remote changes
+            # Removed [skip ci] so pages build & deployment triggers automatically
+            git commit -m "🤖 Auto-update: Data for $FILE_DATE"
             git pull --rebase -X theirs origin main
             git push origin main
           else
