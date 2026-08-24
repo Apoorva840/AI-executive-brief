@@ -4,7 +4,7 @@ on:
   schedule:
     # 00:30 UTC = 06:00 IST
     - cron: "30 0 * * *"
-  workflow_dispatch: # Manual trigger is now a clean button with no "true/false" dropdown
+  workflow_dispatch: # Manual trigger button
 
 jobs:
   run-pipeline:
@@ -15,12 +15,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -32,9 +32,9 @@ jobs:
       - name: Run AI news pipeline
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          #EMAIL_USER: ${{ secrets.EMAIL_USER }}
-          #EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
-          #EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: |
           python3 run_pipeline.py
 
