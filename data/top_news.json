@@ -8,20 +8,20 @@
     "score": 8
   },
   {
-    "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
-    "summary": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consistently, while weaker ones hesitated. When it came to hiring, nearly all models were uncritical. The ar",
-    "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
+    "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
+    "summary": "Alibaba's video generation model Wan3.0 creates clips up to 30 seconds long from text, PDFs, and PowerPoint files. A 30-second 1080p clip costs $6. Alibaba's quarterly profit dropped 75 percent year-over-year as the company ramps up AI spending. The article Alibaba&#039;s Wan3.0 generates AI videos up to 30 seconds long from text, images, and docum",
+    "url": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/",
     "source": "The Decoder",
-    "published_at": "2026-08-23T12:31:59+00:00",
+    "published_at": "2026-08-24T15:35:03+00:00",
     "score": 7
   },
   {
-    "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
-    "summary": "Nvidia is negotiating an investment in Perplexity at a valuation above $30 billion, more than 50 percent higher than its last funding round, The Information reports. Perplexity's annualized revenue has tripled to over $750 million. Much of Nvidia's investment money tends to flow back as revenue when portfolio companies buy its chips. The article Nv",
-    "url": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
+    "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
+    "summary": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when the model can tap into the company's own content, like Westlaw. CTO Joel Hron makes the point that what matters isn't intelligence itself, but knowing which intelligence y",
+    "url": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/",
     "source": "The Decoder",
-    "published_at": "2026-08-24T08:44:48+00:00",
-    "score": 6
+    "published_at": "2026-08-24T12:59:43+00:00",
+    "score": 7
   },
   {
     "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
@@ -32,11 +32,11 @@
     "score": 5
   },
   {
-    "title": "Kids outlearn AI—and we still don’t know why",
-    "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
-    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-08-24T09:00:00+00:00",
-    "score": 3
+    "title": "XPENG IRON humanoid robot draws record physical AI funding",
+    "summary": "XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG says the deal represents the largest single-round priva",
+    "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+    "source": "AI News",
+    "published_at": "2026-08-24T15:53:53+00:00",
+    "score": 5
   }
 ]

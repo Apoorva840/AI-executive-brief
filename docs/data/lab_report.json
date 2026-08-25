@@ -1,5 +1,26 @@
 {
-    "last_updated": "2026-08-24",
-    "papers": [],
-    "status": "AI service temporarily unavailable"
+    "last_updated": "2024-07-29",
+    "papers": [
+        {
+            "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+            "innovation": "Proposes KV-cache splicing and a novel retrieval-decoupled tool routing mechanism to reduce the quadratic prefill cost associated with large tool registries in agentic LLMs. This directly addresses the performance bottleneck of Time-To-First-Token (TTFT).",
+            "benchmarks": "Focuses on optimizing TTFT, reducing computational cost associated with tool schema prefill, and improving memory efficiency for agentic LLM inference.",
+            "use_case": "Deploying and scaling agentic LLMs that need to interact with a growing number of tools, ensuring fast response times and efficient resource utilization in production environments.",
+            "url": "https://arxiv.org/abs/2608.20397"
+        },
+        {
+            "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+            "innovation": "Introduces a system that \"memory-primes\" new instances of LLM agents by pre-loading them with relevant accumulated knowledge from prior work, overcoming the limitation of agents starting each session with an empty context.",
+            "benchmarks": "Improved agent efficiency, reduced redundancy in tasks, and enhanced continuity of work by leveraging previously acquired knowledge.",
+            "use_case": "Developing persistent and intelligent personal or team-based AI assistants and coding agents that learn and remember across sessions, leading to more productive and context-aware interactions.",
+            "url": "https://arxiv.org/abs/2608.20342"
+        },
+        {
+            "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+            "innovation": "Investigates the critical problem of skill discovery and routing in production agent harnesses, demonstrating how the representation of skills impacts an agent's ability to select the most appropriate tool for a given task, moving beyond simple in-context selection.",
+            "benchmarks": "Performance metrics related to accuracy and efficiency of skill selection/ranking, and overall effectiveness of agent tool use.",
+            "use_case": "Designing and optimizing the architecture for how AI agents dynamically discover, select, and utilize relevant tools or skills from an expanding library, crucial for building versatile and capable agentic systems.",
+            "url": "https://arxiv.org/abs/2608.20389"
+        }
+    ]
 }

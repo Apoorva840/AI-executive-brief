@@ -15,33 +15,33 @@
     "technical_angle": "Hardware and energy constraints now shape model design decisions."
   },
   {
-    "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
-    "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
+    "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
+    "url": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consistently, while weaker ones hesitated. When it came to hiring, nearly all models were uncritical. The ar",
+    "what_happened": "Alibaba's video generation model Wan3.0 creates clips up to 30 seconds long from text, PDFs, and PowerPoint files. A 30-second 1080p clip costs $6. Alibaba's quarterly profit dropped 75 percent year-over-year as the company ramps up AI spending. The article Alibaba&#039;s Wan3.0 generates AI videos up to 30 seconds long from text, images, and docum",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
     "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
     ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
   },
   {
-    "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
-    "url": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
+    "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
+    "url": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/",
     "source": "The Decoder",
-    "score": 6,
-    "what_happened": "Nvidia is negotiating an investment in Perplexity at a valuation above $30 billion, more than 50 percent higher than its last funding round, The Information reports. Perplexity's annualized revenue has tripled to over $750 million. Much of Nvidia's investment money tends to flow back as revenue when portfolio companies buy its chips. The article Nv",
+    "score": 7,
+    "what_happened": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when the model can tap into the company's own content, like Westlaw. CTO Joel Hron makes the point that what matters isn't intelligence itself, but knowing which intelligence y",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
     "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
@@ -59,17 +59,17 @@
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "Kids outlearn AI—and we still don’t know why",
-    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "source": "MIT Technology Review AI",
-    "score": 3,
-    "what_happened": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
+    "title": "XPENG IRON humanoid robot draws record physical AI funding",
+    "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+    "source": "AI News",
+    "score": 5,
+    "what_happened": "XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG says the deal represents the largest single-round priva",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   }
 ]

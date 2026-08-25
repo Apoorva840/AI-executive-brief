@@ -1,26 +1,26 @@
 {
-    "last_updated": "August 24, 2026",
+    "last_updated": "August 25, 2026",
     "tools": [
         {
             "Name": "Crawl4AI",
             "Category": "Web Scraping",
-            "Description": "An open-source, LLM-friendly web crawler and scraper that converts web content into structured Markdown.",
-            "Use_Case": "Generating clean, LLM-ready data for RAG applications, agents, and automated data pipelines.",
+            "Description": "An open-source, LLM-friendly web crawler that transforms web content into clean Markdown suitable for RAG and AI agent pipelines.",
+            "Use_Case": "Extracting structured data and cleaning web content for AI model training or agentic workflows.",
             "URL": "https://github.com/unclecode/crawl4ai"
         },
         {
             "Name": "Claude Code",
-            "Category": "AI Coding Agent",
-            "Description": "An agentic terminal-based tool that understands codebases and executes routine coding tasks via natural language.",
-            "Use_Case": "Speeding up development by automating git workflows, code explanation, and routine coding tasks.",
+            "Category": "Agentic Coding",
+            "Description": "An agentic coding tool that resides in the terminal to execute tasks, handle git workflows, and explain codebase components via natural language.",
+            "Use_Case": "Automating routine coding tasks, debugging, and managing git operations directly from the terminal.",
             "URL": "https://github.com/anthropics/claude-code"
         },
         {
-            "Name": "Book-to-Skill",
-            "Category": "Productivity / Knowledge Management",
-            "Description": "A tool that distills technical books or documents into structured agent skills for use with AI coding agents.",
-            "Use_Case": "Providing LLMs with accurate, context-aware information from large technical documents without hallucination.",
-            "URL": "https://github.com/virgiliojr94/book-to-skill"
+            "Name": "VoiceStudio",
+            "Category": "Speech/Audio AI",
+            "Description": "A fully-local, open-source alternative to ElevenLabs for voice cloning, dubbing, dictation, and audiobook creation.",
+            "Use_Case": "Generating high-quality, local synthetic audio, voice cloning, and audio transcription without cloud dependency.",
+            "URL": "https://github.com/debpalash/VoiceStudio"
         }
     ]
 }

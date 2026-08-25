@@ -1,5 +1,12 @@
 [
   {
+    "title": "How to encourage smarter AI use in the classroom",
+    "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+    "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-08-24T14:20:19+00:00"
+  },
+  {
     "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
     "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
     "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
@@ -2044,6 +2051,48 @@
     "published_at": "2026-08-24T04:00:00+00:00"
   },
   {
+    "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
+    "summary": "The Pew Research Center analyzed nearly half a million English-language web pages for AI-generated content. More than a third of pages published since ChatGPT's launch show signs of machine-written text, and commercial .com sites are ten times more likely to contain AI content than .edu or .gov domains. The article Pew study confirms sharp rise of ",
+    "url": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/",
+    "source": "The Decoder",
+    "published_at": "2026-08-24T18:22:49+00:00"
+  },
+  {
+    "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
+    "summary": "Alibaba's video generation model Wan3.0 creates clips up to 30 seconds long from text, PDFs, and PowerPoint files. A 30-second 1080p clip costs $6. Alibaba's quarterly profit dropped 75 percent year-over-year as the company ramps up AI spending. The article Alibaba&#039;s Wan3.0 generates AI videos up to 30 seconds long from text, images, and docum",
+    "url": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/",
+    "source": "The Decoder",
+    "published_at": "2026-08-24T15:35:03+00:00"
+  },
+  {
+    "title": "Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project",
+    "summary": "A rogue AI agent staged a public apology as a deception tactic while quietly slipping fresh malware into its pull request. The article Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project appeared first on The Decoder.",
+    "url": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/",
+    "source": "The Decoder",
+    "published_at": "2026-08-24T14:23:55+00:00"
+  },
+  {
+    "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
+    "summary": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when the model can tap into the company's own content, like Westlaw. CTO Joel Hron makes the point that what matters isn't intelligence itself, but knowing which intelligence y",
+    "url": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/",
+    "source": "The Decoder",
+    "published_at": "2026-08-24T12:59:43+00:00"
+  },
+  {
+    "title": "Cerebras unveils CS-4 with double the performance on the same chip",
+    "summary": "Cerebras has introduced its CS-4 AI accelerator, which CEO Andrew Feldman calls the fastest system in the industry. The article Cerebras unveils CS-4 with double the performance on the same chip appeared first on The Decoder.",
+    "url": "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/",
+    "source": "The Decoder",
+    "published_at": "2026-08-24T10:16:06+00:00"
+  },
+  {
+    "title": "AI chatbots regularly link pregnant users to anti-abortion websites without disclosure",
+    "summary": "When asked about unplanned pregnancies, AI chatbots regularly link to anti-abortion groups without disclosing their stance. In an AlgorithmWatch investigation of 270 responses from ChatGPT, Gemini, Grok, and Claude, the anti-abortion organization Profemina appeared in 17 percent of answers. In Germany, the chatbots also sent users to Caritas for ma",
+    "url": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/",
+    "source": "The Decoder",
+    "published_at": "2026-08-24T10:00:51+00:00"
+  },
+  {
     "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
     "summary": "Nvidia is negotiating an investment in Perplexity at a valuation above $30 billion, more than 50 percent higher than its last funding round, The Information reports. Perplexity's annualized revenue has tripled to over $750 million. Much of Nvidia's investment money tends to flow back as revenue when portfolio companies buy its chips. The article Nv",
     "url": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
@@ -2051,17 +2100,10 @@
     "published_at": "2026-08-24T08:44:48+00:00"
   },
   {
-    "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
-    "summary": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consistently, while weaker ones hesitated. When it came to hiring, nearly all models were uncritical. The ar",
-    "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
-    "source": "The Decoder",
-    "published_at": "2026-08-23T12:31:59+00:00"
-  },
-  {
-    "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
-    "summary": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x. Nearly 70 percent of agent token consumption comes from cheap cached prompts, though, so actual costs are rising far more slowly than the raw numbers suggest. The article AI is becoming AI&",
-    "url": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
-    "source": "The Decoder",
-    "published_at": "2026-08-23T10:02:00+00:00"
+    "title": "XPENG IRON humanoid robot draws record physical AI funding",
+    "summary": "XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG says the deal represents the largest single-round priva",
+    "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+    "source": "AI News",
+    "published_at": "2026-08-24T15:53:53+00:00"
   }
 ]
