@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-07-29",
+    "last_updated": "2024-07-30",
     "papers": [
         {
-            "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
-            "innovation": "Proposes KV-cache splicing and a novel retrieval-decoupled tool routing mechanism to reduce the quadratic prefill cost associated with large tool registries in agentic LLMs. This directly addresses the performance bottleneck of Time-To-First-Token (TTFT).",
-            "benchmarks": "Focuses on optimizing TTFT, reducing computational cost associated with tool schema prefill, and improving memory efficiency for agentic LLM inference.",
-            "use_case": "Deploying and scaling agentic LLMs that need to interact with a growing number of tools, ensuring fast response times and efficient resource utilization in production environments.",
-            "url": "https://arxiv.org/abs/2608.20397"
+            "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+            "innovation": "Introduces chunk-level KV cache reuse and deviation-guided recomputation to significantly reduce prefill latency and improve overall efficiency in Large Language Model (LLM) inference by optimizing KV tensor recomputation beyond traditional prefix-caching.",
+            "benchmarks": "Likely demonstrates reduced prefill latency, increased throughput, and improved memory efficiency for LLM inference compared to existing caching systems.",
+            "use_case": "Optimizing the serving and deployment of large language models in production environments to reduce inference costs and improve response times.",
+            "url": "https://arxiv.org/abs/2608.21362"
         },
         {
-            "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-            "innovation": "Introduces a system that \"memory-primes\" new instances of LLM agents by pre-loading them with relevant accumulated knowledge from prior work, overcoming the limitation of agents starting each session with an empty context.",
-            "benchmarks": "Improved agent efficiency, reduced redundancy in tasks, and enhanced continuity of work by leveraging previously acquired knowledge.",
-            "use_case": "Developing persistent and intelligent personal or team-based AI assistants and coding agents that learn and remember across sessions, leading to more productive and context-aware interactions.",
-            "url": "https://arxiv.org/abs/2608.20342"
+            "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+            "innovation": "Proposes a schema-aware tool routing mechanism that leverages field-level understanding to prevent common inefficiencies like over-fetching and under-fetching, leading to more accurate and efficient tool selection in complex Retrieval-Augmented Generation (RAG) systems.",
+            "benchmarks": "Expected to show improvements in RAG system efficiency (e.g., fewer tool calls, reduced latency) and accuracy of responses when interacting with diverse tools and data sources.",
+            "use_case": "Designing, implementing, and optimizing retrieval-augmented generation (RAG) systems that orchestrate multiple heterogeneous tools (APIs, databases, vector stores) for enhanced performance and cost-effectiveness.",
+            "url": "https://arxiv.org/abs/2608.21375"
         },
         {
-            "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
-            "innovation": "Investigates the critical problem of skill discovery and routing in production agent harnesses, demonstrating how the representation of skills impacts an agent's ability to select the most appropriate tool for a given task, moving beyond simple in-context selection.",
-            "benchmarks": "Performance metrics related to accuracy and efficiency of skill selection/ranking, and overall effectiveness of agent tool use.",
-            "use_case": "Designing and optimizing the architecture for how AI agents dynamically discover, select, and utilize relevant tools or skills from an expanding library, crucial for building versatile and capable agentic systems.",
-            "url": "https://arxiv.org/abs/2608.20389"
+            "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
+            "innovation": "Presents a cloud-native architectural approach for deploying secure, high-throughput RAG systems within enterprise environments, specifically leveraging IBM LinuxONE to address critical challenges related to data security, latency, and regulatory compliance.",
+            "benchmarks": "Focuses on practical deployment metrics such as achieving high throughput, low latency, and ensuring enhanced security and regulatory compliance for RAG inference within an enterprise context.",
+            "use_case": "Deploying and scaling secure, high-performance Retrieval-Augmented Generation (RAG) systems in large enterprises, especially when handling sensitive or regulated data, by utilizing a robust cloud-native architecture.",
+            "url": "https://arxiv.org/abs/2608.21393"
         }
     ]
 }

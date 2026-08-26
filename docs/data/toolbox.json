@@ -1,26 +1,26 @@
 {
-    "last_updated": "August 25, 2026",
+    "last_updated": "August 26, 2026",
     "tools": [
         {
-            "Name": "Crawl4AI",
-            "Category": "Web Scraping",
-            "Description": "An open-source, LLM-friendly web crawler that transforms web content into clean Markdown suitable for RAG and AI agent pipelines.",
-            "Use_Case": "Extracting structured data and cleaning web content for AI model training or agentic workflows.",
-            "URL": "https://github.com/unclecode/crawl4ai"
+            "Name": "Free Claude Code",
+            "Category": "Coding Agent",
+            "Description": "An open-source interface that provides free access to various coding agents and models from your terminal or IDE.",
+            "Use_Case": "Automated coding tasks, refactoring, and project assistance while optimizing token usage.",
+            "URL": "https://github.com/Alishahryar1/free-claude-code"
+        },
+        {
+            "Name": "ComfyUI",
+            "Category": "AI Generation Engine",
+            "Description": "A powerful, modular node-based interface for generative AI models including image, video, and audio.",
+            "Use_Case": "Creating sophisticated AI workflows, visual content generation, and integrating models into production pipelines.",
+            "URL": "https://github.com/Comfy-Org/ComfyUI"
         },
         {
             "Name": "Claude Code",
-            "Category": "Agentic Coding",
-            "Description": "An agentic coding tool that resides in the terminal to execute tasks, handle git workflows, and explain codebase components via natural language.",
-            "Use_Case": "Automating routine coding tasks, debugging, and managing git operations directly from the terminal.",
+            "Category": "Agentic Coding Tool",
+            "Description": "An agentic coding tool by Anthropic that understands codebases and automates routine developer tasks.",
+            "Use_Case": "Executing routine code tasks, explaining complex code, and managing git workflows via natural language.",
             "URL": "https://github.com/anthropics/claude-code"
-        },
-        {
-            "Name": "VoiceStudio",
-            "Category": "Speech/Audio AI",
-            "Description": "A fully-local, open-source alternative to ElevenLabs for voice cloning, dubbing, dictation, and audiobook creation.",
-            "Use_Case": "Generating high-quality, local synthetic audio, voice cloning, and audio transcription without cloud dependency.",
-            "URL": "https://github.com/debpalash/VoiceStudio"
         }
     ]
 }
