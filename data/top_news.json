@@ -1,42 +1,42 @@
 [
   {
-    "title": "Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules",
-    "summary": "arXiv:2608.22642v1 Announce Type: cross Abstract: Despite recent advances in molecular foundation models, several limitations remain, such as chemically invalid augmentations, modality collapse, and incomplete representation of biochemical environments. To address these challenges, we present \\textbf{Mol-JEPA}, a scalable framework for learning mol",
-    "url": "https://arxiv.org/abs/2608.22642",
+    "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
+    "summary": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters per token. At one-ninth the training cost, it beats much larger competitors like DeepSeek-V4-Flash and Claude Opus 4.6 on coding and office benchmarks, adding more pricing pressure on OpenA",
+    "url": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
+    "source": "The Decoder",
+    "published_at": "2026-08-26T14:40:09+00:00",
+    "score": 8
+  },
+  {
+    "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
+    "summary": "arXiv:2608.23644v1 Announce Type: new Abstract: Large language models (LLMs) are becoming routine instruments of scientific research, assisting with literature synthesis, hypothesis development, coding, and formal reasoning. Their use raises a central epistemic question: when parts of scientific reasoning are delegated to an artificial system, what",
+    "url": "https://arxiv.org/abs/2608.23644",
     "source": "Arxiv AI",
-    "published_at": "2026-08-25T04:00:00+00:00",
-    "score": 8
-  },
-  {
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-08-25T15:14:14+00:00",
-    "score": 8
-  },
-  {
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "summary": "",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-08-25T11:39:24+00:00",
-    "score": 8
-  },
-  {
-    "title": "Google launches Gemini for legal work to automate contracts and research",
-    "summary": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review. Anthropic already offers similar solutions. All providers use the same models as in their other ",
-    "url": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/",
-    "source": "The Decoder",
-    "published_at": "2026-08-25T16:21:09+00:00",
+    "published_at": "2026-08-27T04:00:00+00:00",
     "score": 7
   },
   {
-    "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
-    "summary": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October. The article Meta&#039;s paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decoder.",
-    "url": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/",
+    "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
+    "summary": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pachocki. Altman expects it to be \"the first model where the model actually invents new things in a way that matters.\" The article Sam Altman says OpenAI w",
+    "url": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/",
     "source": "The Decoder",
-    "published_at": "2026-08-25T13:43:40+00:00",
+    "published_at": "2026-08-26T17:30:29+00:00",
     "score": 7
+  },
+  {
+    "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+    "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside a data centre. NVIDIA&#8217;s argument for [&#8230;]",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+    "source": "AI News",
+    "published_at": "2026-08-26T09:08:11+00:00",
+    "score": 6
+  },
+  {
+    "title": "The UK Power Grid Has a Phantom Data Center Problem",
+    "summary": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI ambitions hang in the balance.",
+    "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+    "source": "Wired AI",
+    "published_at": "2026-08-27T06:00:00+00:00",
+    "score": 5
   }
 ]

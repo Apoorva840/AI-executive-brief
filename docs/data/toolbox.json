@@ -1,26 +1,26 @@
 {
-    "last_updated": "August 26, 2026",
+    "last_updated": "August 27, 2026",
     "tools": [
         {
-            "Name": "Free Claude Code",
-            "Category": "Coding Agent",
-            "Description": "An open-source interface that provides free access to various coding agents and models from your terminal or IDE.",
-            "Use_Case": "Automated coding tasks, refactoring, and project assistance while optimizing token usage.",
-            "URL": "https://github.com/Alishahryar1/free-claude-code"
+            "Name": "AI Job Search",
+            "Category": "Productivity / Career",
+            "Description": "An AI-powered job application framework built on Claude Code that manages the entire job hunt process, from scraping job boards to tailoring CVs and cover letters, and preparing for interviews.",
+            "Use_Case": "Automating job searches, CV customization, cover letter writing, and interview preparation.",
+            "URL": "https://github.com/MadsLorentzen/ai-job-search"
         },
         {
-            "Name": "ComfyUI",
-            "Category": "AI Generation Engine",
-            "Description": "A powerful, modular node-based interface for generative AI models including image, video, and audio.",
-            "Use_Case": "Creating sophisticated AI workflows, visual content generation, and integrating models into production pipelines.",
-            "URL": "https://github.com/Comfy-Org/ComfyUI"
+            "Name": "TradingAgents",
+            "Category": "Finance / Multi-Agent Systems",
+            "Description": "A multi-agent framework designed for financial trading analysis that leverages LLM-powered specialized agents (Analyst, Researcher, Trader, Risk Manager) to evaluate market conditions and simulate trading strategies.",
+            "Use_Case": "Collaborative market analysis and research-based trading simulation.",
+            "URL": "https://github.com/TauricResearch/TradingAgents"
         },
         {
-            "Name": "Claude Code",
-            "Category": "Agentic Coding Tool",
-            "Description": "An agentic coding tool by Anthropic that understands codebases and automates routine developer tasks.",
-            "Use_Case": "Executing routine code tasks, explaining complex code, and managing git workflows via natural language.",
-            "URL": "https://github.com/anthropics/claude-code"
+            "Name": "Claude Obsidian",
+            "Category": "Knowledge Management",
+            "Description": "A self-organizing AI second brain for Obsidian that enables users to capture source material, link and connect knowledge, and query their vault using grounded, source-cited information.",
+            "Use_Case": "Automated personal knowledge management and research retrieval using local Markdown files.",
+            "URL": "https://github.com/AgriciDaniel/claude-obsidian"
         }
     ]
 }

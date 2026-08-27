@@ -2,25 +2,25 @@
     "last_updated": "2024-07-30",
     "papers": [
         {
-            "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-            "innovation": "Introduces chunk-level KV cache reuse and deviation-guided recomputation to significantly reduce prefill latency and improve overall efficiency in Large Language Model (LLM) inference by optimizing KV tensor recomputation beyond traditional prefix-caching.",
-            "benchmarks": "Likely demonstrates reduced prefill latency, increased throughput, and improved memory efficiency for LLM inference compared to existing caching systems.",
-            "use_case": "Optimizing the serving and deployment of large language models in production environments to reduce inference costs and improve response times.",
-            "url": "https://arxiv.org/abs/2608.21362"
+            "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+            "innovation": "Introduces ESQ-Bench, a novel benchmark designed to evaluate NL2SQL models on the complexities of enterprise database schemas and diverse SQL dialects, addressing limitations of existing benchmarks like Spider and BIRD. It specifically targets 'silent semantic divergence,' a critical issue for real-world robustness.",
+            "benchmarks": "ESQ-Bench itself, comparing against established benchmarks such as Spider and BIRD.",
+            "use_case": "Essential for AI engineers developing and deploying Natural Language to SQL (NL2SQL) solutions in enterprise environments, enabling more rigorous evaluation and improvement of models against complex, real-world data and dialect challenges.",
+            "url": "https://arxiv.org/abs/2608.23569"
         },
         {
-            "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
-            "innovation": "Proposes a schema-aware tool routing mechanism that leverages field-level understanding to prevent common inefficiencies like over-fetching and under-fetching, leading to more accurate and efficient tool selection in complex Retrieval-Augmented Generation (RAG) systems.",
-            "benchmarks": "Expected to show improvements in RAG system efficiency (e.g., fewer tool calls, reduced latency) and accuracy of responses when interacting with diverse tools and data sources.",
-            "use_case": "Designing, implementing, and optimizing retrieval-augmented generation (RAG) systems that orchestrate multiple heterogeneous tools (APIs, databases, vector stores) for enhanced performance and cost-effectiveness.",
-            "url": "https://arxiv.org/abs/2608.21375"
+            "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+            "innovation": "Proposes RENDER, a benchmark control mechanism that systematically varies how 'reader-facing evidence' (e.g., summary, raw excerpt, typed record) is presented to an LLM, while keeping the core conversation constant. This allows for a controlled study of how context rendering strategies impact memory and RAG system performance.",
+            "benchmarks": "RENDER benchmark control, specifically for evaluating LLM memory and RAG systems.",
+            "use_case": "Crucial for AI engineers optimizing Retrieval-Augmented Generation (RAG) systems and LLM memory components. It provides a framework to understand and improve how context is formatted and presented to LLMs for better accuracy and reliability.",
+            "url": "https://arxiv.org/abs/2608.23568"
         },
         {
-            "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
-            "innovation": "Presents a cloud-native architectural approach for deploying secure, high-throughput RAG systems within enterprise environments, specifically leveraging IBM LinuxONE to address critical challenges related to data security, latency, and regulatory compliance.",
-            "benchmarks": "Focuses on practical deployment metrics such as achieving high throughput, low latency, and ensuring enhanced security and regulatory compliance for RAG inference within an enterprise context.",
-            "use_case": "Deploying and scaling secure, high-performance Retrieval-Augmented Generation (RAG) systems in large enterprises, especially when handling sensitive or regulated data, by utilizing a robust cloud-native architecture.",
-            "url": "https://arxiv.org/abs/2608.21393"
+            "title": "Function-Level Execution Feedback for Code Preference Optimization",
+            "innovation": "Explores the application of function-level execution feedback as a precise form of process supervision for code generation models. This granular approach is posited as more effective for improving code quality and correctness compared to broader supervision signals.",
+            "benchmarks": "Aims to improve performance on code generation benchmarks by providing a more effective training signal for preference optimization.",
+            "use_case": "Highly relevant for AI engineers working on improving code generation capabilities of LLMs. This method can be leveraged to fine-tune models to produce more accurate, functionally correct, and syntactically compliant code for various programming tasks and developer tools.",
+            "url": "https://arxiv.org/abs/2608.23632"
         }
     ]
 }
