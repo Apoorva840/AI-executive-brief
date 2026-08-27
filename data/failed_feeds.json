@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "source": "AI News",
+    "error": "HTTPSConnectionPool(host='artificialintelligence-news.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='artificialintelligence-news.com', port=443) at 0x7fefb5594ad0>, 'Connection to artificialintelligence-news.com timed out. (connect timeout=10)'))"
+  }
+]

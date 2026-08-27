@@ -16,20 +16,12 @@
     "score": 7
   },
   {
-    "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
-    "summary": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pachocki. Altman expects it to be \"the first model where the model actually invents new things in a way that matters.\" The article Sam Altman says OpenAI w",
-    "url": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/",
+    "title": "Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away",
+    "summary": "Nvidia is buying open-source AI platform Hugging Face for $12.9 billion, about 80 times its $150 million annual revenue. The deal fits Nvidia's push to invest billions in open AI models while closed providers like OpenAI and Anthropic move away from Nvidia hardware. The article Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull a",
+    "url": "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/",
     "source": "The Decoder",
-    "published_at": "2026-08-26T17:30:29+00:00",
+    "published_at": "2026-08-27T07:14:38+00:00",
     "score": 7
-  },
-  {
-    "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-    "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside a data centre. NVIDIA&#8217;s argument for [&#8230;]",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-    "source": "AI News",
-    "published_at": "2026-08-26T09:08:11+00:00",
-    "score": 6
   },
   {
     "title": "The UK Power Grid Has a Phantom Data Center Problem",
@@ -37,6 +29,14 @@
     "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
     "source": "Wired AI",
     "published_at": "2026-08-27T06:00:00+00:00",
+    "score": 5
+  },
+  {
+    "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+    "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+    "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+    "source": "Wired AI",
+    "published_at": "2026-08-26T19:16:42+00:00",
     "score": 5
   }
 ]
