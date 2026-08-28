@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-07-30",
+    "last_updated": "2024-08-26",
     "papers": [
         {
-            "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-            "innovation": "Introduces ESQ-Bench, a multi-tier enterprise benchmark designed to accurately evaluate Natural Language to SQL (NL2SQL) models against the complexities of real-world enterprise databases, including diverse SQL dialects and the critical issue of 'silent semantic divergence,' which academic benchmarks often overlook.",
-            "benchmarks": "ESQ-Bench (new benchmark). Implicitly highlights limitations of existing benchmarks like Spider and BIRD for enterprise scenarios.",
-            "use_case": "Developing, evaluating, and deploying robust and reliable NL2SQL models for complex enterprise applications, ensuring accurate and semantically correct SQL generation in production environments.",
-            "url": "https://arxiv.org/abs/2608.23569"
+            "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+            "innovation": "Introduces a deterministic, tool-grounded multi-agent LLM framework designed to overcome the numerical inaccuracies and non-deterministic nature of large language models for calculation-intensive financial question answering. It focuses on exact reasoning over structured data, temporal conditions, numerical formulas, and rule-based constraints.",
+            "benchmarks": "Aims to significantly improve numerical accuracy and reliability in financial query answering compared to standalone LLMs. Implies evaluation against benchmarks requiring precise calculations and adherence to financial rules, addressing common LLM shortcomings in quantitative tasks.",
+            "use_case": "Developing robust and reliable AI systems for financial services (e.g., automated financial advice, risk assessment, compliance checks), legal document analysis, scientific computing, and other domains where high numerical precision and deterministic reasoning from LLMs are critical.",
+            "url": "https://arxiv.org/abs/2608.26114"
         },
         {
-            "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-            "innovation": "Proposes RENDER, a novel benchmark control framework that enables systematic evaluation of LLM memory and RAG systems by fixing the conversation history while varying how evidence is 'rendered' (e.g., as a memory entry, summary, or raw excerpt) to the model. This allows for precise measurement of how evidence presentation impacts model performance.",
-            "benchmarks": "RENDER (new benchmark control framework).",
-            "use_case": "Designing, evaluating, and optimizing Retrieval-Augmented Generation (RAG) systems and memory-augmented LLMs, allowing engineers to control and understand the impact of evidence presentation on model accuracy and reliability.",
-            "url": "https://arxiv.org/abs/2608.23568"
+            "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+            "innovation": "Proposes using large language models (LLMs) within multi-step agentic pipelines to generate clinical narratives for explaining machine learning-based ICU mortality predictions. This goes beyond traditional feature-attribution methods by providing contextually rich, human-readable explanations that are crucial for clinical utility.",
+            "benchmarks": "Feasibility study conducted on the eICU Demo Dataset. Aims to demonstrate improved ability to provide clinically relevant and understandable explanations, bridging the gap between abstract model predictions and practical bedside utility.",
+            "use_case": "Enhancing the interpretability and trustworthiness of AI models in critical domains such as healthcare (e.g., explaining diagnoses, treatment recommendations), autonomous systems (e.g., explaining driving decisions), and industrial fault detection, thereby facilitating user adoption and informed decision-making.",
+            "url": "https://arxiv.org/abs/2608.26109"
         },
         {
-            "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
-            "innovation": "Presents a pioneering, quantified, scene-level audit methodology to measure confabulation (hallucination) in LLM-generated biographical content against a subject-specific ground-truth corpus. This provides a granular and objective way to assess the factual accuracy and reliability of generative LLMs.",
-            "benchmarks": "Introduces a new methodology for auditing scene-level confabulation.",
-            "use_case": "Evaluating, debugging, and mitigating factual errors and confabulations in large language models for applications where factual accuracy is paramount, such as content generation, biographical data synthesis, or information retrieval, thereby improving trustworthiness in LLM deployments.",
-            "url": "https://arxiv.org/abs/2608.23640"
+            "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
+            "innovation": "Presents a unified methodological and conceptual framework for 5D multi-table analysis. This framework addresses the inherent complexities of relational data in machine learning, including large data volume, high-dimensional variables, high-cardinality categorical features, and intricate inter-table dependencies, enabling efficient data reuse and analysis.",
+            "benchmarks": "Aims to provide a robust approach for handling the challenges of multi-table learning, implying improved data integration, feature engineering, and potentially enhanced model performance and scalability when working with complex relational datasets common in real-world scenarios.",
+            "use_case": "Designing and implementing machine learning pipelines and data architectures for enterprise systems, healthcare informatics, financial databases, and any domain involving heterogeneous, interconnected datasets that require sophisticated data reuse and analysis for effective AI model development.",
+            "url": "https://arxiv.org/abs/2608.26149"
         }
     ]
 }

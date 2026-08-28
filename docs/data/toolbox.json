@@ -1,26 +1,26 @@
 {
-    "last_updated": "August 27, 2026",
+    "last_updated": "August 28, 2026",
     "tools": [
         {
-            "Name": "Claude Plugins",
-            "Category": "Plugin Ecosystem",
-            "Description": "A marketplace for community-contributed and official plugins that extend the functionality of Claude Cowork and Claude Code.",
-            "Use_Case": "Discovering, installing, and managing third-party plugins to expand agentic capabilities.",
-            "URL": "https://github.com/anthropics/claude-plugins-community"
+            "Name": "Scientific Agent Skills",
+            "Category": "Scientific Research",
+            "Description": "A comprehensive collection of 163 validated scientific and research skills for AI agents.",
+            "Use_Case": "Automating complex research workflows in bioinformatics, chemistry, and clinical research.",
+            "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
         },
         {
-            "Name": "AI Job Search",
-            "Category": "Agentic Automation",
-            "Description": "A framework built on Claude Code that automates job applications, including scraping, fit evaluation, CV tailoring, and interview preparation.",
-            "Use_Case": "Streamlining the entire job search process from finding matches to preparing interview materials.",
-            "URL": "https://github.com/MadsLorentzen/ai-job-search"
+            "Name": "OpenMontage",
+            "Category": "Video Production",
+            "Description": "The first open-source, agentic video production system.",
+            "Use_Case": "Turning plain language descriptions into fully authored, cinematic videos with research, asset generation, and editing.",
+            "URL": "https://github.com/calesthio/OpenMontage"
         },
         {
-            "Name": "book-to-skill",
-            "Category": "Knowledge Management",
-            "Description": "A tool that converts technical books and documentation into structured, on-demand skills for coding agents, minimizing token usage.",
-            "Use_Case": "Enabling agents to query specific sections of large technical manuals or internal docs without manual searching or hallucination.",
-            "URL": "https://github.com/virgiliojr94/book-to-skill"
+            "Name": "aisuite",
+            "Category": "AI Development",
+            "Description": "A lightweight Python library providing a unified interface for multiple generative AI providers and agents.",
+            "Use_Case": "Standardizing LLM interactions and agent development across various providers like OpenAI, Anthropic, and Google.",
+            "URL": "https://github.com/andrewyng/aisuite"
         }
     ]
 }
