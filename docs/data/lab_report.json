@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-08-26",
+    "last_updated": "2024-07-28",
     "papers": [
         {
-            "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-            "innovation": "Introduces a deterministic, tool-grounded multi-agent LLM framework designed to overcome the numerical inaccuracies and non-deterministic nature of large language models for calculation-intensive financial question answering. It focuses on exact reasoning over structured data, temporal conditions, numerical formulas, and rule-based constraints.",
-            "benchmarks": "Aims to significantly improve numerical accuracy and reliability in financial query answering compared to standalone LLMs. Implies evaluation against benchmarks requiring precise calculations and adherence to financial rules, addressing common LLM shortcomings in quantitative tasks.",
-            "use_case": "Developing robust and reliable AI systems for financial services (e.g., automated financial advice, risk assessment, compliance checks), legal document analysis, scientific computing, and other domains where high numerical precision and deterministic reasoning from LLMs are critical.",
-            "url": "https://arxiv.org/abs/2608.26114"
-        },
-        {
             "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-            "innovation": "Proposes using large language models (LLMs) within multi-step agentic pipelines to generate clinical narratives for explaining machine learning-based ICU mortality predictions. This goes beyond traditional feature-attribution methods by providing contextually rich, human-readable explanations that are crucial for clinical utility.",
-            "benchmarks": "Feasibility study conducted on the eICU Demo Dataset. Aims to demonstrate improved ability to provide clinically relevant and understandable explanations, bridging the gap between abstract model predictions and practical bedside utility.",
-            "use_case": "Enhancing the interpretability and trustworthiness of AI models in critical domains such as healthcare (e.g., explaining diagnoses, treatment recommendations), autonomous systems (e.g., explaining driving decisions), and industrial fault detection, thereby facilitating user adoption and informed decision-making.",
+            "innovation": "Proposes using a multi-step agentic pipeline with LLMs to generate clinical narratives for explaining ICU mortality predictions, moving beyond simple feature attribution methods. It separates data interpretation, clinical reasoning, and narrative generation to provide more contextual and usable explanations.",
+            "benchmarks": "Feasibility study conducted on the eICU Demo Dataset, demonstrating the potential for bridging the gap between accurate ML predictions and actionable clinical narratives.",
+            "use_case": "Generating clinically relevant and narrative explanations for AI predictions in high-stakes domains like healthcare (e.g., ICU mortality), where interpretability is crucial for bedside use and trust.",
             "url": "https://arxiv.org/abs/2608.26109"
         },
         {
-            "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
-            "innovation": "Presents a unified methodological and conceptual framework for 5D multi-table analysis. This framework addresses the inherent complexities of relational data in machine learning, including large data volume, high-dimensional variables, high-cardinality categorical features, and intricate inter-table dependencies, enabling efficient data reuse and analysis.",
-            "benchmarks": "Aims to provide a robust approach for handling the challenges of multi-table learning, implying improved data integration, feature engineering, and potentially enhanced model performance and scalability when working with complex relational datasets common in real-world scenarios.",
-            "use_case": "Designing and implementing machine learning pipelines and data architectures for enterprise systems, healthcare informatics, financial databases, and any domain involving heterogeneous, interconnected datasets that require sophisticated data reuse and analysis for effective AI model development.",
-            "url": "https://arxiv.org/abs/2608.26149"
+            "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+            "innovation": "Introduces a deterministic, tool-grounded multi-agent LLM framework specifically designed to achieve exact reasoning and numerical accuracy in calculation-intensive financial question answering, addressing the common issue of LLMs generating 'numerically incorrect yet plausible' outputs.",
+            "benchmarks": "Focuses on achieving 'exact reasoning' and 'numerically correct' answers for complex financial queries, implying stringent accuracy requirements over traditional LLM evaluation.",
+            "use_case": "Building reliable and precise LLM-powered applications for financial analysis, tax calculations, market predictions, or any domain requiring exact numerical computation and adherence to rule-based constraints.",
+            "url": "https://arxiv.org/abs/2608.26114"
+        },
+        {
+            "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+            "innovation": "Presents an AI-assisted framework (PICasso) for autonomous synthesis, verification, and optimization of Photonic Integrated Circuits (PICs). It couples a natural language to design (NL -> YAML -> GDS) generation pipeline with PDK-aware knowledge injection, automated placement, and multi-objective optimization techniques.",
+            "benchmarks": "Aims for 'autonomous optimization' in design processes, implying performance gains in design efficiency, complexity handling, and potentially optimized device characteristics (e.g., power, area, yield).",
+            "use_case": "Automated design and optimization of complex hardware components like silicon photonic devices, significantly reducing design cycles and enabling rapid prototyping and exploration of new architectures in various engineering fields.",
+            "url": "https://arxiv.org/abs/2608.26113"
         }
     ]
 }

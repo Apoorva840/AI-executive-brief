@@ -1,24 +1,24 @@
 {
-    "last_updated": "August 28, 2026",
+    "last_updated": "August 29, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Persistent AI Agents",
-            "definition": "Unlike traditional 'stateless' models that react only to direct prompts, persistent agents maintain a continuous execution state and internal memory over long durations. They are designed to work proactively in the background, autonomously navigating software environments or physical tasks until a pre-defined goal is achieved or the process is manually terminated.",
-            "analogy": "In a kitchen, a standard LLM is like a microwave that only runs when you press 'Start,' whereas a persistent agent is like a professional Night Chef who enters the kitchen after hours, checks the inventory, preps the sauces, and organizes the stations for the morning shift without being told exactly what to do at every step.",
-            "business_value": "This shifts the AI paradigm from 'Co-pilot' to 'Digital Employee.' For leadership, this means lower operational overhead as AI can manage long-term projects\u2014like code maintenance or scientific research\u2014without constant human hand-holding, significantly increasing the 'asynchronous productivity' of the organization."
+            "term": "Neuro-Symbolic Framework (with F-Logic)",
+            "definition": "This architecture integrates the pattern-recognition strengths of neural networks (the 'neuro' part) with the formal, rule-based reasoning of symbolic AI (the 'symbolic' part). By utilizing F-Logic\u2014a frame-based logic for object-oriented modeling\u2014the system can explain its reasoning steps logically while still processing the messy, unstructured data typical of deep learning.",
+            "analogy": "In a high-end kitchen, the neural component is the chef\u2019s intuitive 'gut feeling' for seasoning, while the symbolic component is the rigorous, standardized recipe book that ensures every dish meets health and safety codes every single time.",
+            "business_value": "It solves the 'black-box' trust crisis in high-stakes sectors like healthcare and education by providing a clear audit trail of why a decision was made, reducing regulatory risk and increasing user adoption."
         },
         {
-            "term": "Neuro-Symbolic Frameworks",
-            "definition": "This architecture combines the pattern-recognition capabilities of Neural Networks (Deep Learning) with the formal, rule-based logic of Symbolic AI (such as F-Logic). By merging these two methods, the system can handle messy, real-world data while strictly adhering to logical constraints and providing a transparent, auditable trail of how it reached a specific conclusion.",
-            "analogy": "Think of a high-end car where the driver's 'muscle memory' and intuition handle the steering (Neural), but the car\u2019s hard-coded Electronic Stability Control (Symbolic) overrides the driver to prevent a skid based on the laws of physics. One provides the fluidity to drive, the other provides the rigid rules to stay safe.",
-            "business_value": "This is the 'Trust Engine' for high-stakes industries like healthcare and education. It solves the 'black-box' crisis by making AI decisions explainable and verifiable, reducing the legal and reputational risks associated with AI hallucinations or biased 'gut feelings' in critical decision-making."
+            "term": "Agentic Pipeline",
+            "definition": "An agentic pipeline moves beyond simple 'one-shot' AI prompts into a multi-step sequence where autonomous AI agents perform specialized roles, such as data retrieval, tool execution, and self-correction. These pipelines separate data interpretation from narrative generation, allowing the AI to 'reason' through a problem by consulting external tools before providing a final output.",
+            "analogy": "Think of it as a professional pit crew rather than a single driver; one agent checks the tire pressure, another manages fuel, and a third analyzes the engine data, all working in a coordinated sequence to ensure the car performs at its peak.",
+            "business_value": "This shifts AI from a simple chatbot to a reliable digital employee capable of handling complex, multi-stage workflows (like ICU monitoring or financial auditing) with significantly higher accuracy and less human oversight."
         },
         {
-            "term": "Tool-Grounded Multi-Agent Frameworks",
-            "definition": "These systems break complex tasks into sub-problems assigned to specialized AI agents that are 'grounded' in external, deterministic tools like calculators or databases. By forcing the AI to use an actual calculator for math rather than 'predicting' the next digit, these frameworks eliminate numerical hallucinations and ensure accuracy in calculation-intensive domains.",
-            "analogy": "Imagine a car repair shop where the mechanic doesn't just 'guess' the tire pressure by looking at it; instead, they are required to use a calibrated digital gauge (the tool) and have their work double-checked by a foreman (the second agent) before the car is released to the customer.",
-            "business_value": "For the CFO and technical leads, this provides 'Deterministic Reliability.' In financial query answering or engineering design, it ensures that the AI\u2019s output is based on hard math and verified data sources rather than probabilistic guesswork, protecting the bottom line from costly calculation errors."
+            "term": "Autotelic Reinforcement Learning",
+            "definition": "This is a form of machine learning where the AI agent defines its own goals and rewards rather than following a human-specified objective. It enables 'closed-loop' discovery, where the AI experiments with complex systems\u2014like cellular automata or self-organizing materials\u2014to find novel states and control mechanisms that human designers might never have anticipated.",
+            "analogy": "Imagine a car that isn't programmed to reach a destination, but is instead programmed to 'be curious' about its own mechanics, eventually discovering a new way to use the transmission that improves fuel efficiency by 20% without an engineer ever suggesting it.",
+            "business_value": "It drives R&D breakthroughs by allowing AI to act as an 'Artificial Experimentalist,' uncovering new intellectual property and process efficiencies in complex environments like battery chemistry or semiconductor design that are beyond human intuition."
         }
     ]
 }

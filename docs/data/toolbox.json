@@ -1,26 +1,26 @@
 {
-    "last_updated": "August 28, 2026",
+    "last_updated": "August 29, 2026",
     "tools": [
         {
             "Name": "Scientific Agent Skills",
             "Category": "Scientific Research",
-            "Description": "A comprehensive collection of 163 validated scientific and research skills for AI agents.",
-            "Use_Case": "Automating complex research workflows in bioinformatics, chemistry, and clinical research.",
+            "Description": "A collection of 163 validated scientific and research skills for AI agents, covering domains like bioinformatics, chemistry, and clinical research.",
+            "Use_Case": "Automating multi-step scientific workflows such as drug discovery, genomic analysis, and literature review.",
             "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
         },
         {
             "Name": "OpenMontage",
             "Category": "Video Production",
-            "Description": "The first open-source, agentic video production system.",
-            "Use_Case": "Turning plain language descriptions into fully authored, cinematic videos with research, asset generation, and editing.",
+            "Description": "An open-source, agentic video production system that orchestrates research, scripting, asset generation, and editing.",
+            "Use_Case": "Creating end-to-end videos (animations or real-footage documentaries) from plain language prompts.",
             "URL": "https://github.com/calesthio/OpenMontage"
         },
         {
-            "Name": "aisuite",
-            "Category": "AI Development",
-            "Description": "A lightweight Python library providing a unified interface for multiple generative AI providers and agents.",
-            "Use_Case": "Standardizing LLM interactions and agent development across various providers like OpenAI, Anthropic, and Google.",
-            "URL": "https://github.com/andrewyng/aisuite"
+            "Name": "Graphify",
+            "Category": "Developer Tools",
+            "Description": "A CLI tool that maps codebases and documentation into a queryable knowledge graph using AST parsing.",
+            "Use_Case": "Querying codebase structure, explaining complex relationships, and mapping documentation without using vector embeddings.",
+            "URL": "https://github.com/Graphify-Labs/graphify"
         }
     ]
 }

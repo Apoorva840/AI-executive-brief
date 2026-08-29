@@ -4,134 +4,134 @@
     "summary": "arXiv:2608.27102v1 Announce Type: new Abstract: Large Language Models (LLMs) operate in hospitals, courtrooms, banks, and public service desks, where fluent, confident outputs are treated as authoritative even when ungrounded or incorrect. When such an output contributes to harm, who is answerable, and through what mechanisms can responsibility be ",
     "url": "https://arxiv.org/abs/2608.27102",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "Recurrence Meets Transformers for Universal Multimodal Retrieval",
     "summary": "arXiv:2509.08897v3 Announce Type: replace-cross Abstract: With the rapid advancement of multimodal retrieval and its application in LLMs and multimodal LLMs, increasingly complex retrieval tasks have emerged. Existing methods predominantly rely on task-specific fine-tuning of vision-language models and are limited to single-modality queries or docu",
     "url": "https://arxiv.org/abs/2509.08897",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "MambaCSP: Hybrid-Attention State Space Models for Hardware-Efficient Channel State Prediction",
     "summary": "arXiv:2604.21957v2 Announce Type: replace-cross Abstract: Recent works have demonstrated that attention-based transformer and large language model (LLM) architectures can achieve strong channel state prediction (CSP) performance by capturing long-range temporal dependencies across channel state information (CSI) sequences. However, these models suf",
     "url": "https://arxiv.org/abs/2604.21957",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules",
     "summary": "arXiv:2608.22642v2 Announce Type: replace-cross Abstract: Despite recent advances in molecular foundation models, several limitations remain, such as chemically invalid augmentations, modality collapse, and incomplete representation of biochemical environments. To address these challenges, we present \\textbf{Mol-JEPA}, a scalable framework for lear",
     "url": "https://arxiv.org/abs/2608.22642",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
     "summary": "arXiv:2608.26114v1 Announce Type: new Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, they often produce numerically incorrect yet plausib",
     "url": "https://arxiv.org/abs/2608.26114",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes",
     "summary": "arXiv:2608.26193v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) achieve strong performance on VQA and scene understanding, yet affective reasoning remains vulnerable to shortcut behavior. Models may predict correct answers while neglecting people-centric cues such as micro expressions and body language, which weakens tracea",
     "url": "https://arxiv.org/abs/2608.26193",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "Exploring the Role of LLMs in HPC Programming: A Survey",
     "summary": "arXiv:2608.26110v1 Announce Type: cross Abstract: Large Language Models (LLMs) are emerging as promising assistants in High-Performance Computing (HPC), where programming remains complex and expertise-intensive. This survey systematically reviews their application across five categories: code generation, parallelization and optimization, frameworks",
     "url": "https://arxiv.org/abs/2608.26110",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "Syntax vs. Semantics: How Transformers Learn Deep Dependencies",
     "summary": "arXiv:2608.26139v1 Announce Type: cross Abstract: Large Language Models demonstrate remarkable syntactic fluency, yet the optimization dynamics governing their acquisition of deep semantic dependencies remain poorly understood. We propose a mechanistic framework that models this learning process as a competition between Surface Statistics and Deep ",
     "url": "https://arxiv.org/abs/2608.26139",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "VFA: Empowering Multilingual MLLMs via Vision-Free Adaptation",
     "summary": "arXiv:2608.26155v1 Announce Type: cross Abstract: Multimodal large language models have advanced rapidly, yet most remain English-centric, as scaling multilingual multimodal instruction tuning is limited by the scarcity and high cost of high-quality non-English image-text supervision. Although multilingual text data is abundant, naive textual fine-",
     "url": "https://arxiv.org/abs/2608.26155",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "A Multi-Framework Comparison of Outline Stages in Long-Form Generation with LLMs",
     "summary": "arXiv:2608.26177v1 Announce Type: cross Abstract: Long-form generation exposes fundamental limitations of large language models. Even 70B-parameter models exhibit length collapse at 16k-token outputs, and multi-chapter stories frequently trigger the attribute drift characteristic of the ``lost-in-the-middle'' effect. The ``outline-first, write-late",
     "url": "https://arxiv.org/abs/2608.26177",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models",
     "summary": "arXiv:2608.26317v1 Announce Type: cross Abstract: Frontier language models are increasingly marketed as omni systems that can perceive and respond across modalities. Existing evaluation frameworks, however, focus almost exclusively on bimodal understanding, typically text plus one other modality. We propose the Modality Maturity Index (MMI), a benc",
     "url": "https://arxiv.org/abs/2608.26317",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability",
     "summary": "arXiv:2608.26713v1 Announce Type: cross Abstract: Recent advances in Multimodal Large Language Models (MLLMs) have extended Image Aesthetic Assessment (IAA) beyond scalar scores toward interpretable critique and guidance. Yet existing benchmarks mainly assess intrinsic visual quality or fixed domain criteria, leaving open whether an appealing image",
     "url": "https://arxiv.org/abs/2608.26713",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation",
     "summary": "arXiv:2608.26856v1 Announce Type: cross Abstract: Although Multimodal Large Language Models (MLLMs) have demonstrated impressive performance in Medical Visual Question Answering (Med-VQA), their reliance on global image features often lacks precise pixel-level grounding, thereby limiting clinical trustworthiness. To bridge the semantic gap between ",
     "url": "https://arxiv.org/abs/2608.26856",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
     "summary": "arXiv:2608.27427v1 Announce Type: cross Abstract: Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy both cheaply. We present Persona-Execution Separation (PES): pers",
     "url": "https://arxiv.org/abs/2608.27427",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   },
   {
     "title": "LLM-Powered Swarms: A New Frontier or a Conceptual Stretch?",
     "summary": "arXiv:2506.14496v3 Announce Type: replace Abstract: Swarm intelligence describes how simple, decentralized agents can collectively produce complex behaviors. Recently, the concept of swarming has been extended to large language model (LLM)-powered systems, such as OpenAI's Swarm (OAS) framework, where agents coordinate through natural language prom",
     "url": "https://arxiv.org/abs/2506.14496",
     "source": "Arxiv AI",
-    "published_at": "2026-08-28T04:00:00+00:00",
+    "published_at": "2026-08-29T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-08-28T11:41:18.326119+00:00"
+    "archived_at": "2026-08-29T07:19:11.281393+00:00"
   }
 ]
