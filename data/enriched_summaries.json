@@ -1,39 +1,10 @@
 [
   {
-    "title": "Omni-Interactive Universal Embedder",
-    "url": "https://arxiv.org/abs/2608.27044",
-    "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2608.27044v1 Announce Type: new Abstract: Multimodal representation learning has been shifting from traditional two-tower architectures to large language model (LLM)-based embedders due to their strong instruction-following capabilities. Despite this progress, existing approaches primarily focus on language and image modalities, which also re",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
-    "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "AI benchmarks have a trust problem and Google wants to fix it",
-    "url": "https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/",
+    "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
+    "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
     "source": "The Decoder",
     "score": 8,
-    "what_happened": "Google Deepmind is testing a double-blind evaluation of a frontier AI model for the first time. Cryptographic protection through Confidential Space is meant to keep Google from seeing the test questions and keep evaluators from seeing the model weights. The pilot project with the Singapore AI Safety Institute uses a Gemini Flash Lite and could set",
-    "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
-    "who_should_care": [
-      "AI Professionals"
-    ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
-  },
-  {
-    "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
-    "url": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Google Deepmind has expanded Co-Scientist from a hypothesis generator into a research system that's integrated into the lab. Across three disciplines, from materials synthesis to the autonomous development of a medical AI architecture, the Gemini-based multi-agent system delivered experimentally validated results. The article Google Deepmind&#039;s",
+    "what_happened": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use that knowledge to get better over time. Larger models benefit more, but smaller models with WikiSkill can match t",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -44,33 +15,63 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-    "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
+    "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
+    "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic. The article OpenAI cuts off Cursor after SpaceX acquisition, citing Musk&#039;s hi",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-    "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+    "title": "How to Run a Chatbot on Your Own Computer",
+    "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "source": "Wired AI",
+    "score": 6,
+    "what_happened": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+    "technical_takeaway": null,
+    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
+    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
+    "who_should_care": [
+      "AI Ethics Engineers",
+      "Legal & Compliance"
+    ],
+    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
+  },
+  {
+    "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
     "source": "Wired AI",
     "score": 5,
-    "what_happened": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
+    "what_happened": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
       "Policy Leaders",
       "Tech Strategists"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "LAAF: A Layered Accountability Architecture Framework for LLM Applications",
+    "url": "https://arxiv.org/abs/2608.27102",
+    "source": "Arxiv AI",
+    "score": 8,
+    "what_happened": "arXiv:2608.27102v1 Announce Type: new Abstract: Large Language Models (LLMs) operate in hospitals, courtrooms, banks, and public service desks, where fluent, confident outputs are treated as authoritative even when ungrounded or incorrect. When such an output contributes to harm, who is answerable, and through what mechanisms can responsibility be",
+    "technical_takeaway": null,
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "Research Scientists",
+      "ML Engineers"
+    ],
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   }
 ]

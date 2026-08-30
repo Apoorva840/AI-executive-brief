@@ -1,5 +1,32 @@
 [
   {
+    "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
+    "summary": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legally, LAION can likely point to a 2024 Hamburg court ruling that allows ",
+    "url": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
+    "source": "The Decoder",
+    "published_at": "2026-08-29T09:36:48+00:00",
+    "score": 7,
+    "archived_at": "2026-08-30T05:41:07.825613+00:00"
+  },
+  {
+    "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
+    "summary": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integration time dropped from weeks to hours. But Claude sometimes failed to grasp physical cause and effect, so human oversight remains essential for now. The article Anthropic wants to do for phy",
+    "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
+    "source": "The Decoder",
+    "published_at": "2026-08-29T09:14:30+00:00",
+    "score": 7,
+    "archived_at": "2026-08-30T05:41:07.825613+00:00"
+  },
+  {
+    "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry",
+    "summary": "In China, 95 percent of the 128,000 short dramas released in Q1 2026 were AI-generated. Some actors are being forced to hand over their voice and likeness to AI tools before getting fired, the Financial Times reports. AI-related labor disputes are rising fast. The article AI-generated videos are already displacing actors and livestreamers across Ch",
+    "url": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
+    "source": "The Decoder",
+    "published_at": "2026-08-29T13:25:56+00:00",
+    "score": 6,
+    "archived_at": "2026-08-30T05:41:07.825613+00:00"
+  },
+  {
     "title": "LAAF: A Layered Accountability Architecture Framework for LLM Applications",
     "summary": "arXiv:2608.27102v1 Announce Type: new Abstract: Large Language Models (LLMs) operate in hospitals, courtrooms, banks, and public service desks, where fluent, confident outputs are treated as authoritative even when ungrounded or incorrect. When such an output contributes to harm, who is answerable, and through what mechanisms can responsibility be ",
     "url": "https://arxiv.org/abs/2608.27102",
@@ -2670,33 +2697,6 @@
     "source": "Arxiv AI",
     "published_at": "2026-05-19T04:00:00+00:00",
     "score": 8,
-    "archived_at": "2026-05-19T04:45:21.388639+00:00"
-  },
-  {
-    "title": "Multi-Paradigm Agent Interaction in Practice:A Systematic Analysis of Generator-Evaluator, ReAct Loop,and Adversarial Evaluation in the buddyMe Framework",
-    "summary": "arXiv:2605.16821v1 Announce Type: new Abstract: The rapid evolution of Large Language Model (LLM) agents has produced diverse interaction paradigms, yet few production systems integrate multiple paradigms within a unified architecture. This paper presents a systematic analysis of three principal agent interaction paradigms, including Multi-Agent Or",
-    "url": "https://arxiv.org/abs/2605.16821",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-19T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-19T04:45:21.388639+00:00"
-  },
-  {
-    "title": "F2IND-IT! -- Multimodal Fuzzy Fake Indian News Detection using Images and Text",
-    "summary": "arXiv:2605.17115v1 Announce Type: new Abstract: Biased manipulation of facts across regional and national media outlets complicates misinformation detection in diverse landscapes like India. This paper introduces a novel multimodal framework combining visual and textual modalities for enhanced fake news detection on Indian media. The architecture u",
-    "url": "https://arxiv.org/abs/2605.17115",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-19T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-19T04:45:21.388639+00:00"
-  },
-  {
-    "title": "Latent Heuristic Search: Continuous Optimization for Automated Algorithm Design",
-    "summary": "arXiv:2605.17137v1 Announce Type: new Abstract: The integration of Large Language Models (LLMs) into evolutionary frameworks has established a new paradigm for automated heuristic discovery. Despite their promise, these methods typically search in the discrete space of program syntax, relying on stochastic sampling to navigate a highly non-convex o",
-    "url": "https://arxiv.org/abs/2605.17137",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-19T04:00:00+00:00",
-    "score": 7,
     "archived_at": "2026-05-19T04:45:21.388639+00:00"
   }
 ]

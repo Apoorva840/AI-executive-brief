@@ -1,24 +1,24 @@
 {
-    "last_updated": "August 29, 2026",
+    "last_updated": "August 30, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "Neuro-Symbolic Framework (with F-Logic)",
-            "definition": "This architecture integrates the pattern-recognition strengths of neural networks (the 'neuro' part) with the formal, rule-based reasoning of symbolic AI (the 'symbolic' part). By utilizing F-Logic\u2014a frame-based logic for object-oriented modeling\u2014the system can explain its reasoning steps logically while still processing the messy, unstructured data typical of deep learning.",
-            "analogy": "In a high-end kitchen, the neural component is the chef\u2019s intuitive 'gut feeling' for seasoning, while the symbolic component is the rigorous, standardized recipe book that ensures every dish meets health and safety codes every single time.",
-            "business_value": "It solves the 'black-box' trust crisis in high-stakes sectors like healthcare and education by providing a clear audit trail of why a decision was made, reducing regulatory risk and increasing user adoption."
+            "term": "WikiSkill (Persistent Memory Framework)",
+            "definition": "WikiSkill is a recursive learning framework that enables AI agents to maintain a structured, persistent record of past task executions. By documenting failures and successes in a 'wiki' format, the model can query its own history to avoid repeating errors, effectively enabling long-term procedural memory.",
+            "analogy": "Imagine a kitchen where every chef writes a detailed 'Lessons Learned' note in a shared binder after every shift; if a sauce breaks on Tuesday, no one in that kitchen will ever make that specific mistake again because the 'memory' is part of the kitchen itself.",
+            "business_value": "This transforms AI from a one-off tool into a compounding asset. By retaining institutional knowledge, companies reduce compute costs and improve reliability, effectively shortening the 'learning curve' for automated business processes."
         },
         {
-            "term": "Agentic Pipeline",
-            "definition": "An agentic pipeline moves beyond simple 'one-shot' AI prompts into a multi-step sequence where autonomous AI agents perform specialized roles, such as data retrieval, tool execution, and self-correction. These pipelines separate data interpretation from narrative generation, allowing the AI to 'reason' through a problem by consulting external tools before providing a final output.",
-            "analogy": "Think of it as a professional pit crew rather than a single driver; one agent checks the tire pressure, another manages fuel, and a third analyzes the engine data, all working in a coordinated sequence to ensure the car performs at its peak.",
-            "business_value": "This shifts AI from a simple chatbot to a reliable digital employee capable of handling complex, multi-stage workflows (like ICU monitoring or financial auditing) with significantly higher accuracy and less human oversight."
+            "term": "Model Hardware Standard (MHS)",
+            "definition": "The Model Hardware Standard is a technical abstraction layer that provides a universal interface between AI models and physical actuators. It standardizes how AI agents perceive and interact with physical sensors and motors, decoupling the cognitive model from the underlying hardware-specific drivers.",
+            "analogy": "It is like a 'Universal Driver\u2019s Seat'\u2014regardless of whether you are in a semi-truck, a sports car, or a forklift, the steering wheel, pedals, and gear shift are in the exact same place and respond identically, allowing one driver to operate any vehicle instantly.",
+            "business_value": "MHS drastically reduces the 'integration tax.' By shrinking deployment timelines from weeks to hours, enterprises can scale robotics across different hardware vendors without being locked into a single manufacturer\u2019s proprietary software ecosystem."
         },
         {
-            "term": "Autotelic Reinforcement Learning",
-            "definition": "This is a form of machine learning where the AI agent defines its own goals and rewards rather than following a human-specified objective. It enables 'closed-loop' discovery, where the AI experiments with complex systems\u2014like cellular automata or self-organizing materials\u2014to find novel states and control mechanisms that human designers might never have anticipated.",
-            "analogy": "Imagine a car that isn't programmed to reach a destination, but is instead programmed to 'be curious' about its own mechanics, eventually discovering a new way to use the transmission that improves fuel efficiency by 20% without an engineer ever suggesting it.",
-            "business_value": "It drives R&D breakthroughs by allowing AI to act as an 'Artificial Experimentalist,' uncovering new intellectual property and process efficiencies in complex environments like battery chemistry or semiconductor design that are beyond human intuition."
+            "term": "Synthetic Likeness Extraction",
+            "definition": "This trend involves the deployment of generative video and audio models to mass-produce content using captured human biometrics. It utilizes high-dimensional feature extraction to replicate human likenesses, allowing for the autonomous generation of media without the ongoing physical presence of the original performers.",
+            "analogy": "It is like a car manufacturer owning the digital 'mold' of a legendary race car driver\u2019s reflexes and style; they no longer need the driver behind the wheel because they can install that specific performance profile into every car they sell.",
+            "business_value": "This represents a fundamental shift from 'Human-as-a-Service' to 'IP-as-a-Service.' While it significantly lowers production costs and solves scalability issues in content creation, it necessitates aggressive new strategies for digital rights management and brand protection."
         }
     ]
 }

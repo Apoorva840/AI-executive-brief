@@ -1,25 +1,25 @@
 {
-    "last_updated": "August 29, 2026",
+    "last_updated": "August 30, 2026",
     "tools": [
         {
             "Name": "Scientific Agent Skills",
             "Category": "Scientific Research",
-            "Description": "A collection of 163 validated scientific and research skills for AI agents, covering domains like bioinformatics, chemistry, and clinical research.",
-            "Use_Case": "Automating multi-step scientific workflows such as drug discovery, genomic analysis, and literature review.",
+            "Description": "A collection of 163 validated scientific skills, databases, and optimized workflows for AI agents.",
+            "Use_Case": "Automating complex research workflows in biology, chemistry, and drug discovery by providing curated tools for agents like Cursor or Claude Code.",
             "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
         },
         {
             "Name": "OpenMontage",
             "Category": "Video Production",
-            "Description": "An open-source, agentic video production system that orchestrates research, scripting, asset generation, and editing.",
-            "Use_Case": "Creating end-to-end videos (animations or real-footage documentaries) from plain language prompts.",
+            "Description": "An agentic video production system that manages research, scripting, asset generation, editing, and final composition.",
+            "Use_Case": "Turning text prompts or reference videos into full-scale cinematic documentary or animated video productions using AI.",
             "URL": "https://github.com/calesthio/OpenMontage"
         },
         {
             "Name": "Graphify",
-            "Category": "Developer Tools",
-            "Description": "A CLI tool that maps codebases and documentation into a queryable knowledge graph using AST parsing.",
-            "Use_Case": "Querying codebase structure, explaining complex relationships, and mapping documentation without using vector embeddings.",
+            "Category": "Developer Productivity",
+            "Description": "A tool that converts codebases, documentation, and technical files into a queryable knowledge graph using AST parsing.",
+            "Use_Case": "Querying codebase architecture and relationships semantically rather than using regex-based grepping.",
             "URL": "https://github.com/Graphify-Labs/graphify"
         }
     ]
