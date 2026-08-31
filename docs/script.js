@@ -1,14 +1,11 @@
 document.addEventListener("DOMContentLoaded", () => {
     const historySelect = document.getElementById("history-select");
 
-    // Initial load: Fetch individual JSON files for Today's Brief
-    loadBriefData("./data/daily_brief.json");
-    loadJargonData("./data/jargon_buster.json");
-    loadLabData("./data/lab_report.json");
-    loadToolboxData("./data/toolbox.json");
+    // Load initial today's data
+    loadAllDefaultData();
 
-    // Fetch archive manifest and populate dropdown options
-    fetch("./data/manifest.json")
+    // Load history manifest
+    fetch("data/manifest.json")
         .then(response => response.ok ? response.json() : [])
         .then(dates => {
             const sortedDates = dates.sort().reverse();
@@ -16,33 +13,38 @@ document.addEventListener("DOMContentLoaded", () => {
             if (pastDates.length > 0) {
                 pastDates.forEach(date => {
                     const option = document.createElement("option");
-                    option.value = `./data/archive/brief_${date}.json`;
+                    option.value = `data/archive/brief_${date}.json`;
                     option.textContent = date; 
                     historySelect.appendChild(option);
                 });
             }
-        });
+        })
+        .catch(err => console.error("Error loading manifest:", err));
 
-    // Event listener for Past Briefs dropdown
+    // Handle dropdown selection change
     historySelect.addEventListener("change", (event) => {
         if (event.target.value === "latest") {
-            loadBriefData("./data/daily_brief.json");
-            loadJargonData("./data/jargon_buster.json");
-            loadLabData("./data/lab_report.json");
-            loadToolboxData("./data/toolbox.json");
+            loadAllDefaultData();
         } else {
             loadArchivedBrief(event.target.value);
         }
     });
 });
 
+function loadAllDefaultData() {
+    loadBriefData("data/daily_brief.json");
+    loadJargonData("data/jargon_buster.json");
+    loadLabData("data/lab_report.json");
+    loadToolboxData("data/toolbox.json");
+}
+
 function loadBriefData(path) {
     fetch(path)
-        .then(response => response.ok ? response.json() : null)
+        .then(res => res.ok ? res.json() : null)
         .then(data => {
-            if(!data) return;
-            const container = document.getElementById("stories");
+            if (!data) return;
             document.getElementById("meta").textContent = `Updated on ${data.date || 'Today'}`;
+            const container = document.getElementById("stories");
             container.innerHTML = "";
             
             const stories = data.top_stories || [];
@@ -63,43 +65,39 @@ function loadBriefData(path) {
                 `;
                 container.appendChild(card);
             });
-        });
+        })
+        .catch(err => console.error("Error loading stories:", err));
 }
 
 function loadJargonData(path) {
     fetch(path)
-        .then(response => response.ok ? response.json() : null)
-        .then(data => {
-            renderJargon(data);
-        });
+        .then(res => res.ok ? res.json() : null)
+        .then(data => renderJargon(data))
+        .catch(() => renderJargon(null));
 }
 
 function loadToolboxData(path) {
     fetch(path)
-        .then(response => response.ok ? response.json() : null)
-        .then(data => {
-            renderToolbox(data);
-        });
+        .then(res => res.ok ? res.json() : null)
+        .then(data => renderToolbox(data))
+        .catch(() => renderToolbox(null));
 }
 
 function loadLabData(path) {
     fetch(path)
-        .then(response => response.ok ? response.json() : null)
-        .then(data => {
-            renderLabReport(data);
-        });
+        .then(res => res.ok ? res.json() : null)
+        .then(data => renderLabReport(data))
+        .catch(() => renderLabReport(null));
 }
 
 function loadArchivedBrief(archivePath) {
     fetch(archivePath)
-        .then(response => response.ok ? response.json() : null)
+        .then(res => res.ok ? res.json() : null)
         .then(data => {
             if (!data) return;
-
-            // Update Metadata Date
             document.getElementById("meta").textContent = `Updated on ${data.date || 'Today'}`;
-
-            // Render main stories
+            
+            // Stories
             const container = document.getElementById("stories");
             container.innerHTML = "";
             if (data.top_stories && data.top_stories.length > 0) {
@@ -122,26 +120,26 @@ function loadArchivedBrief(archivePath) {
                 });
             }
 
-            // Render optional embedded sections in archive
-            renderJargon(data.jargon || data.jargon_terms);
-            renderToolbox(data.toolbox || data.tools);
-            renderLabReport(data.lab_report || data.papers);
+            // Optional archival sections
+            renderJargon(data.jargon || data.jargon_terms || null);
+            renderToolbox(data.toolbox || data.tools || null);
+            renderLabReport(data.lab_report || data.papers || null);
         });
 }
 
 function renderJargon(data) {
     const section = document.getElementById("jargon-decoder");
     const container = document.getElementById("jargon-container");
+    const terms = data?.terms || (Array.isArray(data) ? data : []);
 
-    if (data && data.terms && data.terms.length > 0) {
+    if (terms.length > 0) {
         section.style.display = "block";
         const titleElement = section.querySelector(".section-title");
         if (titleElement) {
             titleElement.innerHTML = `🎓 Jargon Decoder <span class="update-tag">${data.last_updated || ''}</span>`;
         }
         container.innerHTML = "";
-        
-        data.terms.forEach(item => {
+        terms.forEach(item => {
             const box = document.createElement("div");
             box.className = "jargon-card";
             box.innerHTML = `
