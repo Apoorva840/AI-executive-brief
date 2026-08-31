@@ -1,6 +1,6 @@
 {
   "date": "August 31, 2026",
-  "timestamp": "2026-08-31T05:59:09.891649",
+  "timestamp": "2026-08-31T17:02:45.399807",
   "is_archive_run": false,
   "total_stories": 5,
   "top_stories": [
@@ -54,5 +54,81 @@
       "source": "The Decoder",
       "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/"
     }
-  ]
+  ],
+  "jargon": {
+    "last_updated": "August 31, 2026",
+    "is_weekly_active": true,
+    "terms": [
+      {
+        "term": "Temporal Awareness in AI Agents",
+        "definition": "Temporal awareness refers to the capability of an AI model to perceive, track, and accurately estimate the passage of time and duration for specific tasks. Currently, large language models lack an internal chronological clock, leading to 'calibration errors' where they systematically miscalculate the time required for autonomous workflows.",
+        "analogy": "It is like having a world-class chef who can follow any recipe perfectly but has no sense of time; they might tell you a three-minute egg will take thirty minutes to boil, or leave the oven on indefinitely because they don't realize how much time has passed.",
+        "business_value": "For the C-suite, this highlights a critical 'oversight gap' in automation. Relying on agents for project management or time-sensitive logistics without human intervention can lead to massive scheduling failures and inefficient resource allocation, as the AI cannot yet be trusted to self-regulate its own productivity timelines."
+      },
+      {
+        "term": "Cognitive Offloading",
+        "definition": "Cognitive offloading is the phenomenon where users rely on AI to perform complex reasoning or creative tasks, resulting in high-quality outputs without the user engaging in the underlying mental process. This creates a 'performance-competence gap' where the quality of the work product exceeds the actual skill level or understanding of the person who produced it.",
+        "analogy": "Using a high-end GPS for every single turn; you arrive at your destination faster and more reliably, but over time, you lose the ability to navigate your own neighborhood or read a map if the satellite signal ever drops.",
+        "business_value": "This presents a 'hidden talent risk' to the bottom line. While short-term productivity and grades may rise, the erosion of critical thinking skills means your workforce may lose the ability to troubleshoot complex, non-standard problems that the AI isn't trained to handle, creating a fragile operational environment."
+      },
+      {
+        "term": "Training Data Provenance",
+        "definition": "Provenance refers to the documented lineage and ownership history of the datasets used to train a generative model. It identifies whether the underlying data—such as music, text, or code—was sourced via explicit licensing, public domain, or unauthorized scraping of copyrighted intellectual property.",
+        "analogy": "Imagine running a premium restaurant using ingredients 'borrowed' from a neighbor’s private garden without permission. The meal is delicious and profitable today, but you face a massive legal bill and a potential shutdown once the neighbor realizes you've been harvesting their prize-winning produce for free.",
+        "business_value": "IP integrity is now a tier-one legal risk. If an enterprise builds its core products on models with 'toxic' provenance (unlicensed data), it faces the threat of permanent injunctions, massive statutory damages, and the forced deletion of proprietary models, turning a strategic AI investment into a massive liability."
+      }
+    ]
+  },
+  "toolbox": {
+    "last_updated": "August 31, 2026",
+    "tools": [
+      {
+        "Name": "Scientific Agent Skills",
+        "Category": "Scientific Research",
+        "Description": "A comprehensive collection of 163 ready-to-use research and scientific skills for AI agents.",
+        "Use_Case": "Automating complex research workflows in biology, chemistry, and clinical research.",
+        "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
+      },
+      {
+        "Name": "OpenMontage",
+        "Category": "Video Production",
+        "Description": "An agentic video production system that orchestrates pipelines for research, scriptwriting, and editing.",
+        "Use_Case": "Creating end-to-end videos using AI agents for various production styles.",
+        "URL": "https://github.com/calesthio/OpenMontage"
+      },
+      {
+        "Name": "Heretic",
+        "Category": "AI Optimization",
+        "Description": "A tool that automates the removal of censorship (safety alignment) from LLMs.",
+        "Use_Case": "Decensoring language models automatically without expensive post-training.",
+        "URL": "https://github.com/p-e-w/heretic"
+      }
+    ]
+  },
+  "lab_report": {
+    "last_updated": "2024-07-28",
+    "papers": [
+      {
+        "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+        "innovation": "Proposes using a multi-step agentic pipeline with LLMs to generate clinical narratives for explaining ICU mortality predictions, moving beyond simple feature attribution methods. It separates data interpretation, clinical reasoning, and narrative generation to provide more contextual and usable explanations.",
+        "benchmarks": "Feasibility study conducted on the eICU Demo Dataset, demonstrating the potential for bridging the gap between accurate ML predictions and actionable clinical narratives.",
+        "use_case": "Generating clinically relevant and narrative explanations for AI predictions in high-stakes domains like healthcare (e.g., ICU mortality), where interpretability is crucial for bedside use and trust.",
+        "url": "https://arxiv.org/abs/2608.26109"
+      },
+      {
+        "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+        "innovation": "Introduces a deterministic, tool-grounded multi-agent LLM framework specifically designed to achieve exact reasoning and numerical accuracy in calculation-intensive financial question answering, addressing the common issue of LLMs generating 'numerically incorrect yet plausible' outputs.",
+        "benchmarks": "Focuses on achieving 'exact reasoning' and 'numerically correct' answers for complex financial queries, implying stringent accuracy requirements over traditional LLM evaluation.",
+        "use_case": "Building reliable and precise LLM-powered applications for financial analysis, tax calculations, market predictions, or any domain requiring exact numerical computation and adherence to rule-based constraints.",
+        "url": "https://arxiv.org/abs/2608.26114"
+      },
+      {
+        "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+        "innovation": "Presents an AI-assisted framework (PICasso) for autonomous synthesis, verification, and optimization of Photonic Integrated Circuits (PICs). It couples a natural language to design (NL -> YAML -> GDS) generation pipeline with PDK-aware knowledge injection, automated placement, and multi-objective optimization techniques.",
+        "benchmarks": "Aims for 'autonomous optimization' in design processes, implying performance gains in design efficiency, complexity handling, and potentially optimized device characteristics (e.g., power, area, yield).",
+        "use_case": "Automated design and optimization of complex hardware components like silicon photonic devices, significantly reducing design cycles and enabling rapid prototyping and exploration of new architectures in various engineering fields.",
+        "url": "https://arxiv.org/abs/2608.26113"
+      }
+    ]
+  }
 }
