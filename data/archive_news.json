@@ -1,5 +1,32 @@
 [
   {
+    "title": "The skills that earn top grades are the ones AI can fake best",
+    "summary": "GPT-4o boosted grades on a marketing assignment by nearly a full point on a five-point scale in an experiment with 1,053 Bocconi University students. Whether they actually learned anything wasn't tested. Other studies suggest that AI-assisted performance without independent thinking does long-term harm. The article The skills that earn top grades a",
+    "url": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/",
+    "source": "The Decoder",
+    "published_at": "2026-08-30T10:34:09+00:00",
+    "score": 6,
+    "archived_at": "2026-08-31T05:58:09.817343+00:00"
+  },
+  {
+    "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
+    "summary": "Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase. Anthropic promises more control and transparency over usage in return. The article Anthropic&#039;s Claude Code limit change is a raise on paper but a cut in ",
+    "url": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
+    "source": "The Decoder",
+    "published_at": "2026-08-30T09:05:19+00:00",
+    "score": 6,
+    "archived_at": "2026-08-31T05:58:09.817343+00:00"
+  },
+  {
+    "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+    "summary": "Sony Music, Warner Music, and other publishers are suing Anthropic and CEO Dario Amodei personally for allegedly using tens of thousands of copyrighted musical compositions to train Claude without permission. The plaintiffs call it \"one of the largest and most blatant ongoing thefts of intellectual property in history.\" Just months after paying $1.",
+    "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/",
+    "source": "The Decoder",
+    "published_at": "2026-08-30T08:50:20+00:00",
+    "score": 5,
+    "archived_at": "2026-08-31T05:58:09.817343+00:00"
+  },
+  {
     "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
     "summary": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legally, LAION can likely point to a 2024 Hamburg court ruling that allows ",
     "url": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
@@ -2671,32 +2698,5 @@
     "published_at": "2026-05-20T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-05-20T04:49:51.342373+00:00"
-  },
-  {
-    "title": "Surviving the Unseen: Predictive Defense for Novel Multi-Turn Multimodal Attacks",
-    "summary": "arXiv:2605.18988v1 Announce Type: cross Abstract: The expansion of Multimodal Large Language Models (MLLMs) and their integration into autonomous agentic workflows has introduced a non-stationary attack surface. Empirical observations indicate that adversaries employ progressive, cross-modal perturbations that evade turn-specific guardrails by dist",
-    "url": "https://arxiv.org/abs/2605.18988",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-20T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-20T04:49:51.342373+00:00"
-  },
-  {
-    "title": "Token by Token, Compromised: Backdoor Vulnerabilities in Unified Autoregressive Models",
-    "summary": "arXiv:2605.19227v1 Announce Type: cross Abstract: Unified autoregressive models (UAMs) are transformer models that generate text as well as image tokens within a single autoregressive pass. Shared parameters and a multimodal vocabulary simplify the training pipeline and facilitate flexible multimodal generation, yet might introduce new vulnerabilit",
-    "url": "https://arxiv.org/abs/2605.19227",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-20T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-20T04:49:51.342373+00:00"
-  },
-  {
-    "title": "Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion",
-    "summary": "arXiv:2605.12825v2 Announce Type: replace-cross Abstract: We introduce Orthrus, a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token generation of diffusion models. The sequential nature of standard autoregressive decoding repr",
-    "url": "https://arxiv.org/abs/2605.12825",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-19T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-05-19T04:45:21.388639+00:00"
   }
 ]

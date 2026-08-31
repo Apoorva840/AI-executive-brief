@@ -1,40 +1,10 @@
 [
   {
-    "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
-    "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
+    "title": "AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce",
+    "url": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/",
     "source": "The Decoder",
-    "score": 8,
-    "what_happened": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use that knowledge to get better over time. Larger models benefit more, but smaller models with WikiSkill can match t",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
-    "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic. The article OpenAI cuts off Cursor after SpaceX acquisition, citing Musk&#039;s hi",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "How to Run a Chatbot on Your Own Computer",
-    "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-    "source": "Wired AI",
     "score": 6,
-    "what_happened": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+    "what_happened": "An analysis of Glassdoor reviews shows that positive AI comments have dropped from 81 to 43 percent since 2019. Executives rate AI mostly positive, while insurance claims workers rate it almost entirely negative. Fear of job loss is just one complaint among many. Forced adoption, surveillance, and unrealistic productivity expectations weigh just as",
     "technical_takeaway": null,
     "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
     "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
@@ -45,33 +15,63 @@
     "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
   },
   {
-    "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "title": "AI agents have no sense of time and are not aware of it",
+    "url": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/",
+    "source": "The Decoder",
+    "score": 6,
+    "what_happened": "AI coding assistants like Claude Code and Codex have no sense of time, according to a new study. Both systematically overestimate how long tasks will take. Codex is off by as much as ten times the actual duration. They also rate their own work about 20 percentage points too high. For long, autonomous tasks, that creates a real problem with oversigh",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+  },
+  {
+    "title": "Why the Hottest New Wearables Want to Be Ignored",
+    "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
     "source": "Wired AI",
     "score": 5,
-    "what_happened": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+    "what_happened": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "Policy Leaders",
       "Tech Strategists"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "LAAF: A Layered Accountability Architecture Framework for LLM Applications",
-    "url": "https://arxiv.org/abs/2608.27102",
-    "source": "Arxiv AI",
-    "score": 8,
-    "what_happened": "arXiv:2608.27102v1 Announce Type: new Abstract: Large Language Models (LLMs) operate in hospitals, courtrooms, banks, and public service desks, where fluent, confident outputs are treated as authoritative even when ungrounded or incorrect. When such an output contributes to harm, who is answerable, and through what mechanisms can responsibility be",
+    "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
+    "url": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legally, LAION can likely point to a 2024 Hamburg court ruling that allows",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
+    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
     "who_should_care": [
-      "Research Scientists",
-      "ML Engineers"
+      "AI Ethics Engineers",
+      "Legal & Compliance"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
+  },
+  {
+    "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
+    "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integration time dropped from weeks to hours. But Claude sometimes failed to grasp physical cause and effect, so human oversight remains essential for now. The article Anthropic wants to do for phy",
+    "technical_takeaway": null,
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
+    "who_should_care": [
+      "CTOs",
+      "Engineering Leaders"
+    ],
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   }
 ]

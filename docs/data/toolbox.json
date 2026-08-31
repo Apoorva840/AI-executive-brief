@@ -1,26 +1,26 @@
 {
-    "last_updated": "August 30, 2026",
+    "last_updated": "August 31, 2026",
     "tools": [
         {
             "Name": "Scientific Agent Skills",
             "Category": "Scientific Research",
-            "Description": "A collection of 163 validated scientific skills, databases, and optimized workflows for AI agents.",
-            "Use_Case": "Automating complex research workflows in biology, chemistry, and drug discovery by providing curated tools for agents like Cursor or Claude Code.",
+            "Description": "A comprehensive collection of 163 ready-to-use research and scientific skills for AI agents.",
+            "Use_Case": "Automating complex research workflows in biology, chemistry, and clinical research.",
             "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
         },
         {
             "Name": "OpenMontage",
             "Category": "Video Production",
-            "Description": "An agentic video production system that manages research, scripting, asset generation, editing, and final composition.",
-            "Use_Case": "Turning text prompts or reference videos into full-scale cinematic documentary or animated video productions using AI.",
+            "Description": "An agentic video production system that orchestrates pipelines for research, scriptwriting, and editing.",
+            "Use_Case": "Creating end-to-end videos using AI agents for various production styles.",
             "URL": "https://github.com/calesthio/OpenMontage"
         },
         {
-            "Name": "Graphify",
-            "Category": "Developer Productivity",
-            "Description": "A tool that converts codebases, documentation, and technical files into a queryable knowledge graph using AST parsing.",
-            "Use_Case": "Querying codebase architecture and relationships semantically rather than using regex-based grepping.",
-            "URL": "https://github.com/Graphify-Labs/graphify"
+            "Name": "Heretic",
+            "Category": "AI Optimization",
+            "Description": "A tool that automates the removal of censorship (safety alignment) from LLMs.",
+            "Use_Case": "Decensoring language models automatically without expensive post-training.",
+            "URL": "https://github.com/p-e-w/heretic"
         }
     ]
 }

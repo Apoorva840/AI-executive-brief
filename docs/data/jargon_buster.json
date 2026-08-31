@@ -1,24 +1,24 @@
 {
-    "last_updated": "August 30, 2026",
+    "last_updated": "August 31, 2026",
     "is_weekly_active": true,
     "terms": [
         {
-            "term": "WikiSkill (Persistent Memory Framework)",
-            "definition": "WikiSkill is a recursive learning framework that enables AI agents to maintain a structured, persistent record of past task executions. By documenting failures and successes in a 'wiki' format, the model can query its own history to avoid repeating errors, effectively enabling long-term procedural memory.",
-            "analogy": "Imagine a kitchen where every chef writes a detailed 'Lessons Learned' note in a shared binder after every shift; if a sauce breaks on Tuesday, no one in that kitchen will ever make that specific mistake again because the 'memory' is part of the kitchen itself.",
-            "business_value": "This transforms AI from a one-off tool into a compounding asset. By retaining institutional knowledge, companies reduce compute costs and improve reliability, effectively shortening the 'learning curve' for automated business processes."
+            "term": "Temporal Awareness in AI Agents",
+            "definition": "Temporal awareness refers to the capability of an AI model to perceive, track, and accurately estimate the passage of time and duration for specific tasks. Currently, large language models lack an internal chronological clock, leading to 'calibration errors' where they systematically miscalculate the time required for autonomous workflows.",
+            "analogy": "It is like having a world-class chef who can follow any recipe perfectly but has no sense of time; they might tell you a three-minute egg will take thirty minutes to boil, or leave the oven on indefinitely because they don't realize how much time has passed.",
+            "business_value": "For the C-suite, this highlights a critical 'oversight gap' in automation. Relying on agents for project management or time-sensitive logistics without human intervention can lead to massive scheduling failures and inefficient resource allocation, as the AI cannot yet be trusted to self-regulate its own productivity timelines."
         },
         {
-            "term": "Model Hardware Standard (MHS)",
-            "definition": "The Model Hardware Standard is a technical abstraction layer that provides a universal interface between AI models and physical actuators. It standardizes how AI agents perceive and interact with physical sensors and motors, decoupling the cognitive model from the underlying hardware-specific drivers.",
-            "analogy": "It is like a 'Universal Driver\u2019s Seat'\u2014regardless of whether you are in a semi-truck, a sports car, or a forklift, the steering wheel, pedals, and gear shift are in the exact same place and respond identically, allowing one driver to operate any vehicle instantly.",
-            "business_value": "MHS drastically reduces the 'integration tax.' By shrinking deployment timelines from weeks to hours, enterprises can scale robotics across different hardware vendors without being locked into a single manufacturer\u2019s proprietary software ecosystem."
+            "term": "Cognitive Offloading",
+            "definition": "Cognitive offloading is the phenomenon where users rely on AI to perform complex reasoning or creative tasks, resulting in high-quality outputs without the user engaging in the underlying mental process. This creates a 'performance-competence gap' where the quality of the work product exceeds the actual skill level or understanding of the person who produced it.",
+            "analogy": "Using a high-end GPS for every single turn; you arrive at your destination faster and more reliably, but over time, you lose the ability to navigate your own neighborhood or read a map if the satellite signal ever drops.",
+            "business_value": "This presents a 'hidden talent risk' to the bottom line. While short-term productivity and grades may rise, the erosion of critical thinking skills means your workforce may lose the ability to troubleshoot complex, non-standard problems that the AI isn't trained to handle, creating a fragile operational environment."
         },
         {
-            "term": "Synthetic Likeness Extraction",
-            "definition": "This trend involves the deployment of generative video and audio models to mass-produce content using captured human biometrics. It utilizes high-dimensional feature extraction to replicate human likenesses, allowing for the autonomous generation of media without the ongoing physical presence of the original performers.",
-            "analogy": "It is like a car manufacturer owning the digital 'mold' of a legendary race car driver\u2019s reflexes and style; they no longer need the driver behind the wheel because they can install that specific performance profile into every car they sell.",
-            "business_value": "This represents a fundamental shift from 'Human-as-a-Service' to 'IP-as-a-Service.' While it significantly lowers production costs and solves scalability issues in content creation, it necessitates aggressive new strategies for digital rights management and brand protection."
+            "term": "Training Data Provenance",
+            "definition": "Provenance refers to the documented lineage and ownership history of the datasets used to train a generative model. It identifies whether the underlying data\u2014such as music, text, or code\u2014was sourced via explicit licensing, public domain, or unauthorized scraping of copyrighted intellectual property.",
+            "analogy": "Imagine running a premium restaurant using ingredients 'borrowed' from a neighbor\u2019s private garden without permission. The meal is delicious and profitable today, but you face a massive legal bill and a potential shutdown once the neighbor realizes you've been harvesting their prize-winning produce for free.",
+            "business_value": "IP integrity is now a tier-one legal risk. If an enterprise builds its core products on models with 'toxic' provenance (unlicensed data), it faces the threat of permanent injunctions, massive statutory damages, and the forced deletion of proprietary models, turning a strategic AI investment into a massive liability."
         }
     ]
 }
