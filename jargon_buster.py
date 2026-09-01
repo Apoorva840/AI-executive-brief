@@ -24,9 +24,12 @@ def call_gemini_with_retry(prompt, max_retries=3):
     
     # Model Pool to distribute load and bypass 'Daily Quota' blocks
     model_pool = [
-        "gemini-3-flash-preview", 
-        "gemini-1.5-flash", 
-        "gemini-2.0-flash"
+        #"gemini-3-flash-preview", 
+        #"gemini-1.5-flash", 
+        #"gemini-2.0-flash"
+        "gemini-2.5-flash",
+        "gemini-2.5-pro",
+        "gemini-3.5-flash"
     ]
     
     for model_name in model_pool:
