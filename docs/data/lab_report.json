@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-07-28",
+    "last_updated": "2024-07-29",
     "papers": [
         {
-            "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-            "innovation": "Proposes using a multi-step agentic pipeline with LLMs to generate clinical narratives for explaining ICU mortality predictions, moving beyond simple feature attribution methods. It separates data interpretation, clinical reasoning, and narrative generation to provide more contextual and usable explanations.",
-            "benchmarks": "Feasibility study conducted on the eICU Demo Dataset, demonstrating the potential for bridging the gap between accurate ML predictions and actionable clinical narratives.",
-            "use_case": "Generating clinically relevant and narrative explanations for AI predictions in high-stakes domains like healthcare (e.g., ICU mortality), where interpretability is crucial for bedside use and trust.",
-            "url": "https://arxiv.org/abs/2608.26109"
+            "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+            "innovation": "Introduces and formalizes the concept of an 'agent harness' (task representation, state management, output constraints, evaluation feedback) for LLM agents, critical for improving end-to-end performance and governability in data science automation.",
+            "benchmarks": "Focuses on improving the practical and end-to-end performance of LLM agents by providing structured harnesses, addressing existing challenges in agent reliability.",
+            "use_case": "Building robust, reliable, and governable LLM agents for automating complex data-science workflows and broader AI agent development.",
+            "url": "https://arxiv.org/abs/2608.28590"
         },
         {
-            "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-            "innovation": "Introduces a deterministic, tool-grounded multi-agent LLM framework specifically designed to achieve exact reasoning and numerical accuracy in calculation-intensive financial question answering, addressing the common issue of LLMs generating 'numerically incorrect yet plausible' outputs.",
-            "benchmarks": "Focuses on achieving 'exact reasoning' and 'numerically correct' answers for complex financial queries, implying stringent accuracy requirements over traditional LLM evaluation.",
-            "use_case": "Building reliable and precise LLM-powered applications for financial analysis, tax calculations, market predictions, or any domain requiring exact numerical computation and adherence to rule-based constraints.",
-            "url": "https://arxiv.org/abs/2608.26114"
+            "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
+            "innovation": "Proposes an 'auditable reliability layer' to systematically mitigate the impact of pervasive data quality issues (e.g., OCR artifacts, tokenization errors, character corruption) in large-scale text corpora on NLP pipeline performance.",
+            "benchmarks": "Addresses and aims to improve the degraded performance and reliability of NLP models, particularly text classification, when trained or evaluated on real-world, noisy data, with an emphasis on auditable results.",
+            "use_case": "Enhancing the robustness and trustworthiness of NLP systems in domains with inherently noisy text data, such as biomedical NLP, by providing a method for quality assurance and error mitigation.",
+            "url": "https://arxiv.org/abs/2608.28595"
         },
         {
-            "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-            "innovation": "Presents an AI-assisted framework (PICasso) for autonomous synthesis, verification, and optimization of Photonic Integrated Circuits (PICs). It couples a natural language to design (NL -> YAML -> GDS) generation pipeline with PDK-aware knowledge injection, automated placement, and multi-objective optimization techniques.",
-            "benchmarks": "Aims for 'autonomous optimization' in design processes, implying performance gains in design efficiency, complexity handling, and potentially optimized device characteristics (e.g., power, area, yield).",
-            "use_case": "Automated design and optimization of complex hardware components like silicon photonic devices, significantly reducing design cycles and enabling rapid prototyping and exploration of new architectures in various engineering fields.",
-            "url": "https://arxiv.org/abs/2608.26113"
+            "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
+            "innovation": "Develops novel approaches to align generative AI systems with evolving legal and ethical standards, addressing the shortcomings of existing alignment methods in achieving enforceable and interpretable compliance with regulatory frameworks.",
+            "benchmarks": "Focuses on establishing methods for achieving and demonstrating compliance with legal and ethical norms, rather than traditional performance metrics, thereby introducing a new dimension for evaluating AI system behavior.",
+            "use_case": "Ensuring that AI systems, especially generative models, operate in accordance with legal requirements and ethical guidelines, critical for deployment in regulated industries and public-facing applications.",
+            "url": "https://arxiv.org/abs/2608.28593"
         }
     ]
 }

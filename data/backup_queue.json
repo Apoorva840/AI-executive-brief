@@ -1,29 +1,137 @@
 [
   {
-    "title": "The skills that earn top grades are the ones AI can fake best",
-    "summary": "GPT-4o boosted grades on a marketing assignment by nearly a full point on a five-point scale in an experiment with 1,053 Bocconi University students. Whether they actually learned anything wasn't tested. Other studies suggest that AI-assisted performance without independent thinking does long-term harm. The article The skills that earn top grades a",
-    "url": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/",
-    "source": "The Decoder",
-    "published_at": "2026-08-30T10:34:09+00:00",
-    "score": 6,
-    "archived_at": "2026-08-31T05:58:09.817343+00:00"
+    "title": "Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules",
+    "summary": "arXiv:2608.22642v3 Announce Type: replace-cross Abstract: Despite recent advances in molecular foundation models, several limitations remain, such as chemically invalid augmentations, modality collapse, and incomplete representation of biochemical environments. To address these challenges, we present \\textbf{Mol-JEPA}, a scalable framework for lear",
+    "url": "https://arxiv.org/abs/2608.22642",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
   },
   {
-    "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
-    "summary": "Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase. Anthropic promises more control and transparency over usage in return. The article Anthropic&#039;s Claude Code limit change is a raise on paper but a cut in ",
-    "url": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
-    "source": "The Decoder",
-    "published_at": "2026-08-30T09:05:19+00:00",
-    "score": 6,
-    "archived_at": "2026-08-31T05:58:09.817343+00:00"
+    "title": "Not to Break, but to Attest: Adversarial Probes for Privacy-Preserving LLM Verification",
+    "summary": "arXiv:2608.27954v2 Announce Type: replace-cross Abstract: Post-deployment changes to large language models can alter behavior while leaving routine outputs largely unchanged, creating a challenge for AI governance when model weights are proprietary. We present a privacy-preserving zk-SNARK-based audit framework that searches for probes designed in ",
+    "url": "https://arxiv.org/abs/2608.27954",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
   },
   {
-    "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
-    "summary": "Sony Music, Warner Music, and other publishers are suing Anthropic and CEO Dario Amodei personally for allegedly using tens of thousands of copyrighted musical compositions to train Claude without permission. The plaintiffs call it \"one of the largest and most blatant ongoing thefts of intellectual property in history.\" Just months after paying $1.",
-    "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/",
-    "source": "The Decoder",
-    "published_at": "2026-08-30T08:50:20+00:00",
-    "score": 5,
-    "archived_at": "2026-08-31T05:58:09.817343+00:00"
+    "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
+    "summary": "arXiv:2608.28597v1 Announce Type: new Abstract: Online surveys are a foundational data collection instrument in a variety of fields, with attention checks serving as critical guardians of response quality. However, the rapid emergence of agentic AI (goal directed systems powered by a large language model (LLM) brain and/or a multimodal processing u",
+    "url": "https://arxiv.org/abs/2608.28597",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "SHAPE of Chain-of-Thought in Math Reasoning",
+    "summary": "arXiv:2608.28600v1 Announce Type: new Abstract: Large language models (LLMs) achieve strong performance on mathematical reasoning benchmarks, yet the mathematically meaningful skills underlying their reasoning remain underexplored. We introduce \\texttt{SHAPE}, a framework that analyzes Chain-of-Thought (CoT) trajectories through two lenses develope",
+    "url": "https://arxiv.org/abs/2608.28600",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "TPvG: A Moral Decision Framework for Large Language Models from One-Shot to Sequential Feedback",
+    "summary": "arXiv:2608.28610v1 Announce Type: new Abstract: Existing LLM moral evaluations typically present models with isolated moral vignettes and elicit a single-shot decision, neglecting a factor known to profoundly influence human moral behavior: consequence feedback. We introduce TPvG (Text-based Pain-versus-Gain), adapted from a human moral paradigm, w",
+    "url": "https://arxiv.org/abs/2608.28610",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "Frequency Selective Neural Networks as a Foundation Architecture for Time Series Learning",
+    "summary": "arXiv:2608.29012v1 Announce Type: new Abstract: Time-series data across physical and biological domains are fundamentally driven by complex, non-stationary oscillatory modes. While deep learning models, such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks, and Transformers, have dominated sequential analysis, they remain fundamen",
+    "url": "https://arxiv.org/abs/2608.29012",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "MMPCBench: Benchmarking Multimodal Large Language Models on Proactive Critique of Flawed Inputs",
+    "summary": "arXiv:2608.29286v1 Announce Type: new Abstract: As Multimodal Large Language Models (MLLMs) evolve into sophisticated interactive assistants, their reliability depends not only on following instructions but also on validating them. We define Proactive Critique as the model's autonomous ability to identify, analyze and fix faulty user inputs without",
+    "url": "https://arxiv.org/abs/2608.29286",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "Towards a Systems Foundation for Agentic Skills: Architecture, Lifecycle, and Security",
+    "summary": "arXiv:2608.29596v1 Announce Type: new Abstract: Autonomous large language model (LLM) agents increasingly face reliability, context consumption, and execution stability bottlenecks when deployed on complex, long-horizon tasks. While monolithic prompt engineering and stateless tool-calling paradigms struggle to scale, the field is rapidly converging",
+    "url": "https://arxiv.org/abs/2608.29596",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "Perceive to Hypothesize, Verify to Ground: An Agentic Reasoning Framework for Open-World Geo-Localization",
+    "summary": "arXiv:2608.29880v1 Announce Type: new Abstract: Open-world geo-localization requires models to reason over ambiguous visual cues through multi-step reasoning and external knowledge grounding. While recent large vision-language models exhibit strong multimodal reasoning capabilities, existing approaches still suffer from perceptual hallucination and",
+    "url": "https://arxiv.org/abs/2608.29880",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "HiRS-Agent: A Hierarchical Multi-Agent System for Reliable Long-Horizon Remote Sensing Task Solving",
+    "summary": "arXiv:2608.30672v1 Announce Type: new Abstract: Recent advances in large language models and multimodal models have pushed remote sensing (RS) processing from simple perception models to agentic systems designed to tackle complex, long-horizon RS tasks. However, existing systems often rely on monolithic decision-making frameworks, which fail to acc",
+    "url": "https://arxiv.org/abs/2608.30672",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques",
+    "summary": "arXiv:2608.31137v1 Announce Type: new Abstract: Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language Model (LLM)-based approaches. Although modern OA frameworks provide unified ecosystems for deploying t",
+    "url": "https://arxiv.org/abs/2608.31137",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "Intelligent Identification and Repair of Design Defects in BIM via Domain-Specific Large Language Models",
+    "summary": "arXiv:2608.28629v1 Announce Type: cross Abstract: Existing methods lack a generalized approach to efficiently identify and resolve the diversity of design defects in BIM. Therefore, this study proposes an integrated framework to identify and repair various defects in BIM via domain-specific LLMs. Firstly, a BIM-to-Text method with component-balance",
+    "url": "https://arxiv.org/abs/2608.28629",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "Do MLLMs Really Understand Low-Resource Khmer Documents? A Pilot Study on Khmer Document VQA",
+    "summary": "arXiv:2608.28635v1 Announce Type: cross Abstract: Recent multimodal large language models (MLLMs) have advanced document understanding, visual question answering, and text extraction. However, their reliability in low-resource, non-Latin settings remains uncertain. Khmer form documents present particular challenges because they contain complex scri",
+    "url": "https://arxiv.org/abs/2608.28635",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon",
+    "summary": "arXiv:2608.28667v1 Announce Type: cross Abstract: The rapid proliferation of Large Language Models (LLMs) has raised concerns about their environmental impact during inference. While Green AI research has focused on datacenter GPUs and embedded platforms, the energy profile of LLM inference on Apple Silicon, with its unified memory architecture, re",
+    "url": "https://arxiv.org/abs/2608.28667",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
+  },
+  {
+    "title": "Hybrid Offline-Online Multi-Agent Decision Transformers for Wireless Resource Management",
+    "summary": "arXiv:2608.28878v1 Announce Type: cross Abstract: This paper develops a hybrid offline-online multi-agent reinforcement learning framework based on decision transformers. The policy is first pretrained offline via supervised sequence modeling of trajectories generated by existing policies, providing a safe and sample-efficient initialization. It is",
+    "url": "https://arxiv.org/abs/2608.28878",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-01T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-01T05:31:04.131122+00:00"
   }
 ]

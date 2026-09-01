@@ -1,25 +1,25 @@
 {
-    "last_updated": "August 31, 2026",
+    "last_updated": "September 01, 2026",
     "tools": [
         {
             "Name": "Scientific Agent Skills",
-            "Category": "Scientific Research",
-            "Description": "A comprehensive collection of 163 ready-to-use research and scientific skills for AI agents.",
-            "Use_Case": "Automating complex research workflows in biology, chemistry, and clinical research.",
+            "Category": "AI Research / Scientific Tools",
+            "Description": "A comprehensive collection of 163 ready-to-use scientific and research skills for AI agents, covering fields like bioinformatics, drug discovery, clinical research, and data analysis.",
+            "Use_Case": "Transforming AI coding agents into 'AI Scientists' capable of executing complex research workflows, literature reviews, and multi-step data pipelines.",
             "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
         },
         {
-            "Name": "OpenMontage",
-            "Category": "Video Production",
-            "Description": "An agentic video production system that orchestrates pipelines for research, scriptwriting, and editing.",
-            "Use_Case": "Creating end-to-end videos using AI agents for various production styles.",
-            "URL": "https://github.com/calesthio/OpenMontage"
+            "Name": "Crawl4AI",
+            "Category": "Web Scraping / Data Engineering",
+            "Description": "An open-source, LLM-friendly web crawler and scraper that converts web content into clean, structured Markdown, designed for RAG and agentic workflows.",
+            "Use_Case": "Converting complex web pages, documentation, and dynamic sites into LLM-ready data for retrieval-augmented generation and automated data pipelines.",
+            "URL": "https://github.com/unclecode/crawl4ai"
         },
         {
             "Name": "Heretic",
-            "Category": "AI Optimization",
-            "Description": "A tool that automates the removal of censorship (safety alignment) from LLMs.",
-            "Use_Case": "Decensoring language models automatically without expensive post-training.",
+            "Category": "AI Model Alignment / Decensoring",
+            "Description": "A tool for fully automatic censorship removal (abliteration) of transformer-based language models without requiring expensive post-training.",
+            "Use_Case": "Removing safety alignment or censorship from language models to allow for more flexible research, development, and control over model output behavior.",
             "URL": "https://github.com/p-e-w/heretic"
         }
     ]

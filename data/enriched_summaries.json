@@ -1,25 +1,10 @@
 [
   {
-    "title": "AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce",
-    "url": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/",
-    "source": "The Decoder",
-    "score": 6,
-    "what_happened": "An analysis of Glassdoor reviews shows that positive AI comments have dropped from 81 to 43 percent since 2019. Executives rate AI mostly positive, while insurance claims workers rate it almost entirely negative. Fear of job loss is just one complaint among many. Forced adoption, surveillance, and unrealistic productivity expectations weigh just as",
-    "technical_takeaway": null,
-    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
-    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
-    "who_should_care": [
-      "AI Ethics Engineers",
-      "Legal & Compliance"
-    ],
-    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
-  },
-  {
-    "title": "AI agents have no sense of time and are not aware of it",
-    "url": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/",
-    "source": "The Decoder",
-    "score": 6,
-    "what_happened": "AI coding assistants like Claude Code and Codex have no sense of time, according to a new study. Both systematically overestimate how long tasks will take. Codex is off by as much as ten times the actual duration. They also rate their own work about 20 percentage points too high. For long, autonomous tasks, that creates a real problem with oversigh",
+    "title": "CM2: Multimodal Cultural Reasoning via an Integrated Multi-Agent Framework",
+    "url": "https://arxiv.org/abs/2608.30498",
+    "source": "Arxiv AI",
+    "score": 8,
+    "what_happened": "arXiv:2608.30498v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have shown remarkable success in STEM domains, where progress is often driven by vertical, step-by-step deduction under relatively stable symbol systems. Their horizontal, interdisciplinary cultural reasoning, however, remains underexplored.We propose CM2, a mu",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -30,48 +15,62 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "Why the Hottest New Wearables Want to Be Ignored",
-    "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-    "source": "Wired AI",
-    "score": 5,
-    "what_happened": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+    "title": "OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents",
+    "url": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "According to The Information, OpenAI has purchased tens of thousands of Mac minis and Mac Studios to train computer agents. Anthropic also relies on Apple hardware. Demand is so high that the most powerful models have been sold out for months. Apple’s Mac revenue rose by nearly 29 percent to $10.4 billion in the June quarter. The article OpenAI and",
+    "technical_takeaway": null,
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
+    "who_should_care": [
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
+    ],
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
+  },
+  {
+    "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis",
+    "url": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/",
+    "source": "The Decoder",
+    "score": 6,
+    "what_happened": "Andrew Bailey warns G20 finance ministers about inflated AI valuations, growing leverage across markets, and cyber risks from frontier AI models. Cross-investments between AI companies and hyperscalers could trigger a chain reaction if one major player stumbles. Many countries still lack rules for advanced AI. The article Bank of England chief warn",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "Policy Leaders",
       "Tech Strategists"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
-    "url": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legally, LAION can likely point to a 2024 Hamburg court ruling that allows",
+    "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+    "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "source": "Microsoft Research",
+    "score": 5,
+    "what_happened": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration. The post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared f",
     "technical_takeaway": null,
-    "primary_risk": "Regulatory exposure and erosion of public trust due to opaque data practices.",
-    "primary_opportunity": "Differentiation through auditable, privacy-preserving AI pipelines.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
-      "AI Ethics Engineers",
-      "Legal & Compliance"
+      "Applied Researchers",
+      "Enterprise ML Teams"
     ],
-    "technical_angle": "Trust, not model size, is becoming a core technical constraint in AI systems."
-  },
-  {
-    "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
-    "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integration time dropped from weeks to hours. But Claude sometimes failed to grasp physical cause and effect, so human oversight remains essential for now. The article Anthropic wants to do for phy",
-    "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   }
 ]
