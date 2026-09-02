@@ -2,25 +2,25 @@
     "last_updated": "2024-07-29",
     "papers": [
         {
-            "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
-            "innovation": "Introduces and formalizes the concept of an 'agent harness' (task representation, state management, output constraints, evaluation feedback) for LLM agents, critical for improving end-to-end performance and governability in data science automation.",
-            "benchmarks": "Focuses on improving the practical and end-to-end performance of LLM agents by providing structured harnesses, addressing existing challenges in agent reliability.",
-            "use_case": "Building robust, reliable, and governable LLM agents for automating complex data-science workflows and broader AI agent development.",
-            "url": "https://arxiv.org/abs/2608.28590"
+            "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+            "innovation": "Highlights the catastrophic decay of end-to-end reliability in LLMs for long-horizon tasks due to cascading errors in dependent tool calls. It implicitly calls for new paradigms to improve state tracking and error robustness in multi-step LLM processes.",
+            "benchmarks": "Focuses on the challenge of long-horizon tasks and tool use, specifically executing MD5 through a deep sequence of dependent tool calls, as a benchmark for state tracking. The abstract mentions 'per-step accuracy that looks excellent in isolation decays catastrophically'.",
+            "use_case": "Designing and evaluating robust AI agents for complex, multi-step tasks; improving reliability of LLM applications that integrate multiple tools; developing better frameworks for LLM agent orchestration where sequential actions are critical.",
+            "url": "https://arxiv.org/abs/2609.00012"
         },
         {
-            "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
-            "innovation": "Proposes an 'auditable reliability layer' to systematically mitigate the impact of pervasive data quality issues (e.g., OCR artifacts, tokenization errors, character corruption) in large-scale text corpora on NLP pipeline performance.",
-            "benchmarks": "Addresses and aims to improve the degraded performance and reliability of NLP models, particularly text classification, when trained or evaluated on real-world, noisy data, with an emphasis on auditable results.",
-            "use_case": "Enhancing the robustness and trustworthiness of NLP systems in domains with inherently noisy text data, such as biomedical NLP, by providing a method for quality assurance and error mitigation.",
-            "url": "https://arxiv.org/abs/2608.28595"
+            "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+            "innovation": "Proposes a system-level action-governance framework for heterogeneous AI agent fleets. This addresses the critical need for safety, control, and governance as AI agents evolve into complex, interconnected systems operating within real-world environments.",
+            "benchmarks": "The abstract points to the emergence of heterogeneous systems as a new challenge for safety and action governance, implying a need for new benchmarks in system-level safety. No specific benchmarks are listed but the focus is on a new paradigm for system-wide safety.",
+            "use_case": "Building and deploying multi-agent AI systems with robust safety protocols; developing enterprise-level AI solutions where multiple agents interact and operate within shared environments; ensuring responsible and controllable AI agent deployment in sensitive applications.",
+            "url": "https://arxiv.org/abs/2609.00015"
         },
         {
-            "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
-            "innovation": "Develops novel approaches to align generative AI systems with evolving legal and ethical standards, addressing the shortcomings of existing alignment methods in achieving enforceable and interpretable compliance with regulatory frameworks.",
-            "benchmarks": "Focuses on establishing methods for achieving and demonstrating compliance with legal and ethical norms, rather than traditional performance metrics, thereby introducing a new dimension for evaluating AI system behavior.",
-            "use_case": "Ensuring that AI systems, especially generative models, operate in accordance with legal requirements and ethical guidelines, critical for deployment in regulated industries and public-facing applications.",
-            "url": "https://arxiv.org/abs/2608.28593"
+            "title": "UI-Venus-2 Technical Report",
+            "innovation": "Addresses the crucial gap between benchmark-oriented multimodal GUI agents and dependable real-world applications. It focuses on overcoming limitations in environment coverage, task construction, and reward verification to make GUI agents more robust for practical use.",
+            "benchmarks": "Implicitly refers to current 'benchmark-oriented models' and aims to improve their transition to 'dependable real-world applications', indicating a focus on practical performance beyond traditional benchmarks. The paper likely introduces or utilizes improved evaluation methods for real-world robustness.",
+            "use_case": "Developing robust and reliable multimodal GUI agents for digital task automation; building AI assistants that can interact effectively and dependably with various user interfaces; improving the generalization and dependability of AI for automation in real-world software environments.",
+            "url": "https://arxiv.org/abs/2609.00028"
         }
     ]
 }
