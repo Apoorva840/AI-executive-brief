@@ -1,137 +1,137 @@
 [
   {
-    "title": "BiasGym: A Simple and Generalizable Framework for Analyzing and Removing Biases through Injection",
-    "summary": "arXiv:2508.08855v5 Announce Type: replace-cross Abstract: Understanding biases and stereotypes encoded in the weights of Large Language Models (LLMs) is crucial for developing effective mitigation strategies. However, biased behavior is often subtle and non-trivial to isolate, even when deliberately elicited, making systematic analysis and debiasin",
-    "url": "https://arxiv.org/abs/2508.08855",
+    "title": "DocHop: Benchmarking Out-of-domain Multi-hop Reasoning in Information-Dense Documents",
+    "summary": "arXiv:2609.02059v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have achieved strong performance on structured visual understanding tasks such as chart and document question answering. However, existing benchmarks typically evaluate these domains in isolation, leaving underexplored a key capability: whether models can use t",
+    "url": "https://arxiv.org/abs/2609.02059",
     "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
+    "published_at": "2026-09-03T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
+  },
+  {
+    "title": "FUSE: An Evaluating Framework for Dangerous Capabilities of LLMs",
+    "summary": "arXiv:2609.02168v1 Announce Type: new Abstract: Fragmented safety evaluation undermines the governance of dangerous AI capabilities. We present a modular framework that evaluates each model through three orthogonal pipelines---Knowledge ($K$), Defense ($D$), and Harm ($H$)---under a unified protocol, aggregating results into a standardized dangerou",
+    "url": "https://arxiv.org/abs/2609.02168",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-03T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
+  },
+  {
+    "title": "Agents That Model Agents: Five Principles Toward a Theory of Mind for 6G Networks",
+    "summary": "arXiv:2609.01779v1 Announce Type: cross Abstract: Future 6G networks will rely on Large Language Model (LLM) agents to manage the Radio Access Network (RAN). However, current architectures assume inter-agent messages convey objective facts. A message is instead a \\emph{trace} of the sender's reasoning: it carries a subjective conclusion, so a synta",
+    "url": "https://arxiv.org/abs/2609.01779",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-03T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
+  },
+  {
+    "title": "Convergence Theory of Knowledge Distillation in Asynchronous P2P Gossip Learning Network",
+    "summary": "arXiv:2609.01952v1 Announce Type: cross Abstract: Decentralized, serverless learning increasingly connects devices running different architectures, where the standard tool, decentralized SGD, is undefined as models with different parameter counts cannot be averaged. Knowledge distillation (KD) exchanges soft predictions rather than weights and side",
+    "url": "https://arxiv.org/abs/2609.01952",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-03T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
+  },
+  {
+    "title": "Transfer Safety Awareness for Cross-Modal Safety Drift in Multimodal Large Language Models",
+    "summary": "arXiv:2609.02082v1 Announce Type: cross Abstract: Visual modality enhances the capabilities of multimodal large language models (MLLMs) but also introduces a safety concern: a benign textual query may convey harmful intent when grounded in a visual image. We term this cross-modal safety drift and our pilot studies show that the safety response rate",
+    "url": "https://arxiv.org/abs/2609.02082",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-03T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
+  },
+  {
+    "title": "Measuring Reasoning Quality in LLMs: A Multi-Dimensional Behavioral Framework",
+    "summary": "arXiv:2605.24661v4 Announce Type: replace Abstract: Despite remarkable progress on reasoning benchmarks, current LLM evaluation practice remains anchored to final-answer correctness, providing limited insight into how models reason, how reliably they behave under contextual variation, or how efficiently they reach conclusions. This paper proposes a",
+    "url": "https://arxiv.org/abs/2605.24661",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-03T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
+  },
+  {
+    "title": "Medical Heuristic Learning: An LLM-Driven Framework for Interpretable and Auditable Clinical Decision Rules",
+    "summary": "arXiv:2606.16337v4 Announce Type: replace Abstract: Predictive modeling for clinical decision support requires both strong predictive performance and transparent, auditable, and human-reviewable decision logic. Although deep learning and tree-based ensemble methods can achieve high accuracy, their black-box nature remains a major obstacle to trustw",
+    "url": "https://arxiv.org/abs/2606.16337",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-03T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
   },
   {
     "title": "Residual Sparsification via Output Importance for Compressing Mixture-of-Experts LLMs",
-    "summary": "arXiv:2609.00575v1 Announce Type: new Abstract: Mixture-of-experts (MoE) architectures scale large language models efficiently, but they demand massive GPU memory. To cope with such demand, models are commonly compressed to reduce their memory footprint. Residual sparsification is a representative compression technique that decomposes each projecti",
+    "summary": "arXiv:2609.00575v2 Announce Type: replace Abstract: Mixture-of-experts (MoE) architectures scale large language models efficiently, but they demand massive GPU memory. To cope with such demand, models are commonly compressed to reduce their memory footprint. Residual sparsification is a representative compression technique that decomposes each proj",
     "url": "https://arxiv.org/abs/2609.00575",
     "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
+    "published_at": "2026-09-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
   },
   {
-    "title": "ChatDev 2.0: A No-Code Multi-Agent Platform for Developing Everything",
-    "summary": "arXiv:2609.00714v1 Announce Type: new Abstract: Large language model (LLM)-based multi-agent systems (MAS) have shown strong potential for solving complex tasks, yet their development forces a tradeoff: code frameworks are expressive but engineering-intensive, while no-code builders simplify authoring but constrain agent interactions to author-defi",
-    "url": "https://arxiv.org/abs/2609.00714",
+    "title": "A Survey of Transformer-based Language Models with Focus on Efficiency",
+    "summary": "arXiv:2406.16893v3 Announce Type: replace-cross Abstract: The emergence of Transformer-based Large Language Models (LLMs) has substantially augmented the capabilities of Natural Language Processing (NLP), thereby intensifying the demand for computational resources. Therefore, enhancing efficiency based on factors like computational requirements, en",
+    "url": "https://arxiv.org/abs/2406.16893",
     "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
+    "published_at": "2026-09-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
   },
   {
-    "title": "Denoising Diffusion Generative Models Secretly Calculate Attentions",
-    "summary": "arXiv:2609.00885v1 Announce Type: new Abstract: Denoising diffusion models are the dominant architecture for image generation, whereas most natural language generation and modeling are primarily handled by well-known transformer architectures employing attention mechanism. Here, we show that diffusion models also inherently use an attention mechani",
-    "url": "https://arxiv.org/abs/2609.00885",
+    "title": "Fetch.ai: An Architecture for Modern Multi-Agent Systems",
+    "summary": "arXiv:2510.18699v2 Announce Type: replace-cross Abstract: Recent surges in LLM-driven intelligent systems largely overlook decades of foundational multi-agent systems (MAS) research, resulting in frameworks with critical limitations such as centralization and inadequate trust and communication protocols. This paper introduces the Fetch.ai architect",
+    "url": "https://arxiv.org/abs/2510.18699",
     "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
+    "published_at": "2026-09-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
   },
   {
-    "title": "Do Multimodal LLMs See Before They Read? Diagnosing Contextual Sycophancy",
-    "summary": "arXiv:2609.00067v1 Announce Type: cross Abstract: External text can override conflicting image evidence in multimodal large language models, a failure we call multimodal contextual sycophancy. We introduce a 998-case diagnostic that independently varies visual evidence, commonsense priors, and external text, and probe when this failure arises by mo",
-    "url": "https://arxiv.org/abs/2609.00067",
+    "title": "Bernini: Latent Semantic Planning for Video Diffusion",
+    "summary": "arXiv:2605.22344v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) and diffusion models have each reached remarkable maturity: MLLMs excel at reasoning over heterogeneous multimodal inputs with strong semantic grounding, while diffusion models synthesize images and videos with photorealistic fidelity. We argue that t",
+    "url": "https://arxiv.org/abs/2605.22344",
     "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
+    "published_at": "2026-09-03T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
   },
   {
-    "title": "Distributed Implicit Harm: A Compositional Safety Blind Spot in MLLM-Based Video Moderation",
-    "summary": "arXiv:2609.00206v1 Announce Type: cross Abstract: Despite their growing use in video moderation, multimodal large language models (MLLMs) exhibit a compositional safety blind spot: videos composed of seemingly benign components can convey harmful meaning when interpreted as a whole. We refer to this phenomenon as Distributed Implicit Harm (DIH), wh",
-    "url": "https://arxiv.org/abs/2609.00206",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
-  },
-  {
-    "title": "SinkPruner: Sink-Free Visual Token Pruning for Multimodal Large Language Models",
-    "summary": "arXiv:2609.01004v1 Announce Type: cross Abstract: Despite their strong multimodal understanding ability, multimodal large language models (MLLMs) incur substantial computational overhead when processing long visual token sequences. To reduce inference costs, recent studies have explored visual token pruning through vision-centric or text-guided str",
-    "url": "https://arxiv.org/abs/2609.01004",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
-  },
-  {
-    "title": "A Mathematical Theory of Reusable Neural Bases for Network Compression",
-    "summary": "arXiv:2609.01550v1 Announce Type: cross Abstract: As large AI models become increasingly prevalent across a wide range of applications, memory cost has become a critical bottleneck in both training and inference. To mitigate this issue, we introduce the Linear Reusable Neural Bases Architecture (LRNBA), a novel framework aimed at improving paramete",
-    "url": "https://arxiv.org/abs/2609.01550",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
-  },
-  {
-    "title": "Uncovering the Computational Ingredients of Human-Like Representations in LLMs",
-    "summary": "arXiv:2510.01030v2 Announce Type: replace Abstract: The human ability to translate diverse perceptual and linguistic inputs into structured behavior has been thought to rest on learning robust representations of concepts. The rapid advancement of transformer-based large language models (LLMs) has surfaced a diversity of computational ingredients re",
-    "url": "https://arxiv.org/abs/2510.01030",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
-  },
-  {
-    "title": "Multi-Agent LLM Orchestration Achieves Deterministic, High-Quality Decision Support for Incident Response",
-    "summary": "arXiv:2511.15755v3 Announce Type: replace Abstract: Large language models (LLMs) promise to accelerate incident response in production systems, yet single-agent approaches generate vague, unusable recommendations. We present MyAntFarm.ai, a reproducible containerized framework demonstrating that multi-agent orchestration fundamentally transforms LL",
-    "url": "https://arxiv.org/abs/2511.15755",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
-  },
-  {
-    "title": "UniACE: A Unified Framework for Evaluating LLM Agentic Capabilities",
-    "summary": "arXiv:2605.27898v3 Announce Type: replace Abstract: Agent benchmarks are increasingly used to compare large language models (LLMs) across domains, yet a reported score reflects a complete model--harness--environment configuration rather than the model alone. Benchmark packages couple native tasks with specific prompts, tool protocols, orchestration",
-    "url": "https://arxiv.org/abs/2605.27898",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
-  },
-  {
-    "title": "TopoAlign: A Framework for Aligning Code to Math via Topological Decomposition",
-    "summary": "arXiv:2510.11944v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) excel at both informal and formal (e.g. Lean 4) mathematical reasoning but still struggle with autoformalisation, the task of transforming informal into formal mathematical statements. Yet, the performance of current Math LLMs is constrained by the scarcity of la",
-    "url": "https://arxiv.org/abs/2510.11944",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
-  },
-  {
-    "title": "Agentic Large Language Models for Training-Free Neuro-Radiological Image Analysis",
-    "summary": "arXiv:2604.16729v2 Announce Type: replace-cross Abstract: State-of-the-art large language models (LLMs) show high performance in general visual question answering. However, a fundamental limitation remains: current architectures lack the native 3D spatial reasoning required to directly analyze volumetric medical imaging, such as CT or MRI. Emerging",
-    "url": "https://arxiv.org/abs/2604.16729",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
-  },
-  {
-    "title": "Runway's Solaris is an AI system that generates software interfaces in real time",
-    "summary": "AI company Runway has unveiled Solaris, the first model in a new category it calls \"Interface World Models.\" Instead of running code, the system generates the user interface frame by frame as you interact with it. The article Runway&#039;s Solaris is an AI system that generates software interfaces in real time appeared first on The Decoder.",
-    "url": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/",
+    "title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
+    "summary": "Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost. But its \"working harder\" reasoning burns about 30 percent more output tokens per task, making it pricier in practice than its predecessor despite identical token rates. The article Gemini 3.8 Flash is Google&#039;s t",
+    "url": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/",
     "source": "The Decoder",
-    "published_at": "2026-09-01T12:53:46+00:00",
+    "published_at": "2026-09-02T16:59:29+00:00",
     "score": 7,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
   },
   {
-    "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
-    "summary": "arXiv:2609.00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failure probability grows sharply with length. Existing a",
-    "url": "https://arxiv.org/abs/2609.00012",
+    "title": "US military adds ChatGPT and Grok to AI platform GenAI.mil",
+    "summary": "The Pentagon is expanding its AI platform with two new models, OpenAI's ChatGPT Mil and xAI's Grok for Government. The article US military adds ChatGPT and Grok to AI platform GenAI.mil appeared first on The Decoder.",
+    "url": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/",
+    "source": "The Decoder",
+    "published_at": "2026-09-02T14:40:51+00:00",
+    "score": 7,
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
+  },
+  {
+    "title": "Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent",
+    "summary": "Google is adding agent-based video analysis to Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite. Instead of scanning videos frame by frame at a fixed rate, the model decides on its own which segments to examine and at what resolution. Google says this cuts token usage by up to 88 percent while improving accuracy, especially for multi-hour footage. T",
+    "url": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/",
+    "source": "The Decoder",
+    "published_at": "2026-09-02T08:21:38+00:00",
+    "score": 7,
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
+  },
+  {
+    "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+    "summary": "arXiv:2609.01611v1 Announce Type: new Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are a crucial component of current AI safety framework",
+    "url": "https://arxiv.org/abs/2609.01611",
     "source": "Arxiv AI",
-    "published_at": "2026-09-02T04:00:00+00:00",
+    "published_at": "2026-09-03T04:00:00+00:00",
     "score": 6,
-    "archived_at": "2026-09-02T04:57:31.645621+00:00"
+    "archived_at": "2026-09-03T04:55:17.133857+00:00"
   }
 ]

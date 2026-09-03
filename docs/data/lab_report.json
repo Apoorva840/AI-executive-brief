@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-07-29",
+    "last_updated": "2024-07-28",
     "papers": [
         {
-            "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
-            "innovation": "Highlights the catastrophic decay of end-to-end reliability in LLMs for long-horizon tasks due to cascading errors in dependent tool calls. It implicitly calls for new paradigms to improve state tracking and error robustness in multi-step LLM processes.",
-            "benchmarks": "Focuses on the challenge of long-horizon tasks and tool use, specifically executing MD5 through a deep sequence of dependent tool calls, as a benchmark for state tracking. The abstract mentions 'per-step accuracy that looks excellent in isolation decays catastrophically'.",
-            "use_case": "Designing and evaluating robust AI agents for complex, multi-step tasks; improving reliability of LLM applications that integrate multiple tools; developing better frameworks for LLM agent orchestration where sequential actions are critical.",
-            "url": "https://arxiv.org/abs/2609.00012"
+            "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+            "innovation": "Proposes the 'Hydration Proxy Pattern' to address the architectural gap created by stateless LLM APIs in conversational systems. This pattern enables client applications to manage conversational state and semantic context efficiently, thereby bridging the statelessness of LLMs with stateful application needs.",
+            "benchmarks": "The paper identifies an 'architectural gap' as the problem. While no specific named benchmark is provided, the innovation aims to solve challenges related to 'horizontal scalability' and 'managing the entire burden of conversational state and semantic context'.",
+            "use_case": "Essential for AI engineers building and deploying scalable, robust, and state-aware conversational AI applications using stateless LLM APIs, by providing a practical architectural solution for offloading and managing conversational state.",
+            "url": "https://arxiv.org/abs/2609.01834"
         },
         {
-            "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
-            "innovation": "Proposes a system-level action-governance framework for heterogeneous AI agent fleets. This addresses the critical need for safety, control, and governance as AI agents evolve into complex, interconnected systems operating within real-world environments.",
-            "benchmarks": "The abstract points to the emergence of heterogeneous systems as a new challenge for safety and action governance, implying a need for new benchmarks in system-level safety. No specific benchmarks are listed but the focus is on a new paradigm for system-wide safety.",
-            "use_case": "Building and deploying multi-agent AI systems with robust safety protocols; developing enterprise-level AI solutions where multiple agents interact and operate within shared environments; ensuring responsible and controllable AI agent deployment in sensitive applications.",
-            "url": "https://arxiv.org/abs/2609.00015"
+            "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
+            "innovation": "Introduces 'Belief-Calibrated Optimization,' a method that uses a coding agent as an optimizer to iteratively refine and improve the scaffold around a frozen LLM agent. The coding agent reads current scores and traces, then edits the source code to produce new candidates in an optimization loop.",
+            "benchmarks": "The abstract mentions using 'current scores and traces' for iterative improvement. No specific named benchmark suite is detailed, but the core objective is to improve the performance and effectiveness of LLM agents through this optimization process.",
+            "use_case": "Highly relevant for AI engineers focused on optimizing the performance and reliability of LLM agents, enhancing agentic workflows, and systematically improving prompt engineering and agent scaffolding through an iterative, code-based approach.",
+            "url": "https://arxiv.org/abs/2609.01861"
         },
         {
-            "title": "UI-Venus-2 Technical Report",
-            "innovation": "Addresses the crucial gap between benchmark-oriented multimodal GUI agents and dependable real-world applications. It focuses on overcoming limitations in environment coverage, task construction, and reward verification to make GUI agents more robust for practical use.",
-            "benchmarks": "Implicitly refers to current 'benchmark-oriented models' and aims to improve their transition to 'dependable real-world applications', indicating a focus on practical performance beyond traditional benchmarks. The paper likely introduces or utilizes improved evaluation methods for real-world robustness.",
-            "use_case": "Developing robust and reliable multimodal GUI agents for digital task automation; building AI assistants that can interact effectively and dependably with various user interfaces; improving the generalization and dependability of AI for automation in real-world software environments.",
-            "url": "https://arxiv.org/abs/2609.00028"
+            "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+            "innovation": "Identifies and analyzes the 'memory trust gap,' a critical failure mode in personalized AI agents where stale stored facts in persistent memory can override current authoritative evidence without warning. The research studies how this harm evolves as model capability changes.",
+            "benchmarks": "Evaluates this phenomenon using a 'frozen, closed-set, action-scored benchmark with 2 suites' designed to represent different meanings of evidence interpretation.",
+            "use_case": "Crucial for AI engineers designing and developing robust and trustworthy AI agents that rely on persistent memory. It provides insights into mitigating risks associated with stale or outdated information and ensuring proper, reliable integration of current evidence.",
+            "url": "https://arxiv.org/abs/2609.01852"
         }
     ]
 }

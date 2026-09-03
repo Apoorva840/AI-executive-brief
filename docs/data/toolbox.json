@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 02, 2026",
+    "last_updated": "September 03, 2026",
     "tools": [
         {
+            "Name": "Claude Code",
+            "Category": "Coding & Development",
+            "Description": "An agentic coding tool that lives in the terminal, understands codebases, and automates routine coding, explanation, and git tasks through natural language.",
+            "Use_Case": "Accelerating software development workflows, debugging, and managing git operations.",
+            "URL": "https://github.com/anthropics/claude-code"
+        },
+        {
+            "Name": "Crawl4AI",
+            "Category": "Data Extraction",
+            "Description": "An open-source, LLM-friendly web crawler and scraper that converts website content into structured, clean Markdown.",
+            "Use_Case": "Data preparation for RAG, AI agents, and automated data pipelines.",
+            "URL": "https://github.com/unclecode/crawl4ai"
+        },
+        {
             "Name": "Scientific Agent Skills",
-            "Category": "AI Agents & Research",
-            "Description": "A comprehensive library of 163 validated scientific skills and 100+ databases for research workflows.",
-            "Use_Case": "Automating multi-step scientific workflows in biology, chemistry, and drug discovery using agents like Cursor or Claude Code.",
+            "Category": "Scientific Research",
+            "Description": "A comprehensive library of 163+ validated skills and access to 100+ scientific databases designed to turn AI agents into laboratory-grade assistants.",
+            "Use_Case": "Complex multi-step scientific workflows including bioinformatics, drug discovery, and clinical research.",
             "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
-        },
-        {
-            "Name": "ODS (Osmantic Deployment System)",
-            "Category": "AI Infrastructure",
-            "Description": "A self-hosted, all-in-one AI server stack that deploys local LLM inference, chat UI, voice, and agents.",
-            "Use_Case": "Turning local hardware into a private AI server to run agents and workflows without relying on cloud subscriptions.",
-            "URL": "https://github.com/Osmantic/ODS"
-        },
-        {
-            "Name": "User Scanner",
-            "Category": "OSINT & Security",
-            "Description": "A 2-in-1 OSINT suite for deep email and username intelligence across 465+ platforms.",
-            "Use_Case": "Mapping digital footprints and performing security research through automated scanning and cross-platform pivoting.",
-            "URL": "https://github.com/kaifcodec/user-scanner"
         }
     ]
 }

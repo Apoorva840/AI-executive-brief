@@ -1,13 +1,13 @@
 [
   {
-    "title": "Causal Probing for Internal Visual Representations in Multimodal Large Language Models",
-    "url": "https://arxiv.org/abs/2605.05593",
+    "title": "Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules",
+    "url": "https://arxiv.org/abs/2608.22642",
     "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "arXiv:2605.05593v2 Announce Type: replace Abstract: Despite the remarkable success of Multimodal Large Language Models (MLLMs) across diverse tasks, the internal mechanisms governing how they encode and ground distinct visual concepts remain poorly understood. To unravel these mechanisms, we propose a causal framework based on activation steering t",
+    "what_happened": "arXiv:2608.22642v4 Announce Type: replace-cross Abstract: Despite recent advances in molecular foundation models, several limitations remain, such as chemically invalid augmentations, modality collapse, and incomplete representation of biochemical environments. To address these challenges, we present \\textbf{Mol-JEPA}, a scalable framework for lear",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
     "who_should_care": [
       "Research Scientists",
       "ML Engineers"
@@ -15,62 +15,61 @@
     "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
     "source": "Hugging Face Blog",
     "score": 8,
-    "what_happened": "Hugging Face Blog announced 'BenchMIRT: What are LLM benchmarks actually measuring?', highlighting new developments relevant to AI researchers and practitioners.",
+    "what_happened": "Hugging Face Blog announced 'Real-Time Intelligence with IBM Time Series Models on Confluent', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
     "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "ML Engineers",
       "Open-Source Contributors"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
-    "url": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
+    "title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
+    "url": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/",
     "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomous runs with many tool calls. The article Anthropic&#039;s Claude Fable 5.1 promises better coding an",
+    "score": 8,
+    "what_happened": "OpenAI is officially rating its upcoming Astra model as the first system with \"critical\" cyber capabilities. The company plans to keep it in check by monitoring the chain of thought. Problem is, that monitoring already counts as an unreliable mirror of a model's real decisions, and according to a report, Astra's new architecture pushes even more of",
     "technical_takeaway": null,
-    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
-    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
-    "who_should_care": [
-      "CTOs",
-      "Engineering Leaders"
-    ],
-    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
-  },
-  {
-    "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
-    "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though. The article Google Deepmind&#039;s new chief says frontier AI leadership is the only thing that matters appeare",
-    "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "AI Professionals"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+    "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
+    "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office. Its director was fired by the Trump administration shortly after the report was published. The article US Department o",
+    "technical_takeaway": null,
+    "primary_risk": "Marginal performance gains may not justify integration effort.",
+    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "who_should_care": [
+      "AI Professionals"
+    ],
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+  },
+  {
+    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+    "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
     "source": "Wired AI",
     "score": 6,
-    "what_happened": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+    "what_happened": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "Policy Leaders",
       "Tech Strategists"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   }
 ]
