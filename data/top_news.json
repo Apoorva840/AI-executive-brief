@@ -1,42 +1,42 @@
 [
   {
-    "title": "Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules",
-    "summary": "arXiv:2608.22642v4 Announce Type: replace-cross Abstract: Despite recent advances in molecular foundation models, several limitations remain, such as chemically invalid augmentations, modality collapse, and incomplete representation of biochemical environments. To address these challenges, we present \\textbf{Mol-JEPA}, a scalable framework for lear",
-    "url": "https://arxiv.org/abs/2608.22642",
+    "title": "Causal Probing for Internal Visual Representations in Multimodal Large Language Models",
+    "summary": "arXiv:2605.05593v3 Announce Type: replace Abstract: Despite the remarkable success of Multimodal Large Language Models (MLLMs) across diverse tasks, the internal mechanisms governing how they encode and ground distinct visual concepts remain poorly understood. To unravel these mechanisms, we propose a causal framework based on activation steering t",
+    "url": "https://arxiv.org/abs/2605.05593",
     "source": "Arxiv AI",
-    "published_at": "2026-09-03T04:00:00+00:00",
+    "published_at": "2026-09-04T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "summary": "",
-    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
     "source": "Hugging Face Blog",
-    "published_at": "2026-09-02T13:49:14+00:00",
+    "published_at": "2026-09-03T13:13:48+00:00",
     "score": 8
   },
   {
-    "title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
-    "summary": "OpenAI is officially rating its upcoming Astra model as the first system with \"critical\" cyber capabilities. The company plans to keep it in check by monitoring the chain of thought. Problem is, that monitoring already counts as an unreliable mirror of a model's real decisions, and according to a report, Astra's new architecture pushes even more of",
-    "url": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/",
+    "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+    "summary": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as \"critical\" under its safety framework. During testing, it independently found two previously unknown zero-day vulnerabilities. ",
+    "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
     "source": "The Decoder",
-    "published_at": "2026-09-02T14:20:28+00:00",
+    "published_at": "2026-09-03T19:25:40+00:00",
     "score": 8
   },
   {
-    "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
-    "summary": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office. Its director was fired by the Trump administration shortly after the report was published. The article US Department o",
-    "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/",
+    "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+    "summary": "Nvidia plans to acquire Hugging Face for about $12.9 billion, securing the central platform for open AI models. More than 18 million developers and 200,000 companies use the hub. CEO Jensen Huang promises to keep the platform open and hardware-neutral, but the deal also hands him a powerful distribution channel for compute. The article Nvidia buys ",
+    "url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/",
     "source": "The Decoder",
-    "published_at": "2026-09-02T18:24:42+00:00",
+    "published_at": "2026-09-03T14:25:37+00:00",
     "score": 7
   },
   {
-    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-    "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
-    "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+    "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+    "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
     "source": "Wired AI",
-    "published_at": "2026-09-02T18:20:00+00:00",
+    "published_at": "2026-09-03T18:06:24+00:00",
     "score": 6
   }
 ]

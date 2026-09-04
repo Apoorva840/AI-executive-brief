@@ -1,10 +1,10 @@
 [
   {
-    "title": "Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules",
-    "url": "https://arxiv.org/abs/2608.22642",
+    "title": "Causal Probing for Internal Visual Representations in Multimodal Large Language Models",
+    "url": "https://arxiv.org/abs/2605.05593",
     "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "arXiv:2608.22642v4 Announce Type: replace-cross Abstract: Despite recent advances in molecular foundation models, several limitations remain, such as chemically invalid augmentations, modality collapse, and incomplete representation of biochemical environments. To address these challenges, we present \\textbf{Mol-JEPA}, a scalable framework for lear",
+    "what_happened": "arXiv:2605.05593v3 Announce Type: replace Abstract: Despite the remarkable success of Multimodal Large Language Models (MLLMs) across diverse tasks, the internal mechanisms governing how they encode and ground distinct visual concepts remain poorly understood. To unravel these mechanisms, we propose a causal framework based on activation steering t",
     "technical_takeaway": null,
     "primary_risk": "Unclear production readiness despite promising early results.",
     "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
@@ -12,17 +12,17 @@
       "Research Scientists",
       "ML Engineers"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
   },
   {
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
     "source": "Hugging Face Blog",
     "score": 8,
-    "what_happened": "Hugging Face Blog announced 'Real-Time Intelligence with IBM Time Series Models on Confluent', highlighting new developments relevant to AI researchers and practitioners.",
+    "what_happened": "Hugging Face Blog announced 'NeoMME: an efficient Multimodal-native and Multilingual Encoder', highlighting new developments relevant to AI researchers and practitioners.",
     "technical_takeaway": null,
     "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
     "who_should_care": [
       "ML Engineers",
       "Open-Source Contributors"
@@ -30,46 +30,48 @@
     "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
   },
   {
-    "title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
-    "url": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/",
+    "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+    "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
     "source": "The Decoder",
     "score": 8,
-    "what_happened": "OpenAI is officially rating its upcoming Astra model as the first system with \"critical\" cyber capabilities. The company plans to keep it in check by monitoring the chain of thought. Problem is, that monitoring already counts as an unreliable mirror of a model's real decisions, and according to a report, Astra's new architecture pushes even more of",
+    "what_happened": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as \"critical\" under its safety framework. During testing, it independently found two previously unknown zero-day vulnerabilities.",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "AI Professionals"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
-    "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/",
+    "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+    "url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office. Its director was fired by the Trump administration shortly after the report was published. The article US Department o",
+    "what_happened": "Nvidia plans to acquire Hugging Face for about $12.9 billion, securing the central platform for open AI models. More than 18 million developers and 200,000 companies use the hub. CEO Jensen Huang promises to keep the platform open and hardware-neutral, but the deal also hands him a powerful distribution channel for compute. The article Nvidia buys",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
     "who_should_care": [
-      "AI Professionals"
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
   },
   {
-    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-    "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+    "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
     "source": "Wired AI",
     "score": 6,
-    "what_happened": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+    "what_happened": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
     "technical_takeaway": null,
-    "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
     "who_should_care": [
-      "Policy Leaders",
-      "Tech Strategists"
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
     ],
-    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
   }
 ]

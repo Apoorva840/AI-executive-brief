@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 03, 2026",
+    "last_updated": "September 04, 2026",
     "tools": [
         {
             "Name": "Claude Code",
-            "Category": "Coding & Development",
-            "Description": "An agentic coding tool that lives in the terminal, understands codebases, and automates routine coding, explanation, and git tasks through natural language.",
-            "Use_Case": "Accelerating software development workflows, debugging, and managing git operations.",
+            "Category": "Agentic Coding",
+            "Description": "An agentic coding tool that resides in the terminal to execute routine tasks, explain complex code, and manage git workflows using natural language.",
+            "Use_Case": "Accelerating development cycles and automating terminal-based coding tasks.",
             "URL": "https://github.com/anthropics/claude-code"
         },
         {
-            "Name": "Crawl4AI",
-            "Category": "Data Extraction",
-            "Description": "An open-source, LLM-friendly web crawler and scraper that converts website content into structured, clean Markdown.",
-            "Use_Case": "Data preparation for RAG, AI agents, and automated data pipelines.",
-            "URL": "https://github.com/unclecode/crawl4ai"
+            "Name": "VoiceStudio",
+            "Category": "Audio/Speech AI",
+            "Description": "An open-source, local-first alternative to ElevenLabs, providing voice cloning, dubbing, and transcription in over 600 languages.",
+            "Use_Case": "Creating audiobooks, local voice cloning, and automated video dubbing without API subscriptions.",
+            "URL": "https://github.com/debpalash/VoiceStudio"
         },
         {
-            "Name": "Scientific Agent Skills",
-            "Category": "Scientific Research",
-            "Description": "A comprehensive library of 163+ validated skills and access to 100+ scientific databases designed to turn AI agents into laboratory-grade assistants.",
-            "Use_Case": "Complex multi-step scientific workflows including bioinformatics, drug discovery, and clinical research.",
-            "URL": "https://github.com/K-Dense-AI/scientific-agent-skills"
+            "Name": "TimesFM",
+            "Category": "Time Series Forecasting",
+            "Description": "A pretrained foundation model by Google Research designed for high-performance multivariate and univariate time-series forecasting.",
+            "Use_Case": "Predicting future data trends across various domains without needing per-task model tuning.",
+            "URL": "https://github.com/google-research/timesfm"
         }
     ]
 }

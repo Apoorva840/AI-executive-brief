@@ -1,5 +1,140 @@
 [
   {
+    "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+    "summary": "arXiv:2609.03796v1 Announce Type: cross Abstract: We introduce LLaDA-Image, a unified framework that pairs a 6B Diffusion Transformer (DiT) trained from scratch with a frozen vision-language understanding module built on the LLaDA2.0-Mini diffusion language model backbone. Instead of relying heavily on paired image-text data from the beginning, we ",
+    "url": "https://arxiv.org/abs/2609.03796",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs",
+    "summary": "arXiv:2609.03892v1 Announce Type: cross Abstract: 3D spatial reasoning underpins understanding and acting in the physical world, yet it remains unreliable in current multimodal large language models (MLLMs). These models falter at precise geometric measurement, at transforming between egocentric and allocentric viewpoints, and at grounding fine-gra",
+    "url": "https://arxiv.org/abs/2609.03892",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "Auditing Multi-Agent LLM Reasoning Trees Outperforms Majority Vote and LLM-as-Judge",
+    "summary": "arXiv:2602.09341v2 Announce Type: replace Abstract: Multi-agent systems (MAS) can substantially extend the reasoning capacity of large language models (LLMs). Most MAS frameworks aggregate agent outputs via simple majority voting, discarding the evidential structure of reasoning traces. Majority voting is brittle under confabulation consensus, wher",
+    "url": "https://arxiv.org/abs/2602.09341",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence",
+    "summary": "arXiv:2608.10720v2 Announce Type: replace Abstract: Omni-modal dialogue models can understand multimodal inputs and synthesize spoken replies, but a spoken answer still leaves the agent visually absent. We introduce \\textbf{Ex-Omni-2D}, a framework that answers a multimodal query with coordinated text, personalized speech, and reference-conditioned",
+    "url": "https://arxiv.org/abs/2608.10720",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering",
+    "summary": "arXiv:2509.25175v3 Announce Type: replace-cross Abstract: Large language model (LLM) steering has emerged as a promising paradigm for controlling model behavior at inference time through targeted manipulation of hidden states, offering a lightweight alternative to expensive retraining. However, existing steering frameworks suffer from critical limi",
+    "url": "https://arxiv.org/abs/2509.25175",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "Short-Window Sliding Learning for Real-Time Violence Detection via LLM-based Auto-Labeling",
+    "summary": "arXiv:2511.10866v2 Announce Type: replace-cross Abstract: This paper proposes a Short-Window Sliding Learning framework for real-time violence detection in CCTV footages. Unlike conventional long-video training approaches, the proposed method divides videos into 1-2 second clips and applies Large Language Model (LLM)-based auto-caption labeling to ",
+    "url": "https://arxiv.org/abs/2511.10866",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "Ex-Omni: Enabling 3D Facial Animation Generation for Omni-modal Large Language Models",
+    "summary": "arXiv:2602.07106v3 Announce Type: replace-cross Abstract: Omni-modal large language models (OLLMs) aim to unify multimodal understanding and generation, yet extending them to jointly produce speech and 3D facial animation remains largely underexplored. A key challenge is the mismatch between the discrete semantic reasoning of LLMs and the dense tem",
+    "url": "https://arxiv.org/abs/2602.07106",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "MeEvo: Metacognitive Evolution Combined with Natural Evolution for Automatic Heuristic Design",
+    "summary": "arXiv:2606.14202v5 Announce Type: replace-cross Abstract: Large Language Models (LLMs) have advanced Automatic Heuristic Design (AHD) by enabling heuristic generation through reasoning and code synthesis. In LLM-based AHD, the LLM reasons about algorithm design and generates executable heuristic code. Existing architectures adopt two main paradigms",
+    "url": "https://arxiv.org/abs/2606.14202",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+    "summary": "arXiv:2607.13027v2 Announce Type: replace-cross Abstract: Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile devices ",
+    "url": "https://arxiv.org/abs/2607.13027",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "A Mathematical Theory of Reusable Neural Bases for Network Compression",
+    "summary": "arXiv:2609.01550v2 Announce Type: replace-cross Abstract: As large AI models become increasingly prevalent across a wide range of applications, memory cost has become a critical bottleneck in both training and inference. To mitigate this issue, we introduce the Linear Reusable Neural Bases Architecture (LRNBA), a novel framework aimed at improving ",
+    "url": "https://arxiv.org/abs/2609.01550",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "Transfer Safety Awareness for Cross-Modal Safety Drift in Multimodal Large Language Models",
+    "summary": "arXiv:2609.02082v2 Announce Type: replace-cross Abstract: Visual modality enhances the capabilities of multimodal large language models (MLLMs) but also introduces a safety concern: a benign textual query may convey harmful intent when grounded in a visual image. We term this cross-modal safety drift and our pilot studies show that the safety respo",
+    "url": "https://arxiv.org/abs/2609.02082",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price",
+    "summary": "Meta has released Muse Spark 1.3, its fourth model in the series in five months. According to Artificial Analysis, the model gains the most on agentic benchmarks but still trails Claude Fable 5.1 and other top models. The strongest argument is price. At $0.55 per task, Muse Spark undercuts every comparably scored rival. The article Meta closes in o",
+    "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
+    "source": "The Decoder",
+    "published_at": "2026-09-03T11:45:41+00:00",
+    "score": 7,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+    "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+    "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+    "source": "Wired AI",
+    "published_at": "2026-09-03T13:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+    "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+    "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+    "source": "Wired AI",
+    "published_at": "2026-09-03T12:43:09+00:00",
+    "score": 6,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
+    "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+    "summary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runtime mechanism for a two-tier a",
+    "url": "https://arxiv.org/abs/2609.03236",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-04T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-04T04:56:57.064467+00:00"
+  },
+  {
     "title": "DocHop: Benchmarking Out-of-domain Multi-hop Reasoning in Information-Dense Documents",
     "summary": "arXiv:2609.02059v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have achieved strong performance on structured visual understanding tasks such as chart and document question answering. However, existing benchmarks typically evaluate these domains in isolation, leaving underexplored a key capability: whether models can use t",
     "url": "https://arxiv.org/abs/2609.02059",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-05-25T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "ReCoVer: Resilient LLM Pre-Training System via Fault-Tolerant Collective and Versatile Workload",
-    "summary": "arXiv:2605.11215v2 Announce Type: replace-cross Abstract: Pre-training large language models on massive GPU clusters has made hardware faults routine rather than rare, driving the need for resilient training systems. Yet existing frameworks either focus on specific parallelism schemes or risk drifting away from a failure-free training trajectory. W",
-    "url": "https://arxiv.org/abs/2605.11215",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon",
-    "summary": "Anthropic will likely keep supplying AI models to the NSA despite being labeled a \"supply chain risk.\" Intelligence agencies lack Nvidia's latest Grace Blackwell chips, and Anthropic's \"Mythos\" model reportedly runs on older hardware too. The controversial \"any lawful use\" clause that derailed earlier talks is not part of the deal. The article Anth",
-    "url": "https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/",
-    "source": "The Decoder",
-    "published_at": "2026-05-24T08:51:02+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models",
-    "summary": "arXiv:2605.23238v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as economic agents in marketplaces, auctions, and bidding settings. Anticipating their behavior in any specific deployment is hard. Existing strategic-reasoning benchmarks evaluate models on fixed canonical games. These benchmarks may saturate as ",
-    "url": "https://arxiv.org/abs/2605.23238",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "Parallel Context Compaction for Long-Horizon LLM Agent Serving",
-    "summary": "arXiv:2605.23296v1 Announce Type: new Abstract: Long-horizon LLM agents accumulate growing conversation histories that eventually exceed the model's context window. Context compaction via LLM-based summarization keeps the conversation bounded, but summarization is inherently lossy and the blocking call stalls agent inference for tens of seconds. Mo",
-    "url": "https://arxiv.org/abs/2605.23296",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
-    "summary": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling up faster than anyone can patch them. Anthropic warns this creates a high-risk transition period and says no company, itself included, has built safe",
-    "url": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
-    "source": "The Decoder",
-    "published_at": "2026-05-23T07:42:10+00:00",
-    "score": 7,
-    "archived_at": "2026-05-24T04:53:10.132033+00:00"
-  },
-  {
-    "title": "One of the world's top law schools draws a hard line against AI in legal education",
-    "summary": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed. The school’s rationale: future lawyers must first learn to think for themselves before they can use AI meaningfully. The article One of the world&#039;s top law schools draws a hard line ag",
-    "url": "https://the-decoder.com/one-of-the-worlds-top-law-schools-draws-a-hard-line-against-ai-in-legal-education/",
-    "source": "The Decoder",
-    "published_at": "2026-05-23T10:55:03+00:00",
-    "score": 6,
-    "archived_at": "2026-05-24T04:53:10.132033+00:00"
-  },
-  {
-    "title": "Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product",
-    "summary": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep users inside the Google ecosystem, and the company is shifting from traffic distributor to AI publisher whose source selection is becoming a question of editorial power. The article Google CE",
-    "url": "https://the-decoder.com/google-ceo-pichai-now-calls-links-a-part-of-search-redefining-the-webs-role-in-its-own-product/",
-    "source": "The Decoder",
-    "published_at": "2026-05-23T09:16:10+00:00",
-    "score": 6,
-    "archived_at": "2026-05-24T04:53:10.132033+00:00"
-  },
-  {
-    "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content",
-    "summary": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in is available worldwide across all tiers. OpenAI recommends saving important decks before using it. The article OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally dele",
-    "url": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/",
-    "source": "The Decoder",
-    "published_at": "2026-05-22T17:51:50+00:00",
-    "score": 6,
-    "archived_at": "2026-05-23T04:19:17.045193+00:00"
-  },
-  {
-    "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding",
-    "summary": "Deepseek is about to raise around $10 billion, which would value the Chinese AI startup at roughly $45 billion. Founder Liang Wenfeng is telling investors he's putting AGI research ahead of short-term profits. The article Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding appeared first on The Decoder.",
-    "url": "https://the-decoder.com/deepseek-reportedly-prioritizes-agi-research-over-quick-profits-despite-billions-in-funding/",
-    "source": "The Decoder",
-    "published_at": "2026-05-22T17:18:58+00:00",
-    "score": 6,
-    "archived_at": "2026-05-23T04:19:17.045193+00:00"
-  },
-  {
-    "title": "OpenAI Appshots turn any Mac window into context for Codex",
-    "summary": "With the new Codex feature Appshots, Mac users can send the contents of any app window to OpenAI's coding assistant Codex at the press of a button, giving it the context it needs for a task. The article OpenAI Appshots turn any Mac window into context for Codex appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/",
-    "source": "The Decoder",
-    "published_at": "2026-05-22T16:56:20+00:00",
-    "score": 6,
-    "archived_at": "2026-05-23T04:19:17.045193+00:00"
-  },
-  {
-    "title": "OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation",
-    "summary": "OpenAI pulled in about $5.7 billion in Q1 2026 revenue but still lost $1.22 for every dollar earned, putting its adjusted operating margin at minus 122 percent. The article OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-burned-through-1-22-per-dollar-earned-even-after-stripping-out-stock-based-compensation/",
-    "source": "The Decoder",
-    "published_at": "2026-05-22T14:18:32+00:00",
-    "score": 6,
-    "archived_at": "2026-05-23T04:19:17.045193+00:00"
-  },
-  {
-    "title": "California governor signs first US executive order to protect workers from AI job loss",
-    "summary": "California's governor just signed the first executive order by a US governor aimed at protecting workers from AI-driven job loss. The article California governor signs first US executive order to protect workers from AI job loss appeared first on The Decoder.",
-    "url": "https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/",
-    "source": "The Decoder",
-    "published_at": "2026-05-22T13:36:27+00:00",
-    "score": 6,
-    "archived_at": "2026-05-23T04:19:17.045193+00:00"
-  },
-  {
-    "title": "Even If You Hate AI, You Will Use Google AI Search",
-    "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-    "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-    "source": "Wired AI",
-    "published_at": "2026-05-22T15:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-23T04:19:17.045193+00:00"
-  },
-  {
-    "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
-    "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
-    "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
-    "source": "Wired AI",
-    "published_at": "2026-05-22T09:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-23T04:19:17.045193+00:00"
-  },
-  {
-    "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
-    "summary": "The ceremony was scheduled. The CEOs were on the guest list. And then it wasn&#8217;t happening. On Thursday, US President Donald Trump scrapped a planned AI executive order, which had already been delayed multiple times, citing concerns that it might erode America&#8217;s competitive edge over China. &#8220;We&#8217;re leading China, we&#8217;re l",
-    "url": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
-    "source": "AI News",
-    "published_at": "2026-05-22T09:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-05-23T04:19:17.045193+00:00"
   }
 ]

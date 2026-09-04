@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-07-28",
+    "last_updated": "2024-05-15",
     "papers": [
         {
-            "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
-            "innovation": "Proposes the 'Hydration Proxy Pattern' to address the architectural gap created by stateless LLM APIs in conversational systems. This pattern enables client applications to manage conversational state and semantic context efficiently, thereby bridging the statelessness of LLMs with stateful application needs.",
-            "benchmarks": "The paper identifies an 'architectural gap' as the problem. While no specific named benchmark is provided, the innovation aims to solve challenges related to 'horizontal scalability' and 'managing the entire burden of conversational state and semantic context'.",
-            "use_case": "Essential for AI engineers building and deploying scalable, robust, and state-aware conversational AI applications using stateless LLM APIs, by providing a practical architectural solution for offloading and managing conversational state.",
-            "url": "https://arxiv.org/abs/2609.01834"
+            "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+            "innovation": "Introduces Speculative Macro Commit (SMC), a runtime mechanism for a two-tier agent architecture designed to reduce wall-clock time by optimizing serial action-observation turns in tool-using LLM agents. This aims to accelerate the execution of complex agent workflows.",
+            "benchmarks": "Focuses on improving the latency and wall-clock performance of LLM agents; specific performance benchmarks are implied but not detailed in the abstract.",
+            "use_case": "Accelerating the execution and improving the responsiveness of tool-using LLM agents in applications where real-time interaction or high throughput is critical.",
+            "url": "https://arxiv.org/abs/2609.03236"
         },
         {
-            "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
-            "innovation": "Introduces 'Belief-Calibrated Optimization,' a method that uses a coding agent as an optimizer to iteratively refine and improve the scaffold around a frozen LLM agent. The coding agent reads current scores and traces, then edits the source code to produce new candidates in an optimization loop.",
-            "benchmarks": "The abstract mentions using 'current scores and traces' for iterative improvement. No specific named benchmark suite is detailed, but the core objective is to improve the performance and effectiveness of LLM agents through this optimization process.",
-            "use_case": "Highly relevant for AI engineers focused on optimizing the performance and reliability of LLM agents, enhancing agentic workflows, and systematically improving prompt engineering and agent scaffolding through an iterative, code-based approach.",
-            "url": "https://arxiv.org/abs/2609.01861"
+            "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+            "innovation": "Addresses a critical problem in distributed LLM-agent teams called 'stale-plan execution,' where agents might act on obsolete plans even with fresh shared facts. Proposes 'dependency-scoped validation' to ensure plans are updated consistently with the latest relevant information.",
+            "benchmarks": "Aims to improve the reliability and correctness of distributed LLM-agent systems by preventing inconsistent actions; specific evaluation metrics for validation are not detailed in the abstract.",
+            "use_case": "Ensuring the consistency, reliability, and correct coordination of actions in multi-agent LLM systems, particularly those operating in dynamic or stateful environments requiring up-to-date information for planning.",
+            "url": "https://arxiv.org/abs/2609.03340"
         },
         {
-            "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
-            "innovation": "Identifies and analyzes the 'memory trust gap,' a critical failure mode in personalized AI agents where stale stored facts in persistent memory can override current authoritative evidence without warning. The research studies how this harm evolves as model capability changes.",
-            "benchmarks": "Evaluates this phenomenon using a 'frozen, closed-set, action-scored benchmark with 2 suites' designed to represent different meanings of evidence interpretation.",
-            "use_case": "Crucial for AI engineers designing and developing robust and trustworthy AI agents that rely on persistent memory. It provides insights into mitigating risks associated with stale or outdated information and ensuring proper, reliable integration of current evidence.",
-            "url": "https://arxiv.org/abs/2609.01852"
+            "title": "MasterControl Seventeen Every Time",
+            "innovation": "Presents a 'governed approach' to enterprise analytics using language models (LLMs). It employs an LLM for question interpretation but uses a deterministic policy to select and run pre-approved analytical programs, returning both results and evidence. This ensures control, auditability, and expressiveness within a defined analytical scope.",
+            "benchmarks": "Aims to demonstrate expressiveness within defined analytical classes while maintaining governance and auditability; specific evaluation methods are not detailed in the abstract.",
+            "use_case": "Building highly reliable, auditable, and controlled enterprise analytical systems with LLMs, especially for critical business functions or in regulated industries where trustworthiness and explainability are paramount.",
+            "url": "https://arxiv.org/abs/2609.03209"
         }
     ]
 }
