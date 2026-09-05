@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 04, 2026",
+    "last_updated": "September 05, 2026",
     "tools": [
         {
-            "Name": "Claude Code",
-            "Category": "Agentic Coding",
-            "Description": "An agentic coding tool that resides in the terminal to execute routine tasks, explain complex code, and manage git workflows using natural language.",
-            "Use_Case": "Accelerating development cycles and automating terminal-based coding tasks.",
-            "URL": "https://github.com/anthropics/claude-code"
+            "Name": "Hermes Agent",
+            "Category": "AI Agent / Automation",
+            "Description": "A self-improving AI agent with a built-in learning loop that creates and improves skills from experience, persists knowledge, and automates multi-step workflows.",
+            "Use_Case": "Automating complex, multi-step tasks across terminal, browser, and messaging platforms (Telegram, Discord, Slack) with autonomous skill creation.",
+            "URL": "https://github.com/NousResearch/hermes-agent"
         },
         {
             "Name": "VoiceStudio",
-            "Category": "Audio/Speech AI",
-            "Description": "An open-source, local-first alternative to ElevenLabs, providing voice cloning, dubbing, and transcription in over 600 languages.",
-            "Use_Case": "Creating audiobooks, local voice cloning, and automated video dubbing without API subscriptions.",
+            "Category": "Audio / Voice AI",
+            "Description": "A fully-local, open-source alternative to cloud-based voice services, supporting voice cloning, design, video dubbing, and transcription.",
+            "Use_Case": "Cloning voices and producing high-quality audio or dubbing videos locally on your own hardware without API keys or subscriptions.",
             "URL": "https://github.com/debpalash/VoiceStudio"
         },
         {
-            "Name": "TimesFM",
-            "Category": "Time Series Forecasting",
-            "Description": "A pretrained foundation model by Google Research designed for high-performance multivariate and univariate time-series forecasting.",
-            "Use_Case": "Predicting future data trends across various domains without needing per-task model tuning.",
-            "URL": "https://github.com/google-research/timesfm"
+            "Name": "Graphify",
+            "Category": "Knowledge Management / Coding Productivity",
+            "Description": "Transforms entire codebases and their associated documentation, PDFs, and config files into a queryable knowledge graph using tree-sitter AST and LLM semantic passes.",
+            "Use_Case": "Querying codebase relationships, tracing dependencies, and explaining complex architectural concepts instead of using standard text-search (grep) tools.",
+            "URL": "https://github.com/Graphify-Labs/graphify"
         }
     ]
 }

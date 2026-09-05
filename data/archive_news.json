@@ -1,5 +1,59 @@
 [
   {
+    "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits",
+    "summary": "According to an analysis by collusion.wiki, autonomous AI agents that identified themselves as OpenAI systems left roughly 18,000 posts in a 25-year-old German wiki between May and July 2026. The agents shared answers, raw data, and a trick that let them break out of their sandbox, built on a faked Microsoft cloud address. A single human moderator ",
+    "url": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
+    "source": "The Decoder",
+    "published_at": "2026-09-04T13:24:24+00:00",
+    "score": 6,
+    "archived_at": "2026-09-05T04:50:03.388757+00:00"
+  },
+  {
+    "title": "Nvidia wants your home network to work like a mini data center for local AI",
+    "summary": "Nvidia's PAIR (Personal AI Router) automatically spreads local AI requests across all available devices on a home network, cutting wait times for parallel agent tasks. The article Nvidia wants your home network to work like a mini data center for local AI appeared first on The Decoder.",
+    "url": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/",
+    "source": "The Decoder",
+    "published_at": "2026-09-04T08:06:15+00:00",
+    "score": 6,
+    "archived_at": "2026-09-05T04:50:03.388757+00:00"
+  },
+  {
+    "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
+    "summary": "OpenAI's GPT-6 Astra is drawing contradictory benchmark verdicts. Epoch AI puts it out in front with 169 points, while Artificial Analysis rates it no better than its predecessor and behind Claude Fable 5.1. The biggest surprise comes from ARC-AGI-3, where Astra works more efficiently than the average human for the first time. ARC Prize chief Franç",
+    "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/",
+    "source": "The Decoder",
+    "published_at": "2026-09-04T11:07:36+00:00",
+    "score": 5,
+    "archived_at": "2026-09-05T04:50:03.388757+00:00"
+  },
+  {
+    "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+    "summary": "Just over half of American adults, 50.5%, say a partner&#8217;s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and analysed on the 1,709 responses that remained [&#8230;] The post 50.5",
+    "url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+    "source": "AI News",
+    "published_at": "2026-09-04T08:25:12+00:00",
+    "score": 5,
+    "archived_at": "2026-09-05T04:50:03.388757+00:00"
+  },
+  {
+    "title": "Architecting memory and storage in the AI era",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous int",
+    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-09-04T18:39:19+00:00",
+    "score": 3,
+    "archived_at": "2026-09-05T04:50:03.388757+00:00"
+  },
+  {
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-09-04T09:25:19+00:00",
+    "score": 3,
+    "archived_at": "2026-09-05T04:50:03.388757+00:00"
+  },
+  {
     "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
     "summary": "arXiv:2609.03796v1 Announce Type: cross Abstract: We introduce LLaDA-Image, a unified framework that pairs a 6B Diffusion Transformer (DiT) trained from scratch with a frozen vision-language understanding module built on the LLaDA2.0-Mini diffusion language model backbone. Instead of relying heavily on paired image-text data from the beginning, we ",
     "url": "https://arxiv.org/abs/2609.03796",
@@ -2640,60 +2694,6 @@
     "title": "FATHOMS-RAG: A Framework for the Assessment of Thinking and Observation in Multimodal Systems that use Retrieval Augmented Generation",
     "summary": "arXiv:2510.08945v3 Announce Type: replace Abstract: Retrieval-augmented generation (RAG) has emerged as a promising paradigm for improving factual accuracy in large language models (LLMs). We introduce a benchmark designed to evaluate RAG pipelines as a whole, evaluating a pipeline's ability to ingest, retrieve, and reason about several modalities ",
     "url": "https://arxiv.org/abs/2510.08945",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning",
-    "summary": "arXiv:2601.21692v2 Announce Type: replace Abstract: Fine-Tuning-as-a-Service (FTaaS) facilitates the customization of Multimodal Large Language Models (MLLMs) but introduces critical backdoor risks via poisoned data. Existing defenses either rely on supervised signals or fail to generalize across diverse trigger types and modalities. In this work, ",
-    "url": "https://arxiv.org/abs/2601.21692",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "Scaling-Aware Adapter for Structure-Grounded LLM Reasoning",
-    "summary": "arXiv:2602.02780v3 Announce Type: replace Abstract: Large language models (LLMs) are enabling reasoning over 2D and 3D structures, yet existing methods remain modality-specific and typically compress structural inputs through sequence-based tokenization or fixed-length query connectors. Such architectures either omit the geometric grounding requisi",
-    "url": "https://arxiv.org/abs/2602.02780",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "Disentangling Interaction and Bias Effects in Opinion Dynamics of Large Language Models",
-    "summary": "arXiv:2509.06858v2 Announce Type: replace-cross Abstract: Large Language Models are increasingly used to simulate human opinion dynamics, yet the effect of genuine interaction is often obscured by systematic biases. We develop a Bayesian framework to disentangle and quantify three such biases: (i) A topic bias toward the LLM's default stance; (ii) ",
-    "url": "https://arxiv.org/abs/2509.06858",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "CoFrGeNet: Continued Fraction Architectures for Language Generation",
-    "summary": "arXiv:2601.21766v4 Announce Type: replace-cross Abstract: Transformers are arguably the preferred architecture for language generation. In this paper, inspired by continued fractions, we introduce a new function class for generative modeling. The architecture family implementing this function class is named CoFrGeNets - Continued Fraction Generativ",
-    "url": "https://arxiv.org/abs/2601.21766",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling",
-    "summary": "arXiv:2602.20210v2 Announce Type: replace-cross Abstract: Crystal modeling spans a family of conditional and unconditional generation tasks, including crystal structure prediction (CSP) and de novo generation (DNG). While recent deep generative models have shown promising performance, they remain largely task-specific, lacking a unified framework t",
-    "url": "https://arxiv.org/abs/2602.20210",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "Content-Aware Attack Detection in LLM Agent Tool-Call Traffic: An Empirical Study of Features, Architectures, and Evaluation Protocols",
-    "summary": "arXiv:2605.11053v3 Announce Type: replace-cross Abstract: The Model Context Protocol (MCP) has become a widely adopted interface for LLM agents to invoke external tools, yet learned monitoring of MCP tool-call traffic remains underexplored. In this article, the proposed detector is presented as an attack detection framework for MCP tool-call traffi",
-    "url": "https://arxiv.org/abs/2605.11053",
     "source": "Arxiv AI",
     "published_at": "2026-05-25T04:00:00+00:00",
     "score": 7,
