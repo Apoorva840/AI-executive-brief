@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 05, 2026",
+    "last_updated": "September 06, 2026",
     "tools": [
         {
-            "Name": "Hermes Agent",
-            "Category": "AI Agent / Automation",
-            "Description": "A self-improving AI agent with a built-in learning loop that creates and improves skills from experience, persists knowledge, and automates multi-step workflows.",
-            "Use_Case": "Automating complex, multi-step tasks across terminal, browser, and messaging platforms (Telegram, Discord, Slack) with autonomous skill creation.",
-            "URL": "https://github.com/NousResearch/hermes-agent"
+            "Name": "Claude Code",
+            "Category": "Agentic Coding",
+            "Description": "An agentic coding tool that lives in the terminal, capable of understanding codebases and assisting with tasks.",
+            "Use_Case": "Automating routine development tasks, code explanation, and Git workflow management through natural language.",
+            "URL": "https://github.com/anthropics/claude-code"
+        },
+        {
+            "Name": "SkillSpector",
+            "Category": "AI Security",
+            "Description": "A security scanner designed to detect vulnerabilities and malicious patterns in AI agent skills.",
+            "Use_Case": "Scanning AI agent skills (e.g., MCP) for risks like prompt injection, data exfiltration, and supply-chain vulnerabilities before installation.",
+            "URL": "https://github.com/NVIDIA/SkillSpector"
         },
         {
             "Name": "VoiceStudio",
-            "Category": "Audio / Voice AI",
-            "Description": "A fully-local, open-source alternative to cloud-based voice services, supporting voice cloning, design, video dubbing, and transcription.",
-            "Use_Case": "Cloning voices and producing high-quality audio or dubbing videos locally on your own hardware without API keys or subscriptions.",
+            "Category": "Audio AI",
+            "Description": "A fully-local, open-source alternative to commercial voice synthesis platforms.",
+            "Use_Case": "Performing voice cloning, video dubbing, transcription, and audiobook creation while maintaining data privacy on local hardware.",
             "URL": "https://github.com/debpalash/VoiceStudio"
-        },
-        {
-            "Name": "Graphify",
-            "Category": "Knowledge Management / Coding Productivity",
-            "Description": "Transforms entire codebases and their associated documentation, PDFs, and config files into a queryable knowledge graph using tree-sitter AST and LLM semantic passes.",
-            "Use_Case": "Querying codebase relationships, tracing dependencies, and explaining complex architectural concepts instead of using standard text-search (grep) tools.",
-            "URL": "https://github.com/Graphify-Labs/graphify"
         }
     ]
 }

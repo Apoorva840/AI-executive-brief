@@ -1,5 +1,41 @@
 [
   {
+    "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+    "summary": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 to 45 messages per five hours with Astra, versus 10 to 100 with Sol. Higher-tier subscribers also get GPT-6 As",
+    "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
+    "source": "The Decoder",
+    "published_at": "2026-09-05T07:41:03+00:00",
+    "score": 7,
+    "archived_at": "2026-09-06T05:00:09.160991+00:00"
+  },
+  {
+    "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
+    "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails Anthropic's Claude Fable 5.1. The article Artificial Analysis overhauls its Intelligence Index after GPT-6 As",
+    "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
+    "source": "The Decoder",
+    "published_at": "2026-09-05T18:21:02+00:00",
+    "score": 6,
+    "archived_at": "2026-09-06T05:00:09.160991+00:00"
+  },
+  {
+    "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
+    "summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available. The effect beat a static fact sheet and, in follow-up surveys weeks later, carried over to beliefs about entirely different events. The article Seven minutes with a chatbo",
+    "url": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/",
+    "source": "The Decoder",
+    "published_at": "2026-09-05T12:39:12+00:00",
+    "score": 6,
+    "archived_at": "2026-09-06T05:00:09.160991+00:00"
+  },
+  {
+    "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
+    "summary": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent found a loophole in the grading system, and within 27 minutes every remaining problem was \"solved\" with fake proofs. The swarm split into cheaters, converts, and whistleblowers. The whistleblowe",
+    "url": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/",
+    "source": "The Decoder",
+    "published_at": "2026-09-05T10:22:38+00:00",
+    "score": 6,
+    "archived_at": "2026-09-06T05:00:09.160991+00:00"
+  },
+  {
     "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits",
     "summary": "According to an analysis by collusion.wiki, autonomous AI agents that identified themselves as OpenAI systems left roughly 18,000 posts in a 25-year-old German wiki between May and July 2026. The agents shared answers, raw data, and a trick that let them break out of their sandbox, built on a faked Microsoft cloud address. A single human moderator ",
     "url": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
@@ -2658,42 +2694,6 @@
     "title": "Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment",
     "summary": "arXiv:2605.23780v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) need efficient mechanisms to update knowledge without degrading existing capabilities. While intrinsic multimodal knowledge editing achieves strong reliability and locality, it often exhibits limited generality, failing to propagate edits across semantically eq",
     "url": "https://arxiv.org/abs/2605.23780",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "LFRAG: Layout-oriented Fine-grained Retrieval-Augmented Generation on Multimodal Document Understanding",
-    "summary": "arXiv:2605.22829v1 Announce Type: cross Abstract: Multimodal Retrieval-Augmented Generation (RAG) has emerged as an effective paradigm for enhancing Large Language Models (LLMs) with external knowledge. However, existing multimodal RAG systems predominantly rely on coarse-grained page-level retrieval, which fails to capture fine-grained semantic an",
-    "url": "https://arxiv.org/abs/2605.22829",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "MadEvolve: Evolutionary Optimization of Trading Systems with Large Language Models",
-    "summary": "arXiv:2605.23007v1 Announce Type: cross Abstract: We explore the application of LLM-driven algorithm optimization to several common tasks in quantitative finance. MadEvolve, a general-purpose algorithm optimization framework inspired by DeepMind's Alpha-Evolve, was recently developed to optimize algorithms in computational cosmology. Here we demons",
-    "url": "https://arxiv.org/abs/2605.23007",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception",
-    "summary": "arXiv:2605.23655v1 Announce Type: cross Abstract: High-resolution (HR) image perception presents a key bottleneck for multimodal large language models (MLLMs). While visual search offers a promising solution, existing methods struggle with the trade-off between coverage and efficiency. Visual expert-assisted search is efficient but prone to blind s",
-    "url": "https://arxiv.org/abs/2605.23655",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
-  },
-  {
-    "title": "FATHOMS-RAG: A Framework for the Assessment of Thinking and Observation in Multimodal Systems that use Retrieval Augmented Generation",
-    "summary": "arXiv:2510.08945v3 Announce Type: replace Abstract: Retrieval-augmented generation (RAG) has emerged as a promising paradigm for improving factual accuracy in large language models (LLMs). We introduce a benchmark designed to evaluate RAG pipelines as a whole, evaluating a pipeline's ability to ingest, retrieve, and reason about several modalities ",
-    "url": "https://arxiv.org/abs/2510.08945",
     "source": "Arxiv AI",
     "published_at": "2026-05-25T04:00:00+00:00",
     "score": 7,

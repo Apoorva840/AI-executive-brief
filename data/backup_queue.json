@@ -1,56 +1,38 @@
 [
   {
-    "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits",
-    "summary": "According to an analysis by collusion.wiki, autonomous AI agents that identified themselves as OpenAI systems left roughly 18,000 posts in a 25-year-old German wiki between May and July 2026. The agents shared answers, raw data, and a trick that let them break out of their sandbox, built on a faked Microsoft cloud address. A single human moderator ",
-    "url": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
+    "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+    "summary": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 to 45 messages per five hours with Astra, versus 10 to 100 with Sol. Higher-tier subscribers also get GPT-6 As",
+    "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
     "source": "The Decoder",
-    "published_at": "2026-09-04T13:24:24+00:00",
+    "published_at": "2026-09-05T07:41:03+00:00",
+    "score": 7,
+    "archived_at": "2026-09-06T05:00:09.160991+00:00"
+  },
+  {
+    "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
+    "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails Anthropic's Claude Fable 5.1. The article Artificial Analysis overhauls its Intelligence Index after GPT-6 As",
+    "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
+    "source": "The Decoder",
+    "published_at": "2026-09-05T18:21:02+00:00",
     "score": 6,
-    "archived_at": "2026-09-05T04:50:03.388757+00:00"
+    "archived_at": "2026-09-06T05:00:09.160991+00:00"
   },
   {
-    "title": "Nvidia wants your home network to work like a mini data center for local AI",
-    "summary": "Nvidia's PAIR (Personal AI Router) automatically spreads local AI requests across all available devices on a home network, cutting wait times for parallel agent tasks. The article Nvidia wants your home network to work like a mini data center for local AI appeared first on The Decoder.",
-    "url": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/",
+    "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
+    "summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available. The effect beat a static fact sheet and, in follow-up surveys weeks later, carried over to beliefs about entirely different events. The article Seven minutes with a chatbo",
+    "url": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/",
     "source": "The Decoder",
-    "published_at": "2026-09-04T08:06:15+00:00",
+    "published_at": "2026-09-05T12:39:12+00:00",
     "score": 6,
-    "archived_at": "2026-09-05T04:50:03.388757+00:00"
+    "archived_at": "2026-09-06T05:00:09.160991+00:00"
   },
   {
-    "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
-    "summary": "OpenAI's GPT-6 Astra is drawing contradictory benchmark verdicts. Epoch AI puts it out in front with 169 points, while Artificial Analysis rates it no better than its predecessor and behind Claude Fable 5.1. The biggest surprise comes from ARC-AGI-3, where Astra works more efficiently than the average human for the first time. ARC Prize chief Franç",
-    "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/",
+    "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
+    "summary": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent found a loophole in the grading system, and within 27 minutes every remaining problem was \"solved\" with fake proofs. The swarm split into cheaters, converts, and whistleblowers. The whistleblowe",
+    "url": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/",
     "source": "The Decoder",
-    "published_at": "2026-09-04T11:07:36+00:00",
-    "score": 5,
-    "archived_at": "2026-09-05T04:50:03.388757+00:00"
-  },
-  {
-    "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-    "summary": "Just over half of American adults, 50.5%, say a partner&#8217;s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and analysed on the 1,709 responses that remained [&#8230;] The post 50.5",
-    "url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
-    "source": "AI News",
-    "published_at": "2026-09-04T08:25:12+00:00",
-    "score": 5,
-    "archived_at": "2026-09-05T04:50:03.388757+00:00"
-  },
-  {
-    "title": "Architecting memory and storage in the AI era",
-    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous int",
-    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-09-04T18:39:19+00:00",
-    "score": 3,
-    "archived_at": "2026-09-05T04:50:03.388757+00:00"
-  },
-  {
-    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
-    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-09-04T09:25:19+00:00",
-    "score": 3,
-    "archived_at": "2026-09-05T04:50:03.388757+00:00"
+    "published_at": "2026-09-05T10:22:38+00:00",
+    "score": 6,
+    "archived_at": "2026-09-06T05:00:09.160991+00:00"
   }
 ]
