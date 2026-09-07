@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 06, 2026",
+    "last_updated": "September 07, 2026",
     "tools": [
         {
-            "Name": "Claude Code",
-            "Category": "Agentic Coding",
-            "Description": "An agentic coding tool that lives in the terminal, capable of understanding codebases and assisting with tasks.",
-            "Use_Case": "Automating routine development tasks, code explanation, and Git workflow management through natural language.",
-            "URL": "https://github.com/anthropics/claude-code"
-        },
-        {
-            "Name": "SkillSpector",
-            "Category": "AI Security",
-            "Description": "A security scanner designed to detect vulnerabilities and malicious patterns in AI agent skills.",
-            "Use_Case": "Scanning AI agent skills (e.g., MCP) for risks like prompt injection, data exfiltration, and supply-chain vulnerabilities before installation.",
-            "URL": "https://github.com/NVIDIA/SkillSpector"
+            "Name": "Hermes Agent",
+            "Category": "AI Agent Framework",
+            "Description": "A self-improving AI agent with a built-in learning loop that can run on various infrastructures, from low-cost VPS to clusters.",
+            "Use_Case": "Automating complex tasks and building self-improving AI agents with cross-platform continuity.",
+            "URL": "https://github.com/NousResearch/hermes-agent"
         },
         {
             "Name": "VoiceStudio",
             "Category": "Audio AI",
-            "Description": "A fully-local, open-source alternative to commercial voice synthesis platforms.",
-            "Use_Case": "Performing voice cloning, video dubbing, transcription, and audiobook creation while maintaining data privacy on local hardware.",
+            "Description": "An open-source, local-first alternative to ElevenLabs that supports voice cloning, dubbing, and transcription in 646 languages.",
+            "Use_Case": "Local, private audio production, voice cloning, and video dubbing without API dependency.",
             "URL": "https://github.com/debpalash/VoiceStudio"
+        },
+        {
+            "Name": "SkillSpector",
+            "Category": "AI Security",
+            "Description": "A security scanner designed to detect vulnerabilities and malicious patterns in AI agent skills before they are installed.",
+            "Use_Case": "Auditing and securing third-party AI skills for prompt injection, data exfiltration, and supply-chain risks.",
+            "URL": "https://github.com/NVIDIA/SkillSpector"
         }
     ]
 }

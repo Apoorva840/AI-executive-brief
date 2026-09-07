@@ -1,5 +1,140 @@
 [
   {
+    "title": "Diffusion Language Models for Mobile Edge Agentic AI: Foundations, Applications, and Challenges",
+    "summary": "arXiv:2609.04778v1 Announce Type: new Abstract: Diffusion language models (DLMs) offer a non-autoregressive alternative for mobile edge agentic artificial intelligence (AI) by refining tokens through iterative denoising rather than left-to-right decoding. Compared with autoregressive Transformer-based large language models (LLMs), DLMs can update m",
+    "url": "https://arxiv.org/abs/2609.04778",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "ACE: Adaptive Calibration-Free Expert Skipping for MoE-based LLMs",
+    "summary": "arXiv:2609.05228v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) architectures provide an efficient paradigm for scaling large language models (LLMs), yet fixed top-k routing activates the same number of expert slots for every token, causing substantial redundant computation. Existing expert-skipping methods often rely on router confidence,",
+    "url": "https://arxiv.org/abs/2609.05228",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference",
+    "summary": "arXiv:2609.05275v1 Announce Type: new Abstract: Layer dropout (a.k.a. stochastic depth) has been shown to enable faster training, higher accuracy, and robustness to zero-shot layer pruning in both language and vision transformers. However, as models and datasets have scaled, dropout - particularly layer dropout - has largely disappeared from large ",
+    "url": "https://arxiv.org/abs/2609.05275",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "AlcaTRAz - Anchored Tree-Rule Defense Against Jailbreaks",
+    "summary": "arXiv:2609.03693v1 Announce Type: cross Abstract: Large language models (LLMs) are vulnerable to jailbreak attacks that bypass safety alignment through carefully crafted prompts. Many existing defenses require access to model weights or internals, making them difficult to apply to black-box deployments. We propose AlcaTRAz (Anchored Tree-Rule defen",
+    "url": "https://arxiv.org/abs/2609.03693",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "PetQA: Benchmarking Veterinary Knowledge and Clinical Reasoning",
+    "summary": "arXiv:2609.04598v1 Announce Type: cross Abstract: We introduce PetQA, a Korean long-form question-answering (QA) benchmark for evaluating veterinary knowledge and clinical reasoning in large language models (LLMs) and large vision-language models (LVLMs). PetQA contains 10,076 text-only and 8,751 multimodal QA pairs derived from real-world question",
+    "url": "https://arxiv.org/abs/2609.04598",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "A Structured Debate-Mixture-of-Agents Framework for Complex Clinical Diagnostic Decision Support",
+    "summary": "arXiv:2609.05069v1 Announce Type: cross Abstract: Large language models (LLMs) show potential for medical tasks, but their single-turn question-answer format does not reflect how clinical diagnosis is performed in practice. As a result, they remain limited in complex diagnostic settings. We developed Debate-Mixture-of-Agents (DMoA), a novel multi-a",
+    "url": "https://arxiv.org/abs/2609.05069",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment",
+    "summary": "arXiv:2609.05143v1 Announce Type: cross Abstract: The integration of artificial intelligence (AI), particularly large language models (LLMs), into educational assessment has opened new opportunities to enhance the efficiency and scalability of grading processes. This study presents the design and validation of an AI-assisted scoring framework for w",
+    "url": "https://arxiv.org/abs/2609.05143",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "RL-VLA$^3$: A Flexible and Asynchronous Reinforcement Learning Framework for VLA Training",
+    "summary": "arXiv:2602.05765v3 Announce Type: replace Abstract: Reinforcement learning (RL) has emerged as a critical paradigm for post-training Vision-Language-Action (VLA) models, enabling embodied agents to adapt and improve through environmental interaction. However, existing RL frameworks for VLAs inherit synchronous design principles from traditional LLM",
+    "url": "https://arxiv.org/abs/2602.05765",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
+    "summary": "Meta's Superintelligence Labs have released Muse Voice Transcribe, a real-time transcription model that processes speech in 80-millisecond chunks, tells speakers apart, and detects sentence boundaries. According to Artificial Analysis, it delivers the most accurate streaming transcription at the lowest price in the market. Meta sees the model as a ",
+    "url": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/",
+    "source": "The Decoder",
+    "published_at": "2026-09-06T09:45:18+00:00",
+    "score": 7,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
+    "summary": "Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3. The startup markets the service for offensive cybersecurity and red teaming, but journalists were able to generate malware instructions without much effort. Whether the benefits outweigh the risks remains",
+    "url": "https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/",
+    "source": "The Decoder",
+    "published_at": "2026-09-06T08:55:56+00:00",
+    "score": 7,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+    "summary": "arXiv:2609.04343v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior. Unfortunately, these explanations can be unfaithful, failing to reflect the actual reasoning underlying the model's decisions. We consider a setting ",
+    "url": "https://arxiv.org/abs/2609.04343",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+    "summary": "arXiv:2609.04373v1 Announce Type: new Abstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We show that improving individual model capability can degrade rather than improve system-level outcomes. We hypothesize that shared training and archit",
+    "url": "https://arxiv.org/abs/2609.04373",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
+    "summary": "arXiv:2609.04476v1 Announce Type: new Abstract: Performance modeling is central to hardware design and software optimization, yet constructing these models requires structured reasoning about computation, data reuse, storage, and movement. We introduce PerfReasoning, a benchmark that evaluates LLMs both as direct performance reasoners and as genera",
+    "url": "https://arxiv.org/abs/2609.04476",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "MaxKernel: Agentic Kernel Generation for TPUs",
+    "summary": "arXiv:2609.04523v1 Announce Type: new Abstract: Designing and authoring high-performance custom kernels for accelerators is a complex task that requires deep hardware-level expertise. Large Language Models (LLM) can be leveraged together with real-time compiler feedback to build agentic systems for kernel generation. In this work, we present MaxKer",
+    "url": "https://arxiv.org/abs/2609.04523",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
+    "title": "From Answers to Interpretations: Rethinking Ambiguity-Induced Aleatoric Uncertainty Estimation in LLMs",
+    "summary": "arXiv:2609.04543v1 Announce Type: new Abstract: A key challenge in reliable LLM deployment is recognizing when uncertainty reflects irreducible variability in the task rather than limitations in the model's knowledge. In language tasks, a central source of such aleatoric uncertainty is input ambiguity or underspecification, where multiple interpret",
+    "url": "https://arxiv.org/abs/2609.04543",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-07T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-07T05:05:04.225345+00:00"
+  },
+  {
     "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
     "summary": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 to 45 messages per five hours with Astra, versus 10 to 100 with Sol. Higher-tier subscribers also get GPT-6 As",
     "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-05-26T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "EvoSci: A Bio-Inspired Multi-Agent Framework for the Evolution of Scientific Discovery",
-    "summary": "arXiv:2605.24018v1 Announce Type: new Abstract: Large language models (LLMs), have shown strong potential in scientific discovery, yet existing methods still face substantial challenges in the design of research workflows and multi-role collaboration mechanisms. To mitigate these issues, we propose EvoSci, a multi-agent scientific collaboration fra",
-    "url": "https://arxiv.org/abs/2605.24018",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "Agent-as-Peer-Debriefer: A Multi-Agent Framework with Perspective-Based Refinement for Qualitative Analysis",
-    "summary": "arXiv:2605.24600v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for qualitative data analysis (QDA), yet their outputs often miss the depth and nuance of human analysis. We argue this gap reflects a missing credibility practice from human QDA: peer debriefing, in which an analyst seeks feedback from a disintereste",
-    "url": "https://arxiv.org/abs/2605.24600",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "Lattice theory and algebraic models for deep convolutional learning based on mathematical morphology",
-    "summary": "arXiv:2605.24608v1 Announce Type: new Abstract: We develop a rigorous algebraic framework for deep convolutional architectures, CNNs, ResNets, and encoder--decoder networks such as UNet, grounded in lattice theory and mathematical morphology. The central tool is the Matheron--Maragos--Banon--Barrera (MMBB) universal representation theory for transl",
-    "url": "https://arxiv.org/abs/2605.24608",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "Beyond Inference-Only Deployment: Comparing Weight-Based Consolidation Against Cascading Compaction",
-    "summary": "arXiv:2605.24657v1 Announce Type: new Abstract: Major LLM platforms deploy models in an inference-only configuration: the model serves requests but never updates per-user weights. Users must repeatedly re-teach preferences, corrections, and project context, and context-based workarounds consume context-window space and degrade under cascading compa",
-    "url": "https://arxiv.org/abs/2605.24657",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "SpecAlign: A Semantic Alignment Framework for SystemVerilog Assertion Generation",
-    "summary": "arXiv:2605.25181v1 Announce Type: new Abstract: Existing Large Language Model (LLM) approaches to SystemVerilog Assertion (SVA) generation primarily focus on syntactic validity and formal verification outcomes, while semantic alignment between generated assertions and natural language specifications remains difficult to quantify. As a result, hallu",
-    "url": "https://arxiv.org/abs/2605.25181",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "Towards end-to-end LLM-based censoring-aware survival analysis",
-    "summary": "arXiv:2605.25399v1 Announce Type: new Abstract: Objective: Survival analysis is central to medical prediction, yet large language models (LLMs) are rarely used as end-to-end survival models because censoring prevents straightforward supervised fine-tuning. Here we present LLMSurvival, a framework that enables censoring-aware survival analysis with ",
-    "url": "https://arxiv.org/abs/2605.25399",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "Security of OpenClaw Agents: Fundamentals, Attacks, and Countermeasures",
-    "summary": "arXiv:2605.25435v1 Announce Type: new Abstract: The rapid evolution of large language model (LLM)-driven autonomous agents has given rise to OpenClaw, a new class of open-source agent frameworks that operate as continuously running, skill-augmented systems with persistent memory, multi-channel interaction, and high degrees of autonomy. Such capabil",
-    "url": "https://arxiv.org/abs/2605.25435",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "StructBreak: Structural Cognitive Overload-Induced Safety Failures in MLLMs",
-    "summary": "arXiv:2605.25534v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) excel at structural reasoning yet suffer from a sharp logical brittleness in structural consistency. We term this phenomenon Structural Cognitive Overload (SCO), a byproduct of the contention between deep reasoning and safety alignment. However, prior work has ",
-    "url": "https://arxiv.org/abs/2605.25534",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions",
-    "summary": "arXiv:2605.25707v1 Announce Type: new Abstract: Autonomous computer use agents that powered by multimodal large language models (MLLMs) are emerging as capable assistants for completing complex digital workflows. However, real-world execution environments are far from ideal: pop-ups, resolution changes, and competing applications frequently interfe",
-    "url": "https://arxiv.org/abs/2605.25707",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "Check Your LLM's Secret Dictionary! Five Lines of Code Reveal What Your LLM Learned (Including What It Shouldn't Have)",
-    "summary": "arXiv:2605.22005v1 Announce Type: cross Abstract: We show that singular value decomposition of the lm_head} weight matrix of a transformer-based large language model -- requiring only five lines of PyTorch and no model inference -- reveals interpretable semantic subspaces directly from the model weights. Each left singular vector identifies the voc",
-    "url": "https://arxiv.org/abs/2605.22005",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "SODE: Analyzing Social Dynamics in LLM Agents",
-    "summary": "arXiv:2605.23949v1 Announce Type: cross Abstract: As Large Language Models (LLMs) evolve into interactive agents, understanding their behavioral alignment within human social dynamics becomes essential. While behavioral game theory offers a framework to study these interactions, previous work has predominantly relied on outcome-based metrics such a",
-    "url": "https://arxiv.org/abs/2605.23949",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling",
-    "summary": "arXiv:2605.23966v1 Announce Type: cross Abstract: Optimization modeling serves as the pivotal bridge between natural-language problem descriptions and optimization solvers, and remains a cornerstone for bringing operations research (OR) into real-world decision making. Recent advances in large language models (LLMs) have driven significant progress",
-    "url": "https://arxiv.org/abs/2605.23966",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "TRACER: A Semantic-Aware Framework for Fine-Grained Contamination Detection in Code LLMs",
-    "summary": "arXiv:2605.24079v1 Announce Type: cross Abstract: Data contamination is a known threat to the reliability of model evaluation. However, it remains underexplored in code large language models (LLMs), where contamination often goes beyond exact duplication. We present TRACER, a semantic-aware framework for fine-grained code contamination detection. T",
-    "url": "https://arxiv.org/abs/2605.24079",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection",
-    "summary": "arXiv:2605.24171v1 Announce Type: cross Abstract: Large language models are increasingly used for vulnerability detection, yet their reliability under different prompt formulations remains uncharacterized. We present PromptAudit, a controlled evaluation framework that isolates prompt effects by fixing the dataset, decoding, and parsing while varyin",
-    "url": "https://arxiv.org/abs/2605.24171",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
-  },
-  {
-    "title": "Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment",
-    "summary": "arXiv:2605.23780v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) need efficient mechanisms to update knowledge without degrading existing capabilities. While intrinsic multimodal knowledge editing achieves strong reliability and locality, it often exhibits limited generality, failing to propagate edits across semantically eq",
-    "url": "https://arxiv.org/abs/2605.23780",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-25T05:06:19.862321+00:00"
   }
 ]

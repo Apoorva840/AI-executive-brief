@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-05-15",
+    "last_updated": "2024-07-28",
     "papers": [
         {
-            "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-            "innovation": "Introduces Speculative Macro Commit (SMC), a runtime mechanism for a two-tier agent architecture designed to reduce wall-clock time by optimizing serial action-observation turns in tool-using LLM agents. This aims to accelerate the execution of complex agent workflows.",
-            "benchmarks": "Focuses on improving the latency and wall-clock performance of LLM agents; specific performance benchmarks are implied but not detailed in the abstract.",
-            "use_case": "Accelerating the execution and improving the responsiveness of tool-using LLM agents in applications where real-time interaction or high throughput is critical.",
-            "url": "https://arxiv.org/abs/2609.03236"
+            "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+            "innovation": "Introduces Harbor Adapters, a unified evaluation infrastructure designed to simplify the integration and testing of AI agents across various agentic benchmarks. Also presents Harbor-Index, a curated meta-dataset, for comparative analysis of agent performance, addressing the complexity of large-scale agent evaluation.",
+            "benchmarks": "Focuses on enabling evaluation against the 'growing number of agentic benchmarks' by providing a unified infrastructure and a 'curated meta-dataset' (Harbor-Index) for cross-benchmark performance comparison.",
+            "use_case": "Essential for AI engineers and researchers working on agentic AI, providing standardized infrastructure and datasets to streamline the evaluation, comparison, and iterative development of AI agents, accelerating research and deployment.",
+            "url": "https://arxiv.org/abs/2609.04298"
         },
         {
-            "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-            "innovation": "Addresses a critical problem in distributed LLM-agent teams called 'stale-plan execution,' where agents might act on obsolete plans even with fresh shared facts. Proposes 'dependency-scoped validation' to ensure plans are updated consistently with the latest relevant information.",
-            "benchmarks": "Aims to improve the reliability and correctness of distributed LLM-agent systems by preventing inconsistent actions; specific evaluation metrics for validation are not detailed in the abstract.",
-            "use_case": "Ensuring the consistency, reliability, and correct coordination of actions in multi-agent LLM systems, particularly those operating in dynamic or stateful environments requiring up-to-date information for planning.",
-            "url": "https://arxiv.org/abs/2609.03340"
+            "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+            "innovation": "Proposes the Corporate Language Model (CLM) paradigm to address enterprise AI deployment failures by creating a structured 'corporate intelligence layer'. This layer transforms tacit and fragmented knowledge into an auditable, sovereign, and executable system, moving beyond generic LLMs and brittle RAG setups by encoding firm-specific ontological priors and decision logic.",
+            "benchmarks": "While not explicitly detailing quantitative benchmarks in the abstract, the paper implies its benchmark is the inadequacy of generic LLMs and the brittleness of RAG for enterprise-specific, executable actions and auditable decision processes.",
+            "use_case": "Directly applicable for AI engineers deploying LLMs in corporate environments, enabling robust, auditable, and actionable AI systems that leverage an organization's unique knowledge, processes, and decision-making logic, crucial for internal automation and intelligence.",
+            "url": "https://arxiv.org/abs/2609.04377"
         },
         {
-            "title": "MasterControl Seventeen Every Time",
-            "innovation": "Presents a 'governed approach' to enterprise analytics using language models (LLMs). It employs an LLM for question interpretation but uses a deterministic policy to select and run pre-approved analytical programs, returning both results and evidence. This ensures control, auditability, and expressiveness within a defined analytical scope.",
-            "benchmarks": "Aims to demonstrate expressiveness within defined analytical classes while maintaining governance and auditability; specific evaluation methods are not detailed in the abstract.",
-            "use_case": "Building highly reliable, auditable, and controlled enterprise analytical systems with LLMs, especially for critical business functions or in regulated industries where trustworthiness and explainability are paramount.",
-            "url": "https://arxiv.org/abs/2609.03209"
+            "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+            "innovation": "Challenges the assumption that improving individual model capability always leads to better system-level outcomes. It demonstrates that in complex, interactive multi-agent systems (specifically LLM agents in financial markets), shared training and architecture can lead to correlated errors and positive feedback loops, degrading system-level stability and outcomes despite individual agent improvements.",
+            "benchmarks": "Evaluates 'system-level outcomes' in simulated or real-world financial markets where LLM agents interact, showing degradation in system stability or performance even when individual agents are 'better'.",
+            "use_case": "Crucial for AI engineers developing and deploying LLM agents in high-stakes, multi-agent environments like financial markets, content moderation, or supply chain management. It emphasizes the need for systemic risk assessment, architectural diversity, and robust governance beyond individual model performance metrics to prevent unintended and potentially catastrophic system failures.",
+            "url": "https://arxiv.org/abs/2609.04373"
         }
     ]
 }
