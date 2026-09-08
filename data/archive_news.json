@@ -1,5 +1,68 @@
 [
   {
+    "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
+    "summary": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&#038;A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimensional space. Spatial awareness has to be trained on purpose. The goal is a single model that runs both the c",
+    "url": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/",
+    "source": "The Decoder",
+    "published_at": "2026-09-07T12:15:54+00:00",
+    "score": 7,
+    "archived_at": "2026-09-08T05:02:26.669183+00:00"
+  },
+  {
+    "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+    "summary": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast. Now Anthropic is racing to catch up, while Sam Altman warns about \"unsustainable silliness\" in the compute buildout, especially from neo-cloud provi",
+    "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/",
+    "source": "The Decoder",
+    "published_at": "2026-09-07T18:12:41+00:00",
+    "score": 6,
+    "archived_at": "2026-09-08T05:02:26.669183+00:00"
+  },
+  {
+    "title": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
+    "summary": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply from 73.3 percent as Gemini doubled its share and Claude grew nearly fivefold. Mobile apps and desktop clients aren't included. The article ChatGPT claws back web traffic share to 55.5 percent ",
+    "url": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/",
+    "source": "The Decoder",
+    "published_at": "2026-09-07T16:54:12+00:00",
+    "score": 6,
+    "archived_at": "2026-09-08T05:02:26.669183+00:00"
+  },
+  {
+    "title": "AI-designed drug appears to turn back the body's biological clock in early trial",
+    "summary": "A study in Nature Biotechnology suggests that rentosertib, a drug designed with AI by Insilico Medicine, may reverse markers of biological aging. Six independent aging clocks predicted that treated patients were biologically up to six years younger than the placebo group. The trial covered just 42 patients and the drug hasn't been tested in healthy",
+    "url": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/",
+    "source": "The Decoder",
+    "published_at": "2026-09-07T16:34:20+00:00",
+    "score": 6,
+    "archived_at": "2026-09-08T05:02:26.669183+00:00"
+  },
+  {
+    "title": "At UBS, AI skills are now a condition for landing a job",
+    "summary": "Swiss banking giant UBS is making AI skills a required qualification from 2027 for graduates and interns in Global Banking and Markets, with applicants having to show in interviews how they use AI to improve outcomes and efficiency. Santander is already looking for advanced AI users too, while Morgan Stanley predicts more than 200,000 banking jobs ",
+    "url": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/",
+    "source": "The Decoder",
+    "published_at": "2026-09-07T13:13:38+00:00",
+    "score": 6,
+    "archived_at": "2026-09-08T05:02:26.669183+00:00"
+  },
+  {
+    "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+    "summary": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated research intern.\" But chief scientist Pachocki warns that no lab has a good enough grip on alignment and monitoring to keep scaling at maximum speed. The article OpenAI reports AI &quot;research",
+    "url": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/",
+    "source": "The Decoder",
+    "published_at": "2026-09-07T13:05:22+00:00",
+    "score": 6,
+    "archived_at": "2026-09-08T05:02:26.669183+00:00"
+  },
+  {
+    "title": "New York City bans AI tools from public schools through eighth grade",
+    "summary": "New York City bans AI use in public schools through the end of middle school. The article New York City bans AI tools from public schools through eighth grade appeared first on The Decoder.",
+    "url": "https://the-decoder.com/new-york-city-bans-ai-tools-from-public-schools-through-eighth-grade/",
+    "source": "The Decoder",
+    "published_at": "2026-09-07T13:00:03+00:00",
+    "score": 6,
+    "archived_at": "2026-09-08T05:02:26.669183+00:00"
+  },
+  {
     "title": "Diffusion Language Models for Mobile Edge Agentic AI: Foundations, Applications, and Challenges",
     "summary": "arXiv:2609.04778v1 Announce Type: new Abstract: Diffusion language models (DLMs) offer a non-autoregressive alternative for mobile edge agentic artificial intelligence (AI) by refining tokens through iterative denoising rather than left-to-right decoding. Compared with autoregressive Transformer-based large language models (LLMs), DLMs can update m",
     "url": "https://arxiv.org/abs/2609.04778",
@@ -2635,68 +2698,5 @@
     "published_at": "2026-05-27T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "SeDT: Sentence-Transformer Decision-Transformer Conditioning for Multi-Turn Conversation Reliability",
-    "summary": "arXiv:2605.26788v1 Announce Type: cross Abstract: Large language models (LLMs) achieve impressive performance when a task is fully specified in a single turn, yet the same models lose up to 39% of that performance when the identical task is revealed incrementally across multiple turns, a phenomenon documented at scale as Lost in Conversation. Cruci",
-    "url": "https://arxiv.org/abs/2605.26788",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "Innovation: An Almost Characterization of Hallucination",
-    "summary": "arXiv:2605.26808v1 Announce Type: cross Abstract: Hallucination is a central limitation of large language models (LLMs), and substantial effort has been devoted to understanding and mitigating it. Towards this, Kalai and Vempala (STOC 2024) introduced a probabilistic framework formalizing calibration and hallucination, and showed that, with high pr",
-    "url": "https://arxiv.org/abs/2605.26808",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "Tracing Computation Density in LLMs",
-    "summary": "arXiv:2605.27033v1 Announce Type: cross Abstract: Transformer-based large language models (LLMs) are comprised of billions of parameters arranged in deep and wide computational graphs, but it is not clear that they exploit their full capacity for all inputs. We introduce the s-Trace method to efficiently estimate the subgraph of size s that best ap",
-    "url": "https://arxiv.org/abs/2605.27033",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents",
-    "summary": "arXiv:2605.27068v1 Announce Type: cross Abstract: Social deduction games have become a popular testbed for probing reasoning, deception, coordination, and belief modeling in Large Language Model (LLM) agents. However, most environments are scored only by game outcomes such as win rates and largely remain to text-only interaction, making it difficul",
-    "url": "https://arxiv.org/abs/2605.27068",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "DEI: Diversity in Evolutionary Inference for Quality-Diversity Search",
-    "summary": "arXiv:2605.27130v1 Announce Type: cross Abstract: We present DEI: Diversity in Evolutionary Inference, a distributed Quality-Diversity (QD) search framework that assigns heterogeneous large language models (LLMs) as mutation operators across peer nodes communicating with non-blocking collective operations. Unlike homogeneous parallel search, which ",
-    "url": "https://arxiv.org/abs/2605.27130",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
-    "summary": "arXiv:2605.27354v1 Announce Type: cross Abstract: Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich intrinsic signals lying in model internals. We propose SAERL, a data engineering framework for LLM r",
-    "url": "https://arxiv.org/abs/2605.27354",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "QUIVER: A Formal Framework for Quantifying Perturbation Propagation and Bifurcation in Compound AI Systems",
-    "summary": "arXiv:2605.23956v1 Announce Type: new Abstract: Compound AI systems that chain multiple LLM calls into directed computation graphs are now the dominant architecture for production AI. Although these architectures leverage heterogeneous nodes with mixed-mode outputs, no existing framework quantifies how perturbations propagate through such pipelines",
-    "url": "https://arxiv.org/abs/2605.23956",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-26T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-26T04:48:16.856990+00:00"
   }
 ]
