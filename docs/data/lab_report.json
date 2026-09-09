@@ -1,26 +1,12 @@
 {
-    "last_updated": "2024-07-28",
+    "last_updated": "2023-10-27",
     "papers": [
         {
-            "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-            "innovation": "Introduces Harbor Adapters, a unified evaluation infrastructure designed to simplify the integration and testing of AI agents across various agentic benchmarks. Also presents Harbor-Index, a curated meta-dataset, for comparative analysis of agent performance, addressing the complexity of large-scale agent evaluation.",
-            "benchmarks": "Focuses on enabling evaluation against the 'growing number of agentic benchmarks' by providing a unified infrastructure and a 'curated meta-dataset' (Harbor-Index) for cross-benchmark performance comparison.",
-            "use_case": "Essential for AI engineers and researchers working on agentic AI, providing standardized infrastructure and datasets to streamline the evaluation, comparison, and iterative development of AI agents, accelerating research and deployment.",
-            "url": "https://arxiv.org/abs/2609.04298"
-        },
-        {
-            "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
-            "innovation": "Proposes the Corporate Language Model (CLM) paradigm to address enterprise AI deployment failures by creating a structured 'corporate intelligence layer'. This layer transforms tacit and fragmented knowledge into an auditable, sovereign, and executable system, moving beyond generic LLMs and brittle RAG setups by encoding firm-specific ontological priors and decision logic.",
-            "benchmarks": "While not explicitly detailing quantitative benchmarks in the abstract, the paper implies its benchmark is the inadequacy of generic LLMs and the brittleness of RAG for enterprise-specific, executable actions and auditable decision processes.",
-            "use_case": "Directly applicable for AI engineers deploying LLMs in corporate environments, enabling robust, auditable, and actionable AI systems that leverage an organization's unique knowledge, processes, and decision-making logic, crucial for internal automation and intelligence.",
-            "url": "https://arxiv.org/abs/2609.04377"
-        },
-        {
-            "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
-            "innovation": "Challenges the assumption that improving individual model capability always leads to better system-level outcomes. It demonstrates that in complex, interactive multi-agent systems (specifically LLM agents in financial markets), shared training and architecture can lead to correlated errors and positive feedback loops, degrading system-level stability and outcomes despite individual agent improvements.",
-            "benchmarks": "Evaluates 'system-level outcomes' in simulated or real-world financial markets where LLM agents interact, showing degradation in system stability or performance even when individual agents are 'better'.",
-            "use_case": "Crucial for AI engineers developing and deploying LLM agents in high-stakes, multi-agent environments like financial markets, content moderation, or supply chain management. It emphasizes the need for systemic risk assessment, architectural diversity, and robust governance beyond individual model performance metrics to prevent unintended and potentially catastrophic system failures.",
-            "url": "https://arxiv.org/abs/2609.04373"
+            "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+            "innovation": "This paper advocates for a more granular and sophisticated approach to AI safety mechanisms, particularly in content moderation and refusal strategies. Instead of broadly refusing access to or discussion of an entire topic, it proposes identifying and filtering only the specific 'right subset' that poses a safety concern. This innovation aims to reduce over-censorship, preserve the utility and information richness of AI systems, and enable more nuanced ethical decision-making in AI-human interactions.",
+            "benchmarks": "The provided information (title and URL) does not detail specific quantitative benchmarks. Given the conceptual and ethical nature inferred from the title, the paper likely focuses on qualitative arguments, methodological frameworks, and philosophical considerations for improving AI safety and responsible AI development, rather than presenting empirical performance metrics.",
+            "use_case": "Highly relevant for AI engineers working on large language models (LLMs), conversational AI, content moderation platforms, and any AI system designed to interact with users on potentially sensitive topics. It provides a foundational perspective for developing more intelligent and less restrictive safety layers, ensuring AI systems remain helpful and informative while mitigating risks. It challenges engineers to build more context-aware and ethically robust refusal mechanisms.",
+            "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
         }
     ]
 }

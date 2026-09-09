@@ -1,5 +1,86 @@
 [
   {
+    "title": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip",
+    "summary": "ASML has won over Samsung, TSMC, and Intel to switch to larger photomasks, which should boost the throughput of its newest EUV machines by 40 percent. Meanwhile, Huawei is orchestrating China's counter-strategy, aiming to break its dependence on the Dutch lithography technology through equipment maker Yuliangsheng and its own suppliers. The article",
+    "url": "https://the-decoder.com/asml-locks-in-tsmc-samsung-and-intel-while-huawei-races-to-break-its-grip/",
+    "source": "The Decoder",
+    "published_at": "2026-09-08T15:11:59+00:00",
+    "score": 6,
+    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+  },
+  {
+    "title": "Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires",
+    "summary": "Meta will no longer judge its engineers by how much they use AI tools. The article Meta drops AI usage from engineer performance reviews after &quot;tokenmaxxing&quot; backfires appeared first on The Decoder.",
+    "url": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/",
+    "source": "The Decoder",
+    "published_at": "2026-09-08T14:27:40+00:00",
+    "score": 6,
+    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+  },
+  {
+    "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals",
+    "summary": "Three years after launch, Mistral AI has closed a 3 billion euro Series D round, pushing its valuation past 21 billion euros. The article Mistral AI raises 3 billion euros in Europe&#039;s largest-ever tech funding round despite lagging behind rivals appeared first on The Decoder.",
+    "url": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/",
+    "source": "The Decoder",
+    "published_at": "2026-09-08T07:45:41+00:00",
+    "score": 6,
+    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+  },
+  {
+    "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+    "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+    "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+    "source": "Wired AI",
+    "published_at": "2026-09-08T20:12:51+00:00",
+    "score": 5,
+    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+  },
+  {
+    "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+    "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+    "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+    "source": "Wired AI",
+    "published_at": "2026-09-08T16:42:05+00:00",
+    "score": 5,
+    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+  },
+  {
+    "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+    "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders, ordering frequency, seasonality, weather, and purchasing patterns among similar businesses. Coca-Cola said Co",
+    "url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+    "source": "AI News",
+    "published_at": "2026-09-08T10:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+  },
+  {
+    "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+    "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected. Searcherries followed 50 searches daily from [&#8230",
+    "url": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+    "source": "AI News",
+    "published_at": "2026-09-08T08:50:39+00:00",
+    "score": 5,
+    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+  },
+  {
+    "title": "What OpenAI’s latest controversy tells us about the future of math",
+    "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overs",
+    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-09-09T03:10:08+00:00",
+    "score": 3,
+    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+  },
+  {
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;",
+    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "source": "MIT Technology Review AI",
+    "published_at": "2026-09-08T10:34:00+00:00",
+    "score": 3,
+    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+  },
+  {
     "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
     "summary": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&#038;A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimensional space. Spatial awareness has to be trained on purpose. The goal is a single model that runs both the c",
     "url": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/",
@@ -2617,86 +2698,5 @@
     "published_at": "2026-05-28T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
-    "summary": "arXiv:2605.26256v1 Announce Type: new Abstract: Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, personalized assistance requires more than following generic instruction or recognizing object categories. In real-world scenarios, the intended target ",
-    "url": "https://arxiv.org/abs/2605.26256",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "Furina: Fragmented Uncertainty-Driven Refusal Instability Attack",
-    "summary": "arXiv:2605.26158v1 Announce Type: cross Abstract: Safety alignment in large language models (LLMs) and multimodal large language models (MLLMs) is commonly assumed to operate as a near-binary threshold mechanism. We challenge this assumption by revealing that safety behavior is governed by an instability region where small perturbations induce stoc",
-    "url": "https://arxiv.org/abs/2605.26158",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "VisualNeedle: Benchmarking Active Visual Search in Information-Dense Scenes",
-    "summary": "arXiv:2605.26380v1 Announce Type: cross Abstract: Frontier multimodal large language models (MLLMs) have been reported to achieve over 90% accuracy on fine-grained perception benchmarks. However, such scores do not necessarily imply faithful use of visual evidence. Prior studies have identified three shortcuts that inflate benchmark performance. Fi",
-    "url": "https://arxiv.org/abs/2605.26380",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "The Rescue Effect: Spatio-Semantic Early Exit Bypasses Quantization Collapse in CLIP",
-    "summary": "arXiv:2605.26415v1 Announce Type: cross Abstract: Deploying Vision-Language Models on resource-constrained hardware typically requires INT8 quantization, but in joint-embedding architectures such as CLIP this introduces a failure mode distinct from quantized CNN classifiers: activation noise accumulated across transformer blocks perturbs the direct",
-    "url": "https://arxiv.org/abs/2605.26415",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "Diffuse to Detect: Generative Diffusion Models for Unsupervised IC Anomaly Detection",
-    "summary": "arXiv:2605.26468v1 Announce Type: cross Abstract: Latent defect screening is challenged by extremely low failure rates, high-dimensional test data, and absence of labeled anomalies. We propose the first unsupervised anomaly detection framework incorporating a Diffusion Transformer. Raw test measurements are first compressed by an autoencoder, then ",
-    "url": "https://arxiv.org/abs/2605.26468",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "Dense2MoE: Pushing the Pareto Frontier of On-Device LLMs via Unified Pruning and Upcycling",
-    "summary": "arXiv:2605.26496v1 Announce Type: cross Abstract: The Mixture of Experts MoE architecture is highly promising for resource constrained on device deployments yet training these models from scratch incurs prohibitive costs Current methods attempt to alleviate this by upcycling dense models into MoEs however they often introduce parameter redundancy t",
-    "url": "https://arxiv.org/abs/2605.26496",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search",
-    "summary": "arXiv:2605.26636v1 Announce Type: cross Abstract: We introduce JetViT, a novel family of hybrid-architecture Vision Transformer (ViT) models that match the accuracy of state-of-the-art full-attention vision foundation models while achieving substantially higher inference efficiency on high-resolution images. At the core of our approach is Post-Trai",
-    "url": "https://arxiv.org/abs/2605.26636",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "More Expressive Feedforward Layers: Part I. Token-Adaptive Mixing of Activations",
-    "summary": "arXiv:2605.26647v1 Announce Type: cross Abstract: Feedforward network (FFN) layers account for a large fraction of parameters and nonlinear expressivity in Transformer-based large language models (LLMs). Despite the evolution from ReLU and GELU to gated variants such as SwiGLU, most FFN designs still use a single fixed activation function, applying",
-    "url": "https://arxiv.org/abs/2605.26647",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
-  },
-  {
-    "title": "DynFrame: Adaptive Reasoning-Driven Multimodal Framework with Dynamic Frame Augmentation for Complex Video Understanding",
-    "summary": "arXiv:2605.26680v1 Announce Type: cross Abstract: Recent video multimodal large language models (MLLMs) increasingly couple step-by-step reasoning with on-demand visual evidence retrieval, allowing models to revisit relevant video segments during inference. However, two structural gaps remain in existing thinking-with-video systems. (i) Sampling de",
-    "url": "https://arxiv.org/abs/2605.26680",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-27T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-27T04:59:30.603010+00:00"
   }
 ]
