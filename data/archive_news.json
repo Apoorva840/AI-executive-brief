@@ -1,5 +1,140 @@
 [
   {
+    "title": "MVFA: A Multi-View Text-Guided Multimodal Fusion LLM Adapter for Sentiment Analysis and Emotion Recognition",
+    "summary": "arXiv:2609.06188v1 Announce Type: new Abstract: Multimodal sentiment analysis and emotion recognition in conversations demand effective modeling of heterogeneous interactions across textual, acoustic, and visual modalities. Although large language models (LLMs) offer powerful language understanding, adapting them to multimodal affective computing r",
+    "url": "https://arxiv.org/abs/2609.06188",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "CrossModalQA: A Cross-modal and Multi-hop Benchmark for Multimodal Retrieval-augmented Generation",
+    "summary": "arXiv:2609.05518v1 Announce Type: cross Abstract: Despite the strong capabilities of multimodal large language models (MLLMs), their parametric knowledge remains incomplete and difficult to update, motivating multimodal retrieval-augmented generation (RAG) to ground responses in external text and images. However, existing benchmarks face two major ",
+    "url": "https://arxiv.org/abs/2609.05518",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "Dual-Latent Memory Routing for Vision-Language Reasoning",
+    "summary": "arXiv:2609.05539v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have recently made strong progress in vision-language reasoning, yet their performance often degrades as generations grow longer. A key factor is that they frequently lose track of earlier visual evidence and intermediate constraints under a monolithic growin",
+    "url": "https://arxiv.org/abs/2609.05539",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "Concord: A Video Relational Algebra for Cross-Modal Query Optimization",
+    "summary": "arXiv:2609.05756v1 Announce Type: cross Abstract: Semantic video queries let users embed natural language prompts and use multimodal large language models (MLLMs) to interpret the video. Such queries are increasingly popular for querying video data. However, their expressiveness comes at a steep cost: an MLLM may process hours of media to return on",
+    "url": "https://arxiv.org/abs/2609.05756",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "Scratchy: Visual-Scratchpad Multimodal Reasoning for Cryptographic Proof Generation in EasyCrypt",
+    "summary": "arXiv:2609.06226v1 Announce Type: cross Abstract: Large language models (LLMs) have recently made substantial progress in formal proof generation, yet presenting distinctive challenges in cryptographic area. Computational security arguments posit that a valid proof must coordinate probability, adversarial games, invariants, assumptions and bounds, ",
+    "url": "https://arxiv.org/abs/2609.06226",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification",
+    "summary": "arXiv:2609.06245v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) perform strongly on general visual understanding tasks such as visual question answering, yet they often struggle with a basic comparative skill: identifying what has changed between two similar images. We introduce VDiff-Bench, a challenging multiple-choice ",
+    "url": "https://arxiv.org/abs/2609.06245",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "ECOKV: Geometry-Aware KV Cache Eviction via Complementary Diversity Metrics",
+    "summary": "arXiv:2609.06663v1 Announce Type: cross Abstract: Although multimodal Large Language Models (MLLMs) excel in diverse tasks, their scalability remains limited by the memory and computational overhead of KV cache storage. Recent KV cache eviction approaches incorporate a cosine similarity-based diversity metric with importance metrics to selectively ",
+    "url": "https://arxiv.org/abs/2609.06663",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "A Trustworthy Watermarking Framework for LLM-Generated Food Safety Content",
+    "summary": "arXiv:2609.06708v1 Announce Type: cross Abstract: Large language models are transforming many industries with their text generation abilities. However, their outputs can be easily tampered with, creating serious risks in critical areas such as food safety reporting. To protect the integrity and traceability of AI-generated content, this paper intro",
+    "url": "https://arxiv.org/abs/2609.06708",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "MV-STRIDE: Enabling MLLMs to Master Multi-View Spatial Reasoning via Hierarchical Capability Modeling",
+    "summary": "arXiv:2609.07258v1 Announce Type: cross Abstract: Despite the rapid progress of Multimodal Large Language Models (MLLMs) in 2D vision-language tasks, robust multi-view spatial reasoning remains a fundamental bottleneck due to the lack of structured 3D cognitive pathways in existing datasets. To address this, we introduce MV-STRIDE, a Multi-View hie",
+    "url": "https://arxiv.org/abs/2609.07258",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "SAFIRE: Safety-Critical Benchmark for Fine-grained Fire and Smoke Understanding in Multimodal LLMs",
+    "summary": "arXiv:2609.07823v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) show strong progress on vision-language tasks, yet their reliability in safety-critical settings remains underexplored. Fire-smoke understanding is central to public safety and disaster response, but most existing benchmarks lack diverse real-world scenarios ",
+    "url": "https://arxiv.org/abs/2609.07823",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "The Unreliable Progress Bar: Can LLM Agents Reliably Report Task Progress Throughout Execution?",
+    "summary": "arXiv:2609.08589v1 Announce Type: cross Abstract: Recent large language models can emit task-progress signals that agent frameworks use to decide whether a task should continue or stop, yet whether a model can reliably report its task progress at every stage of a task, and where and how its reports fail, has not been studied systematically. We eval",
+    "url": "https://arxiv.org/abs/2609.08589",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "MoEMB: Scaling Universal Multimodal Embeddings with Efficient Mixture-of-Experts Models",
+    "summary": "arXiv:2609.08663v1 Announce Type: cross Abstract: Universal multimodal embedding (UME) increasingly demands encoder's capacity for handling a broad range of tasks and modalities with increased complexity. Prior scaling methods either increase the representation size, retrieval effort, or scales the encoder into a heavy multimodal LLM. Recent works,",
+    "url": "https://arxiv.org/abs/2609.08663",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "Large Language Models Transform Organic Synthesis From Reaction Prediction to Automation",
+    "summary": "arXiv:2508.05427v2 Announce Type: replace Abstract: Large language models (LLMs) are beginning to reshape how organic-synthesis workflows are represented, queried, planned, and connected to experimental automation. Assessing their contribution is not straightforward because reaction-specific transformers, chemistry-adapted LLMs, tool-using agents, ",
+    "url": "https://arxiv.org/abs/2508.05427",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "ChatPlanner: A Large Language Model Framework for Personalized Public Transit Routing",
+    "summary": "arXiv:2606.15315v3 Announce Type: replace Abstract: Personalized public transit routing in public transit systems remains challenging due to the difficulty of capturing and integrating diverse user preferences into routing algorithms. This paper presents ChatPlanner, a novel framework that leverages Large Language Models (LLMs) to enable preference",
+    "url": "https://arxiv.org/abs/2606.15315",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
+    "summary": "arXiv:2608.06270v2 Announce Type: replace Abstract: The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially higher token cost. They may also repeatedly crop irrelevant re",
+    "url": "https://arxiv.org/abs/2608.06270",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
     "title": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip",
     "summary": "ASML has won over Samsung, TSMC, and Intel to switch to larger photomasks, which should boost the throughput of its newest EUV machines by 40 percent. Meanwhile, Huawei is orchestrating China's counter-strategy, aiming to break its dependence on the Dutch lithography technology through equipment maker Yuliangsheng and its own suppliers. The article",
     "url": "https://the-decoder.com/asml-locks-in-tsmc-samsung-and-intel-while-huawei-races-to-break-its-grip/",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-05-29T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-05-29T04:56:43.623538+00:00"
-  },
-  {
-    "title": "A Unified Framework for the Evaluation of LLM Agentic Capabilities",
-    "summary": "arXiv:2605.27898v1 Announce Type: new Abstract: As LLMs are increasingly deployed as agents, reliable assessment of their agentic capabilities has become essential. However, reported benchmark scores often jointly reflect model capability and the implementation choices each benchmark is packaged with, making cross-benchmark results difficult to int",
-    "url": "https://arxiv.org/abs/2605.27898",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "PetroBench: A Benchmark for Large Language Models in Petroleum Engineering",
-    "summary": "arXiv:2605.28032v1 Announce Type: new Abstract: Large Language Models are increasingly applied in the petroleum industry, highlighting the need for a domain-specific evaluation framework. This study develops a benchmark for LLMs in petroleum engineering, including a three-stage process of data preprocessing, quality filtering, and multi-model valid",
-    "url": "https://arxiv.org/abs/2605.28032",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "MACReD: A Multi-Agent Collaborative Reasoning Framework for Reaction Diagram Parsing",
-    "summary": "arXiv:2605.28077v1 Announce Type: new Abstract: Parsing chemical reaction diagrams from scientific literature is challenging due to heterogeneous layouts, intertwined visual elements, and the difficulty of integrating recognition and reasoning. Existing vision-language models advance multimodal understanding but still fail on complex diagrams, stru",
-    "url": "https://arxiv.org/abs/2605.28077",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "Let Relations Speak: An End-to-End LLM-GNN Soft Prompt Framework for Fraud Detection",
-    "summary": "arXiv:2605.28524v1 Announce Type: new Abstract: In recent years, Large Language Models (LLMs) have shown great capability in processing graph tasks such as fraud detection. However, most existing methods rely heavily on rich text attributes, which poses difficulties for this domain due to the lack of textual data. Although some pioneering methods a",
-    "url": "https://arxiv.org/abs/2605.28524",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "Tree of Thoughts as a Classical Heuristic Search Problem: Formal Foundations and Design Patterns",
-    "summary": "arXiv:2605.28566v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated remarkable reasoning capabilities, yet their standard generation process -- auto-regressive token prediction -- is inherently myopic and prone to cascading errors. To address this, the Tree-of-Thoughts (ToT) framework creates a search space over intermedi",
-    "url": "https://arxiv.org/abs/2605.28566",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "Adaptive Multimodal Agents-Based Framework for Automatic Workflow Execution",
-    "summary": "arXiv:2605.28607v1 Announce Type: new Abstract: Modern information systems require autonomous agents capable of navigating complex workflows, yet current methodologies often struggle with the transition from structured metadata parsing to general environmental perception. While the integration of MLLMs has enabled agents to interact directly with G",
-    "url": "https://arxiv.org/abs/2605.28607",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "Bandwidth-Efficient and Privacy-Preserving Edge-Cloud Many-to-Many Speech Translation",
-    "summary": "arXiv:2605.28642v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have demonstrated significant potential for speech-to-text translation (S2TT). However, existing deployment paradigms face critical challenges: pure on-device models suffer from resource constraints, while centralized cloud systems incur severe privacy risks an",
-    "url": "https://arxiv.org/abs/2605.28642",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "StoryMI: Steerable Multi-Agent Therapeutic Dialogue Generation",
-    "summary": "arXiv:2605.27393v1 Announce Type: cross Abstract: Large language models (LLMs) can generate fluent dialogue, but prior works lack situational grounding, dynamic strategy control, and evaluation aligned with clinical standards in motivational interviewing (MI). We introduce StoryMI, a multi-LLM agent framework for controllable MI dialogue generation",
-    "url": "https://arxiv.org/abs/2605.27393",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "RAGe: A Retrieval-Augmented Generation Evaluation Framework",
-    "summary": "arXiv:2605.27445v1 Announce Type: cross Abstract: Deploying Large Language Model (LLM) applications, particularly those relying on Retrieval-Augmented Generation (RAG), remains challenging due to high computational demands, outdated knowledge bases, and the need to manually select optimal pipeline components. In this work, we propose a modular fram",
-    "url": "https://arxiv.org/abs/2605.27445",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving",
-    "summary": "arXiv:2605.27480v1 Announce Type: cross Abstract: Large language model (LLM) serving creates environmental impacts beyond carbon and water, including ecosystem damage through biodiversity-related pathways. We present BIRDS, a framework for Biodiversity Impact of Request-Driven LLM Serving. BIRDS defines request-level functional units, quantifies op",
-    "url": "https://arxiv.org/abs/2605.27480",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "Hallucination Behavior in Multimodal LLMs Across Agricultural Image Interpretation and Generation Tasks",
-    "summary": "arXiv:2605.27595v1 Announce Type: cross Abstract: Large Language Models (LLMs) are being rapidly adopted in agricultural imaging applications, ranging from crop interpretation to synthetic field image generation. However, these models frequently exhibit hallucinations outputs that appear confident yet deviate from biological or environmental realit",
-    "url": "https://arxiv.org/abs/2605.27595",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "CiteCheck: Retrieval-Grounded Detection of LLM Citation Hallucinations in Scientific Text",
-    "summary": "arXiv:2605.27700v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to generate scientific reports, but they can produce references that appear plausible while containing corrupted metadata or pointing to papers that do not exist. We introduce CiteCheck, a hybrid framework for citation hallucination detection that v",
-    "url": "https://arxiv.org/abs/2605.27700",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "Locality-Aware Redundancy Pruning for LLM Depth Compression",
-    "summary": "arXiv:2605.27786v1 Announce Type: cross Abstract: Large language models are known to contain representational redundancy across network depth, making depth pruning an effective approach for improving inference efficiency. Existing one-shot pruning methods rely on local layer importance or fixed redundancy assumptions across architectures. We propos",
-    "url": "https://arxiv.org/abs/2605.27786",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "ROVER: Routing Object-Centric Visual Evidence for Grounded Multi-Image Reasoning",
-    "summary": "arXiv:2605.27959v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have increasingly localized and interleaved visual evidence for deliberative reasoning. Grounding-based approaches typically focus on regions of interest (RoIs) by injecting cropped image patches or RoI-specific features into the reasoning context. However, s",
-    "url": "https://arxiv.org/abs/2605.27959",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
-  },
-  {
-    "title": "PromptEmbedder:: Efficient and Transferable Text Embedding via Dual-LLM Soft Prompting",
-    "summary": "arXiv:2605.28066v1 Announce Type: cross Abstract: Large Language Models (LLMs) have demonstrated remarkable efficacy in text embedding, yet current adaptation methods like LoRA face significant bottlenecks in computational efficiency and cross-architecture transferability. Whenever a new backbone emerges, existing approaches require costly retraini",
-    "url": "https://arxiv.org/abs/2605.28066",
-    "source": "Arxiv AI",
-    "published_at": "2026-05-28T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-05-28T04:53:58.865115+00:00"
   }
 ]

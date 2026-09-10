@@ -1,12 +1,26 @@
 {
-    "last_updated": "2023-10-27",
+    "last_updated": "2024-07-29",
     "papers": [
         {
-            "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-            "innovation": "This paper advocates for a more granular and sophisticated approach to AI safety mechanisms, particularly in content moderation and refusal strategies. Instead of broadly refusing access to or discussion of an entire topic, it proposes identifying and filtering only the specific 'right subset' that poses a safety concern. This innovation aims to reduce over-censorship, preserve the utility and information richness of AI systems, and enable more nuanced ethical decision-making in AI-human interactions.",
-            "benchmarks": "The provided information (title and URL) does not detail specific quantitative benchmarks. Given the conceptual and ethical nature inferred from the title, the paper likely focuses on qualitative arguments, methodological frameworks, and philosophical considerations for improving AI safety and responsible AI development, rather than presenting empirical performance metrics.",
-            "use_case": "Highly relevant for AI engineers working on large language models (LLMs), conversational AI, content moderation platforms, and any AI system designed to interact with users on potentially sensitive topics. It provides a foundational perspective for developing more intelligent and less restrictive safety layers, ensuring AI systems remain helpful and informative while mitigating risks. It challenges engineers to build more context-aware and ethically robust refusal mechanisms.",
-            "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
+            "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+            "innovation": "Proposes CriticGen, a fine-grained, generation-aware evaluation framework designed to provide actionable feedback for improving large language models (LLMs). This moves beyond coarse-grained evaluations to offer specific insights for model enhancement.",
+            "benchmarks": "Introduces a new evaluation framework rather than relying on existing benchmarks. The innovation itself is the method for generating actionable feedback.",
+            "use_case": "Improving the performance of large language models by providing concrete, actionable feedback for model developers and engineers, aiding in debugging and iterative refinement of LLM generation capabilities.",
+            "url": "https://arxiv.org/abs/2609.05439"
+        },
+        {
+            "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+            "innovation": "Introduces MERIT (Memory Evaluation for Realistic Instrumented Tasks), a novel cost-aware benchmark to evaluate the utility of long-term memory in tool-using LLM agents. Unlike prior benchmarks, MERIT measures how remembered facts influence agent actions rather than just conversational recall.",
+            "benchmarks": "MERIT (Memory Evaluation for Realistic Instrumented Tasks). Contrasts with existing benchmarks like LoCoMo and LongMemEval by focusing on cost-aware, action-oriented evaluation.",
+            "use_case": "Designing, evaluating, and optimizing long-term memory mechanisms for efficient and effective tool-using LLM agents, especially in scenarios where computational and storage costs are critical considerations for deployment.",
+            "url": "https://arxiv.org/abs/2609.05441"
+        },
+        {
+            "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+            "innovation": "Formulates structured post-training pruning of transformers as a damage-aware multi-armed bandit problem. This approach intelligently selects functional units for suppression to achieve model compression with limited performance degradation under a fixed evaluation budget.",
+            "benchmarks": "Evaluates pruning effectiveness using metrics such as model size reduction, inference speed improvement, and measured performance degradation (e.g., accuracy, F1 score) on relevant vision and language tasks.",
+            "use_case": "Optimizing the size and computational efficiency of Vision and Language Transformers for deployment, particularly on resource-constrained hardware or in applications where reducing inference cost and improving latency are critical requirements.",
+            "url": "https://arxiv.org/abs/2609.05448"
         }
     ]
 }

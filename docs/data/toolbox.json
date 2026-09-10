@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 07, 2026",
+    "last_updated": "September 10, 2026",
     "tools": [
         {
-            "Name": "Hermes Agent",
-            "Category": "AI Agent Framework",
-            "Description": "A self-improving AI agent with a built-in learning loop that can run on various infrastructures, from low-cost VPS to clusters.",
-            "Use_Case": "Automating complex tasks and building self-improving AI agents with cross-platform continuity.",
-            "URL": "https://github.com/NousResearch/hermes-agent"
+            "Name": "Browser Use",
+            "Category": "AI Agents",
+            "Description": "A Python framework that enables AI agents to control a web browser like a human by clicking, typing, and navigating.",
+            "Use_Case": "Automated data extraction, filling web forms, and performing complex multi-step web tasks at scale.",
+            "URL": "https://github.com/browser-use/browser-use"
         },
         {
-            "Name": "VoiceStudio",
-            "Category": "Audio AI",
-            "Description": "An open-source, local-first alternative to ElevenLabs that supports voice cloning, dubbing, and transcription in 646 languages.",
-            "Use_Case": "Local, private audio production, voice cloning, and video dubbing without API dependency.",
-            "URL": "https://github.com/debpalash/VoiceStudio"
+            "Name": "MarkItDown",
+            "Category": "Data Processing",
+            "Description": "A lightweight Python utility for converting various file formats (PDF, Word, Excel, Images, etc.) into Markdown.",
+            "Use_Case": "Preparing diverse documents and multimedia for ingestion into LLMs for analysis or RAG pipelines.",
+            "URL": "https://github.com/microsoft/markitdown"
         },
         {
-            "Name": "SkillSpector",
-            "Category": "AI Security",
-            "Description": "A security scanner designed to detect vulnerabilities and malicious patterns in AI agent skills before they are installed.",
-            "Use_Case": "Auditing and securing third-party AI skills for prompt injection, data exfiltration, and supply-chain risks.",
-            "URL": "https://github.com/NVIDIA/SkillSpector"
+            "Name": "HexStrike AI",
+            "Category": "Cybersecurity",
+            "Description": "An MCP server that provides AI agents access to over 150+ professional security tools for automated penetration testing.",
+            "Use_Case": "Automating vulnerability discovery, security research, and penetration testing workflows for authorized systems.",
+            "URL": "https://github.com/0x4m4/hexstrike-ai"
         }
     ]
 }

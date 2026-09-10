@@ -1,83 +1,137 @@
 [
   {
-    "title": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip",
-    "summary": "ASML has won over Samsung, TSMC, and Intel to switch to larger photomasks, which should boost the throughput of its newest EUV machines by 40 percent. Meanwhile, Huawei is orchestrating China's counter-strategy, aiming to break its dependence on the Dutch lithography technology through equipment maker Yuliangsheng and its own suppliers. The article",
-    "url": "https://the-decoder.com/asml-locks-in-tsmc-samsung-and-intel-while-huawei-races-to-break-its-grip/",
-    "source": "The Decoder",
-    "published_at": "2026-09-08T15:11:59+00:00",
-    "score": 6,
-    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+    "title": "MVFA: A Multi-View Text-Guided Multimodal Fusion LLM Adapter for Sentiment Analysis and Emotion Recognition",
+    "summary": "arXiv:2609.06188v1 Announce Type: new Abstract: Multimodal sentiment analysis and emotion recognition in conversations demand effective modeling of heterogeneous interactions across textual, acoustic, and visual modalities. Although large language models (LLMs) offer powerful language understanding, adapting them to multimodal affective computing r",
+    "url": "https://arxiv.org/abs/2609.06188",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
   },
   {
-    "title": "Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires",
-    "summary": "Meta will no longer judge its engineers by how much they use AI tools. The article Meta drops AI usage from engineer performance reviews after &quot;tokenmaxxing&quot; backfires appeared first on The Decoder.",
-    "url": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/",
-    "source": "The Decoder",
-    "published_at": "2026-09-08T14:27:40+00:00",
-    "score": 6,
-    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+    "title": "CrossModalQA: A Cross-modal and Multi-hop Benchmark for Multimodal Retrieval-augmented Generation",
+    "summary": "arXiv:2609.05518v1 Announce Type: cross Abstract: Despite the strong capabilities of multimodal large language models (MLLMs), their parametric knowledge remains incomplete and difficult to update, motivating multimodal retrieval-augmented generation (RAG) to ground responses in external text and images. However, existing benchmarks face two major ",
+    "url": "https://arxiv.org/abs/2609.05518",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
   },
   {
-    "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals",
-    "summary": "Three years after launch, Mistral AI has closed a 3 billion euro Series D round, pushing its valuation past 21 billion euros. The article Mistral AI raises 3 billion euros in Europe&#039;s largest-ever tech funding round despite lagging behind rivals appeared first on The Decoder.",
-    "url": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/",
-    "source": "The Decoder",
-    "published_at": "2026-09-08T07:45:41+00:00",
-    "score": 6,
-    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+    "title": "Dual-Latent Memory Routing for Vision-Language Reasoning",
+    "summary": "arXiv:2609.05539v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have recently made strong progress in vision-language reasoning, yet their performance often degrades as generations grow longer. A key factor is that they frequently lose track of earlier visual evidence and intermediate constraints under a monolithic growin",
+    "url": "https://arxiv.org/abs/2609.05539",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
   },
   {
-    "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-    "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-    "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-    "source": "Wired AI",
-    "published_at": "2026-09-08T20:12:51+00:00",
-    "score": 5,
-    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+    "title": "Concord: A Video Relational Algebra for Cross-Modal Query Optimization",
+    "summary": "arXiv:2609.05756v1 Announce Type: cross Abstract: Semantic video queries let users embed natural language prompts and use multimodal large language models (MLLMs) to interpret the video. Such queries are increasingly popular for querying video data. However, their expressiveness comes at a steep cost: an MLLM may process hours of media to return on",
+    "url": "https://arxiv.org/abs/2609.05756",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
   },
   {
-    "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-    "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-    "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
-    "source": "Wired AI",
-    "published_at": "2026-09-08T16:42:05+00:00",
-    "score": 5,
-    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+    "title": "Scratchy: Visual-Scratchpad Multimodal Reasoning for Cryptographic Proof Generation in EasyCrypt",
+    "summary": "arXiv:2609.06226v1 Announce Type: cross Abstract: Large language models (LLMs) have recently made substantial progress in formal proof generation, yet presenting distinctive challenges in cryptographic area. Computational security arguments posit that a valid proof must coordinate probability, adversarial games, invariants, assumptions and bounds, ",
+    "url": "https://arxiv.org/abs/2609.06226",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
   },
   {
-    "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
-    "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders, ordering frequency, seasonality, weather, and purchasing patterns among similar businesses. Coca-Cola said Co",
-    "url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
-    "source": "AI News",
-    "published_at": "2026-09-08T10:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+    "title": "VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification",
+    "summary": "arXiv:2609.06245v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) perform strongly on general visual understanding tasks such as visual question answering, yet they often struggle with a basic comparative skill: identifying what has changed between two similar images. We introduce VDiff-Bench, a challenging multiple-choice ",
+    "url": "https://arxiv.org/abs/2609.06245",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
   },
   {
-    "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
-    "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected. Searcherries followed 50 searches daily from [&#8230",
-    "url": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
-    "source": "AI News",
-    "published_at": "2026-09-08T08:50:39+00:00",
-    "score": 5,
-    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+    "title": "ECOKV: Geometry-Aware KV Cache Eviction via Complementary Diversity Metrics",
+    "summary": "arXiv:2609.06663v1 Announce Type: cross Abstract: Although multimodal Large Language Models (MLLMs) excel in diverse tasks, their scalability remains limited by the memory and computational overhead of KV cache storage. Recent KV cache eviction approaches incorporate a cosine similarity-based diversity metric with importance metrics to selectively ",
+    "url": "https://arxiv.org/abs/2609.06663",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
   },
   {
-    "title": "What OpenAI’s latest controversy tells us about the future of math",
-    "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overs",
-    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-09-09T03:10:08+00:00",
-    "score": 3,
-    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+    "title": "A Trustworthy Watermarking Framework for LLM-Generated Food Safety Content",
+    "summary": "arXiv:2609.06708v1 Announce Type: cross Abstract: Large language models are transforming many industries with their text generation abilities. However, their outputs can be easily tampered with, creating serious risks in critical areas such as food safety reporting. To protect the integrity and traceability of AI-generated content, this paper intro",
+    "url": "https://arxiv.org/abs/2609.06708",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
   },
   {
-    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-    "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;",
-    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-    "source": "MIT Technology Review AI",
-    "published_at": "2026-09-08T10:34:00+00:00",
-    "score": 3,
-    "archived_at": "2026-09-09T05:02:36.881667+00:00"
+    "title": "MV-STRIDE: Enabling MLLMs to Master Multi-View Spatial Reasoning via Hierarchical Capability Modeling",
+    "summary": "arXiv:2609.07258v1 Announce Type: cross Abstract: Despite the rapid progress of Multimodal Large Language Models (MLLMs) in 2D vision-language tasks, robust multi-view spatial reasoning remains a fundamental bottleneck due to the lack of structured 3D cognitive pathways in existing datasets. To address this, we introduce MV-STRIDE, a Multi-View hie",
+    "url": "https://arxiv.org/abs/2609.07258",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "SAFIRE: Safety-Critical Benchmark for Fine-grained Fire and Smoke Understanding in Multimodal LLMs",
+    "summary": "arXiv:2609.07823v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) show strong progress on vision-language tasks, yet their reliability in safety-critical settings remains underexplored. Fire-smoke understanding is central to public safety and disaster response, but most existing benchmarks lack diverse real-world scenarios ",
+    "url": "https://arxiv.org/abs/2609.07823",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "The Unreliable Progress Bar: Can LLM Agents Reliably Report Task Progress Throughout Execution?",
+    "summary": "arXiv:2609.08589v1 Announce Type: cross Abstract: Recent large language models can emit task-progress signals that agent frameworks use to decide whether a task should continue or stop, yet whether a model can reliably report its task progress at every stage of a task, and where and how its reports fail, has not been studied systematically. We eval",
+    "url": "https://arxiv.org/abs/2609.08589",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "MoEMB: Scaling Universal Multimodal Embeddings with Efficient Mixture-of-Experts Models",
+    "summary": "arXiv:2609.08663v1 Announce Type: cross Abstract: Universal multimodal embedding (UME) increasingly demands encoder's capacity for handling a broad range of tasks and modalities with increased complexity. Prior scaling methods either increase the representation size, retrieval effort, or scales the encoder into a heavy multimodal LLM. Recent works,",
+    "url": "https://arxiv.org/abs/2609.08663",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "Large Language Models Transform Organic Synthesis From Reaction Prediction to Automation",
+    "summary": "arXiv:2508.05427v2 Announce Type: replace Abstract: Large language models (LLMs) are beginning to reshape how organic-synthesis workflows are represented, queried, planned, and connected to experimental automation. Assessing their contribution is not straightforward because reaction-specific transformers, chemistry-adapted LLMs, tool-using agents, ",
+    "url": "https://arxiv.org/abs/2508.05427",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "ChatPlanner: A Large Language Model Framework for Personalized Public Transit Routing",
+    "summary": "arXiv:2606.15315v3 Announce Type: replace Abstract: Personalized public transit routing in public transit systems remains challenging due to the difficulty of capturing and integrating diverse user preferences into routing algorithms. This paper presents ChatPlanner, a novel framework that leverages Large Language Models (LLMs) to enable preference",
+    "url": "https://arxiv.org/abs/2606.15315",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
+  },
+  {
+    "title": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
+    "summary": "arXiv:2608.06270v2 Announce Type: replace Abstract: The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially higher token cost. They may also repeatedly crop irrelevant re",
+    "url": "https://arxiv.org/abs/2608.06270",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-10T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-10T05:05:07.142400+00:00"
   }
 ]
