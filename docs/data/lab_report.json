@@ -2,25 +2,25 @@
     "last_updated": "2024-07-29",
     "papers": [
         {
-            "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
-            "innovation": "Proposes CriticGen, a fine-grained, generation-aware evaluation framework designed to provide actionable feedback for improving large language models (LLMs). This moves beyond coarse-grained evaluations to offer specific insights for model enhancement.",
-            "benchmarks": "Introduces a new evaluation framework rather than relying on existing benchmarks. The innovation itself is the method for generating actionable feedback.",
-            "use_case": "Improving the performance of large language models by providing concrete, actionable feedback for model developers and engineers, aiding in debugging and iterative refinement of LLM generation capabilities.",
-            "url": "https://arxiv.org/abs/2609.05439"
+            "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+            "innovation": "Introduces process traces to capture and evaluate the intermediate reasoning steps of AI agents, rather than just final outputs, enabling deeper methodological audits and failure diagnosis.",
+            "benchmarks": "Focuses on evaluating the *process* of AI scientist workflows, allowing for auditing scientific methodology, diagnosing failure modes, and distinguishing systematic reasoning in autonomous agents.",
+            "use_case": "Debugging complex AI agentic systems, improving agent design and learning, auditing autonomous scientific discovery, and developing more transparent and robust AI agents.",
+            "url": "https://arxiv.org/abs/2609.09203"
         },
         {
-            "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-            "innovation": "Introduces MERIT (Memory Evaluation for Realistic Instrumented Tasks), a novel cost-aware benchmark to evaluate the utility of long-term memory in tool-using LLM agents. Unlike prior benchmarks, MERIT measures how remembered facts influence agent actions rather than just conversational recall.",
-            "benchmarks": "MERIT (Memory Evaluation for Realistic Instrumented Tasks). Contrasts with existing benchmarks like LoCoMo and LongMemEval by focusing on cost-aware, action-oriented evaluation.",
-            "use_case": "Designing, evaluating, and optimizing long-term memory mechanisms for efficient and effective tool-using LLM agents, especially in scenarios where computational and storage costs are critical considerations for deployment.",
-            "url": "https://arxiv.org/abs/2609.05441"
+            "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+            "innovation": "Investigates and compares two distinct approaches (subagents and agent skills represented as reusable packages) for effectively leveraging reusable knowledge to solve long-horizon tasks with language model agents.",
+            "benchmarks": "Addresses the challenge of managing and executing reusable knowledge for long-horizon tasks, implying improvements in scalability, modularity, and task completion rates for complex agentic systems.",
+            "use_case": "Designing modular and scalable LLM agent architectures, developing efficient ways to manage and orchestrate reusable agent capabilities, and building robust agents for multi-step, complex problems.",
+            "url": "https://arxiv.org/abs/2609.09233"
         },
         {
-            "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
-            "innovation": "Formulates structured post-training pruning of transformers as a damage-aware multi-armed bandit problem. This approach intelligently selects functional units for suppression to achieve model compression with limited performance degradation under a fixed evaluation budget.",
-            "benchmarks": "Evaluates pruning effectiveness using metrics such as model size reduction, inference speed improvement, and measured performance degradation (e.g., accuracy, F1 score) on relevant vision and language tasks.",
-            "use_case": "Optimizing the size and computational efficiency of Vision and Language Transformers for deployment, particularly on resource-constrained hardware or in applications where reducing inference cost and improving latency are critical requirements.",
-            "url": "https://arxiv.org/abs/2609.05448"
+            "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+            "innovation": "Proposes the 'tool menu' concept: a dynamically generated, short, ordered subset of available tools presented to an agent, acting as an execution prior to guide tool selection and improve efficiency.",
+            "benchmarks": "Addresses the practical challenge of agents navigating vast libraries of thousands of tools, aiming to improve multi-step task execution, reduce tool selection errors, and optimize agent-tool interaction.",
+            "use_case": "Developing more efficient and accurate tool-using LLM agents, optimizing agent-tool interaction mechanisms, reducing the 'cognitive load' for agents with extensive tool access, and enhancing online agent performance.",
+            "url": "https://arxiv.org/abs/2609.09395"
         }
     ]
 }
