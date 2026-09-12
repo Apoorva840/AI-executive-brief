@@ -2,25 +2,25 @@
     "last_updated": "2024-07-29",
     "papers": [
         {
-            "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-            "innovation": "Introduces process traces to capture and evaluate the intermediate reasoning steps of AI agents, rather than just final outputs, enabling deeper methodological audits and failure diagnosis.",
-            "benchmarks": "Focuses on evaluating the *process* of AI scientist workflows, allowing for auditing scientific methodology, diagnosing failure modes, and distinguishing systematic reasoning in autonomous agents.",
-            "use_case": "Debugging complex AI agentic systems, improving agent design and learning, auditing autonomous scientific discovery, and developing more transparent and robust AI agents.",
-            "url": "https://arxiv.org/abs/2609.09203"
+            "title": "Towards a Deterministic Math Solver for Clinical Language Models",
+            "innovation": "Proposes a novel approach where Large Language Models (LLMs) externalize mathematical calculations to a deterministic solver, instead of attempting to perform them internally. This fundamentally improves numerical reliability and accuracy.",
+            "benchmarks": "Evaluated against clinical calculator use cases, where numerical precision is critical for accurate recommendations.",
+            "use_case": "Crucial for deploying LLMs in high-stakes environments requiring precise numerical computations, such as clinical decision support, financial analysis, engineering calculations, and scientific applications, ensuring safety and accuracy.",
+            "url": "https://arxiv.org/abs/2609.10728"
         },
         {
-            "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
-            "innovation": "Investigates and compares two distinct approaches (subagents and agent skills represented as reusable packages) for effectively leveraging reusable knowledge to solve long-horizon tasks with language model agents.",
-            "benchmarks": "Addresses the challenge of managing and executing reusable knowledge for long-horizon tasks, implying improvements in scalability, modularity, and task completion rates for complex agentic systems.",
-            "use_case": "Designing modular and scalable LLM agent architectures, developing efficient ways to manage and orchestrate reusable agent capabilities, and building robust agents for multi-step, complex problems.",
-            "url": "https://arxiv.org/abs/2609.09233"
+            "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+            "innovation": "Introduces a new, more comprehensive evaluation framework for generative AI agents that moves beyond isolated task success. It focuses on agent resilience, sustained usefulness across repeated interactions, adaptability to changing conditions, and considerate participation within human-AI workflows, especially as disruptions accumulate.",
+            "benchmarks": "Proposes a new paradigm for evaluating agents, addressing real-world operational challenges rather than relying solely on traditional task-completion metrics. Implies testing across various scenarios with accumulating technical, human, and operational disruptions.",
+            "use_case": "Essential for designing, developing, and deploying robust and reliable AI agents for long-term operation in dynamic, real-world environments and collaborative human-AI ecosystems. Helps ensure agents remain useful and cooperative over time.",
+            "url": "https://arxiv.org/abs/2609.10724"
         },
         {
-            "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
-            "innovation": "Proposes the 'tool menu' concept: a dynamically generated, short, ordered subset of available tools presented to an agent, acting as an execution prior to guide tool selection and improve efficiency.",
-            "benchmarks": "Addresses the practical challenge of agents navigating vast libraries of thousands of tools, aiming to improve multi-step task execution, reduce tool selection errors, and optimize agent-tool interaction.",
-            "use_case": "Developing more efficient and accurate tool-using LLM agents, optimizing agent-tool interaction mechanisms, reducing the 'cognitive load' for agents with extensive tool access, and enhancing online agent performance.",
-            "url": "https://arxiv.org/abs/2609.09395"
+            "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+            "innovation": "Presents a controlled empirical study to quantify the trade-offs involved in selecting LoRA (Low-Rank Adaptation) rank during diffusion model fine-tuning, balancing model quality against computational cost and trainable parameters.",
+            "benchmarks": "Conducted on CIFAR-10 using a DDPM U-Net, reporting key metrics such as FID (Fr\u00e9chet Inception Distance), number of trainable parameters, and runtime, across various LoRA ranks ({2,4,8,16,32}).",
+            "use_case": "Provides actionable insights and practical guidance for AI engineers working on fine-tuning generative diffusion models (e.g., for image generation, style transfer, or content creation), enabling them to make informed decisions to optimize for quality, efficiency, and resource utilization during deployment.",
+            "url": "https://arxiv.org/abs/2609.10656"
         }
     ]
 }

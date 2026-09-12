@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 10, 2026",
+    "last_updated": "September 12, 2026",
     "tools": [
         {
-            "Name": "Browser Use",
-            "Category": "AI Agents",
-            "Description": "A Python framework that enables AI agents to control a web browser like a human by clicking, typing, and navigating.",
-            "Use_Case": "Automated data extraction, filling web forms, and performing complex multi-step web tasks at scale.",
-            "URL": "https://github.com/browser-use/browser-use"
+            "Name": "GPUStack",
+            "Category": "AI Infrastructure",
+            "Description": "A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand GPU instance provisioning.",
+            "Use_Case": "Managing GPU clusters across multiple environments (on-premises, K8s, cloud) and deploying new AI models on release day.",
+            "URL": "https://github.com/gpustack/gpustack"
         },
         {
-            "Name": "MarkItDown",
-            "Category": "Data Processing",
-            "Description": "A lightweight Python utility for converting various file formats (PDF, Word, Excel, Images, etc.) into Markdown.",
-            "Use_Case": "Preparing diverse documents and multimedia for ingestion into LLMs for analysis or RAG pipelines.",
-            "URL": "https://github.com/microsoft/markitdown"
+            "Name": "TradingAgents",
+            "Category": "Financial Agentic Framework",
+            "Description": "A multi-agent LLM-powered financial trading framework that simulates a real-world trading firm.",
+            "Use_Case": "Automated market analysis, debate, and trading strategy formulation using specialized agents like sentiment and technical analysts.",
+            "URL": "https://github.com/TauricResearch/TradingAgents"
         },
         {
-            "Name": "HexStrike AI",
-            "Category": "Cybersecurity",
-            "Description": "An MCP server that provides AI agents access to over 150+ professional security tools for automated penetration testing.",
-            "Use_Case": "Automating vulnerability discovery, security research, and penetration testing workflows for authorized systems.",
-            "URL": "https://github.com/0x4m4/hexstrike-ai"
+            "Name": "Speech To Speech",
+            "Category": "Voice AI",
+            "Description": "A low-latency, modular voice-agent pipeline (VAD -> STT -> LLM -> TTS) supporting fully local and open-source models.",
+            "Use_Case": "Building production-grade voice agents that support real-time interactions with low latency.",
+            "URL": "https://github.com/huggingface/speech-to-speech"
         }
     ]
 }
