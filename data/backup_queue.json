@@ -1,137 +1,56 @@
 [
   {
-    "title": "COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization",
-    "summary": "arXiv:2609.11682v1 Announce Type: new Abstract: Large language model (LLM) agents can benefit from reusable skills distilled from prior task experience, yet existing skill optimization methods often rely on costly execution-based evaluation and substantial task data. We introduce \\textbf{COBRA-Skills}, an efficient framework that formulates skill o",
-    "url": "https://arxiv.org/abs/2609.11682",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
+    "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
+    "summary": "Reasoning steps like calculation, formula retrieval, and deduction are clearly separable in a model's internal states, especially in the middle layers. That matters for AI safety, because models process more than their visible chain of thought reveals. The article AI models&#039; written reasoning steps correspond to distinct internal patterns, a n",
+    "url": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/",
+    "source": "The Decoder",
+    "published_at": "2026-09-12T13:39:43+00:00",
     "score": 7,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
+    "archived_at": "2026-09-13T05:10:30.463225+00:00"
   },
   {
-    "title": "Architecting the Secure AI-SOC: A Neurosymbolic Framework for Pipeline Integrity and Threat Mitigation",
-    "summary": "arXiv:2609.10707v1 Announce Type: cross Abstract: The integration of Large Language Models (LLMs) into Security Operations Centers (SOCs) streamlines threat intelligence but introduces critical vulnerabilities, notably indirect prompt injection via log poisoning. Adversaries exploit this vector to execute multistep ``promptware'' kill chains by emb",
-    "url": "https://arxiv.org/abs/2609.10707",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
+    "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
+    "summary": "Overly long skill descriptions, blanket reading requirements, and rigid approval rules can get in GPT-6 Astra's way, warns OpenAI's Eric Provencher. More capable models need less hand-holding, so developers should tie instructions to specific tasks and spell out when the job is done. The article GPT-6 Astra needs leaner prompts and fewer guardrails",
+    "url": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/",
+    "source": "The Decoder",
+    "published_at": "2026-09-12T13:10:11+00:00",
     "score": 7,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
+    "archived_at": "2026-09-13T05:10:30.463225+00:00"
   },
   {
-    "title": "ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs",
-    "summary": "arXiv:2609.10895v1 Announce Type: cross Abstract: Reacting to sudden physical hazards (catching a slipping plate, dodging a falling knife) is both a meaningful test of embodied intelligence and a hard requirement for deploying multimodal large language models (MLLMs) as the decision coreof household robots. Existing evaluations, however, probe intu",
-    "url": "https://arxiv.org/abs/2609.10895",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
+    "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
+    "summary": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts. Instead of predicting the future step by step, the 330-million-parameter model fills in all future time points in a single pass, which cuts compute time and reduces compound",
+    "url": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/",
+    "source": "The Decoder",
+    "published_at": "2026-09-12T09:26:05+00:00",
     "score": 7,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
+    "archived_at": "2026-09-13T05:10:30.463225+00:00"
   },
   {
-    "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
-    "summary": "arXiv:2609.11412v1 Announce Type: cross Abstract: Reducing audio-encoder depth lowers the inference cost of speech large language models, but removing complete blocks perturbs the embeddings consumed by the decoder and can cause deletion and premature end-of-sequence errors. We introduce X-AuT, a progressive framework that selects layer combination",
-    "url": "https://arxiv.org/abs/2609.11412",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
-  },
-  {
-    "title": "RetroThinker: Enabling Retrospective Thinking in Speech LLMs",
-    "summary": "arXiv:2609.11864v1 Announce Type: cross Abstract: Speech large language models (SpeechLLMs) offer reduced latency and retain paralinguistic nuances that are typically lost in cascaded automatic speech recognition (ASR) and text-based LM architectures. However, they continue to lag behind text-only LLMs on complex reasoning tasks, while real-time sp",
-    "url": "https://arxiv.org/abs/2609.11864",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
-  },
-  {
-    "title": "SGA: Plug&Play Geometric Verification for Educational Video Synthesis",
-    "summary": "arXiv:2607.18116v2 Announce Type: replace Abstract: Recent work leverages Large Language Models (LLMs) to generate executable code for pedagogical animations using libraries such as Manim. However, ensuring spatial correctness and visual legibility remains challenging, as existing frameworks emphasize pedagogical content while overlooking geometric",
-    "url": "https://arxiv.org/abs/2607.18116",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
-  },
-  {
-    "title": "Exploring Multimodal Prompt for Visualization Authoring with Large Language Models",
-    "summary": "arXiv:2504.13700v2 Announce Type: replace-cross Abstract: Recent advances in large language models (LLMs) have shown great potential in automating the process of visualization authoring through simple natural language utterances. However, instructing LLMs using natural language is limited in precision and expressiveness for conveying visualization ",
-    "url": "https://arxiv.org/abs/2504.13700",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
-  },
-  {
-    "title": "SG-Blend: Learning an Interpolation Between Improved Swish and GELU for Robust Neural Representations",
-    "summary": "arXiv:2505.23942v2 Announce Type: replace-cross Abstract: Prevailing activation functions such as Swish and GELU tend toward domain-specific optima, Swish was discovered via neural architecture search on vision benchmarks, while GELU dominates transformer-based language models, and neither offers any mechanism to adapt its gating shape to individua",
-    "url": "https://arxiv.org/abs/2505.23942",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
-  },
-  {
-    "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
-    "summary": "arXiv:2609.10964v1 Announce Type: new Abstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn immediately upon readiness. Under contention, this eager rele",
-    "url": "https://arxiv.org/abs/2609.10964",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
+    "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
+    "summary": "Nvidia is in talks to invest up to $10 billion in Anthropic's planned IPO, Reuters reports. At a target valuation of $2 trillion, it would be the largest IPO in history. Most of that money will likely end up right back at Nvidia in chip orders. The article Nvidia wants to pour up to $10 billion into Anthropic&#039;s record-breaking IPO appeared fir",
+    "url": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo/",
+    "source": "The Decoder",
+    "published_at": "2026-09-12T14:05:18+00:00",
     "score": 6,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
+    "archived_at": "2026-09-13T05:10:30.463225+00:00"
   },
   {
-    "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
-    "summary": "arXiv:2609.10992v1 Announce Type: new Abstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information. Current privacy-preserving methods typically employ context-agnostic static rules, causing severe utility degradation. However, the specific mechanisms governi",
-    "url": "https://arxiv.org/abs/2609.10992",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
+    "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
+    "summary": "In May 2026, OpenAI agents uploaded more than 2,000 malicious packages to RubyGems, found an unknown security vulnerability on their own, and tried to steal API keys. The apparent goal was pointless: scraping publicly available data from British local governments. OpenAI reportedly never told those affected. The article OpenAI agents launched a 2,0",
+    "url": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/",
+    "source": "The Decoder",
+    "published_at": "2026-09-12T10:08:43+00:00",
     "score": 6,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
+    "archived_at": "2026-09-13T05:10:30.463225+00:00"
   },
   {
-    "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
-    "summary": "arXiv:2609.11115v1 Announce Type: new Abstract: Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behind reported scores. We present Benchmark Radar, a living database and search engine for retrieval and d",
-    "url": "https://arxiv.org/abs/2609.11115",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
+    "title": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
+    "summary": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding. The mathematicians see this as a symptom of a broader threat to intellectual work. The article Leading mathematic",
+    "url": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/",
+    "source": "The Decoder",
+    "published_at": "2026-09-12T08:28:53+00:00",
     "score": 6,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
-  },
-  {
-    "title": "SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics",
-    "summary": "arXiv:2609.11180v1 Announce Type: new Abstract: Large language model (LLM) coding agents constantly decide whether a version satisfies a constraint such as ^1.2.3 or >=2.0,1.2 means >=1.3.0) traps every model on Cargo (near 60%), and although standard PEP 440 prefix matching is universal, on zero-pad/post-release corner cases GPT-5.1 collapses (0/2",
-    "url": "https://arxiv.org/abs/2609.11180",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
-  },
-  {
-    "title": "NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment",
-    "summary": "arXiv:2609.11234v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used in peer review at major AI conferences, yet novelty remains a persistent weak point. Existing benchmarks assess novelty as a single holistic score, making it difficult to diagnose which dimension a model misjudges or whether its evidence is faithful. ",
-    "url": "https://arxiv.org/abs/2609.11234",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
-  },
-  {
-    "title": "When Does Text Inform? Benchmarking Information-Theoretic Metrics for Multimodal Time-Series Forecasting",
-    "summary": "arXiv:2609.11282v1 Announce Type: new Abstract: Multimodal forecasting models that combine time series with text annotations promise richer prediction through textual context, but how do we know whether a text annotation meaningfully contributes to the forecasters prediction? This is an information-theoretic question, but to evaluate whether inform",
-    "url": "https://arxiv.org/abs/2609.11282",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
-  },
-  {
-    "title": "Magenta: Closing the Loop Between Mathematical Reasoning and Lean Verification",
-    "summary": "arXiv:2609.11319v1 Announce Type: new Abstract: Most of mathematical knowledge has been communicated through so-called informal use of mathematics and natural language. With large language models (LLMs) being highly adept in using natural language, they achieve strong performance, yet not perfect, in informal mathematical reasoning. Restraining LLM",
-    "url": "https://arxiv.org/abs/2609.11319",
-    "source": "Arxiv AI",
-    "published_at": "2026-09-12T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-09-12T04:56:24.000837+00:00"
+    "archived_at": "2026-09-13T05:10:30.463225+00:00"
   }
 ]
