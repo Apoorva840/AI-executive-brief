@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 12, 2026",
+    "last_updated": "September 14, 2026",
     "tools": [
         {
-            "Name": "GPUStack",
-            "Category": "AI Infrastructure",
-            "Description": "A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand GPU instance provisioning.",
-            "Use_Case": "Managing GPU clusters across multiple environments (on-premises, K8s, cloud) and deploying new AI models on release day.",
-            "URL": "https://github.com/gpustack/gpustack"
+            "Name": "MathModelAgent",
+            "Category": "AI Agent / Research",
+            "Description": "An agent designed for automated mathematical modeling, coding, and paper generation.",
+            "Use_Case": "Automating the completion of complex mathematical modeling tasks and generating submission-ready research papers.",
+            "URL": "https://github.com/jihe520/MathModelAgent"
         },
         {
-            "Name": "TradingAgents",
-            "Category": "Financial Agentic Framework",
-            "Description": "A multi-agent LLM-powered financial trading framework that simulates a real-world trading firm.",
-            "Use_Case": "Automated market analysis, debate, and trading strategy formulation using specialized agents like sentiment and technical analysts.",
-            "URL": "https://github.com/TauricResearch/TradingAgents"
+            "Name": "Scrapling",
+            "Category": "Web Scraping",
+            "Description": "An adaptive Web Scraping framework that features smart element tracking, stealthy fetching, and auto-scaling.",
+            "Use_Case": "Handling simple requests to full-scale concurrent crawls while bypassing anti-bot systems like Cloudflare.",
+            "URL": "https://github.com/D4Vinci/Scrapling"
         },
         {
-            "Name": "Speech To Speech",
-            "Category": "Voice AI",
-            "Description": "A low-latency, modular voice-agent pipeline (VAD -> STT -> LLM -> TTS) supporting fully local and open-source models.",
-            "Use_Case": "Building production-grade voice agents that support real-time interactions with low latency.",
-            "URL": "https://github.com/huggingface/speech-to-speech"
+            "Name": "oMLX",
+            "Category": "LLM Inference Server",
+            "Description": "An optimized LLM inference server for Apple Silicon featuring continuous batching, tiered KV caching, and a macOS menu bar controller.",
+            "Use_Case": "Running local LLMs and VLMs efficiently on Mac hardware for coding agents or personal use with persistent context.",
+            "URL": "https://github.com/jundot/omlx"
         }
     ]
 }

@@ -1,65 +1,44 @@
 [
   {
-    "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-    "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
-    "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+    "title": "AI Agents Are Thirsty for Power",
+    "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+    "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
     "source": "Wired AI",
-    "published_at": "2026-09-12T10:30:00+00:00"
+    "published_at": "2026-09-13T10:00:00+00:00"
   },
   {
-    "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
-    "summary": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development. He warns that recursive self-improvement could threaten the entire internet within six to twelve months and proposes embedded auditors at AI companies, shared safety standards, and global agreements modeled after the SALT disarmament treaties. His warning comes just ",
-    "url": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/",
+    "title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
+    "summary": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor. The company says the model was trained only on licensed music. The article Elevenlabs makes Music v2.5 available via app and API with free and pro tier options appeared first o",
+    "url": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/",
     "source": "The Decoder",
-    "published_at": "2026-09-12T15:03:21+00:00"
+    "published_at": "2026-09-13T13:40:36+00:00"
   },
   {
-    "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks",
-    "summary": "In a new robotics benchmark, GPT-6 Astra shows major gains in spatial understanding. On StationeryBench, the model completed 7 out of 100 tasks with dual-arm robots, while competitor MolmoAct2 couldn't finish a single one. A researcher calls it a \"step change in spatial reasoning.\" The article GPT-6 Astra appears to show a &quot;step change&quot; i",
-    "url": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/",
+    "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
+    "summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes. According to the paper, the training data and models also improved performance on tasks they were never trained for, including general tool use and office work. The article Ir",
+    "url": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
     "source": "The Decoder",
-    "published_at": "2026-09-12T14:26:09+00:00"
+    "published_at": "2026-09-13T12:58:18+00:00"
   },
   {
-    "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
-    "summary": "Nvidia is in talks to invest up to $10 billion in Anthropic's planned IPO, Reuters reports. At a target valuation of $2 trillion, it would be the largest IPO in history. Most of that money will likely end up right back at Nvidia in chip orders. The article Nvidia wants to pour up to $10 billion into Anthropic&#039;s record-breaking IPO appeared fir",
-    "url": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo/",
+    "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+    "summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline on all five subtasks, including finding and following individual people. The article GPT-6 Astra pilots a sur",
+    "url": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/",
     "source": "The Decoder",
-    "published_at": "2026-09-12T14:05:18+00:00"
+    "published_at": "2026-09-13T10:52:16+00:00"
   },
   {
-    "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
-    "summary": "Reasoning steps like calculation, formula retrieval, and deduction are clearly separable in a model's internal states, especially in the middle layers. That matters for AI safety, because models process more than their visible chain of thought reveals. The article AI models&#039; written reasoning steps correspond to distinct internal patterns, a n",
-    "url": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/",
+    "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
+    "summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was wrong,\" the researcher writes, who had assumed that AI without guidance would do more harm than good. The article Two-year university study finds banning AI from classrooms",
+    "url": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/",
     "source": "The Decoder",
-    "published_at": "2026-09-12T13:39:43+00:00"
+    "published_at": "2026-09-13T09:27:01+00:00"
   },
   {
-    "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
-    "summary": "Overly long skill descriptions, blanket reading requirements, and rigid approval rules can get in GPT-6 Astra's way, warns OpenAI's Eric Provencher. More capable models need less hand-holding, so developers should tie instructions to specific tasks and spell out when the job is done. The article GPT-6 Astra needs leaner prompts and fewer guardrails",
-    "url": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/",
+    "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+    "summary": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns. The article Altman, Musk, and Hassabis back Amodei&#039;s call to add independent oversight appeared first on The Decoder.",
+    "url": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/",
     "source": "The Decoder",
-    "published_at": "2026-09-12T13:10:11+00:00"
-  },
-  {
-    "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
-    "summary": "In May 2026, OpenAI agents uploaded more than 2,000 malicious packages to RubyGems, found an unknown security vulnerability on their own, and tried to steal API keys. The apparent goal was pointless: scraping publicly available data from British local governments. OpenAI reportedly never told those affected. The article OpenAI agents launched a 2,0",
-    "url": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/",
-    "source": "The Decoder",
-    "published_at": "2026-09-12T10:08:43+00:00"
-  },
-  {
-    "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
-    "summary": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts. Instead of predicting the future step by step, the 330-million-parameter model fills in all future time points in a single pass, which cuts compute time and reduces compound",
-    "url": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/",
-    "source": "The Decoder",
-    "published_at": "2026-09-12T09:26:05+00:00"
-  },
-  {
-    "title": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
-    "summary": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding. The mathematicians see this as a symptom of a broader threat to intellectual work. The article Leading mathematic",
-    "url": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/",
-    "source": "The Decoder",
-    "published_at": "2026-09-12T08:28:53+00:00"
+    "published_at": "2026-09-13T08:53:00+00:00"
   }
 ]

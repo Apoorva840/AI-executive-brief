@@ -1,56 +1,29 @@
 [
   {
-    "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
-    "summary": "Reasoning steps like calculation, formula retrieval, and deduction are clearly separable in a model's internal states, especially in the middle layers. That matters for AI safety, because models process more than their visible chain of thought reveals. The article AI models&#039; written reasoning steps correspond to distinct internal patterns, a n",
-    "url": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/",
+    "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+    "summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline on all five subtasks, including finding and following individual people. The article GPT-6 Astra pilots a sur",
+    "url": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/",
     "source": "The Decoder",
-    "published_at": "2026-09-12T13:39:43+00:00",
+    "published_at": "2026-09-13T10:52:16+00:00",
     "score": 7,
-    "archived_at": "2026-09-13T05:10:30.463225+00:00"
+    "archived_at": "2026-09-14T05:18:47.310039+00:00"
   },
   {
-    "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
-    "summary": "Overly long skill descriptions, blanket reading requirements, and rigid approval rules can get in GPT-6 Astra's way, warns OpenAI's Eric Provencher. More capable models need less hand-holding, so developers should tie instructions to specific tasks and spell out when the job is done. The article GPT-6 Astra needs leaner prompts and fewer guardrails",
-    "url": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/",
+    "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
+    "summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was wrong,\" the researcher writes, who had assumed that AI without guidance would do more harm than good. The article Two-year university study finds banning AI from classrooms",
+    "url": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/",
     "source": "The Decoder",
-    "published_at": "2026-09-12T13:10:11+00:00",
-    "score": 7,
-    "archived_at": "2026-09-13T05:10:30.463225+00:00"
-  },
-  {
-    "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
-    "summary": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts. Instead of predicting the future step by step, the 330-million-parameter model fills in all future time points in a single pass, which cuts compute time and reduces compound",
-    "url": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/",
-    "source": "The Decoder",
-    "published_at": "2026-09-12T09:26:05+00:00",
-    "score": 7,
-    "archived_at": "2026-09-13T05:10:30.463225+00:00"
-  },
-  {
-    "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
-    "summary": "Nvidia is in talks to invest up to $10 billion in Anthropic's planned IPO, Reuters reports. At a target valuation of $2 trillion, it would be the largest IPO in history. Most of that money will likely end up right back at Nvidia in chip orders. The article Nvidia wants to pour up to $10 billion into Anthropic&#039;s record-breaking IPO appeared fir",
-    "url": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo/",
-    "source": "The Decoder",
-    "published_at": "2026-09-12T14:05:18+00:00",
+    "published_at": "2026-09-13T09:27:01+00:00",
     "score": 6,
-    "archived_at": "2026-09-13T05:10:30.463225+00:00"
+    "archived_at": "2026-09-14T05:18:47.310039+00:00"
   },
   {
-    "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
-    "summary": "In May 2026, OpenAI agents uploaded more than 2,000 malicious packages to RubyGems, found an unknown security vulnerability on their own, and tried to steal API keys. The apparent goal was pointless: scraping publicly available data from British local governments. OpenAI reportedly never told those affected. The article OpenAI agents launched a 2,0",
-    "url": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/",
+    "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+    "summary": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns. The article Altman, Musk, and Hassabis back Amodei&#039;s call to add independent oversight appeared first on The Decoder.",
+    "url": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/",
     "source": "The Decoder",
-    "published_at": "2026-09-12T10:08:43+00:00",
+    "published_at": "2026-09-13T08:53:00+00:00",
     "score": 6,
-    "archived_at": "2026-09-13T05:10:30.463225+00:00"
-  },
-  {
-    "title": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
-    "summary": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding. The mathematicians see this as a symptom of a broader threat to intellectual work. The article Leading mathematic",
-    "url": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/",
-    "source": "The Decoder",
-    "published_at": "2026-09-12T08:28:53+00:00",
-    "score": 6,
-    "archived_at": "2026-09-13T05:10:30.463225+00:00"
+    "archived_at": "2026-09-14T05:18:47.310039+00:00"
   }
 ]
