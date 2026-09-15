@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 14, 2026",
+    "last_updated": "September 15, 2026",
     "tools": [
         {
-            "Name": "MathModelAgent",
-            "Category": "AI Agent / Research",
-            "Description": "An agent designed for automated mathematical modeling, coding, and paper generation.",
-            "Use_Case": "Automating the completion of complex mathematical modeling tasks and generating submission-ready research papers.",
-            "URL": "https://github.com/jihe520/MathModelAgent"
+            "Name": "OpenMontage",
+            "Category": "Video Production",
+            "Description": "An open-source, agentic video production system that manages research, scripting, asset generation, editing, and final composition.",
+            "Use_Case": "Creating cinematic trailers, animated explainers, documentaries, and social media content from text prompts or reference videos.",
+            "URL": "https://github.com/calesthio/OpenMontage"
         },
         {
-            "Name": "Scrapling",
+            "Name": "VoiceStudio",
+            "Category": "Audio Production",
+            "Description": "A fully local, open-source alternative to ElevenLabs for voice cloning, dubbing, dictation, and audiobook production.",
+            "Use_Case": "Offline voice synthesis, local video dubbing, and creating audiobooks in 646+ languages with privacy and zero usage fees.",
+            "URL": "https://github.com/debpalash/VoiceStudio"
+        },
+        {
+            "Name": "Crawl4AI",
             "Category": "Web Scraping",
-            "Description": "An adaptive Web Scraping framework that features smart element tracking, stealthy fetching, and auto-scaling.",
-            "Use_Case": "Handling simple requests to full-scale concurrent crawls while bypassing anti-bot systems like Cloudflare.",
-            "URL": "https://github.com/D4Vinci/Scrapling"
-        },
-        {
-            "Name": "oMLX",
-            "Category": "LLM Inference Server",
-            "Description": "An optimized LLM inference server for Apple Silicon featuring continuous batching, tiered KV caching, and a macOS menu bar controller.",
-            "Use_Case": "Running local LLMs and VLMs efficiently on Mac hardware for coding agents or personal use with persistent context.",
-            "URL": "https://github.com/jundot/omlx"
+            "Description": "An LLM-friendly, open-source web crawler and scraper that transforms web pages into structured, AI-ready Markdown.",
+            "Use_Case": "Extracting clean data from websites for RAG pipelines, AI agents, and custom data processing workflows.",
+            "URL": "https://github.com/unclecode/crawl4ai"
         }
     ]
 }

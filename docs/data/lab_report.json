@@ -2,25 +2,25 @@
     "last_updated": "2024-07-29",
     "papers": [
         {
-            "title": "Towards a Deterministic Math Solver for Clinical Language Models",
-            "innovation": "Proposes a novel approach where Large Language Models (LLMs) externalize mathematical calculations to a deterministic solver, instead of attempting to perform them internally. This fundamentally improves numerical reliability and accuracy.",
-            "benchmarks": "Evaluated against clinical calculator use cases, where numerical precision is critical for accurate recommendations.",
-            "use_case": "Crucial for deploying LLMs in high-stakes environments requiring precise numerical computations, such as clinical decision support, financial analysis, engineering calculations, and scientific applications, ensuring safety and accuracy.",
-            "url": "https://arxiv.org/abs/2609.10728"
+            "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+            "innovation": "ZGCM-1 is a fully open, 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. It demonstrates that compact models can overcome parametric capacity limits by coupling deliberation with external tools, making it highly valuable for resource-constrained deployments.",
+            "benchmarks": "While specific benchmarks are not detailed in the abstract, the emphasis on 'extreme efficiency' implies strong performance metrics related to training cost, inference latency, throughput, and resource footprint, alongside competitive accuracy on math and agentic search tasks.",
+            "use_case": "Deploying highly efficient, open-source foundation models for specialized tasks such as mathematical reasoning and agentic search, particularly in environments with limited computational resources or requiring low latency and cost-effectiveness.",
+            "url": "https://arxiv.org/abs/2609.13356"
         },
         {
-            "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-            "innovation": "Introduces a new, more comprehensive evaluation framework for generative AI agents that moves beyond isolated task success. It focuses on agent resilience, sustained usefulness across repeated interactions, adaptability to changing conditions, and considerate participation within human-AI workflows, especially as disruptions accumulate.",
-            "benchmarks": "Proposes a new paradigm for evaluating agents, addressing real-world operational challenges rather than relying solely on traditional task-completion metrics. Implies testing across various scenarios with accumulating technical, human, and operational disruptions.",
-            "use_case": "Essential for designing, developing, and deploying robust and reliable AI agents for long-term operation in dynamic, real-world environments and collaborative human-AI ecosystems. Helps ensure agents remain useful and cooperative over time.",
-            "url": "https://arxiv.org/abs/2609.10724"
+            "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+            "innovation": "This paper frames root-cause attribution for long-horizon AI agent failures as a continual search problem. This innovative approach provides a systematic and scalable method to diagnose issues from massive execution logs, transforming outcome-level signals into actionable interventions which is critical for system reliability.",
+            "benchmarks": "Implied benchmarks would include the efficiency and accuracy of identifying root causes of failures in complex, long-horizon agent execution logs, likely comparing against existing diagnostic methods or manual analysis.",
+            "use_case": "Debugging, monitoring, and maintaining robust AI agent systems, especially those operating in long-horizon or complex environments, by automating and streamlining the identification of underlying causes for operational failures from extensive log data.",
+            "url": "https://arxiv.org/abs/2609.13463"
         },
         {
-            "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-            "innovation": "Presents a controlled empirical study to quantify the trade-offs involved in selecting LoRA (Low-Rank Adaptation) rank during diffusion model fine-tuning, balancing model quality against computational cost and trainable parameters.",
-            "benchmarks": "Conducted on CIFAR-10 using a DDPM U-Net, reporting key metrics such as FID (Fr\u00e9chet Inception Distance), number of trainable parameters, and runtime, across various LoRA ranks ({2,4,8,16,32}).",
-            "use_case": "Provides actionable insights and practical guidance for AI engineers working on fine-tuning generative diffusion models (e.g., for image generation, style transfer, or content creation), enabling them to make informed decisions to optimize for quality, efficiency, and resource utilization during deployment.",
-            "url": "https://arxiv.org/abs/2609.10656"
+            "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
+            "innovation": "This work explores the orchestration of Small Language Models (SLMs) to address fundamental challenges associated with deploying Large Language Models (LLMs) in agentic pipelines, such as high latency, privacy concerns, connectivity issues, and substantial computational costs. It provides key insights into the practical dynamics and benefits of SLM cooperation.",
+            "benchmarks": "Expected benchmarks would involve comparative analysis of orchestrated SLM systems versus single LLM deployments across metrics like latency, throughput, computational resource consumption, cost-effectiveness, and privacy, within the context of agentic workflows.",
+            "use_case": "Designing and implementing efficient, cost-effective, and privacy-preserving AI agent pipelines by leveraging the collective intelligence of multiple small language models, making it particularly relevant for edge deployments or scenarios with strict resource or data privacy constraints.",
+            "url": "https://arxiv.org/abs/2609.13470"
         }
     ]
 }

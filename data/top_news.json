@@ -1,44 +1,42 @@
 [
   {
-    "title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
-    "summary": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor. The company says the model was trained only on licensed music. The article Elevenlabs makes Music v2.5 available via app and API with free and pro tier options appeared first o",
-    "url": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/",
+    "title": "ANASSA: An Agentic AI Orchestration Framework for Spatial Intelligence",
+    "summary": "arXiv:2609.14824v1 Announce Type: new Abstract: The emergence of large language models (LLMs) and large multimodal models (LMMs) has enabled a new class of agentic systems capable of integrating natural language understanding with tool-based execution. In geographic information systems (GIS), this shift is transforming traditional, expert-driven wo",
+    "url": "https://arxiv.org/abs/2609.14824",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 8
+  },
+  {
+    "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
+    "summary": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman. Unlike Anthropic, Microsoft rejects any form of artificial inner life or claims to consciousness for its models. The article Microsoft&#039;s AI ruleboo",
+    "url": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
     "source": "The Decoder",
-    "published_at": "2026-09-13T13:40:36+00:00",
+    "published_at": "2026-09-14T15:52:51+00:00",
     "score": 7
   },
   {
-    "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
-    "summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes. According to the paper, the training data and models also improved performance on tasks they were never trained for, including general tool use and office work. The article Ir",
-    "url": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
+    "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
+    "summary": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts are anonymized but can still contain sensitive data. Users who don't want their chats reviewed by humans have to actively disable the \"Improve the mo",
+    "url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
     "source": "The Decoder",
-    "published_at": "2026-09-13T12:58:18+00:00",
-    "score": 7
+    "published_at": "2026-09-14T17:15:28+00:00",
+    "score": 6
   },
   {
-    "title": "AI Agents Are Thirsty for Power",
-    "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
-    "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-    "source": "Wired AI",
-    "published_at": "2026-09-13T10:00:00+00:00",
-    "score": 5
+    "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+    "summary": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serves as a technical manual defining system behaviour, operational boundaries, and oversight protocols across MAI frontier models. It builds on the division&#8217;s humanist ",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+    "source": "AI News",
+    "published_at": "2026-09-14T15:30:41+00:00",
+    "score": 6
   },
   {
-    "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
-    "summary": "Reasoning steps like calculation, formula retrieval, and deduction are clearly separable in a model's internal states, especially in the middle layers. That matters for AI safety, because models process more than their visible chain of thought reveals. The article AI models&#039; written reasoning steps correspond to distinct internal patterns, a n",
-    "url": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/",
-    "source": "The Decoder",
-    "published_at": "2026-09-12T13:39:43+00:00",
-    "score": 7,
-    "archived_at": "2026-09-13T05:10:30.463225+00:00"
-  },
-  {
-    "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
-    "summary": "Overly long skill descriptions, blanket reading requirements, and rigid approval rules can get in GPT-6 Astra's way, warns OpenAI's Eric Provencher. More capable models need less hand-holding, so developers should tie instructions to specific tasks and spell out when the job is done. The article GPT-6 Astra needs leaner prompts and fewer guardrails",
-    "url": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/",
-    "source": "The Decoder",
-    "published_at": "2026-09-12T13:10:11+00:00",
-    "score": 7,
-    "archived_at": "2026-09-13T05:10:30.463225+00:00"
+    "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+    "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal; deployment is rare. The difference is not model ",
+    "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+    "source": "AI News",
+    "published_at": "2026-09-14T08:04:35+00:00",
+    "score": 6
   }
 ]

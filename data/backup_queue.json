@@ -1,29 +1,137 @@
 [
   {
-    "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
-    "summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline on all five subtasks, including finding and following individual people. The article GPT-6 Astra pilots a sur",
-    "url": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/",
-    "source": "The Decoder",
-    "published_at": "2026-09-13T10:52:16+00:00",
+    "title": "AdaVSkip: Adaptive Visual Token Skipping Across Layers For Efficient MLLMs Inference",
+    "summary": "arXiv:2609.15131v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) require substantial computation to process numerous visual tokens across all transformer layers. Most methods for efficient MLLM inference exploit horizontal redundancy by compressing visual tokens. Beyond token reduction, recent studies exploit vertical redu",
+    "url": "https://arxiv.org/abs/2609.15131",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+    "summary": "arXiv:2609.13457v1 Announce Type: new Abstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering tasks. However, these models often fail to capture dynamic temporal patterns, providing only implicit reasoning that lacks the underly",
+    "url": "https://arxiv.org/abs/2609.13457",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-14T05:18:47.310039+00:00"
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
   },
   {
-    "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
-    "summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was wrong,\" the researcher writes, who had assumed that AI without guidance would do more harm than good. The article Two-year university study finds banning AI from classrooms",
-    "url": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/",
-    "source": "The Decoder",
-    "published_at": "2026-09-13T09:27:01+00:00",
-    "score": 6,
-    "archived_at": "2026-09-14T05:18:47.310039+00:00"
+    "title": "Bypass Observation: A Conceptual Design of a Non-Intrusive Layer-Wise Semantic Extraction Architecture",
+    "summary": "arXiv:2609.13807v1 Announce Type: new Abstract: Large language models reason in high-dimensional hidden-state spaces, while users observe only final outputs. We introduce Bypass Observation, a non-intrusive layer-wise readout architecture that attaches read-only observation heads to selected Transformer layers without feeding their outputs back int",
+    "url": "https://arxiv.org/abs/2609.13807",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
   },
   {
-    "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
-    "summary": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns. The article Altman, Musk, and Hassabis back Amodei&#039;s call to add independent oversight appeared first on The Decoder.",
-    "url": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/",
-    "source": "The Decoder",
-    "published_at": "2026-09-13T08:53:00+00:00",
-    "score": 6,
-    "archived_at": "2026-09-14T05:18:47.310039+00:00"
+    "title": "UniCAR-RL: Seeing Better before Thinking Deeper in Visual Mathematics",
+    "summary": "arXiv:2609.13849v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) often struggle with complex mathematical visual reasoning primarily due to a lack of fine-grained perception, causing initial visual hallucinations to directly trigger cascading reasoning failures. In traditional end-to-end reinforcement learning (RL), sparse r",
+    "url": "https://arxiv.org/abs/2609.13849",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "Overflip: Repetition-Induced Label Flips in Guardrail Models",
+    "summary": "arXiv:2609.15013v1 Announce Type: new Abstract: Guardrail models are classifiers deployed to screen malicious prompts and responses in LLM-based services. To meet latency constraints, many lightweight guardrails adopt compact Transformer backbones (e.g., DeBERTa) that are trained with short context windows (typically 512 tokens) and rely on buckete",
+    "url": "https://arxiv.org/abs/2609.15013",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "MAPS: Memory-Aware Predictive Scheduling Framework for Large Language Model Serving",
+    "summary": "arXiv:2609.15359v1 Announce Type: new Abstract: The surge of large language model (LLM) applications on personal devices imposes massive, bursty workloads on cloud serving infrastructure. While prefill-decode disaggregation improves throughput and scalability, memory-bound decode instances often suffer from persistent load imbalance, as output leng",
+    "url": "https://arxiv.org/abs/2609.15359",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "Evaluation of MLLM-Agnostic Plug-and-Play Keyframe Selection Methods for Long Video Understanding",
+    "summary": "arXiv:2609.13250v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) cannot process every frame of a long video because of limitations in visual-token and computational budgets. Three primary approaches have been proposed to enhance their long-video understanding capabilities: (i) Retraining an MLLM on a large video corpus and",
+    "url": "https://arxiv.org/abs/2609.13250",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "(How) Do MLLMs Report Bistable Images Like Humans?",
+    "summary": "arXiv:2609.13254v1 Announce Type: cross Abstract: Bistable images such as the duck-rabbit are classic stimuli in which one image supports multiple mutually incompatible interpretations, typically reported one at a time in humans. We ask whether multimodal large language models (MLLMs) show similar report behavior and what internal computations supp",
+    "url": "https://arxiv.org/abs/2609.13254",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "Bridging Thought and Action: Taming Long-Horizon Instability in Open-Source LLM Agents with a MetaTool-Enhanced ROS Framework",
+    "summary": "arXiv:2609.13335v1 Announce Type: cross Abstract: Large Language Models (LLMs) have enabled more natural human-robot interaction, but open-source models often exhibit unstable long-horizon reasoning and inefficient action execution when deployed in agentic robotic frameworks. This paper presents an enhanced ROS-Agent based architecture that improve",
+    "url": "https://arxiv.org/abs/2609.13335",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "Task-Aware Federated Fine-Tuning for MoE-based Large Language Models",
+    "summary": "arXiv:2609.13395v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) has become a widely adopted architecture for Large Language Models (LLMs), as it improves model capacity while limiting computational overhead through sparse expert activation. This property makes MoE-based LLMs particularly attractive for resource-constrained distributed en",
+    "url": "https://arxiv.org/abs/2609.13395",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "An Efficient and Modular Framework for Targeted Harm Mitigation in LLMS",
+    "summary": "arXiv:2609.13624v1 Announce Type: cross Abstract: Large Language Models (LLMs) are powerful zero-shot learners but remain prone to misalignment with human preferences, often producing biased, toxic, or otherwise harmful outputs. Existing alignment methods, while effective, are costly and tightly coupled to the model, limiting flexibility and scalab",
+    "url": "https://arxiv.org/abs/2609.13624",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "AURA: Unified Multimodal Framework for Conversational Music Editing",
+    "summary": "arXiv:2609.14344v1 Announce Type: cross Abstract: Instruction-guided music editors typically process each request independently, limiting their ability to support workflows in which users progressively refine a track. We introduce AURA, a unified multimodal framework for conversational music editing. AURA uses a multimodal large language model to i",
+    "url": "https://arxiv.org/abs/2609.14344",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "The Universe of Universes: Benefit Yield Functions, Implosion Thresholds, and Infrastructure-Aware Optimization in Multi-LLM Systems",
+    "summary": "arXiv:2609.15314v1 Announce Type: cross Abstract: We introduce the Universe of Universes (UoU) framework, which treats the full ecosystem of major large language models (LLMs) as a structured retrieval corpus and proposes a compositional Automated Reasoning (AR) and Machine Learning (ML) architecture for cross-model retrieval-augmented generation. ",
+    "url": "https://arxiv.org/abs/2609.15314",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "Concept-Grounded Reasoning with Prompt-Driven Localization for Interpretable Structured Report Generation",
+    "summary": "arXiv:2609.15334v1 Announce Type: cross Abstract: Medical imaging modalities such as ultrasound and X-ray are widely used in clinical practice, where diagnosis follows a structured, evidence-driven workflow aligned with standardized criteria. While multimodal large language models (MLLMs) show promise for automated medical report generation, most e",
+    "url": "https://arxiv.org/abs/2609.15334",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+  },
+  {
+    "title": "Dynamic Semantic Compression for Efficient Latent-Space Inference in Large Language Models",
+    "summary": "arXiv:2609.15338v1 Announce Type: cross Abstract: Large Language Models (LLMs) primarily perform inference at the token level, resulting in substantial memory overhead and compromised computational efficiency. In this paper, we propose a Dynamic Semantic Extraction and Inference (DSEI) framework, which achieves segment-level inference within the la",
+    "url": "https://arxiv.org/abs/2609.15338",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-15T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-15T05:12:15.579643+00:00"
   }
 ]
