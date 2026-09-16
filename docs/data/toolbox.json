@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 15, 2026",
+    "last_updated": "September 16, 2026",
     "tools": [
         {
             "Name": "OpenMontage",
             "Category": "Video Production",
-            "Description": "An open-source, agentic video production system that manages research, scripting, asset generation, editing, and final composition.",
-            "Use_Case": "Creating cinematic trailers, animated explainers, documentaries, and social media content from text prompts or reference videos.",
+            "Description": "An agentic video production system that uses AI to automate scripting, asset generation, editing, and final composition.",
+            "Use_Case": "Creating professional-grade videos from scratch, such as explainers, documentaries, and trailers, using AI orchestration.",
             "URL": "https://github.com/calesthio/OpenMontage"
         },
         {
             "Name": "VoiceStudio",
-            "Category": "Audio Production",
-            "Description": "A fully local, open-source alternative to ElevenLabs for voice cloning, dubbing, dictation, and audiobook production.",
-            "Use_Case": "Offline voice synthesis, local video dubbing, and creating audiobooks in 646+ languages with privacy and zero usage fees.",
+            "Category": "Audio/Voice",
+            "Description": "A fully local alternative to hosted voice services for cloning, dubbing, and audiobook creation with support for 646 languages.",
+            "Use_Case": "Generating high-quality, private voice synthesis and video dubbing locally without account or API dependency.",
             "URL": "https://github.com/debpalash/VoiceStudio"
         },
         {
-            "Name": "Crawl4AI",
-            "Category": "Web Scraping",
-            "Description": "An LLM-friendly, open-source web crawler and scraper that transforms web pages into structured, AI-ready Markdown.",
-            "Use_Case": "Extracting clean data from websites for RAG pipelines, AI agents, and custom data processing workflows.",
-            "URL": "https://github.com/unclecode/crawl4ai"
+            "Name": "Agent Reach",
+            "Category": "AI Agent Tools",
+            "Description": "A tool that equips AI agents with capabilities to browse and search the internet, including Twitter, Reddit, YouTube, and GitHub.",
+            "Use_Case": "Enabling AI agents to perform real-time research, data gathering, and interaction across multiple online platforms without API fees.",
+            "URL": "https://github.com/Panniantong/Agent-Reach"
         }
     ]
 }

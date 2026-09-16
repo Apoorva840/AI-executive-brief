@@ -2,25 +2,25 @@
     "last_updated": "2024-07-29",
     "papers": [
         {
-            "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-            "innovation": "ZGCM-1 is a fully open, 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. It demonstrates that compact models can overcome parametric capacity limits by coupling deliberation with external tools, making it highly valuable for resource-constrained deployments.",
-            "benchmarks": "While specific benchmarks are not detailed in the abstract, the emphasis on 'extreme efficiency' implies strong performance metrics related to training cost, inference latency, throughput, and resource footprint, alongside competitive accuracy on math and agentic search tasks.",
-            "use_case": "Deploying highly efficient, open-source foundation models for specialized tasks such as mathematical reasoning and agentic search, particularly in environments with limited computational resources or requiring low latency and cost-effectiveness.",
-            "url": "https://arxiv.org/abs/2609.13356"
+            "title": "Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions",
+            "innovation": "Proposes and studies placement policies for KV caches across various memory tiers (GPU HBM, CPU DRAM, SSD) to optimize resource utilization and cost for long-lived LLM sessions.",
+            "benchmarks": "Evaluates strategies against current practices and system designs (e.g., Mooncake, LMCache, FlexGen, InfiniGen, AttentionStore) to identify optimal memory management for KV caches.",
+            "use_case": "Critical for AI engineers deploying and managing large language models, especially those handling long conversational histories, agentic applications, or document Q&A, where KV cache memory consumption is a significant bottleneck.",
+            "url": "https://arxiv.org/abs/2609.16215"
         },
         {
-            "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-            "innovation": "This paper frames root-cause attribution for long-horizon AI agent failures as a continual search problem. This innovative approach provides a systematic and scalable method to diagnose issues from massive execution logs, transforming outcome-level signals into actionable interventions which is critical for system reliability.",
-            "benchmarks": "Implied benchmarks would include the efficiency and accuracy of identifying root causes of failures in complex, long-horizon agent execution logs, likely comparing against existing diagnostic methods or manual analysis.",
-            "use_case": "Debugging, monitoring, and maintaining robust AI agent systems, especially those operating in long-horizon or complex environments, by automating and streamlining the identification of underlying causes for operational failures from extensive log data.",
-            "url": "https://arxiv.org/abs/2609.13463"
+            "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
+            "innovation": "Investigates learned request routing mechanisms for disaggregated LLM serving architectures, focusing on estimating completion times to optimize instance assignment for compute-heavy prefill and memory-heavy decode stages.",
+            "benchmarks": "Analyzes performance within disaggregated LLM serving systems, likely comparing routing efficiency and throughput against existing methods found in systems like DistServe, Splitwise, and Mooncake.",
+            "use_case": "Highly relevant for AI engineers designing and optimizing the infrastructure for serving large language models at scale, aiming to reduce latency, improve throughput, and manage resources efficiently in a production environment.",
+            "url": "https://arxiv.org/abs/2609.16206"
         },
         {
-            "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
-            "innovation": "This work explores the orchestration of Small Language Models (SLMs) to address fundamental challenges associated with deploying Large Language Models (LLMs) in agentic pipelines, such as high latency, privacy concerns, connectivity issues, and substantial computational costs. It provides key insights into the practical dynamics and benefits of SLM cooperation.",
-            "benchmarks": "Expected benchmarks would involve comparative analysis of orchestrated SLM systems versus single LLM deployments across metrics like latency, throughput, computational resource consumption, cost-effectiveness, and privacy, within the context of agentic workflows.",
-            "use_case": "Designing and implementing efficient, cost-effective, and privacy-preserving AI agent pipelines by leveraging the collective intelligence of multiple small language models, making it particularly relevant for edge deployments or scenarios with strict resource or data privacy constraints.",
-            "url": "https://arxiv.org/abs/2609.13470"
+            "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+            "innovation": "Introduces CRN v2, a lightweight (34M parameters) logit-level correction module designed to fix specific errors in a frozen language model's outputs without compromising its core capabilities, offering an efficient alternative to full model retraining.",
+            "benchmarks": "Quantifies the module's efficiency (0.73% of text module parameters) and aims to demonstrate effective error correction while preserving base capabilities, implying evaluation against error rates and performance metrics of the original model.",
+            "use_case": "Essential for AI engineers who need to quickly patch or correct specific biases, factual errors, or undesirable behaviors in deployed, frozen large language models, allowing for agile improvements without incurring high computational costs or risks to existing performance.",
+            "url": "https://arxiv.org/abs/2609.16145"
         }
     ]
 }

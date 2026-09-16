@@ -1,137 +1,137 @@
 [
   {
-    "title": "AdaVSkip: Adaptive Visual Token Skipping Across Layers For Efficient MLLMs Inference",
-    "summary": "arXiv:2609.15131v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) require substantial computation to process numerous visual tokens across all transformer layers. Most methods for efficient MLLM inference exploit horizontal redundancy by compressing visual tokens. Beyond token reduction, recent studies exploit vertical redu",
-    "url": "https://arxiv.org/abs/2609.15131",
+    "title": "Do LLMs Have Values? A Quantitative Analysis and Alignment Framework for Values in Large Language Models",
+    "summary": "arXiv:2609.16589v1 Announce Type: new Abstract: As Large Language Models (LLMs) increasingly handle complex subjective tasks, aligning their intentions and behaviors with human values has become a critical scientific challenge. However, current efforts are confounded by a striking behavioral paradox: they fluctuate unpredictably under minor wording",
+    "url": "https://arxiv.org/abs/2609.16589",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
-    "score": 8,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "published_at": "2026-09-16T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
-    "summary": "arXiv:2609.13457v1 Announce Type: new Abstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering tasks. However, these models often fail to capture dynamic temporal patterns, providing only implicit reasoning that lacks the underly",
-    "url": "https://arxiv.org/abs/2609.13457",
+    "title": "A Framework for Generating Valid Context-Specific Benchmarks through Expert Guidance",
+    "summary": "arXiv:2609.16592v1 Announce Type: new Abstract: This paper presents an end-to-end approach for generating context-specific large language model (LLM) benchmark datasets by combining expert input with synthetic data generation. Existing benchmark construction methods often trade off validity and scalability: datasets designed with domain experts can",
+    "url": "https://arxiv.org/abs/2609.16592",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "Bypass Observation: A Conceptual Design of a Non-Intrusive Layer-Wise Semantic Extraction Architecture",
-    "summary": "arXiv:2609.13807v1 Announce Type: new Abstract: Large language models reason in high-dimensional hidden-state spaces, while users observe only final outputs. We introduce Bypass Observation, a non-intrusive layer-wise readout architecture that attaches read-only observation heads to selected Transformer layers without feeding their outputs back int",
-    "url": "https://arxiv.org/abs/2609.13807",
+    "title": "ReDraft, Don't Just Distill: Reference-Driven Revision for Continual VLLM Post-Training",
+    "summary": "arXiv:2609.16639v1 Announce Type: new Abstract: Continual post-training of large multimodal models should add new capabilities while preserving those from pre-training, and the two goals pull in opposite directions. SFT gives explicit target supervision that learns a task from near-zero accuracy, but its off-policy targets move the model far enough",
+    "url": "https://arxiv.org/abs/2609.16639",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "UniCAR-RL: Seeing Better before Thinking Deeper in Visual Mathematics",
-    "summary": "arXiv:2609.13849v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) often struggle with complex mathematical visual reasoning primarily due to a lack of fine-grained perception, causing initial visual hallucinations to directly trigger cascading reasoning failures. In traditional end-to-end reinforcement learning (RL), sparse r",
-    "url": "https://arxiv.org/abs/2609.13849",
+    "title": "VideoMM: Adaptive Macro-Micro Inference for Efficient Video MLLMs",
+    "summary": "arXiv:2609.16722v1 Announce Type: new Abstract: Scaling Multimodal Large Language Models (MLLMs) to long-form video understanding is bottlenecked by the explosion of visual tokens, which saturates context windows and incurs prohibitive costs. Current solutions predominantly rely on auxiliary models for token reduction but face a fundamental dilemma",
+    "url": "https://arxiv.org/abs/2609.16722",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "Overflip: Repetition-Induced Label Flips in Guardrail Models",
-    "summary": "arXiv:2609.15013v1 Announce Type: new Abstract: Guardrail models are classifiers deployed to screen malicious prompts and responses in LLM-based services. To meet latency constraints, many lightweight guardrails adopt compact Transformer backbones (e.g., DeBERTa) that are trained with short context windows (typically 512 tokens) and rely on buckete",
-    "url": "https://arxiv.org/abs/2609.15013",
+    "title": "Layers, Sinks, and Scaling: Adaptive Evidence Selection for Multimodal Large Language Models",
+    "summary": "arXiv:2609.16795v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) can answer knowledge-intensive visual questions by combining visual evidence from images with facts retrieved from external sources. However, MLLMs may overlook relevant evidence in both modalities, attending weakly to the textual sentences or visual regions ne",
+    "url": "https://arxiv.org/abs/2609.16795",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "MAPS: Memory-Aware Predictive Scheduling Framework for Large Language Model Serving",
-    "summary": "arXiv:2609.15359v1 Announce Type: new Abstract: The surge of large language model (LLM) applications on personal devices imposes massive, bursty workloads on cloud serving infrastructure. While prefill-decode disaggregation improves throughput and scalability, memory-bound decode instances often suffer from persistent load imbalance, as output leng",
-    "url": "https://arxiv.org/abs/2609.15359",
+    "title": "CoAdapt: An LLM-based Framework for Adaptive Collaborative Perception in IIoT Robotic Swarms",
+    "summary": "arXiv:2609.16852v1 Announce Type: new Abstract: Industrial IoT environments increasingly deploy autonomous mobile robots for tasks such as material handling, product assembly, or infrastructure inspection. In such deployments, collaborative perception enables robots to share LiDAR observations and collectively construct a richer model of their envi",
+    "url": "https://arxiv.org/abs/2609.16852",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "Evaluation of MLLM-Agnostic Plug-and-Play Keyframe Selection Methods for Long Video Understanding",
-    "summary": "arXiv:2609.13250v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) cannot process every frame of a long video because of limitations in visual-token and computational budgets. Three primary approaches have been proposed to enhance their long-video understanding capabilities: (i) Retraining an MLLM on a large video corpus and",
-    "url": "https://arxiv.org/abs/2609.13250",
+    "title": "FlexEE: Self-Speculative and KV-Compatible Early Exiting for Offloading-Aware LLM Inference",
+    "summary": "arXiv:2609.17008v1 Announce Type: new Abstract: Large language model (LLM) inference is often constrained by both computation and memory, especially in offloading-based deployments where model weights are transferred across memory hierarchies during autoregressive decoding. In this setting, reducing the number of executed layers can lower per-token",
+    "url": "https://arxiv.org/abs/2609.17008",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "(How) Do MLLMs Report Bistable Images Like Humans?",
-    "summary": "arXiv:2609.13254v1 Announce Type: cross Abstract: Bistable images such as the duck-rabbit are classic stimuli in which one image supports multiple mutually incompatible interpretations, typically reported one at a time in humans. We ask whether multimodal large language models (MLLMs) show similar report behavior and what internal computations supp",
-    "url": "https://arxiv.org/abs/2609.13254",
+    "title": "SKIP: a Self-knowledge-guided Step-wise Preference Learning Framework for Concise Reasoning",
+    "summary": "arXiv:2609.17019v1 Announce Type: new Abstract: While Chain-of-Thought (CoT) reasoning has been proven to be effective, it often leads to overthinking, resulting in computational overhead, inference latency, and even degraded performance in large language models (LLMs). Existing concise reasoning frameworks significantly compromise accuracy while c",
+    "url": "https://arxiv.org/abs/2609.17019",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "Bridging Thought and Action: Taming Long-Horizon Instability in Open-Source LLM Agents with a MetaTool-Enhanced ROS Framework",
-    "summary": "arXiv:2609.13335v1 Announce Type: cross Abstract: Large Language Models (LLMs) have enabled more natural human-robot interaction, but open-source models often exhibit unstable long-horizon reasoning and inefficient action execution when deployed in agentic robotic frameworks. This paper presents an enhanced ROS-Agent based architecture that improve",
-    "url": "https://arxiv.org/abs/2609.13335",
+    "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
+    "summary": "arXiv:2609.16057v1 Announce Type: cross Abstract: Unified multimodal large language models (MLLMs) and multi-agent systems have advanced visual generation. However, three limitations remain. (1) Existing methods often distill task-specific experience with limited generalizability. (2) Reflection is often deferred until task completion. (3) Knowledg",
+    "url": "https://arxiv.org/abs/2609.16057",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "Task-Aware Federated Fine-Tuning for MoE-based Large Language Models",
-    "summary": "arXiv:2609.13395v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) has become a widely adopted architecture for Large Language Models (LLMs), as it improves model capacity while limiting computational overhead through sparse expert activation. This property makes MoE-based LLMs particularly attractive for resource-constrained distributed en",
-    "url": "https://arxiv.org/abs/2609.13395",
+    "title": "The Imitation Game: When LLMs Learn to Reason Like Programs via Code-Centric Reasoning Data Synthesis",
+    "summary": "arXiv:2609.16076v1 Announce Type: cross Abstract: Large Language Models (LLMs) excel at programming tasks but frequently fail at deterministic, fine-grained reasoning in natural language, relying heavily on semantic approximations rather than robust symbolic execution. To bridge this gap, we propose MIMIC, a framework that leverages executable code",
+    "url": "https://arxiv.org/abs/2609.16076",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "An Efficient and Modular Framework for Targeted Harm Mitigation in LLMS",
-    "summary": "arXiv:2609.13624v1 Announce Type: cross Abstract: Large Language Models (LLMs) are powerful zero-shot learners but remain prone to misalignment with human preferences, often producing biased, toxic, or otherwise harmful outputs. Existing alignment methods, while effective, are costly and tightly coupled to the model, limiting flexibility and scalab",
-    "url": "https://arxiv.org/abs/2609.13624",
+    "title": "LLMs as Master Forgers: Generating Synthetic Time Series Data for Manufacturing",
+    "summary": "arXiv:2609.16155v1 Announce Type: cross Abstract: This paper presents a novel framework leveraging Large Language Models (LLMs) to generate synthetic time series data for manufacturing processes. Motivated by the scarcity of labeled time-series data in real-world manufacturing settings, which hinders the development of robust machine learning model",
+    "url": "https://arxiv.org/abs/2609.16155",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "AURA: Unified Multimodal Framework for Conversational Music Editing",
-    "summary": "arXiv:2609.14344v1 Announce Type: cross Abstract: Instruction-guided music editors typically process each request independently, limiting their ability to support workflows in which users progressively refine a track. We introduce AURA, a unified multimodal framework for conversational music editing. AURA uses a multimodal large language model to i",
-    "url": "https://arxiv.org/abs/2609.14344",
+    "title": "Permutation-Based Stegomalware in Large Language Models: Threats and Countermeasures",
+    "summary": "arXiv:2609.16193v1 Announce Type: cross Abstract: The difficulty of training large language models (LLMs), together with their ubiquity, raises the threat of stegomalware, where malicious payloads are embedded into model weights. Recent work has demonstrated the use of permutation symmetry in model weights to mitigate these threats, but failed to s",
+    "url": "https://arxiv.org/abs/2609.16193",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "The Universe of Universes: Benefit Yield Functions, Implosion Thresholds, and Infrastructure-Aware Optimization in Multi-LLM Systems",
-    "summary": "arXiv:2609.15314v1 Announce Type: cross Abstract: We introduce the Universe of Universes (UoU) framework, which treats the full ecosystem of major large language models (LLMs) as a structured retrieval corpus and proposes a compositional Automated Reasoning (AR) and Machine Learning (ML) architecture for cross-model retrieval-augmented generation. ",
-    "url": "https://arxiv.org/abs/2609.15314",
+    "title": "RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views",
+    "summary": "arXiv:2609.16936v1 Announce Type: cross Abstract: Large language model (LLM)-powered coding agents have made rapid progress in automating software engineering tasks, yet repository-level issue resolution remains challenging. Beyond generating a plausible patch, an agent must localize relevant code across interdependent files and maintain repository",
+    "url": "https://arxiv.org/abs/2609.16936",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "Concept-Grounded Reasoning with Prompt-Driven Localization for Interpretable Structured Report Generation",
-    "summary": "arXiv:2609.15334v1 Announce Type: cross Abstract: Medical imaging modalities such as ultrasound and X-ray are widely used in clinical practice, where diagnosis follows a structured, evidence-driven workflow aligned with standardized criteria. While multimodal large language models (MLLMs) show promise for automated medical report generation, most e",
-    "url": "https://arxiv.org/abs/2609.15334",
+    "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+    "summary": "arXiv:2609.17516v1 Announce Type: cross Abstract: Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question. We evaluate three ",
+    "url": "https://arxiv.org/abs/2609.17516",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   },
   {
-    "title": "Dynamic Semantic Compression for Efficient Latent-Space Inference in Large Language Models",
-    "summary": "arXiv:2609.15338v1 Announce Type: cross Abstract: Large Language Models (LLMs) primarily perform inference at the token level, resulting in substantial memory overhead and compromised computational efficiency. In this paper, we propose a Dynamic Semantic Extraction and Inference (DSEI) framework, which achieves segment-level inference within the la",
-    "url": "https://arxiv.org/abs/2609.15338",
+    "title": "CausalSmith: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
+    "summary": "arXiv:2607.22511v4 Announce Type: replace-cross Abstract: Automating theoretical research requires generating candidate results and evaluating them reliably. Models keep getting better at the first, while the second remains hard. A common approach asks one large language model (LLM) to review what another produced, yet such reviewers are empiricall",
+    "url": "https://arxiv.org/abs/2607.22511",
     "source": "Arxiv AI",
-    "published_at": "2026-09-15T04:00:00+00:00",
+    "published_at": "2026-09-16T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-15T05:12:15.579643+00:00"
+    "archived_at": "2026-09-16T05:07:33.224429+00:00"
   }
 ]
