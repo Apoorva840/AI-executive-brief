@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 16, 2026",
+    "last_updated": "September 17, 2026",
     "tools": [
         {
+            "Name": "Crawl4AI",
+            "Category": "Web Scraping & Extraction",
+            "Description": "An open-source, LLM-friendly web crawler and scraper that converts complex web pages into clean, structured Markdown, making it ideal for RAG and AI agent workflows.",
+            "Use_Case": "Automated data collection for research, training data generation, and integrating real-time web content into AI workflows.",
+            "URL": "https://github.com/unclecode/crawl4ai"
+        },
+        {
             "Name": "OpenMontage",
-            "Category": "Video Production",
-            "Description": "An agentic video production system that uses AI to automate scripting, asset generation, editing, and final composition.",
-            "Use_Case": "Creating professional-grade videos from scratch, such as explainers, documentaries, and trailers, using AI orchestration.",
+            "Category": "Video Production Automation",
+            "Description": "A comprehensive agentic video production system that manages pipelines for scripting, asset generation, editing, and final composition using various AI tools.",
+            "Use_Case": "Automating the creation of cinematic trailers, animated explainers, and documentary montages from text prompts or reference videos.",
             "URL": "https://github.com/calesthio/OpenMontage"
         },
         {
             "Name": "VoiceStudio",
-            "Category": "Audio/Voice",
-            "Description": "A fully local alternative to hosted voice services for cloning, dubbing, and audiobook creation with support for 646 languages.",
-            "Use_Case": "Generating high-quality, private voice synthesis and video dubbing locally without account or API dependency.",
+            "Category": "Audio Synthesis & Processing",
+            "Description": "A fully local, open-source alternative to ElevenLabs that provides voice cloning, video dubbing, dictation, and audiobook creation.",
+            "Use_Case": "Generating high-quality, expressive synthetic speech and dubbing video content entirely on local hardware without subscriptions or API fees.",
             "URL": "https://github.com/debpalash/VoiceStudio"
-        },
-        {
-            "Name": "Agent Reach",
-            "Category": "AI Agent Tools",
-            "Description": "A tool that equips AI agents with capabilities to browse and search the internet, including Twitter, Reddit, YouTube, and GitHub.",
-            "Use_Case": "Enabling AI agents to perform real-time research, data gathering, and interaction across multiple online platforms without API fees.",
-            "URL": "https://github.com/Panniantong/Agent-Reach"
         }
     ]
 }

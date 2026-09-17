@@ -1,26 +1,26 @@
 {
-    "last_updated": "2024-07-29",
+    "last_updated": "Today's Date",
     "papers": [
         {
-            "title": "Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions",
-            "innovation": "Proposes and studies placement policies for KV caches across various memory tiers (GPU HBM, CPU DRAM, SSD) to optimize resource utilization and cost for long-lived LLM sessions.",
-            "benchmarks": "Evaluates strategies against current practices and system designs (e.g., Mooncake, LMCache, FlexGen, InfiniGen, AttentionStore) to identify optimal memory management for KV caches.",
-            "use_case": "Critical for AI engineers deploying and managing large language models, especially those handling long conversational histories, agentic applications, or document Q&A, where KV cache memory consumption is a significant bottleneck.",
-            "url": "https://arxiv.org/abs/2609.16215"
+            "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+            "innovation": "Introduces an experience-driven policy refinement mechanism for Large Language Model (LLM) trading agents, enabling them to self-evolve and adapt their strategies for gathering evidence, invoking tools, and verifying signals post-deployment, moving beyond static, hand-written policies.",
+            "benchmarks": "Implied performance in adaptive trading environments, measured by agent behavior (evidence gathering, tool invocation, signal verification) and potential trading outcomes, though specific datasets or metrics are not detailed in the abstract.",
+            "use_case": "Developing more robust, adaptive, and autonomous LLM-based agents, particularly in dynamic domains like financial trading, but also generalizable to other complex decision-making systems requiring continuous learning and tool-use refinement.",
+            "url": "https://arxiv.org/abs/2609.17632"
         },
         {
-            "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
-            "innovation": "Investigates learned request routing mechanisms for disaggregated LLM serving architectures, focusing on estimating completion times to optimize instance assignment for compute-heavy prefill and memory-heavy decode stages.",
-            "benchmarks": "Analyzes performance within disaggregated LLM serving systems, likely comparing routing efficiency and throughput against existing methods found in systems like DistServe, Splitwise, and Mooncake.",
-            "use_case": "Highly relevant for AI engineers designing and optimizing the infrastructure for serving large language models at scale, aiming to reduce latency, improve throughput, and manage resources efficiently in a production environment.",
-            "url": "https://arxiv.org/abs/2609.16206"
+            "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
+            "innovation": "Proposes using textual captions as a reusable and scalable form of episodic memory for AI systems operating on egocentric video. This approach directly addresses practical constraints of current Vision-Language Models (VLMs), such as bounded frame budgets, high visual-token costs, and long-context retrieval failures, and introduces a new benchmark (CapMem) to evaluate it.",
+            "benchmarks": "CapMem, a newly proposed benchmark specifically designed for evaluating caption-based episodic memory in egocentric video.",
+            "use_case": "Building practical and efficient memory systems for wearable AI assistants (e.g., smart glasses), improving long-term contextual understanding in embodied AI, and overcoming VLM limitations in processing continuous, real-world visual streams.",
+            "url": "https://arxiv.org/abs/2609.17688"
         },
         {
-            "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
-            "innovation": "Introduces CRN v2, a lightweight (34M parameters) logit-level correction module designed to fix specific errors in a frozen language model's outputs without compromising its core capabilities, offering an efficient alternative to full model retraining.",
-            "benchmarks": "Quantifies the module's efficiency (0.73% of text module parameters) and aims to demonstrate effective error correction while preserving base capabilities, implying evaluation against error rates and performance metrics of the original model.",
-            "use_case": "Essential for AI engineers who need to quickly patch or correct specific biases, factual errors, or undesirable behaviors in deployed, frozen large language models, allowing for agile improvements without incurring high computational costs or risks to existing performance.",
-            "url": "https://arxiv.org/abs/2609.16145"
+            "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
+            "innovation": "Presents NeMo Data Designer (NDD), an open-source, general-purpose, and extensible framework for multimodal synthetic data generation (SDG). Its declarative configuration format allows users to define dataset columns across various modalities (text, images, video, audio), streamlining the creation of diverse and high-quality synthetic data.",
+            "benchmarks": "As a framework, its utility is primarily measured by its extensibility, intuitive declarative format, and support for generating diverse multimodal data to address various AI development needs and downstream task benchmarks. Specific performance benchmarks for the framework itself are not detailed in the abstract.",
+            "use_case": "Overcoming data scarcity, augmenting existing datasets, creating privacy-preserving datasets, enabling rapid prototyping for new AI models and modalities, and generating diverse training data for Large Language Models, vision models, and speech recognition systems.",
+            "url": "https://arxiv.org/abs/2609.17699"
         }
     ]
 }

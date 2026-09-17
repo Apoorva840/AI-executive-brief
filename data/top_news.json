@@ -1,42 +1,42 @@
 [
   {
-    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-    "summary": "arXiv:2609.16338v1 Announce Type: new Abstract: Ternary Large Language Models (LLM) store every weight as one of three symbols $\\{-1,0,+1\\}$, so the cost of a ternary model is conventionally referenced to the information-theoretic $\\log_2 3 \\approx 1.585$ bits per weight. The prevailing deployment format packs five ternary weights into one byte (fi",
-    "url": "https://arxiv.org/abs/2609.16338",
+    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+    "summary": "arXiv:2609.18842v1 Announce Type: new Abstract: The scaling laws hold that a language model grows more capable with more parameters and more training data, and Mixture-of-Experts (MoE) architectures have ridden these laws to remarkable results, activating only a fraction of an enormous stored parameter bank for each token. That success is built on ",
+    "url": "https://arxiv.org/abs/2609.18842",
     "source": "Arxiv AI",
-    "published_at": "2026-09-16T04:00:00+00:00",
-    "score": 7
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 8
   },
   {
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "summary": "",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "source": "Hugging Face Blog",
-    "published_at": "2026-09-15T16:00:44+00:00",
-    "score": 7
-  },
-  {
-    "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
-    "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At $1.38 per hour of voice conversation, Google significantly undercuts OpenAI's GPT-Live-1, which should still sound more natural thanks to full duplex. The article Google launc",
-    "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
-    "source": "The Decoder",
-    "published_at": "2026-09-15T18:23:20+00:00",
-    "score": 7
-  },
-  {
-    "title": "AI labs have a data trust problem that their policies haven't solved",
-    "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work. From boardrooms to research labs, AI companies still have a data trust problem. The ",
-    "url": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/",
-    "source": "The Decoder",
-    "published_at": "2026-09-15T17:52:05+00:00",
-    "score": 7
-  },
-  {
-    "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-    "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
-    "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
     "source": "Wired AI",
-    "published_at": "2026-09-15T18:00:09+00:00",
-    "score": 5
+    "published_at": "2026-09-16T22:07:24+00:00",
+    "score": 7
+  },
+  {
+    "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
+    "summary": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving models as immediate risks. The article EU president warns AI agents &quot;escaping their environment&quot; are just a preview of what&#039;s coming appeared first on The Dec",
+    "url": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+    "source": "The Decoder",
+    "published_at": "2026-09-16T19:02:25+00:00",
+    "score": 7
+  },
+  {
+    "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
+    "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices. The approach doesn't protect against mistakes, though. The system only ",
+    "url": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/",
+    "source": "The Decoder",
+    "published_at": "2026-09-16T15:19:19+00:00",
+    "score": 7
+  },
+  {
+    "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+    "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass conversational language models following TypeSafe AI&#8217;s release of Jev, a specialised System One Model design",
+    "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+    "source": "AI News",
+    "published_at": "2026-09-16T10:31:09+00:00",
+    "score": 7
   }
 ]

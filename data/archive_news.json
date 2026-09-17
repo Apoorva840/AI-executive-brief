@@ -1,5 +1,140 @@
 [
   {
+    "title": "MoRE: Mixture of Reused Experts",
+    "summary": "arXiv:2609.18176v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) architectures decouple model capacity from computational cost, yet incur high memory footprints as parameters grow linearly with the number of experts. Recurrent Transformers achieve parameter efficiency by reusing layer weights, but typically lack the capacity for competiti",
+    "url": "https://arxiv.org/abs/2609.18176",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 8,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "Anchoring What Matters: A Dual-Level Learning Framework for Visually-Grounded Multimodal Reasoning",
+    "summary": "arXiv:2609.18057v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has significantly improved the reasoning capabilities of large vision-language models (LVLMs). However, standard on-policy RLVR algorithms face a critical optimization bottleneck in preserving and reinforcing visually grounded reasoning behaviors: ",
+    "url": "https://arxiv.org/abs/2609.18057",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "Beyond Truncation: Rethinking LLM Decoding as Ensemble Pruning",
+    "summary": "arXiv:2609.18723v1 Announce Type: new Abstract: We introduce Mahalanobis-Ensemble Decoding (ME-Decoding), a novel Large Language Model (LLM) decoding framework that frames candidate token selection as ensemble pruning. Existing selection strategies rely predominantly on scalar probabilities, ignoring geometric semantic relationships and causing can",
+    "url": "https://arxiv.org/abs/2609.18723",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "PentestChain: A Cost-Aware, MCP-Orchestrated Framework for Automated Penetration Testing with Free-Tier LLMs",
+    "summary": "arXiv:2609.18120v1 Announce Type: cross Abstract: AI-driven penetration testing has been demonstrated with premium frontier models such as GPT-4, but the per-engagement token cost makes continuous, automated testing unaffordable for the smaller organisations that need it most. This paper presents PentestChain, a ten-phase automated penetration test",
+    "url": "https://arxiv.org/abs/2609.18120",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "MiST: Mid-Training LLMs for Cybersecurity",
+    "summary": "arXiv:2609.18496v1 Announce Type: cross Abstract: Cybersecurity combines high-stakes analysis with complex technical language, making it an impactful and challenging domain for LLMs. We present MiST (Mid-trained Security Transformer), a suite of 8B and 32B models that achieve strong performance on public cybersecurity benchmarks. We use mid-trainin",
+    "url": "https://arxiv.org/abs/2609.18496",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "Generalist-Specialist Mixture-of-Experts for Rare Pathology Detection in Multimodal Imaging",
+    "summary": "arXiv:2609.18688v1 Announce Type: cross Abstract: AI models for multimodal medical imaging must balance modality-specific specialization with cross-modal shared representations, a trade-off that pure Mixture-of-Experts (MoE) architectures currently fail to satisfy. Expert-based routing improves in-domain learning but may sacrifice cross-modal signa",
+    "url": "https://arxiv.org/abs/2609.18688",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "MIRAGE: How Conversation State Shapes Historical Evidence Use in Multimodal Personal Agents",
+    "summary": "arXiv:2609.19059v1 Announce Type: cross Abstract: Multimodal large language model (MLLM) agents are increasingly used as personal assistants for long-running tasks. Their utility depends on continuity: agents must retrieve and use earlier evidence across dialogue, files, and workspace state. However, agents can generate plausible answers even when ",
+    "url": "https://arxiv.org/abs/2609.19059",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "LM Fight Arena: Benchmarking Large Multimodal Models via Game Competition",
+    "summary": "arXiv:2510.08928v2 Announce Type: replace Abstract: Existing benchmarks for large multimodal models (LMMs) often fail to capture their performance in real-time, adversarial environments. We introduce LM Fight Arena (Large Model Fight Arena), a novel framework that evaluates LMMs by pitting them against each other in the classic fighting game Mortal",
+    "url": "https://arxiv.org/abs/2510.08928",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search",
+    "summary": "arXiv:2601.23232v4 Announce Type: replace-cross Abstract: In recent years, large language models (LLMs) have made rapid progress in information retrieval, yet existing research has mainly focused on text or static multimodal settings. Open-domain video shot retrieval, which involves richer temporal structure and more complex semantics, still lacks ",
+    "url": "https://arxiv.org/abs/2601.23232",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "How to Compress KV Cache in RL Post-Training? Shadow Mask Distillation for Memory-Efficient Alignment",
+    "summary": "arXiv:2605.06850v2 Announce Type: replace-cross Abstract: Reinforcement Learning (RL) has emerged as a crucial paradigm for unlocking the advanced reasoning capabilities of Large Language Models (LLMs), encompassing frameworks like RLHF and RLAIF. Regardless of the specific optimization algorithm (e.g., PPO, GRPO, or Online DPO), online RL inherent",
+    "url": "https://arxiv.org/abs/2605.06850",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "Mozilla's new Smart Window assistant runs on Mistral's models",
+    "summary": "Mistral and Mozilla are teaming up to offer AI-powered browsing that puts privacy first. The article Mozilla&#039;s new Smart Window assistant runs on Mistral&#039;s models appeared first on The Decoder.",
+    "url": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/",
+    "source": "The Decoder",
+    "published_at": "2026-09-16T15:01:38+00:00",
+    "score": 7,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "Washington Won’t Be Regulating AI Anytime Soon",
+    "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+    "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+    "source": "Wired AI",
+    "published_at": "2026-09-16T21:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+    "summary": "arXiv:2609.17632v1 Announce Type: new Abstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This limits their ability to adapt how they gather evidence, invoke tools, verify signals,",
+    "url": "https://arxiv.org/abs/2609.17632",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
+    "summary": "arXiv:2609.17695v1 Announce Type: new Abstract: A large language model (LLM) agent can follow more graph paths without acquiring more independent evidence. GraphEcho tests whether agents mistake these repeated encounters for additional corroboration. The benchmark varies path counts and evidential origins while holding evidence content fixed, and e",
+    "url": "https://arxiv.org/abs/2609.17695",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
+    "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
+    "summary": "arXiv:2609.17699v1 Announce Type: new Abstract: We present NeMo Data Designer (NDD), an open-source, general-purpose framework for multi-modal synthetic data generation (SDG). Designed to be intuitive to use, NDD provides a declarative configuration format in which human and/or agent users define each dataset column, with column types spanning text",
+    "url": "https://arxiv.org/abs/2609.17699",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-17T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-17T05:10:11.635788+00:00"
+  },
+  {
     "title": "Do LLMs Have Values? A Quantitative Analysis and Alignment Framework for Values in Large Language Models",
     "summary": "arXiv:2609.16589v1 Announce Type: new Abstract: As Large Language Models (LLMs) increasingly handle complex subjective tasks, aligning their intentions and behaviors with human values has become a critical scientific challenge. However, current efforts are confounded by a striking behavioral paradox: they fluctuate unpredictably under minor wording",
     "url": "https://arxiv.org/abs/2609.16589",
@@ -2563,140 +2698,5 @@
     "published_at": "2026-08-24T04:00:00+00:00",
     "score": 7,
     "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation",
-    "summary": "arXiv:2608.20756v1 Announce Type: cross Abstract: While multimodal retrieval-augmented generation (RAG) systems increasingly rely on images as external knowledge sources, the introduction of poisoned visual evidence can severely compromise multimodal large language model (MLLM) generation. Unlike prior attacks that rely on altering textual metadata",
-    "url": "https://arxiv.org/abs/2608.20756",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-24T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "AgentOCR: Reimagining Agent History via Optical Self-Compression",
-    "summary": "arXiv:2601.04786v3 Announce Type: replace-cross Abstract: Recent advances in large language models (LLMs) enable agentic systems trained with reinforcement learning (RL) over multi-turn interaction, but practical deployment is bottlenecked by rapidly growing textual histories that inflate token and memory costs. We introduce AgentOCR, a framework t",
-    "url": "https://arxiv.org/abs/2601.04786",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-24T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-    "summary": "arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's terminal-based coding agent -- pre-loaded with relevant ",
-    "url": "https://arxiv.org/abs/2608.20342",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-24T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
-    "summary": "arXiv:2608.20378v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This study demonstrates that this architectural disconnec",
-    "url": "https://arxiv.org/abs/2608.20378",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-24T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
-    "summary": "arXiv:2608.20384v1 Announce Type: new Abstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-understandable explanations of the cues driving their decisions -- a dual objective that current high-capacity models, notably Transfor",
-    "url": "https://arxiv.org/abs/2608.20384",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-24T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
-    "summary": "arXiv:2608.20389v1 Announce Type: new Abstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in context: the LLM planner chooses among skill representations exposed in its system prompt, without an explicit embedding-based retri",
-    "url": "https://arxiv.org/abs/2608.20389",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-24T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
-    "summary": "arXiv:2608.20414v1 Announce Type: new Abstract: Vision-language models are increasingly used for multimodal question answering, yet their ability to reconstruct latent spatial structure from a single image remains difficult to isolate. Broad benchmarks often combine perception, optical character recognition, domain knowledge, linguistic priors, and",
-    "url": "https://arxiv.org/abs/2608.20414",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-24T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "Dual-Cache Latent Space Communication between Heterogeneous Language Models",
-    "summary": "arXiv:2608.20617v1 Announce Type: new Abstract: Multi-agent LLM systems split work across models, so answering often requires knowledge that sits in another agent's context: a Sharer has encoded information that a Receiver needs to complete its task. They usually communicate by exchanging text, which puts autoregressive decoding on the critical pat",
-    "url": "https://arxiv.org/abs/2608.20617",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-24T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents",
-    "summary": "arXiv:2608.20631v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated the ability to solve multi-step tasks requiring planning, tool use, and external information access, yet growing execution histories increase inference cost and expose reasoning to outdated, irrelevant, or misleading information, potentially degradin",
-    "url": "https://arxiv.org/abs/2608.20631",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-24T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "Calibrating Criterion Revision in LLM Agents: Failure Modes and a Trace-Anchored Protocol",
-    "summary": "arXiv:2608.20729v1 Announce Type: new Abstract: Language-model agents can improve after failure or carry text across episodes without revising what counts as success. We study the narrower attribution problem of criterion revision: when criterion K0 accepts an outcome violating a broader commitment B, what observations justify saying that the syste",
-    "url": "https://arxiv.org/abs/2608.20729",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-24T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence",
-    "summary": "arXiv:2608.20820v1 Announce Type: new Abstract: Large language models (LLMs) are vulnerable to multi-turn jailbreak attacks that progressively manipulate conversation context. Existing certified robustness methods are limited to single-turn inputs; naive multi-turn composition yields bounds that degrade exponentially in the number of turns. We intr",
-    "url": "https://arxiv.org/abs/2608.20820",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-24T04:00:00+00:00",
-    "score": 6,
-    "archived_at": "2026-08-24T10:02:13.055557+00:00"
-  },
-  {
-    "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
-    "summary": "arXiv:2606.04246v1 Announce Type: new Abstract: Automatic generation of RTL code for digital hardware designs remains challenging due to long-horizon reasoning, multi-step dependencies, and strict correctness constraints in Verilog and VHDL. We present StepPRM-RTL, a novel framework that combines stepwise trajectory modeling, process-reward modelin",
-    "url": "https://arxiv.org/abs/2606.04246",
-    "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
-  },
-  {
-    "title": "Parthenon Law: A Self-Evolving Legal-Agent Framework",
-    "summary": "arXiv:2606.04602v1 Announce Type: new Abstract: As agents grow more capable, legal-domain LLM agents promise to turn document-heavy matters into reviewable work products -- yet reliable deployment faces three obstacles: no large-scale evidence on how today's strongest model-and-harness combinations behave on end-to-end legal matters; no agent archi",
-    "url": "https://arxiv.org/abs/2606.04602",
-    "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
-  },
-  {
-    "title": "FALSIFYBENCH: Evaluating Inductive Reasoning in LLMs with Rule Discovery Games",
-    "summary": "arXiv:2606.04751v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous agents in scientific tasks. Yet whether these systems can effectively engage in forms of inductive reasoning relevant to scientific discovery remains an open question. In this work, we introduce FALSIFYBENCH, an evaluation framework ",
-    "url": "https://arxiv.org/abs/2606.04751",
-    "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
-  },
-  {
-    "title": "Gravity-Aware Hierarchical Routing for Lightweight SensorLLM on Human Activity Recognition",
-    "summary": "arXiv:2606.04019v1 Announce Type: cross Abstract: Recent studies on sensor-language alignment have shown that two-stage frameworks can improve the semantic modeling ability of wearable-sensor human activity recognition (HAR), where SensorLLM-style methods first perform motion-to-language alignment and then fine-tune the model for downstream tasks. ",
-    "url": "https://arxiv.org/abs/2606.04019",
-    "source": "Arxiv AI",
-    "published_at": "2026-06-04T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-06-04T05:24:54.692798+00:00"
   }
 ]
