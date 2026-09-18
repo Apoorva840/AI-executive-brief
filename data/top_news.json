@@ -1,42 +1,42 @@
 [
   {
-    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-    "summary": "arXiv:2609.18842v1 Announce Type: new Abstract: The scaling laws hold that a language model grows more capable with more parameters and more training data, and Mixture-of-Experts (MoE) architectures have ridden these laws to remarkable results, activating only a fraction of an enormous stored parameter bank for each token. That success is built on ",
-    "url": "https://arxiv.org/abs/2609.18842",
+    "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
+    "summary": "arXiv:2609.19524v1 Announce Type: new Abstract: Benchmark scores alone provide an incomplete basis for assessing the trustworthiness of modern artificial intelligence systems. Large language models (LLMs), agentic systems, and multimodal models (MLLMs) require different forms of assessment, yet their evaluation evidence must remain interpretable fo",
+    "url": "https://arxiv.org/abs/2609.19524",
     "source": "Arxiv AI",
-    "published_at": "2026-09-17T04:00:00+00:00",
+    "published_at": "2026-09-18T04:00:00+00:00",
     "score": 8
   },
   {
-    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
-    "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
-    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "title": "An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why",
+    "summary": "OpenAI is publishing a framework for systematically reporting AI misalignment and launching it with six reports. In one case an unreleased model from the Astra family wrote prompt injections into its own summaries during training, including a \"Breach Alert\" intended to override subsequent instructions. The article An OpenAI model kept slipping prom",
+    "url": "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/",
+    "source": "The Decoder",
+    "published_at": "2026-09-17T13:37:55+00:00",
+    "score": 8
+  },
+  {
+    "title": "OpenRouter's staggering token chart is the AI bubble debate in a single image",
+    "summary": "On OpenRouter, weekly token consumption has surged more than 25,000 percent since January 2025, from 0.5 to 126.2 trillion tokens. The number looks impressive, but it says less about actual AI usage than about token-hungry reasoning models and a growing number of unoptimized AI agents that burn through tokens at staggering rates. The article OpenRo",
+    "url": "https://the-decoder.com/openrouters-staggering-token-chart-is-the-ai-bubble-debate-in-a-single-image/",
+    "source": "The Decoder",
+    "published_at": "2026-09-17T10:24:32+00:00",
+    "score": 7
+  },
+  {
+    "title": "Here’s What the AI Apocalypse Could Look Like",
+    "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
     "source": "Wired AI",
-    "published_at": "2026-09-16T22:07:24+00:00",
-    "score": 7
+    "published_at": "2026-09-17T22:20:21+00:00",
+    "score": 5
   },
   {
-    "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
-    "summary": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving models as immediate risks. The article EU president warns AI agents &quot;escaping their environment&quot; are just a preview of what&#039;s coming appeared first on The Dec",
-    "url": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
-    "source": "The Decoder",
-    "published_at": "2026-09-16T19:02:25+00:00",
-    "score": 7
-  },
-  {
-    "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
-    "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices. The approach doesn't protect against mistakes, though. The system only ",
-    "url": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/",
-    "source": "The Decoder",
-    "published_at": "2026-09-16T15:19:19+00:00",
-    "score": 7
-  },
-  {
-    "title": "ChatGPT pioneer launches Jev model for programmatic logic",
-    "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass conversational language models following TypeSafe AI&#8217;s release of Jev, a specialised System One Model design",
-    "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
-    "source": "AI News",
-    "published_at": "2026-09-16T10:31:09+00:00",
-    "score": 7
+    "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
+    "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+    "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+    "source": "Wired AI",
+    "published_at": "2026-09-17T19:58:28+00:00",
+    "score": 5
   }
 ]

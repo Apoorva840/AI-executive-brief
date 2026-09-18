@@ -1,26 +1,26 @@
 {
-    "last_updated": "Today's Date",
+    "last_updated": "June 23, 2024",
     "papers": [
         {
-            "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-            "innovation": "Introduces an experience-driven policy refinement mechanism for Large Language Model (LLM) trading agents, enabling them to self-evolve and adapt their strategies for gathering evidence, invoking tools, and verifying signals post-deployment, moving beyond static, hand-written policies.",
-            "benchmarks": "Implied performance in adaptive trading environments, measured by agent behavior (evidence gathering, tool invocation, signal verification) and potential trading outcomes, though specific datasets or metrics are not detailed in the abstract.",
-            "use_case": "Developing more robust, adaptive, and autonomous LLM-based agents, particularly in dynamic domains like financial trading, but also generalizable to other complex decision-making systems requiring continuous learning and tool-use refinement.",
-            "url": "https://arxiv.org/abs/2609.17632"
+            "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+            "innovation": "Proposes a 'self-evolving operating system layer' to virtualize foundation models and unify fragmented AI application stacks, managing state, memory, budgets, and guardrails for complex compound agentic systems.",
+            "benchmarks": "Addresses architectural and deployment challenges; implies the need for system-level benchmarks measuring cohesion, resource management, and state consistency for agentic systems.",
+            "use_case": "Designing, building, and deploying robust, scalable, and manageable compound AI agent systems by providing a unified operating environment and abstracting underlying complexities.",
+            "url": "https://arxiv.org/abs/2609.19203"
         },
         {
-            "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
-            "innovation": "Proposes using textual captions as a reusable and scalable form of episodic memory for AI systems operating on egocentric video. This approach directly addresses practical constraints of current Vision-Language Models (VLMs), such as bounded frame budgets, high visual-token costs, and long-context retrieval failures, and introduces a new benchmark (CapMem) to evaluate it.",
-            "benchmarks": "CapMem, a newly proposed benchmark specifically designed for evaluating caption-based episodic memory in egocentric video.",
-            "use_case": "Building practical and efficient memory systems for wearable AI assistants (e.g., smart glasses), improving long-term contextual understanding in embodied AI, and overcoming VLM limitations in processing continuous, real-world visual streams.",
-            "url": "https://arxiv.org/abs/2609.17688"
+            "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+            "innovation": "Identifies and provides a 'closed-world resolution' mechanism to prevent tool hallucination in LLM agents, a critical failure mode where agents call non-existent tools or pass invalid arguments.",
+            "benchmarks": "Aims to improve agent reliability and reduce failure rates in tool-augmented LLM applications, enhancing performance on existing tool-use benchmarks through robust error prevention.",
+            "use_case": "Enhancing the reliability, safety, and trustworthiness of tool-augmented LLM agents, especially for applications requiring precise and error-free interaction with external tools.",
+            "url": "https://arxiv.org/abs/2609.19425"
         },
         {
-            "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
-            "innovation": "Presents NeMo Data Designer (NDD), an open-source, general-purpose, and extensible framework for multimodal synthetic data generation (SDG). Its declarative configuration format allows users to define dataset columns across various modalities (text, images, video, audio), streamlining the creation of diverse and high-quality synthetic data.",
-            "benchmarks": "As a framework, its utility is primarily measured by its extensibility, intuitive declarative format, and support for generating diverse multimodal data to address various AI development needs and downstream task benchmarks. Specific performance benchmarks for the framework itself are not detailed in the abstract.",
-            "use_case": "Overcoming data scarcity, augmenting existing datasets, creating privacy-preserving datasets, enabling rapid prototyping for new AI models and modalities, and generating diverse training data for Large Language Models, vision models, and speech recognition systems.",
-            "url": "https://arxiv.org/abs/2609.17699"
+            "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+            "innovation": "Introduces Multi-agent Auto-formalization (MAGS) to formally guarantee the safety and security of outputs generated by LLM coding agents, addressing limitations of current methods like fuzz testing and static analysis.",
+            "benchmarks": "Aims to improve safety, security, and correctness metrics for agent-generated code, providing more stringent guarantees and reducing the risk of critical failures in agentic systems.",
+            "use_case": "Developing and deploying LLM coding agents and other agentic systems in critical applications where safety, security, and correctness of outputs (e.g., code) are paramount and require formal verification.",
+            "url": "https://arxiv.org/abs/2609.19391"
         }
     ]
 }

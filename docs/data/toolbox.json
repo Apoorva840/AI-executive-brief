@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 17, 2026",
+    "last_updated": "September 18, 2026",
     "tools": [
         {
-            "Name": "Crawl4AI",
-            "Category": "Web Scraping & Extraction",
-            "Description": "An open-source, LLM-friendly web crawler and scraper that converts complex web pages into clean, structured Markdown, making it ideal for RAG and AI agent workflows.",
-            "Use_Case": "Automated data collection for research, training data generation, and integrating real-time web content into AI workflows.",
-            "URL": "https://github.com/unclecode/crawl4ai"
+            "Name": "Claude Knowledge Work Plugins",
+            "Category": "Productivity/AI Agents",
+            "Description": "A collection of plugins for Claude Cowork and Claude Code that add role-specific skills, connectors, and slash commands.",
+            "Use_Case": "Automating specific job functions like sales, product management, and legal analysis by integrating with enterprise tools.",
+            "URL": "https://github.com/anthropics/knowledge-work-plugins"
         },
         {
-            "Name": "OpenMontage",
-            "Category": "Video Production Automation",
-            "Description": "A comprehensive agentic video production system that manages pipelines for scripting, asset generation, editing, and final composition using various AI tools.",
-            "Use_Case": "Automating the creation of cinematic trailers, animated explainers, and documentary montages from text prompts or reference videos.",
-            "URL": "https://github.com/calesthio/OpenMontage"
+            "Name": "Ouroboros",
+            "Category": "Agent OS",
+            "Description": "A local-first Agent OS that treats AI coding as a structured, replayable, and evolutionary specification process.",
+            "Use_Case": "Turning vague ideas into verified codebases by using a Socratic interview gate and multi-stage automated evaluation loops.",
+            "URL": "https://github.com/Q00/ouroboros"
         },
         {
-            "Name": "VoiceStudio",
-            "Category": "Audio Synthesis & Processing",
-            "Description": "A fully local, open-source alternative to ElevenLabs that provides voice cloning, video dubbing, dictation, and audiobook creation.",
-            "Use_Case": "Generating high-quality, expressive synthetic speech and dubbing video content entirely on local hardware without subscriptions or API fees.",
-            "URL": "https://github.com/debpalash/VoiceStudio"
+            "Name": "OpenViking",
+            "Category": "Knowledge Management / Context Database",
+            "Description": "A self-evolving context database for AI agents that organizes memory, RAG knowledge, and skills as a virtual filesystem.",
+            "Use_Case": "Enabling AI agents to store, search, and recall knowledge across long-term sessions, significantly improving retrieval accuracy.",
+            "URL": "https://github.com/volcengine/OpenViking"
         }
     ]
 }
