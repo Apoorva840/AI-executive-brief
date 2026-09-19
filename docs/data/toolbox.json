@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 18, 2026",
+    "last_updated": "September 19, 2026",
     "tools": [
         {
-            "Name": "Claude Knowledge Work Plugins",
-            "Category": "Productivity/AI Agents",
-            "Description": "A collection of plugins for Claude Cowork and Claude Code that add role-specific skills, connectors, and slash commands.",
-            "Use_Case": "Automating specific job functions like sales, product management, and legal analysis by integrating with enterprise tools.",
-            "URL": "https://github.com/anthropics/knowledge-work-plugins"
+            "Name": "Claude-Red",
+            "Category": "Security",
+            "Description": "A curated library of offensive security skills designed to prime Claude for red team operations, from vulnerability research to exploit development.",
+            "Use_Case": "Authorized red team engagements, security research, and CTF preparation.",
+            "URL": "https://github.com/SnailSploit/Claude-Red"
         },
         {
-            "Name": "Ouroboros",
-            "Category": "Agent OS",
-            "Description": "A local-first Agent OS that treats AI coding as a structured, replayable, and evolutionary specification process.",
-            "Use_Case": "Turning vague ideas into verified codebases by using a Socratic interview gate and multi-stage automated evaluation loops.",
-            "URL": "https://github.com/Q00/ouroboros"
+            "Name": "OpenSRE",
+            "Category": "Operations",
+            "Description": "An open-source framework for building and running AI SRE agents for incident response and production debugging on your own infrastructure.",
+            "Use_Case": "Automating incident diagnosis and remediation across logs, metrics, and traces.",
+            "URL": "https://github.com/Tracer-Cloud/opensre"
         },
         {
-            "Name": "OpenViking",
-            "Category": "Knowledge Management / Context Database",
-            "Description": "A self-evolving context database for AI agents that organizes memory, RAG knowledge, and skills as a virtual filesystem.",
-            "Use_Case": "Enabling AI agents to store, search, and recall knowledge across long-term sessions, significantly improving retrieval accuracy.",
-            "URL": "https://github.com/volcengine/OpenViking"
+            "Name": "FastVideo",
+            "Category": "AI / Generative Media",
+            "Description": "A unified inference and post-training framework optimized for accelerated, high-quality video generation.",
+            "Use_Case": "High-performance video generation, real-time video editing, and training of video diffusion models.",
+            "URL": "https://github.com/hao-ai-lab/FastVideo"
         }
     ]
 }
