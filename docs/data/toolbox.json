@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 19, 2026",
+    "last_updated": "September 20, 2026",
     "tools": [
         {
-            "Name": "Claude-Red",
-            "Category": "Security",
-            "Description": "A curated library of offensive security skills designed to prime Claude for red team operations, from vulnerability research to exploit development.",
-            "Use_Case": "Authorized red team engagements, security research, and CTF preparation.",
-            "URL": "https://github.com/SnailSploit/Claude-Red"
+            "Name": "Octop",
+            "Category": "AI Agent Platforms",
+            "Description": "A smarter, self-hosted AI assistant platform supporting multi-user, multi-agent architectures.",
+            "Use_Case": "Automating household and team tasks, providing private, local-first agent orchestration with IM and IDE integrations.",
+            "URL": "https://github.com/TencentCloud/Octop"
         },
         {
-            "Name": "OpenSRE",
-            "Category": "Operations",
-            "Description": "An open-source framework for building and running AI SRE agents for incident response and production debugging on your own infrastructure.",
-            "Use_Case": "Automating incident diagnosis and remediation across logs, metrics, and traces.",
-            "URL": "https://github.com/Tracer-Cloud/opensre"
+            "Name": "SkillSpector",
+            "Category": "AI Security",
+            "Description": "A security scanner designed to detect vulnerabilities, malicious patterns, and risks in AI agent skills.",
+            "Use_Case": "Auditing and gating the installation of new AI agent skills to ensure security and prevent data exfiltration.",
+            "URL": "https://github.com/NVIDIA/SkillSpector"
         },
         {
-            "Name": "FastVideo",
-            "Category": "AI / Generative Media",
-            "Description": "A unified inference and post-training framework optimized for accelerated, high-quality video generation.",
-            "Use_Case": "High-performance video generation, real-time video editing, and training of video diffusion models.",
-            "URL": "https://github.com/hao-ai-lab/FastVideo"
+            "Name": "GLiNER2",
+            "Category": "Information Extraction",
+            "Description": "A unified schema-based model for Named Entity Recognition, classification, and structured data extraction.",
+            "Use_Case": "Extracting entities, relations, and structured records from complex text using a flexible, schema-driven approach.",
+            "URL": "https://github.com/fastino-ai/GLiNER2"
         }
     ]
 }

@@ -1,101 +1,56 @@
 [
   {
-    "title": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
-    "summary": "AI models think out loud today, but Google Deepmind says that transparency is at risk. The article Visible chains of thought are a safety advantage for AI, but that transparency is slipping away appeared first on The Decoder.",
-    "url": "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/",
+    "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
+    "summary": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43. Only the search strategy adapts, while the underlying AI model stays unchanged. The article Google Deepmind&#039;s Dream-RS",
+    "url": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/",
     "source": "The Decoder",
-    "published_at": "2026-09-18T14:32:49+00:00",
+    "published_at": "2026-09-19T11:08:06+00:00",
     "score": 7,
-    "archived_at": "2026-09-19T04:54:54.560552+00:00"
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
   },
   {
-    "title": "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think",
-    "summary": "For the first time, Anthropic is releasing metrics on how it builds its own AI. Claude already \"leads\" 26 percent of the work on future models, up from under one percent in February. But the underlying scale is fuzzy, the scoring comes from Claude itself, and \"lead\" means less than it sounds. The article Anthropic wants you to know Claude leads a q",
-    "url": "https://the-decoder.com/anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesnt-mean-what-you-think/",
+    "title": "Google's Gemini also accidentally hacked three real companies during security testing",
+    "summary": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login credentials from public sources. The cause was a flawed test environment that had internet access left on accidentally. The same firm triggered similar breakouts at OpenAI, A",
+    "url": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
     "source": "The Decoder",
-    "published_at": "2026-09-18T14:06:50+00:00",
+    "published_at": "2026-09-19T09:31:03+00:00",
     "score": 7,
-    "archived_at": "2026-09-19T04:54:54.560552+00:00"
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
   },
   {
-    "title": "OpenAI takes aim at the legal market with Astra for Law",
-    "summary": "OpenAI has introduced Astra for Law, a version of its GPT-6 Astra model built for legal work. The article OpenAI takes aim at the legal market with Astra for Law appeared first on The Decoder.",
-    "url": "https://the-decoder.com/openai-takes-aim-at-the-legal-market-with-astra-for-law/",
+    "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
+    "summary": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers. That's only going to worsen existing quality problems with submissions and reviews. The article AI conference ICLR is drowning in ",
+    "url": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/",
     "source": "The Decoder",
-    "published_at": "2026-09-18T13:42:43+00:00",
-    "score": 7,
-    "archived_at": "2026-09-19T04:54:54.560552+00:00"
-  },
-  {
-    "title": "42 leading mathematicians warn that AI existential risk is real and urgent",
-    "summary": "42 Fellows of the Royal Society, including Fields Medal winners Martin Hairer and Peter Scholze, warn of existential AI risks in an open letter. Leading models have solved open research problems within months, and these capabilities could be just as effective in cyberweapons or bioweapons. By the time the public grasps the situation, it may be too ",
-    "url": "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/",
-    "source": "The Decoder",
-    "published_at": "2026-09-18T11:41:16+00:00",
-    "score": 7,
-    "archived_at": "2026-09-19T04:54:54.560552+00:00"
-  },
-  {
-    "title": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-    "summary": "Internal emails and sworn testimony undercut OpenAI and Microsoft's fair use defense. A Microsoft director described the practice as the \"largest theft of labor in human history,\" while OpenAI's head of ChatGPT wrote that the products \"are largely substitutive, period.\" The article AI training built on fair use looks shaky when the companies&#039; ",
-    "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/",
-    "source": "The Decoder",
-    "published_at": "2026-09-18T15:27:29+00:00",
+    "published_at": "2026-09-19T10:37:04+00:00",
     "score": 6,
-    "archived_at": "2026-09-19T04:54:54.560552+00:00"
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
   },
   {
-    "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
-    "summary": "Experts from the US and China want to prevent AI systems from making autonomous decisions about deploying nuclear weapons. The article US and China experts push for shared rules banning AI control over nuclear weapons appeared first on The Decoder.",
-    "url": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/",
+    "title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
+    "summary": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components. Armed soldiers were ready, aircraft were in the air. The error was caught just before the operation kicked off. The incident plays right into the hands of AI risk advocates who worry ",
+    "url": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/",
     "source": "The Decoder",
-    "published_at": "2026-09-18T09:37:03+00:00",
+    "published_at": "2026-09-19T08:10:55+00:00",
     "score": 6,
-    "archived_at": "2026-09-19T04:54:54.560552+00:00"
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
   },
   {
-    "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-    "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
-    "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+    "title": "Join the WIRED World Fair in Miami on November 4",
+    "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+    "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
     "source": "Wired AI",
-    "published_at": "2026-09-18T15:00:00+00:00",
+    "published_at": "2026-09-19T09:00:00+00:00",
     "score": 5,
-    "archived_at": "2026-09-19T04:54:54.560552+00:00"
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
   },
   {
-    "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
-    "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
-    "url": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
-    "source": "Wired AI",
-    "published_at": "2026-09-18T13:30:00+00:00",
+    "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
+    "summary": "Unity has released official plugins for Claude Code and OpenAI's Codex. The article Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials appeared first on The Decoder.",
+    "url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
+    "source": "The Decoder",
+    "published_at": "2026-09-19T13:31:46+00:00",
     "score": 5,
-    "archived_at": "2026-09-19T04:54:54.560552+00:00"
-  },
-  {
-    "title": "The Leftist Split Over AI Doom",
-    "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
-    "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
-    "source": "Wired AI",
-    "published_at": "2026-09-18T10:15:00+00:00",
-    "score": 5,
-    "archived_at": "2026-09-19T04:54:54.560552+00:00"
-  },
-  {
-    "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-    "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-    "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-    "source": "Wired AI",
-    "published_at": "2026-09-18T09:15:00+00:00",
-    "score": 5,
-    "archived_at": "2026-09-19T04:54:54.560552+00:00"
-  },
-  {
-    "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-    "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-    "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-    "source": "Wired AI",
-    "published_at": "2026-09-18T09:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-09-19T04:54:54.560552+00:00"
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
   }
 ]

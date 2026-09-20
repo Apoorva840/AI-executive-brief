@@ -1,5 +1,59 @@
 [
   {
+    "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
+    "summary": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43. Only the search strategy adapts, while the underlying AI model stays unchanged. The article Google Deepmind&#039;s Dream-RS",
+    "url": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/",
+    "source": "The Decoder",
+    "published_at": "2026-09-19T11:08:06+00:00",
+    "score": 7,
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+  },
+  {
+    "title": "Google's Gemini also accidentally hacked three real companies during security testing",
+    "summary": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login credentials from public sources. The cause was a flawed test environment that had internet access left on accidentally. The same firm triggered similar breakouts at OpenAI, A",
+    "url": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
+    "source": "The Decoder",
+    "published_at": "2026-09-19T09:31:03+00:00",
+    "score": 7,
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+  },
+  {
+    "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
+    "summary": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers. That's only going to worsen existing quality problems with submissions and reviews. The article AI conference ICLR is drowning in ",
+    "url": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/",
+    "source": "The Decoder",
+    "published_at": "2026-09-19T10:37:04+00:00",
+    "score": 6,
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+  },
+  {
+    "title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
+    "summary": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components. Armed soldiers were ready, aircraft were in the air. The error was caught just before the operation kicked off. The incident plays right into the hands of AI risk advocates who worry ",
+    "url": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/",
+    "source": "The Decoder",
+    "published_at": "2026-09-19T08:10:55+00:00",
+    "score": 6,
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+  },
+  {
+    "title": "Join the WIRED World Fair in Miami on November 4",
+    "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+    "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+    "source": "Wired AI",
+    "published_at": "2026-09-19T09:00:00+00:00",
+    "score": 5,
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+  },
+  {
+    "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
+    "summary": "Unity has released official plugins for Claude Code and OpenAI's Codex. The article Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials appeared first on The Decoder.",
+    "url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
+    "source": "The Decoder",
+    "published_at": "2026-09-19T13:31:46+00:00",
+    "score": 5,
+    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+  },
+  {
     "title": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
     "summary": "AI models think out loud today, but Google Deepmind says that transparency is at risk. The article Visible chains of thought are a safety advantage for AI, but that transparency is slipping away appeared first on The Decoder.",
     "url": "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/",
@@ -2640,60 +2694,6 @@
     "title": "Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents",
     "summary": "arXiv:2608.21830v1 Announce Type: new Abstract: Graphical User Interface (GUI) agents powered by Multimodal Large Language Models (MLLMs) have shown strong potential for automating tasks across diverse digital environments, where reinforcement learning (RL) has become a dominant training paradigm. However, widely used methods such as Group Relative",
     "url": "https://arxiv.org/abs/2608.21830",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-08-26T02:16:21.197282+00:00"
-  },
-  {
-    "title": "SSDi8: Accurate and Efficient 8-bit Quantization for State Space Duality",
-    "summary": "arXiv:2608.21952v1 Announce Type: new Abstract: Recent advances in sequence modeling have highlighted Mamba as a state space architecture offering efficient long-range dependency modeling and providing a viable alternative to Transformers. Building upon this, Mamba-2 introduces the Structured State Space Duality (SSD), which integrates recurrent an",
-    "url": "https://arxiv.org/abs/2608.21952",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-08-26T02:16:21.197282+00:00"
-  },
-  {
-    "title": "MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning",
-    "summary": "arXiv:2608.22167v1 Announce Type: new Abstract: Reinforcement learning (RL) has become an effective way to improve the tool-use ability of large language models (LLMs), but most existing RL frameworks stop at the policy update. For every new domain, the user is left with two hard systems problems: standing up an isolated environment for each of hun",
-    "url": "https://arxiv.org/abs/2608.22167",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-08-26T02:16:21.197282+00:00"
-  },
-  {
-    "title": "Beyond What Meets the Eye: Unveiling Situational Illusions for Multimodal Large Language Models",
-    "summary": "arXiv:2608.22232v1 Announce Type: new Abstract: Real-world situation appearances can deviate from their underlying physical states, challenging the reliability of multimodal large language models (MLLMs) in practical applications. In this paper, we term this phenomenon situational illusions and investigate: (1) how MLLMs perform under such illusion",
-    "url": "https://arxiv.org/abs/2608.22232",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-08-26T02:16:21.197282+00:00"
-  },
-  {
-    "title": "Think with Structured Grounding: Perceptual Reinforcement Learning for Chart and Visual-Tabular Understanding",
-    "summary": "arXiv:2608.22429v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) capable of thinking with images often rely on external tools for fine-grained perception. However, this reliance introduces significant inference latency and fails to effectively resolve the spatial-structural gap-a fundamental challenge in text-dense and struc",
-    "url": "https://arxiv.org/abs/2608.22429",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-08-26T02:16:21.197282+00:00"
-  },
-  {
-    "title": "Small Reasoning Models are Instruction Followers in Function Calling",
-    "summary": "arXiv:2608.22472v1 Announce Type: new Abstract: Function calling represents the core capability of agentic large language models (LLMs). Existing research has focused on enhancing LLMs function-calling accuracy through fine-tuning, reinforcement learning (RL), and multi-agent frameworks, particularly for native function-calling LLMs. This work demo",
-    "url": "https://arxiv.org/abs/2608.22472",
-    "source": "Arxiv AI",
-    "published_at": "2026-08-25T04:00:00+00:00",
-    "score": 7,
-    "archived_at": "2026-08-26T02:16:21.197282+00:00"
-  },
-  {
-    "title": "Buried in Textual Debt: Context Pruning with Visual Evidence Preservation for MLLM Agents",
-    "summary": "arXiv:2608.22963v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) are increasingly deployed as multi-step agents, where explicit reasoning supports task decomposition and tool coordination but also accumulates self-generated text. Over long trajectories, this text can dominate the context and suppress visual evidence, creatin",
-    "url": "https://arxiv.org/abs/2608.22963",
     "source": "Arxiv AI",
     "published_at": "2026-08-25T04:00:00+00:00",
     "score": 7,
