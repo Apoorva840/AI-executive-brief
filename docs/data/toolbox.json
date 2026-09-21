@@ -1,26 +1,26 @@
 {
-    "last_updated": "September 20, 2026",
+    "last_updated": "September 21, 2026",
     "tools": [
         {
-            "Name": "Octop",
-            "Category": "AI Agent Platforms",
-            "Description": "A smarter, self-hosted AI assistant platform supporting multi-user, multi-agent architectures.",
-            "Use_Case": "Automating household and team tasks, providing private, local-first agent orchestration with IM and IDE integrations.",
-            "URL": "https://github.com/TencentCloud/Octop"
+            "Name": "MinerU",
+            "Category": "Document Processing",
+            "Description": "An open-source solution for precise document content extraction, transforming complex documents like PDFs and Office files into LLM-ready markdown/JSON.",
+            "Use_Case": "Extracting structured data from PDFs, scanned documents, and Office files for RAG pipelines or agentic workflows.",
+            "URL": "https://github.com/opendatalab/MinerU"
         },
         {
-            "Name": "SkillSpector",
-            "Category": "AI Security",
-            "Description": "A security scanner designed to detect vulnerabilities, malicious patterns, and risks in AI agent skills.",
-            "Use_Case": "Auditing and gating the installation of new AI agent skills to ensure security and prevent data exfiltration.",
-            "URL": "https://github.com/NVIDIA/SkillSpector"
+            "Name": "Browser-Use",
+            "Category": "Browser Automation",
+            "Description": "An open-source library that enables AI agents to navigate the web, perform tasks, and interact with websites like a human.",
+            "Use_Case": "Automating complex web tasks such as booking appointments, filling forms, and gathering data from sites that require interactivity.",
+            "URL": "https://github.com/browser-use/browser-use"
         },
         {
-            "Name": "GLiNER2",
-            "Category": "Information Extraction",
-            "Description": "A unified schema-based model for Named Entity Recognition, classification, and structured data extraction.",
-            "Use_Case": "Extracting entities, relations, and structured records from complex text using a flexible, schema-driven approach.",
-            "URL": "https://github.com/fastino-ai/GLiNER2"
+            "Name": "Mem0",
+            "Category": "AI Memory Layer",
+            "Description": "A persistent, intelligent memory layer for AI agents that remembers user preferences and adapts over time.",
+            "Use_Case": "Personalizing AI assistant interactions by retaining context, preferences, and history across multiple sessions.",
+            "URL": "https://github.com/mem0ai/mem0"
         }
     ]
 }

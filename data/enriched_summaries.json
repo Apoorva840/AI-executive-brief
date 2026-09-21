@@ -1,10 +1,10 @@
 [
   {
-    "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
-    "url": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
-    "source": "The Decoder",
+    "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
+    "url": "https://arxiv.org/abs/2609.19524",
+    "source": "Arxiv AI",
     "score": 8,
-    "what_happened": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or summarize movies. On audio-video benchmarks, it nearly matches Gemini 3.8 Flash at a fraction of the API cost. The article Qwen3.8-Omni-Flash undercuts Google&#039;s Gemini",
+    "what_happened": "arXiv:2609.19524v2 Announce Type: replace Abstract: Benchmark scores alone provide an incomplete basis for assessing the trustworthiness of modern artificial intelligence systems. Large language models (LLMs), agentic systems, and multimodal models (MLLMs) require different forms of assessment, yet their evaluation evidence must remain interpretabl",
     "technical_takeaway": null,
     "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
     "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
@@ -15,25 +15,26 @@
     "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
-    "url": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/",
+    "title": "Runway wants to turn AI video generation into a live stream you control in real time",
+    "url": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/",
     "source": "The Decoder",
     "score": 7,
-    "what_happened": "Leading AI models usually attempt dangerous tasks rather than refuse them when controlling a robot, according to the RoboHarm benchmark. GPT-6 Astra stabbed a baby doll in 17 of 20 trials, while Claude Fable 5.1 put a can of compressed air on a burning stove. None of the three models tested reliably rejected unsafe commands. The article GPT-6 Astra",
+    "what_happened": "Runway wants to stream AI video as users prompt it, rather than make them wait for finished clips. The approach builds on GWM-1, its world model that generates video frame by frame. Beyond creative tools, Runway sees uses in robotics and autonomous driving. The article Runway wants to turn AI video generation into a live stream you control in real",
     "technical_takeaway": null,
-    "primary_risk": "Marginal performance gains may not justify integration effort.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_risk": "Debugging complexity and cascading failures in agentic systems.",
+    "primary_opportunity": "End-to-end automation of complex cognitive workflows.",
     "who_should_care": [
-      "AI Professionals"
+      "CTOs",
+      "Engineering Leaders"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Agent orchestration is emerging as a new software abstraction layer."
   },
   {
-    "title": "Mathematicians Hate AI. They Can’t Quit It",
-    "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-    "source": "Wired AI",
-    "score": 6,
-    "what_happened": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+    "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
+    "url": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/",
+    "source": "The Decoder",
+    "score": 7,
+    "what_happened": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US economic output, rejects new regulation, and frames criticism of data centers as a left-wing attack. The article Trump announces &quot;AI Force&quot; and plans for an &quot;AI czar&quot; as he pus",
     "technical_takeaway": null,
     "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
     "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
@@ -44,32 +45,33 @@
     "technical_angle": "Hardware and energy constraints now shape model design decisions."
   },
   {
-    "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-    "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+    "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
     "source": "Wired AI",
     "score": 5,
-    "what_happened": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+    "what_happened": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
     "technical_takeaway": null,
     "primary_risk": "Risk of overfitting conclusions to narrow benchmarks.",
-    "primary_opportunity": "Practical improvements when layered onto existing AI workflows.",
+    "primary_opportunity": "Selective adoption in niche use cases with clear ROI.",
     "who_should_care": [
       "Policy Leaders",
       "Tech Strategists"
     ],
-    "technical_angle": "Adds empirical validation to approaches already used in production AI stacks."
+    "technical_angle": "Reinforces known techniques with modest refinements to existing methods."
   },
   {
-    "title": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
-    "url": "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/",
-    "source": "The Decoder",
-    "score": 7,
-    "what_happened": "AI models think out loud today, but Google Deepmind says that transparency is at risk. The article Visible chains of thought are a safety advantage for AI, but that transparency is slipping away appeared first on The Decoder.",
+    "title": "It’s Donald Trump Versus MAGA on Data Centers",
+    "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+    "source": "Wired AI",
+    "score": 5,
+    "what_happened": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
     "technical_takeaway": null,
-    "primary_risk": "Unclear production readiness despite promising early results.",
-    "primary_opportunity": "Foundation for future optimization rather than immediate disruption.",
+    "primary_risk": "Compute scaling limited by physical and energy infrastructure.",
+    "primary_opportunity": "Efficiency-driven architectures and workload-aware scheduling.",
     "who_should_care": [
-      "AI Professionals"
+      "AI Infrastructure Engineers",
+      "Sustainability Leaders"
     ],
-    "technical_angle": "Signals incremental evolution rather than a paradigm shift in current AI systems."
+    "technical_angle": "Hardware and energy constraints now shape model design decisions."
   }
 ]

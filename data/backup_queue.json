@@ -1,56 +1,137 @@
 [
   {
-    "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
-    "summary": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43. Only the search strategy adapts, while the underlying AI model stays unchanged. The article Google Deepmind&#039;s Dream-RS",
-    "url": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/",
-    "source": "The Decoder",
-    "published_at": "2026-09-19T11:08:06+00:00",
+    "title": "PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design",
+    "summary": "arXiv:2609.21493v1 Announce Type: new Abstract: Multimodal large language models, or MLLMs, perform well at visual understanding and structured generation, yet these capabilities do not establish whether an engineering design will work when executed. Existing benchmarks assess spatial reasoning, structural validity, or physics-grounded construction",
+    "url": "https://arxiv.org/abs/2609.21493",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
   },
   {
-    "title": "Google's Gemini also accidentally hacked three real companies during security testing",
-    "summary": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login credentials from public sources. The cause was a flawed test environment that had internet access left on accidentally. The same firm triggered similar breakouts at OpenAI, A",
-    "url": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
-    "source": "The Decoder",
-    "published_at": "2026-09-19T09:31:03+00:00",
+    "title": "From Memory to Behavior: A Behavior-Aware Role-Playing Framework for Social Media Influencers",
+    "summary": "arXiv:2609.21349v1 Announce Type: cross Abstract: Large language models have shown strong potential as role-playing agents for real individuals, yet faithful impersonating remains challenging. Existing in-context learning-based methods fail to capture how individuals react under different situations. In addition, LLM-based evaluation is difficult f",
+    "url": "https://arxiv.org/abs/2609.21349",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
     "score": 7,
-    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
   },
   {
-    "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
-    "summary": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers. That's only going to worsen existing quality problems with submissions and reviews. The article AI conference ICLR is drowning in ",
-    "url": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/",
-    "source": "The Decoder",
-    "published_at": "2026-09-19T10:37:04+00:00",
+    "title": "AgentVidBench: A Multi-Hop Video Question Answering Benchmark for Evaluating MLLM Agents",
+    "summary": "arXiv:2609.21386v1 Announce Type: cross Abstract: Comprehensive video understanding is crucial for advancing artificial intelligence toward the intricate dynamics of the physical world. While recent advances in Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabilities in video understanding, existing benchmarks remain confi",
+    "url": "https://arxiv.org/abs/2609.21386",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
+  },
+  {
+    "title": "Think Locally, Refine Globally for Memory-Efficient 3D Reconstruction",
+    "summary": "arXiv:2609.21437v1 Announce Type: cross Abstract: We propose LoG-VGGT, a memory-efficient framework for long-sequence 3D reconstruction that balances local temporal modeling with global camera consistency. Instead of relying on full global attention, our method introduces cross-window attention at a small subset of transformer blocks, enabling effe",
+    "url": "https://arxiv.org/abs/2609.21437",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
+  },
+  {
+    "title": "SynthDemo-RL: Breaking the Zero-Reward Barrier in VLA Adaptation with LLM-Guided Synthetic Demonstrations",
+    "summary": "arXiv:2609.21650v1 Announce Type: cross Abstract: Fine-tuning Vision-Language-Action (VLA) models commonly relies on human teleoperation demonstrations, while reinforcement learning (RL) with sparse binary rewards faces an exploration challenge when successful trajectories are rarely sampled. We propose SynthDemo-RL, a teacher-student framework in ",
+    "url": "https://arxiv.org/abs/2609.21650",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
+  },
+  {
+    "title": "PentestChain: A Cost-Aware, MCP-Orchestrated Framework for Automated Penetration Testing with Free-Tier LLMs",
+    "summary": "arXiv:2609.18120v2 Announce Type: replace-cross Abstract: AI-driven penetration testing has been demonstrated with premium frontier models such as GPT-4, but the per-engagement token cost makes continuous, automated testing unaffordable for the smaller organisations that need it most. This paper presents PentestChain, a ten-phase automated penetrat",
+    "url": "https://arxiv.org/abs/2609.18120",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "score": 7,
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
+  },
+  {
+    "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+    "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window o",
+    "url": "https://arxiv.org/abs/2609.20974",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
     "score": 6,
-    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
   },
   {
-    "title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
-    "summary": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components. Armed soldiers were ready, aircraft were in the air. The error was caught just before the operation kicked off. The incident plays right into the hands of AI risk advocates who worry ",
-    "url": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/",
-    "source": "The Decoder",
-    "published_at": "2026-09-19T08:10:55+00:00",
+    "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+    "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reaso",
+    "url": "https://arxiv.org/abs/2609.20981",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
     "score": 6,
-    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
   },
   {
-    "title": "Join the WIRED World Fair in Miami on November 4",
-    "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
-    "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-    "source": "Wired AI",
-    "published_at": "2026-09-19T09:00:00+00:00",
-    "score": 5,
-    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+    "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+    "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a th",
+    "url": "https://arxiv.org/abs/2609.21061",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
   },
   {
-    "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
-    "summary": "Unity has released official plugins for Claude Code and OpenAI's Codex. The article Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials appeared first on The Decoder.",
-    "url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
-    "source": "The Decoder",
-    "published_at": "2026-09-19T13:31:46+00:00",
-    "score": 5,
-    "archived_at": "2026-09-20T05:13:19.270458+00:00"
+    "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+    "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns a",
+    "url": "https://arxiv.org/abs/2609.21113",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
+  },
+  {
+    "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+    "summary": "arXiv:2609.21139v1 Announce Type: new Abstract: Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers. TinyCeNN-LM introduces a \\emph{quality-gated post-training conversion} framework using CeNN-inspired cellular-recurrent layers with bounded local pr",
+    "url": "https://arxiv.org/abs/2609.21139",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
+  },
+  {
+    "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+    "summary": "arXiv:2609.21157v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design better chips by leveraging higher-level abstractions. We compare Direct RTL Design, Agent-based HLS Design, Post-Compiler HLS Refine",
+    "url": "https://arxiv.org/abs/2609.21157",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
+  },
+  {
+    "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+    "summary": "arXiv:2609.21192v1 Announce Type: new Abstract: Organizations deploying agentic artificial intelligence must determine more than whether a model is trustworthy; they must establish what to validate, control, and observe for a use case to deliver its intended outcome while meeting applicable obligations. This paper proposes AI-GRACE (Agentic Intelli",
+    "url": "https://arxiv.org/abs/2609.21192",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
+  },
+  {
+    "title": "Offline Multimodal Large Language Models for Decision Support in Air Operations",
+    "summary": "arXiv:2609.21390v1 Announce Type: new Abstract: Air operations rely on complex rules, established procedures, and time-critical analysis under limited connectivity and strict security constraints. In such environments, analysts must combine written doctrine with images, often without access to external computing resources. This paper studies offlin",
+    "url": "https://arxiv.org/abs/2609.21390",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
+  },
+  {
+    "title": "GVPO++: Group Variance Policy Optimization for LLM Post-Training and On-Policy Distillation",
+    "summary": "arXiv:2609.21432v1 Announce Type: new Abstract: Post-training plays a pivotal role in enhancing the reasoning capabilities and task-specific expertise of large language models (LLMs). Despite recent advances in post-training methods, such as Group Relative Policy Optimization (GRPO), their practical deployment remains impeded by training instabilit",
+    "url": "https://arxiv.org/abs/2609.21432",
+    "source": "Arxiv AI",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "score": 6,
+    "archived_at": "2026-09-21T05:18:02.764004+00:00"
   }
 ]
